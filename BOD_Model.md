@@ -44,5 +44,5 @@ Specific surface area is surface area per volume. In order to change the specifi
 ##### Ideas for improvement
 
 
-### Flow Distribution
+### Flow Distributions
 An assumption of this model is that the entire volume of the trickling filter is being used. The team would also like to research whether this assumption is valid. The team believes that there may be unused volume fo the trickling filter that is not getting any flow because the water takes another path with less resistance. Therefore the team also conducted experiments to determine how flow is distributed. After these tests, the team determined how to use a packing material and filter design that utilizes all of the available space.  
