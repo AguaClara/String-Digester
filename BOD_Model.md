@@ -35,14 +35,15 @@ Specific surface area is surface area per volume. In order to change the specifi
 ##### Ideas for improvement
 * Strings!
 * Straws!
-* 
 * Sheets (Cross-flow)!
 * SBioBalls!
 * Six-pack plastic things!
 
 ### Increasing the $k_{20}$ Value
-
+There is a very little available research on $k_{20}$ values of different trickling filters. Most research reports just state the value for the filters they were testing.
 ##### Ideas for improvement
+* Using different cultures that are more effective at removing nitrogen and Phosphorus
+* Ensuring that aeration reaches all areas of the filter, therefore keeping the bacteria functioning at a high rate
 
 
 ### Flow Distributions
