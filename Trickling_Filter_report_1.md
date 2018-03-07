@@ -5,9 +5,9 @@
 # Template Description
 This template will lay out all possible sections that could be used for a research report and manual. All research reports and manuals should strive to comply with this template, but every team will use different parts. In order to use this template, copy this file from the AguaClara team resources repository to your team's repository, and rename it for your team in a format similar to  "[Team Name] [Semester]". An example would be "Filter and Treatment Train Flow Control Spring 2017." For additional information on all the possibilities in markdown files, refer to the AguaClara Interactive Tutorial and the AguaClara Tutorial training pages. After you complete that step, please delete this description and everything above this.
 
-# Team Name, Semester Year
-#### Authors
-#### Date
+# Trickling Filter, Spring 2018
+#### Jillian Whiting, Ben Gassaway, Rosie Krasnoff
+#### March 9th, 2018
 
 ## Abstract
 Briefly summarize your previous work, goals and objectives, what you have accomplished, and future work. (100 words max)
