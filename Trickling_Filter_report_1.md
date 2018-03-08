@@ -1,10 +1,3 @@
-# AguaClara Research Report & Manual Template
-#### Natalie Mottl, William Pennock, Janak Shah, and Jillian Whiting
-#### February 20, 2018
-
-# Template Description
-This template will lay out all possible sections that could be used for a research report and manual. All research reports and manuals should strive to comply with this template, but every team will use different parts. In order to use this template, copy this file from the AguaClara team resources repository to your team's repository, and rename it for your team in a format similar to  "[Team Name] [Semester]". An example would be "Filter and Treatment Train Flow Control Spring 2017." For additional information on all the possibilities in markdown files, refer to the AguaClara Interactive Tutorial and the AguaClara Tutorial training pages. After you complete that step, please delete this description and everything above this.
-
 # Trickling Filter, Spring 2018
 #### Jillian Whiting, Ben Gassaway, Rosie Krasnoff
 #### March 9th, 2018
@@ -15,8 +8,10 @@ Briefly summarize your previous work, goals and objectives, what you have accomp
 ## Introduction
 Explain how the completion of your challenge will affect AguaClara and the mission of providing safe drinking water (or sustainable wastewater treatment!). If this is a continuing team, how will your contribution build upon previous research? What needs to be further discovered or defined? If this is a new team, what prompted the inclusion of this team?
 
+The overall objective of the team is to first identify the primary issues in industrial-scale trickling filters. Using this information, the team aims to deploy both a disruptively efficient, non-mechanized trickling filter which can be adapted to serve the wastewater needs of a resource-scarce community.
+
 ## Literature Review and Previous Work
-Discuss what is already known about your research area based on both external work and that of past AguaClara Teams. Connect your objectives with what is already known and explain what additional contribution you intend to make. Make sure to add APA formatted in-text citations. If you mention the author(s) in your sentence, you can simply give the year of publication.[(Logan et. al. 1987)](http://www.jstor.org/stable/pdf/25043431.pdf?acceptTC=true)
+Discuss what is already known about your research area based on both external work and that of past AguaClara Teams. Connect your objectives with what is already known and explain what additional contribution you intend to make. Make sure to add APA formatted in-text citations. If you mention the author(s) in your sentence, you can simply give the year of publication.
 
 -------
 
@@ -34,9 +29,58 @@ The less common method of distribution, the fixed distribution systems, utilizes
 
 Unfortunately, these systems are also prone to clogging or blockage issues and similarly challenged by inconsistency of hydraulic load on the surface of the trickling filter. This is another area where there is huge potential for the team to increase the productivity of trickling filters. [(Sperling 2007)](https://www.iwapublishing.com/sites/default/files/ebooks/9781780402123.pdf)
 
+## Kinetics
+### BOD Kinetic Model
+The trickling filter will be used as the second treatment in series with a UASB reactor. The assumptions of the trickling filter team is that the majority of BOD will be removed by the UASB reactor. Therefore the trickling filter will be mostly removing nutrients (i.e. Nitrogen and Phosphorus). The team could not find consistent literature on a kinetic model for the removal of nitrogen or phosphorus. Therefore, we are using a BOD kinetic model with the assumption that nutrient removal would be proportional to BOD removal. The most common kinetic model for trickling filters is the modified Velz Equation.
+
+The modified Velz Equation from [Logan et. al. 1987](http://www.jstor.org/stable/pdf/25043431.pdf?acceptTC=true):
+
+$C_{out} =\frac{C_{in}}{(R+1)e^{\frac{k_{20}A_{s}H\theta^{T-20}}{Q_{i}(R+1)^{n}}}- R}$
+
+Where:
+* $C_{out}=$ The $BOD_{5}$ leaving the filter
+* $C_{in}=$ The $BOD_{5}$ entering the filter
+* $R=$  The recycle ratio defined as the ratio of recirculation flow to the plant influent flow
+* $k_{20}=$ The kinetic constant/treatability coefficient
+* $A_{s}=$ The specific surface area
+* $H=$ The filter height
+* $\theta=$ an empirical correction factor typically set equal to 1.035
+* $T=$ Temperature in degrees C
+* $Q_{i}=$ The flow before recycle divided by filter cross sectional area
+
+The team's preliminary design for the filter would not include any recycle, therefore the equation simplifies to:
+
+$C_{out} ={C_{in}}{e^{\frac{-k_{20}A_{s}H\theta^{T-20}}{Q_{i}^{n}}}}$
+
+The main points of improvement based on the kinetic model would be to increase the height/depth of the filter, increase the surface area, increase temperature, or increase the $k_{20}$ value.
+
+#### Increasing Temperature
+The teams assumption is that the wastewater treatment plants would be built outside without heating or air conditioning. Separately using an anaerobic digester to digest sludge and heat the filter would be an option that future teams could look into.
+
+#### Increasing Height/Depth of filter
+This is an area that could improve the performance of the trickling filter. The team is looking for a novel design that can make traditional filters more cost-effective. The team does not believe that there is a lot of room for improvement in just changing the height of the filter.
+
+#### Increasing the specific surface area
+Specific surface area is surface area per volume. In order to change the specific surface area of the filter the packing material must be changed. To increase specific surface area, the packing material must have more surface area for the same amount of volume. In many trickling filters in Honduras, the packing material is gravel or rocks. This leaves a lot of room for improvement of surface area. In the US, there has been a lot of research and development of new higher specific surface area packing materials. Many of these materials are very expensive and would not fit with AguaClara low-cost model. From these materials though the team can learn what properties improve filter performance and mimic them in a more cost effective material.  
+##### Ideas for improvement
+* Strings
+* Straws
+* Sheets (Cross-flow)
+* BioBalls
+* Six-pack plastic things
+
+#### Increasing the $k_{20}$ Value
+There is a very little available research on $k_{20}$ values of different trickling filters. Most research reports just state the value for the filters they were testing.
+##### Ideas for improvement
+* Using different cultures that are more effective at removing nitrogen and Phosphorus
+* Ensuring that aeration reaches all areas of the filter, therefore keeping the bacteria functioning at a high rate
 
 
-## Observations
+#### Flow Distributions
+An assumption of this model is that the entire volume of the trickling filter is being used. The team would also like to research whether this assumption is valid. The team believes that there may be unused volume fo the trickling filter that is not getting any flow because the water takes another path with less resistance. Therefore the team also conducted experiments to determine how flow is distributed. After these tests, the team determined how to use a packing material and filter design that utilizes all of the available space.  
+
+
+## Case Study: Cayuga Heights Trickling Filter Observations
 The team had the opportunity to visit the Cayuga Heights wastewater treatment plant and observe a trickling filter first-hand. It was a very informative visit, and the team was dismayed at the state of the plant and the many issues it was experiencing, especially with the trickling filters. There were two trickling filters at the plant, both of which had substantial debris (clumps of organic material, trash) on top of filter; the plant manager stated that the cause was likely a failure of the bar screen that should have removed such debris when the water initially enters the plant the plant and the inefficiency of the settling tanks, which the wastewater travels through immediately before the trickling filters.
 
 The team also observed that the distribution arms were failing to cover the surface of the filter with water and there was a significant portion of the tank surface that was getting little to no water on it. The regions that were most noticeably dry were the edges of the tank and an area a couple feet from the center of the base of the distributor arms. There was also a pattern of discoloration on the top of the filter, which seemed to be caused by the substantial organic matter coming through, that suggested that even the portion of the filter’s surface that was getting watered was not getting watered equally, and that there was build up of the organic matter that was getting more water.
@@ -44,6 +88,15 @@ The team also observed that the distribution arms were failing to cover the surf
 There was leakage from the base of the distributor arm on both trickling filters. One had very substantial leakage and a large fraction of the water was just spraying out of the center to only a foot or two away. The plant manager said that the seal connecting the pipe and distributor arm had broken and was going to be replaced. The volume of water going through the filter in the area around the base of the distributor arm was very high and the team would expect that the level of treatment for that wastewater is very low, if not non-existent, because of how high the hydraulic loading must be.
 
 The team’s visit to the wastewater treatment plant made obvious that there is tremendous room for innovation and improvement of trickling filter technology.
+
+### Nitrogen Kinetic Models
+The EPA has complied information from many trickling filters across the US that are used for nitrification. They found that bacteria that preform nitrification, usually Nitrosomonas and Nitrobacter, cannot compete against the BOD removing heterotrophs when the BOD levels are high. The EPA suggests that BOD levels be below $20 \frac{mg}{L}$, with the optimal value of $10 \frac{mg}{L}$. The chemical reactions that the nitrifying bacteria are performing are:
+
+$NH_{4}^{+}  + 1.5 O_{2} \rightarrow NO_{2}^{-} + 2H^{+} +  H_{2}O$
+
+$NO_{2}^{-}  + 0.5 O_{2} \rightarrow NO_{3}^{-}$.
+
+When the EPA report was written no kinetic model had been derived for nitrification in trickling filters; however, they found four main parameters that removal was based on: low organic loadings, high residence times, sufficient oxygen availability, and consistency in hydraulic, organic, and ammonia loadings. Duddles et. al. 19074 found that nitrification rate is directly proportional to specific surface area. 
 
 
 ## Methods
@@ -103,6 +156,9 @@ Describe your plan of action for the next several weeks of research. Detail the 
 
 ## Bibliography
 Logan, B. E., Hermanowicz, S. W., & Parker,A. S. (1987). A Fundamental Model for Trickling Filter Process Design. Journal (Water Pollution Control Federation), 59(12), 1029–1042.
+
+Tchobanoglous, G., F. Burton, H. D. Stensel (2003) *Wastewater Engineering: Treatment and Reuse*. New York, NY: McGraw-Hill
+
 
 # Manual
 The goal of this section is to provide all of the guidance that would be necessary for a future team to pick up your work where you left off. Please try to be thorough and put yourselves in the shoes of a newcomer to the project. Below are some recommended sections, but the manual will likely take a slightly different form for each team.
