@@ -18,6 +18,29 @@ Explain how the completion of your challenge will affect AguaClara and the missi
 ## Literature Review and Previous Work
 Discuss what is already known about your research area based on both external work and that of past AguaClara Teams. Connect your objectives with what is already known and explain what additional contribution you intend to make. Make sure to add APA formatted in-text citations. If you mention the author(s) in your sentence, you can simply give the year of publication.[(Logan et. al. 1987)](http://www.jstor.org/stable/pdf/25043431.pdf?acceptTC=true)
 
+-------
+
+There is significant documentation of problems plant operators experienced when dealing with trickling filters. Some of the issues, while important to take into consideration when implementing trickling filters, may not offer much room in terms of what improvements the team can make. Problems include: the development of slug populations in the trickling filters, which can remove the layer of biofilm and harm the nitrifying bacteria population, thereby negatively impacting the systems performance and plug the channels of the system; filter flies, whose presence suggests a lack of moisture throughout the filter; and foul odors, which can indicate an increasing level of anaerobic reactions or accumulating sloughed-off biomass in the filter media.
+
+Some of these previously mentioned problems (biomass sloughing and insect and slug presence in filters) contribute to clogging and ponding in filters. Current solutions include “flashing with low doses of chlorine to remove deposited solids and kill excess biomass” or periodic flooding. The team aims to address these issues by developing a new trickling media that has a lower tendency to experience clogging or ponding.
+
+There can be issues with variations in temperature: biofilm thickness changes seasonally and can be low quality and uneven in cold temperatures. In freezing weather, formation of ice can cause clogging and therefore structural damage to the trickling media. These are probably not major concerns for plants in equatorial regions, and so while important to note, will not be a focus for the team at this point.
+
+ Ali et al. states that the most common problem in trickling filters is uncontrolled sloughing, which is often caused by uneven hydraulic loading rates. This can be particularly problematic after storm events when flooding results in very high hydraulic loading. It can also be caused by clogging and uneven distribution of the influent. [ (Ali et al. 2017)](http://www.pjoes.com/pdf/26.6/Pol.J.Environ.Stud.Vol.26.No.6.2431-2444.pdf) There is potential for the development of a much-improved distribution system that could help to alleviate this problem.
+
+
+
+
+
+## Practical Observations
+The team had the opportunity to visit the Cayuga Heights wastewater treatment plant and observe a trickling filter first hand. It was a very informative visit, and the team was dismayed at the state of the plant and the many issues it was experiencing, especially with the trickling filters. There were two trickling filters at the plant, both of which had substantial debris (clumps of organic material, trash) on top of filter; the plant manager stated that the cause was likely a failure of the bar screen that should have removed such debris when the water initially enters the plant the plant and the inefficiency of the settling tanks, which the wastewater travels through immediately before the trickling filters.
+
+The team also observed that the distribution arms were failing to cover the surface of the filter with water and there was a significant portion of the tank surface that was getting little to no water on it. The regions that were most noticeably dry were the edges of the tank and an area a couple feet from the center of the base of the distributor arms. There was also a pattern of discoloration on the top of the filter, which seemed to be caused by the substantial organic matter coming through, that suggested that even the portion of the filter’s surface that was getting watered was not getting watered equally, and that there was build up of the organic matter that was getting more water.
+
+There was leakage from the base of the distributor arm on both trickling filters. One had very substantial leakage and a large fraction of the water was just spraying out of the center to only a foot or two away. The plant manager said that the seal connecting the pipe and distributor arm had broken and was going to be replaced. The volume of water going through the filter in the area around the base of the distributor arm was very high and the team would expect that the level of treatment for that wastewater is very low, if not non-existent, because of how high the hydraulic loading must be.
+
+The team’s visit to the wastewater treatment plant made obvious that there is tremendous room for innovation and improvement of trickling filter technology.
+
 
 ## Methods
 Explain the techniques you have used to acquire additional data and insights. Reserve fine detail for the Manual at the end of the report, but use this section to give an overview with enough detail for the reader to understand your Results and Analysis. Describe your apparatus, and have a justification for every decision you made and every parameter you chose in the design of the apparatus. Be especially careful to detail the conditions your experiments were conducted under, as this information is especially important for interpreting your results
