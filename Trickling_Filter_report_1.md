@@ -5,6 +5,8 @@
 ## Abstract
 Briefly summarize your previous work, goals and objectives, what you have accomplished, and future work. (100 words max)
 
+This was the first semester of a trickling filter subteam, therefore the direction of the team's research was derived independently. The goals for this semester were to identify problems with trickling filters in industry whilst developing robust kinematic models such to enable future subteams to employ novel trickling filter applications. This semester was expected to be driven primarily by literature research, but the team has begun construction for a benchtop experiment in preliminary hydraulic modeling through the filter media.
+
 ## Introduction
 Explain how the completion of your challenge will affect AguaClara and the mission of providing safe drinking water (or sustainable wastewater treatment!). If this is a continuing team, how will your contribution build upon previous research? What needs to be further discovered or defined? If this is a new team, what prompted the inclusion of this team?
 
@@ -96,7 +98,7 @@ $NH_{4}^{+}  + 1.5 O_{2} \rightarrow NO_{2}^{-} + 2H^{+} +  H_{2}O$
 
 $NO_{2}^{-}  + 0.5 O_{2} \rightarrow NO_{3}^{-}$.
 
-When the EPA report was written no kinetic model had been derived for nitrification in trickling filters; however, they found four main parameters that removal was based on: low organic loadings, high residence times, sufficient oxygen availability, and consistency in hydraulic, organic, and ammonia loadings. Duddles et. al. 19074 found that nitrification rate is directly proportional to specific surface area. 
+When the EPA report was written no kinetic model had been derived for nitrification in trickling filters; however, they found four main parameters that removal was based on: low organic loadings, high residence times, sufficient oxygen availability, and consistency in hydraulic, organic, and ammonia loadings. Duddles et. al. 19074 found that nitrification rate is directly proportional to specific surface area.
 
 
 ## Methods
