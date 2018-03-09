@@ -81,6 +81,28 @@ There is a very little available research on $k_{20}$ values of different trickl
 #### Flow Distributions
 An assumption of this model is that the entire volume of the trickling filter is being used. The team would also like to research whether this assumption is valid. The team believes that there may be unused volume fo the trickling filter that is not getting any flow because the water takes another path with less resistance. Therefore the team also conducted experiments to determine how flow is distributed. After these tests, the team determined how to use a packing material and filter design that utilizes all of the available space.  
 
+## Design Parameters
+### Packing Material properties
+
+| Material |Nominal Size (cm) |Surface Area (m^2/m^3)| Void Space (%) | Application |
+| --- | --- | --- | --- | --- |--- | --- |
+|  Rock (small)   |   2.5-7.5  |  60   |  50   |  N   |
+|  Rock (large)  |  10-13   |   45  |  60   |   C, CN, N  |
+|  Plastic -- Conventional   |   61 x 61 x 122  |   90  |  >95   |   C, CN, N  |
+|  Plastic -- High Specific Surface Area  |  61 x 61 x 122   |   140  |   >94  |  N   |
+|  Rock (small)   |  Varies   |   98  |   80  |   C, CN, N  |
+|  Rock (small)   |  Varies   |   150  |  70   |  N   |
+
+### Rotary Distributor Arms
+
+$n = \frac{(1 + R)(q)(10^3 mm/m)}{(A)(DR)(60 min/h)}$
+
+* n = rotational speed, rev/min
+* q = influent applied hydraulic loading rate, $\scriptsize\textrm{m^3/m^2*h}$
+* R = recycle ratio
+* A = number of arms in rotary distributor assembly
+* DR = dosing rate, mm/pass of distributor arm
+
 
 ## Case Study: Cayuga Heights Trickling Filter Observations
 The team had the opportunity to visit the Cayuga Heights wastewater treatment plant and observe a trickling filter first-hand. It was a very informative visit, and the team was dismayed at the state of the plant and the many issues it was experiencing, especially with the trickling filters. There were two trickling filters at the plant, both of which had substantial debris (clumps of organic material, trash) on top of filter; the plant manager stated that the cause was likely a failure of the bar screen that should have removed such debris when the water initially enters the plant the plant and the inefficiency of the settling tanks, which the wastewater travels through immediately before the trickling filters.
