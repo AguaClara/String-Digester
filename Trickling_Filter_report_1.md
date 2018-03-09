@@ -9,13 +9,15 @@ This was the first semester of a trickling filter subteam, therefore the directi
 ## Introduction
 Explain how the completion of your challenge will affect AguaClara and the mission of providing safe drinking water (or sustainable wastewater treatment!). If this is a continuing team, how will your contribution build upon previous research? What needs to be further discovered or defined? If this is a new team, what prompted the inclusion of this team?
 
-The creation of the trickling filter subteam was prompted by the need for further treatment of wastewater following UASB treatment. The overall objective is to first identify the primary issues in industrial-scale trickling filters. Using this information, the team aims to deploy both a disruptively efficient, non-mechanized trickling filter which can be adapted to serve the wastewater needs of a resource-scarce community. The team's primary aim is to assess the feasibility of the inclusion of a trickling filter in a future AguaClara wastewater treatment plant. 
+The creation of the trickling filter subteam was prompted by the need for further treatment of wastewater following UASB treatment. UASB treatment can do very well treating BOD, but there is a lot of nutrient pollution in the wastewater in Honduras. The overall objective is to first identify the primary issues in industrial-scale trickling filters. Using this information, the team aims to deploy both a disruptively efficient, non-mechanized trickling filter which can be adapted to serve the wastewater needs of a resource-scarce community. The team's primary aim is to assess the feasibility of the inclusion of a trickling filter in a future AguaClara wastewater treatment plant.
+
+Trickling filter research boomed in the 1970's and 1980's but declined rapidly after that time. The wastewater research switched to more active methods of treatment like activated sludge; however, passive treatments like trickling filters have low energy requirements if any. In terms of nutrient pollution control there is little research on trickling filters as the interest in nutrient removal research peaked after interest in trickling filters. The team believes that there is still a lot of progress to be made in trickling filter research and they believe that significant technological improvements could be developed.
 
 ## Literature Review
 Discuss what is already known about your research area based on both external work and that of past AguaClara Teams. Connect your objectives with what is already known and explain what additional contribution you intend to make. Make sure to add APA formatted in-text citations. If you mention the author(s) in your sentence, you can simply give the year of publication.
 
 -------
-
+#### Trickling Filter Operational Difficulties
 There is significant documentation of problems plant operators experienced when dealing with trickling filters. Some of the issues, while important to take into consideration when implementing trickling filters, may not offer much room in terms of what improvements the team can make. Problems include: the development of slug populations in the trickling filters, which can remove the layer of biofilm and harm the nitrifying bacteria population, thereby negatively impacting the systems performance and plug the channels of the system; filter flies, whose presence suggests a lack of moisture throughout the filter; and foul odors, which can indicate an increasing level of anaerobic reactions or accumulating sloughed-off biomass in the filter media.
 
 Some of these previously mentioned problems (biomass sloughing and insect and slug presence in filters) contribute to clogging and ponding in filters. Current solutions include “flashing with low doses of chlorine to remove deposited solids and kill excess biomass” or periodic flooding. The team aims to address these issues by developing a new trickling media that has a lower tendency to experience clogging or ponding.
@@ -30,9 +32,9 @@ The less common method of distribution, the fixed distribution systems, utilizes
 
 Unfortunately, these systems are also prone to clogging or blockage issues and similarly challenged by inconsistency of hydraulic load on the surface of the trickling filter. This is another area where there is huge potential for the team to increase the productivity of trickling filters. [(Sperling 2007)](https://www.iwapublishing.com/sites/default/files/ebooks/9781780402123.pdf)
 
-## Kinetics
+### Kinetics
 ### BOD Kinetic Model
-The trickling filter will be used as the second treatment in series with a UASB reactor. The assumptions of the trickling filter team is that the majority of BOD will be removed by the UASB reactor. Therefore the trickling filter will be mostly removing nutrients (i.e. Nitrogen and Phosphorus). The team could not find consistent literature on a kinetic model for the removal of nitrogen or phosphorus. Therefore, we are using a BOD kinetic model with the assumption that nutrient removal would be proportional to BOD removal. The most common kinetic model for trickling filters is the modified Velz Equation.
+ The assumptions of the trickling filter team is that the majority of BOD will be removed by the UASB reactor. Therefore the trickling filter will be mostly removing nutrients (i.e. Nitrogen and Phosphorus). The team could not find consistent literature on a kinetic model for the removal of nitrogen or phosphorus. Therefore, we are using a common BOD kinetic model with the assumption that nutrient removal would be proportional to BOD removal. The most common kinetic model for trickling filters is the modified Velz Equation.
 
 The modified Velz Equation from [Logan et. al. 1987](http://www.jstor.org/stable/pdf/25043431.pdf?acceptTC=true):
 
@@ -64,11 +66,12 @@ This is an area that could improve the performance of the trickling filter. The 
 #### Increasing the specific surface area
 Specific surface area is surface area per volume. In order to change the specific surface area of the filter the packing material must be changed. To increase specific surface area, the packing material must have more surface area for the same amount of volume. In many trickling filters in Honduras, the packing material is gravel or rocks. This leaves a lot of room for improvement of surface area. In the US, there has been a lot of research and development of new higher specific surface area packing materials. Many of these materials are very expensive and would not fit with AguaClara low-cost model. From these materials though the team can learn what properties improve filter performance and mimic them in a more cost effective material.  
 ##### Ideas for improvement
+The team's idea for improvement of specific surface are would be a novel geometry and material combination.
 * Strings
 * Straws
-* Sheets (Cross-flow)
+* Sheets
 * BioBalls
-* Six-pack plastic things
+* Six-pack plastic holder recycling
 
 #### Increasing the $k_{20}$ Value
 There is a very little available research on $k_{20}$ values of different trickling filters. Most research reports just state the value for the filters they were testing.
@@ -113,11 +116,11 @@ There was leakage from the base of the distributor arm on both trickling filters
 The team’s visit to the wastewater treatment plant made obvious that there is tremendous room for innovation and improvement of trickling filter technology.
 
 
-![CH Trickling Filter Surface](https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/CHFT%20filter%20surface.jpg?raw=true)
-The surface of the trickling filter with significant debris and discoloration.
+![Figure 1](https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/CHFT%20filter%20surface.jpg?raw=true)
+Figure 1: The surface of the trickling filter with significant debris and discoloration.
 
-![CH Trickling Filter distribution](https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/CHTF%20distribution%20arm.png?raw=true)
-Distribution arms failed to entirely cover the surface of the trickling filter and there was leakage from the base in the center.
+![Figure 2](https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/CHTF%20distribution%20arm.png?raw=true)
+Figure 2: Distribution arms failed to entirely cover the surface of the trickling filter and there was leakage from the base in the center.
 
 
 ### Nitrogen Kinetic Models
@@ -128,7 +131,24 @@ $NH_{4}^{+}  + 1.5 O_{2} \rightarrow NO_{2}^{-} + 2H^{+} +  H_{2}O$
 $NO_{2}^{-}  + 0.5 O_{2} \rightarrow NO_{3}^{-}$.
 
 When the EPA report was written no kinetic model had been derived for nitrification in trickling filters; however, they found four main parameters that removal was based on: low organic loadings, high residence times, sufficient oxygen availability, and consistency in hydraulic, organic, and ammonia loadings [(US EPA, 1991)](https://nepis.epa.gov/Exe/ZyPDF.cgi/P1004T3S.PDF?Dockey=P1004T3S.PDF). [Duddles et. al., 1974](https://www.jstor.org/stable/pdf/25038735.pdf?refreqid=excelsior%3A134b4fcdcce29130f630db8059aa3119) found that nitrification rate is directly proportional to specific surface area. [Gullicks and Cleasby, 1986](http://www.jstor.org/stable/pdf/25042842.pdf?refreqid=excelsior%3Ad9da82b9b851c3d02a23339cd5f0f45d) found that the mass transfer rate of the biofilm can be increased in two ways: increasing temperature and increasing ammonia concentration. From theses reports the team's earlier assumption the parameters affecting BOD removal are similar to those affecting nitrification is valid.
-The team also found another factor that effected nitrification rate which is oxygen availability [(Okey and Albertson 1989)](http://www.jstor.org/stable/25046965). There are two regimes of the nitrogen kinetic equation. When oxygen is limited, it is a zero-order kinetic model with respect to ammonia and half order with respect to oxygen. When oxygen is plentiful, it is a first order model with respect to ammonia.
+The team also found another factor that effected nitrification rate which is oxygen availability [(Okey and Albertson 1989)](http://www.jstor.org/stable/25046965). There are two regimes of the nitrogen kinetic equation. When oxygen is limited, it is a zero-order kinetic model with respect to ammonia and half order with respect to oxygen. When oxygen is plentiful, it is a first order model with respect to ammonia. The removal equation found was as:
+
+$\left(NH_{4}-N\right)_{R} = \frac{K_{ao}S_{o}^{0.5}A_{trans}}{Q} + \left(NH_{4}-N\right)_{trans}\left(1-e^{-K_{n}L}\right)$
+* $\left(NH_{4}-N\right)_{R} = NH_{4}-N$ concentration removed, $\frac{g}{m^{3}}$
+* $S_{o} =$ bulk phase oxygen concentration, $\frac{g}{m^{3}}$
+* $K_{ao} =$ constant that contains diffusivity of and stoichiometric requirement for oxygen, $\frac{g^{0.5}d}{m^{0.5}}$
+  - $K_{ao,max} = 3.8$
+* $A_{trans} =$ Media surface to transition, $m^{2}$
+* $Q =$ flow rate, $\frac{m^{3}}{d}$
+* $\left(NH_{4}-N\right)_{trans} =$ The $NH_{4}-N$ concentration at the transition from oxygen control to $NH_{4}-N$ control, $\frac{g}{m^{3}}$
+* $K_{n} =$ first-order constant, $m^{-1}$
+* $L =$ first order depth term, $m$
+
+Therefore compared to the team's improvement based on the BOD kinetic model, an additional parameter is oxygen concentration.
+
+#### Ideas for improvements
+The team incorporated the need for airflow into their brainstorming of a novel geometry. In developing this novel geometry, the spacing between our media for the biofilm to grow on should be greater than adhesion and cohesion of water particles can withstand.
+
 
 
 ## Methods
