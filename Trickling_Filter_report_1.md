@@ -7,16 +7,13 @@
 This was the first semester of a trickling filter subteam, therefore the direction of the team's research was derived independently. The goals for this semester were to identify problems with trickling filters in industry whilst developing robust kinematic models such to enable future subteams to employ novel trickling filter applications. This semester was expected to be driven primarily by literature research, but the team has begun construction for a benchtop experiment in preliminary hydraulic modeling through the filter media.
 
 ## Introduction
-Explain how the completion of your challenge will affect AguaClara and the mission of providing safe drinking water (or sustainable wastewater treatment!). If this is a continuing team, how will your contribution build upon previous research? What needs to be further discovered or defined? If this is a new team, what prompted the inclusion of this team?
 
 The creation of the trickling filter subteam was prompted by the need for further treatment of wastewater following UASB treatment. UASB treatment can do very well treating BOD, but there is a lot of nutrient pollution in the wastewater in Honduras. The overall objective is to first identify the primary issues in industrial-scale trickling filters. Using this information, the team aims to deploy both a disruptively efficient, non-mechanized trickling filter which can be adapted to serve the wastewater needs of a resource-scarce community. The team's primary aim is to assess the feasibility of the inclusion of a trickling filter in a future AguaClara wastewater treatment plant.
 
 Trickling filter research boomed in the 1970's and 1980's but declined rapidly after that time. The wastewater research switched to more active methods of treatment like activated sludge; however, passive treatments like trickling filters have low energy requirements if any. In terms of nutrient pollution control there is little research on trickling filters as the interest in nutrient removal research peaked after interest in trickling filters. The team believes that there is still a lot of progress to be made in trickling filter research and they believe that significant technological improvements could be developed.
 
 ## Literature Review
-Discuss what is already known about your research area based on both external work and that of past AguaClara Teams. Connect your objectives with what is already known and explain what additional contribution you intend to make. Make sure to add APA formatted in-text citations. If you mention the author(s) in your sentence, you can simply give the year of publication.
 
--------
 #### Trickling Filter Operational Difficulties
 There is significant documentation of problems plant operators experienced when dealing with trickling filters. Some of the issues, while important to take into consideration when implementing trickling filters, may not offer much room in terms of what improvements the team can make. Problems include: the development of slug populations in the trickling filters, which can remove the layer of biofilm and harm the nitrifying bacteria population, thereby negatively impacting the systems performance and plug the channels of the system; filter flies, whose presence suggests a lack of moisture throughout the filter; and foul odors, which can indicate an increasing level of anaerobic reactions or accumulating sloughed-off biomass in the filter media.
 
@@ -24,9 +21,9 @@ Some of these previously mentioned problems (biomass sloughing and insect and sl
 
 There can be issues with variations in temperature: biofilm thickness changes seasonally and can be low quality and uneven in cold temperatures. In freezing weather, formation of ice can cause clogging and therefore structural damage to the trickling media. These are probably not major concerns for plants in equatorial regions, and so while important to note, will not be a focus for the team at this point.
 
- Ali et al. states that the most common problem in trickling filters is uncontrolled sloughing, which is often caused by uneven hydraulic loading rates. This can be particularly problematic after storm events when flooding results in very high hydraulic loading. It can also be caused by clogging and uneven distribution of the influent. [(Ali et al. 2017)](http://www.pjoes.com/pdf/26.6/Pol.J.Environ.Stud.Vol.26.No.6.2431-2444.pdf) There is potential for the development of a much-improved distribution system that could help to alleviate this problem.
+ Ali et al. states that the most common problem in trickling filters is uncontrolled sloughing, which is often caused by uneven hydraulic loading rates. This can be particularly problematic after storm events when flooding results in very high hydraulic loading. It can also be caused by clogging and uneven distribution of the influent [(Ali et al. 2017).](http://www.pjoes.com/pdf/26.6/Pol.J.Environ.Stud.Vol.26.No.6.2431-2444.pdf) There is potential for the development of a much-improved distribution system that could help to alleviate this problem.
 
- Proper distribution is crucial and can optimize efficiency of treatment. The most common method of distribution is rotating distributors, but after seeing the problems with them at the Cayuga Heights wastewater treatment plant (see following section for details), the team was interested in learning more about other methods that might require less maintenance or be less prone to failure.
+ Proper distribution is crucial and can optimize efficiency of treatment. The most common method of distribution is rotating distributors, but after seeing the problems with them at the Cayuga Heights wastewater treatment plant (see Case Study section for details), the team was interested in learning more about other methods that might require less maintenance or be less prone to failure.
 
 The less common method of distribution, the fixed distribution systems, utilizes lateral and main distribution pipes, which are placed just above the medium, spaced to give uniform distribution of water. They generally have nozzles with a circular hole and a deflector. They are more commonly used with intermittent dosing, and so flow from the system varies; it starts at a maximum and lowers as the tank empties. Currently, fixed distribution systems are mostly used in deep filter and biotowers.
 
@@ -83,46 +80,6 @@ There is a very little available research on $k_{20}$ values of different trickl
 #### Flow Distributions
 An assumption of this model is that the entire volume of the trickling filter is being used. The team would also like to research whether this assumption is valid. The team believes that there may be unused volume fo the trickling filter that is not getting any flow because the water takes another path with less resistance. Therefore the team also conducted experiments to determine how flow is distributed. After these tests, the team determined how to use a packing material and filter design that utilizes all of the available space.  
 
-## Design Parameters
-### Packing Material properties
-
-| Material |Nominal Size (cm) |Surface Area (m^2/m^3)| Void Space (%) | Application |
-| --- | --- | --- | --- | --- |--- | --- |
-|  Rock (small)   |   2.5-7.5  |  60   |  50   |  N   |
-|  Rock (large)  |  10-13   |   45  |  60   |   C, CN, N  |
-|  Plastic -- Conventional   |   61 x 61 x 122  |   90  |  >95   |   C, CN, N  |
-|  Plastic -- High Specific Surface Area  |  61 x 61 x 122   |   140  |   >94  |  N   |
-|  Rock (small)   |  Varies   |   98  |   80  |   C, CN, N  |
-|  Rock (small)   |  Varies   |   150  |  70   |  N   |
-
-### Rotary Distributor Arms
-
-$n = \frac{(1 + R)(q)(10^3 mm/m)}{(A)(DR)(60 min/h)}$
-
-* n = rotational speed, rev/min
-* q = influent applied hydraulic loading rate, $\scriptsize\textrm{m^3/m^2*h}$
-* R = recycle ratio
-* A = number of arms in rotary distributor assembly
-* DR = dosing rate, mm/pass of distributor arm
-
-
-## Case Study: Cayuga Heights Trickling Filter Observations
-The team had the opportunity to visit the Cayuga Heights wastewater treatment plant and observe a trickling filter first-hand. It was a very informative visit, and the team was dismayed at the state of the plant and the many issues it was experiencing, especially with the trickling filters. There were two trickling filters at the plant, both of which had substantial debris (clumps of organic material, trash) on top of filter; the plant manager stated that the cause was likely a failure of the bar screen that should have removed such debris when the water initially enters the plant the plant and the inefficiency of the settling tanks, which the wastewater travels through immediately before the trickling filters.
-
-The team also observed that the distribution arms were failing to cover the surface of the filter with water and there was a significant portion of the tank surface that was getting little to no water on it. The regions that were most noticeably dry were the edges of the tank and an area a couple feet from the center of the base of the distributor arms. There was also a pattern of discoloration on the top of the filter, which seemed to be caused by the substantial organic matter coming through, that suggested that even the portion of the filter’s surface that was getting watered was not getting watered equally, and that there was build up of the organic matter that was getting more water.
-
-There was leakage from the base of the distributor arm on both trickling filters. One had very substantial leakage and a large fraction of the water was just spraying out of the center to only a foot or two away. The plant manager said that the seal connecting the pipe and distributor arm had broken and was going to be replaced. The volume of water going through the filter in the area around the base of the distributor arm was very high and the team would expect that the level of treatment for that wastewater is very low, if not non-existent, because of how high the hydraulic loading must be.
-
-The team’s visit to the wastewater treatment plant made obvious that there is tremendous room for innovation and improvement of trickling filter technology.
-
-
-![Figure 1](https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/CHFT%20filter%20surface.jpg?raw=true)
-Figure 1: The surface of the trickling filter with significant debris and discoloration.
-
-![Figure 2](https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/CHTF%20distribution%20arm.png?raw=true)
-Figure 2: Distribution arms failed to entirely cover the surface of the trickling filter and there was leakage from the base in the center.
-
-
 ### Nitrogen Kinetic Models
 The EPA has complied information from many trickling filters across the US that are used for nitrification. They found that bacteria that preform nitrification, usually Nitrosomonas and Nitrobacter, cannot compete against the BOD removing heterotrophs when the BOD levels are high. The EPA suggests that BOD levels be below $20 \frac{mg}{L}$, with the optimal value of $10 \frac{mg}{L}$. The chemical reactions that the nitrifying bacteria are performing are:
 
@@ -148,6 +105,49 @@ Therefore compared to the team's improvement based on the BOD kinetic model, an 
 
 #### Ideas for improvements
 The team incorporated the need for airflow into their brainstorming of a novel geometry. In developing this novel geometry, the spacing between our media for the biofilm to grow on should be greater than adhesion and cohesion of water particles can withstand.
+
+
+
+## Design Parameters
+### Packing Material properties
+
+| Material |Nominal Size (cm) |Surface Area (m^2/m^3)| Void Space (%) | Application |
+| --- | --- | --- | --- | --- |--- | --- |
+|  Rock (small)   |   2.5-7.5  |  60   |  50   |  N   |
+|  Rock (large)  |  10-13   |   45  |  60   |   C, CN, N  |
+|  Plastic -- Conventional   |   61 x 61 x 122  |   90  |  >95   |   C, CN, N  |
+|  Plastic -- High Specific Surface Area  |  61 x 61 x 122   |   140  |   >94  |  N   |
+|  Rock (small)   |  Varies   |   98  |   80  |   C, CN, N  |
+|  Rock (small)   |  Varies   |   150  |  70   |  N   |
+
+### Rotary Distributor Arms
+
+$n = \frac{(1 + R)(q)(10^3 mm/m)}{(A)(DR)(60 min/h)}$
+
+* n = rotational speed, rev/min
+* q = influent applied hydraulic loading rate, $\scriptsize\textrm{m^3/m^2*h}$
+* R = recycle ratio
+* A = number of arms in rotary distributor assembly
+* DR = dosing rate, mm/pass of distributor arm
+
+
+## Case Study: Cayuga Heights Trickling Filter Observations
+The team had the opportunity to visit the Cayuga Heights wastewater treatment plant and observe a trickling filter first-hand. It was a very informative visit, and the team was dismayed at the state of the plant and the many issues it was experiencing, especially with the trickling filters. There were two trickling filters at the plant, both of which had substantial debris (clumps of organic material, trash) on top of filter (see Figure 1); the plant manager stated that the cause was likely a failure of the bar screen that should have removed such debris when the water initially enters the plant the plant and the inefficiency of the settling tanks, which the wastewater travels through immediately before the trickling filters.
+
+The team also observed that the distribution arms were failing to cover the surface of the filter with water and there was a significant portion of the tank surface that was getting little to no water on it (see Figure 2). The regions that were most noticeably dry were the edges of the tank and an area a couple feet from the center of the base of the distributor arms. There was also a pattern of discoloration on the top of the filter, which seemed to be caused by the substantial organic matter coming through, that suggested that even the portion of the filter’s surface that was getting watered was not getting watered equally, and that there was build up of the organic matter that was getting more water (see Figure 1).
+
+There was leakage from the base of the distributor arm on both trickling filters. One had very substantial leakage and a large fraction of the water was just spraying out of the center to only a foot or two away. The plant manager said that the seal connecting the pipe and distributor arm had broken and was going to be replaced. The volume of water going through the filter in the area around the base of the distributor arm was very high and the team would expect that the level of treatment for that wastewater is very low, if not non-existent, because of how high the hydraulic loading must be.
+
+The team’s visit to the wastewater treatment plant made obvious that there is tremendous room for innovation and improvement of trickling filter technology.
+
+
+![Figure 1](https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/CHFT%20filter%20surface.jpg?raw=true)
+Figure 1: The surface of the trickling filter with significant debris and discoloration.
+
+![Figure 2](https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/CHTF%20distribution%20arm.png?raw=true)
+Figure 2: Distribution arms failed to entirely cover the surface of the trickling filter and there was leakage from the base in the center.
+
+
 
 
 
@@ -207,9 +207,13 @@ Make sure that you defend your conclusions with facts and results.
 Describe your plan of action for the next several weeks of research. Detail the next steps for this team. How can AguaClara use what you discovered for future projects? Your suggestions for challenges for future teams are most welcome. Should research in this area continue?
 
 ## Bibliography
+Ali et al. (2017). Identification and Elucidation of the Designing and Operational Issues of Trickling Filter Systems for Wastewater Treatment. *Polish Journal of Environmental Studies.* 26(6), 2431-2444.
+
 Logan, B. E., Hermanowicz, S. W., & Parker,A. S. (1987). A Fundamental Model for Trickling Filter Process Design. Journal (Water Pollution Control Federation), 59(12), 1029–1042.
 
-Tchobanoglous, G., F. Burton, H. D. Stensel (2003) *Wastewater Engineering: Treatment and Reuse*. New York, NY: McGraw-Hill
+Sperling, Marcos von (2007). *Activated Sludge and Aerobic Biofilm Reactors.* London: IWA Publishing.
+
+Tchobanoglous, G., F. Burton, H. D. Stensel (2003). *Wastewater Engineering: Treatment and Reuse*. New York, NY: McGraw-Hill.
 
 
 # Manual
