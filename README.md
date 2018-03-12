@@ -11,3 +11,5 @@ Rosie Krasnoff (rkk57)
 Determine if trickling filters are feasible component of a future AguaClara wastewater plant.
 
 ## Links to (future) Reports and Presentations
+
+[Symposium Presentation](https://docs.google.com/presentation/d/1XDAWSXDn-Me3OXwePyHjROJxUi_ZhIXyg9vinbaDPxc/edit?usp=sharing)
