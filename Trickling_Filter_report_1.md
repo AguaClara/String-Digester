@@ -2,17 +2,49 @@
 #### Jillian Whiting, Ben Gassaway, Rosie Krasnoff
 #### March 9th, 2018
 
+<div class="alert alert-block alert-danger">
+Please do not delete my comments. Address them for the next submission and then I will use the comments to check for corrections. If you disagree with my comments, just add one below mine.
+</div>
+
 ## Abstract
 
 This was the first semester of a trickling filter subteam, therefore the direction of the team's research was derived independently. The goals for this semester were to identify problems with trickling filters in industry whilst developing robust kinematic models such to enable future subteams to employ novel trickling filter applications. This semester was expected to be driven primarily by literature research, but the team has begun construction for a benchtop experiment in preliminary hydraulic modeling through the filter media.
+
+<div class="alert alert-block alert-danger">
+I appreciate the breadth of your vocabulary, but focus on concise and clear writing. (Why whilst over while?)
+
+Add a description of what the purpose of the benchtop experiment is.
+
+Consider revising the first sentence to connect to the second one more.
+</div>
 
 ## Introduction
 
 The creation of the trickling filter subteam was prompted by the need for further treatment of wastewater following UASB treatment. UASB treatment can do very well treating BOD, but there is a lot of nutrient pollution in the wastewater in Honduras. The overall objective is to first identify the primary issues in industrial-scale trickling filters. Using this information, the team aims to deploy both a disruptively efficient, non-mechanized trickling filter which can be adapted to serve the wastewater needs of a resource-scarce community. The team's primary aim is to assess the feasibility of the inclusion of a trickling filter in a future AguaClara wastewater treatment plant.
 
+<div class="alert alert-block alert-danger">
+Define UASB
+
+Rather than "UASB treatment can do very well" try "UASB treatment is effective at" - These are small differences that create really effective technical pieces. Try to look at every sentence and think, what is the purpose of this sentence and how can I say it in the most direct, accurate, concise, and clear way
+
+What does disrutively efficient mean?
+
+Great statement of purpose in last sentence
+</div>
+
 Trickling filter research was heavily researched in the 1970's and 1980's but this industry witnessed a dramatic decline in literature in the years following. The wastewater research switched to more active methods of treatment like activated sludge; however, passive treatments like trickling filters have low energy requirements, if any. A driving force behind the investigation of trickling filter research is to find ways that align with the mission of achieving hydraulically-driven systems which will be much more feasible in areas of the world in which capital expenditure is a major barrier for employing this technology.
 
+<div class="alert alert-block alert-danger">
+Financial sustainability is a key concept here, explain why it is critical in terms of lifetime of the project, lack of electricity infrastructure, durability, etc. Paint the full picture
+</div>
+
 In terms of nutrient pollution control there is little research on trickling filters as the interest in nutrient removal research peaked after interest in trickling filters. The team believes that there is still a lot of progress to be made in trickling filter research, especially in maximizing the utilization rates of the biofilm surface areas. The team strives to make significant technological improvements on industry-standard applications for the system.
+
+<div class="alert alert-block alert-danger">
+First sentence is circular
+
+What I got from this: not much research has been done but it is a low energy technology for nutrient removal, want to find major issues in industry today and set stage for technology development. If this is all correct, then perfect. If not, adjust accordingly.
+</div>
 
 ## Literature Review
 
@@ -21,9 +53,17 @@ There is significant documentation of problems plant operators experienced when 
 
 Some of these previously mentioned problems (biomass sloughing and insect and slug presence in filters) contribute to clogging and ponding in filters. Current solutions include “flashing with low doses of chlorine to remove deposited solids and kill excess biomass” or periodic flooding. The team aims to address these issues by developing a new trickling media that has a lower tendency to experience clogging or ponding.
 
+<div class="alert alert-block alert-danger">
+It is unclear which issues are what you are focusing on versus which you are not. Make it more clear.
+</div>
+
 There can be issues with variations in temperature: biofilm thickness changes seasonally and can be low quality and uneven in cold temperatures. In freezing weather, formation of ice can cause clogging and therefore structural damage to the trickling media. These are probably not major concerns for plants in equatorial regions, and so while important to note, will not be a focus for the team at this point.
 
  Ali et al. states that the most common problem in trickling filters is uncontrolled sloughing, which is often caused by uneven hydraulic loading rates. This can be particularly problematic after storm events when flooding results in very high hydraulic loading. It can also be caused by clogging and uneven distribution of the influent [(Ali et al. 2017).](http://www.pjoes.com/pdf/26.6/Pol.J.Environ.Stud.Vol.26.No.6.2431-2444.pdf) There is potential for the development of a much-improved distribution system that could help to alleviate this problem.
+
+ <div class="alert alert-block alert-danger">
+ What is sloughing?
+ </div>
 
  Proper distribution is crucial and can optimize efficiency of treatment. The most common method of distribution is rotating distributors, but after seeing the problems with them at the Cayuga Heights wastewater treatment plant (see Case Study section for details), the team was interested in learning more about other methods that might require less maintenance or be less prone to failure.
 
@@ -31,9 +71,21 @@ The less common method of distribution, the fixed distribution systems, utilizes
 
 Unfortunately, these systems are also prone to clogging or blockage issues and similarly challenged by inconsistency of hydraulic load on the surface of the trickling filter. This is another area where there is huge potential for the team to increase the productivity of trickling filters. [(Sperling 2007).](https://www.iwapublishing.com/sites/default/files/ebooks/9781780402123.pdf)
 
+<div class="alert alert-block alert-danger">
+Potentially add a section explaining how Trickling filters work (i.e. nutrient treatment vs. BOD removal). Remember that your audience is a new team member trying to get caught up.
+
+Add photos to give a mental image. It will aid understanding of the geometry you are discussing.
+</div>
+
 ### Kinetics
 ### BOD Kinetic Model
  The assumptions of the trickling filter team is that the majority of BOD will be removed by the UASB reactor. Therefore the trickling filter will be mostly removing nutrients (i.e. Nitrogen and Phosphorus). The team could not find consistent literature on a kinetic model for the removal of nitrogen or phosphorus. Therefore, we are using a common BOD kinetic model with the assumption that nutrient removal would be proportional to BOD removal. The most common kinetic model for trickling filters is the modified Velz Equation.
+
+ <div class="alert alert-block alert-danger">
+ Strive for active voice.
+
+ What is the evidence that the nutrient removal is proportional to BOD removal? If none, explicitly say that this will be investigated through experimentation or that the error is negligible. Try to give every equation and value discussed meaning.
+ </div>
 
 The modified Velz Equation from [Logan et. al. 1987](http://www.jstor.org/stable/pdf/25043431.pdf?acceptTC=true):
 
@@ -56,14 +108,41 @@ $C_{out} ={C_{in}}{e^{\frac{-k_{20}A_{s}H\theta^{T-20}}{Q_{i}^{n}}}}$
 
 The main points of improvement based on the kinetic model would be to increase the height/depth of the filter, increase the surface area, increase temperature, or increase the $k_{20}$ value.
 
+<div class="alert alert-block alert-danger">
+Why are thoses the points of improvement? What will they cause to increase/decrease? (Analysis)
+</div>
+
 #### Increasing Temperature
 The teams assumption is that the wastewater treatment plants would be built outside without heating or air conditioning. Separately using an anaerobic digester to digest sludge and heat the filter would be an option that future teams could look into.
+
+<div class="alert alert-block alert-danger">
+Any ways to increase temperature using smart location/solar impacts?
+</div>
 
 #### Increasing Height/Depth of filter
 This is an area that could improve the performance of the trickling filter. The team is looking for a novel design that can make traditional filters more cost-effective. The team does not believe that there is a lot of room for improvement in just changing the height of the filter.
 
+<div class="alert alert-block alert-danger">
+First sentence is redundant
+
+What is the height versus the depth of the filter? A visual aid may benefit the reader here.
+
+What novel designs have you thought up?
+</div>
+
 #### Increasing the specific surface area
-Specific surface area is surface area per volume. In order to change the specific surface area of the filter the packing material must be changed. To increase specific surface area, the packing material must have more surface area for the same amount of volume. In many trickling filters in Honduras, the packing material is gravel or rocks. This leaves a lot of room for improvement of surface area. In the US, there has been a lot of research and development of new higher specific surface area packing materials. Many of these materials are very expensive and would not fit with AguaClara low-cost model. From these materials though the team can learn what properties improve filter performance and mimic them in a more cost effective material.  
+Specific surface area is surface area per volume. In order to change the specific surface area of the filter the packing material must be changed. To increase specific surface area, the packing material must have more surface area for the same amount of volume. In many trickling filters in Honduras, the packing material is gravel or rocks. This leaves a lot of room for improvement of surface area. In the US, there has been a lot of research and development of new higher specific surface area packing materials. Many of these materials are very expensive and would not fit with AguaClara low-cost model. From these materials though the team can learn what properties improve filter performance and mimic them in a more cost effective material.
+
+<div class="alert alert-block alert-danger">
+Nitpicky but the other headers are all capitalized.
+
+Good definition of specific surface area. It may help readers to take it a step further and say that smaller objects typically have greater specific surface areas and thats why the gravel in Honduras is bad.
+
+"This leaves a lot of room for improvement of..." is a commonly used phrase throughout the report, but doesn't add a lot of value. Instead, directly explain how this could be improved.
+
+Is sand better than gravel? If it is a factor of size, why isn't clay a good choice? Define boundary conditions.
+</div>
+
 ##### Ideas for improvement
 The team's idea for improvement of specific surface are would be a novel geometry and material combination.
 * Strings
@@ -72,15 +151,35 @@ The team's idea for improvement of specific surface are would be a novel geometr
 * BioBalls
 * Six-pack plastic holder recycling
 
+<div class="alert alert-block alert-danger">
+Is making this a subsection adding to the organization or taking away from it?
+</div>
+
 #### Increasing the $k_{20}$ Value
 There is a very little available research on $k_{20}$ values of different trickling filters. Most research reports just state the value for the filters they were testing.
+
+<div class="alert alert-block alert-danger">
+What could affect the k20 value? What are typical values?
+
+How are you making recommendations for improvements to the k20 value if you don't know what affects it?
+</div>
+
 ##### Ideas for improvement
 * Using different cultures that are more effective at removing nitrogen and Phosphorus
 * Ensuring that aeration reaches all areas of the filter, therefore keeping the bacteria functioning at a high rate
 
+<div class="alert alert-block alert-danger">
+What are the cultures? This is the first mention, so I am not sure if this is the filter media or something that grows on it. A description of the filter in the beginning would really be necessary to understand this part.
+
+How would you ensure that aeration reaches all areas of the filter?
+</div>
 
 #### Flow Distributions
-An assumption of this model is that the entire volume of the trickling filter is being used. The team would also like to research whether this assumption is valid. The team believes that there may be unused volume for the trickling filter that is not getting any flow because the water takes another path with less resistance. Therefore the team will also conduct experiments to determine how flow is distributed. After these tests, the team determined how to use a packing material and filter design that utilizes all of the available space.  
+An assumption of this model is that the entire volume of the trickling filter is being used. The team would also like to research whether this assumption is valid. The team believes that there may be unused volume for the trickling filter that is not getting any flow because the water takes another path with less resistance. Therefore the team will also conduct experiments to determine how flow is distributed. After these tests, the team determined how to use a packing material and filter design that utilizes all of the available space.
+
+<div class="alert alert-block alert-danger">
+This is an interesting point - Does this model overestimate the efficiency of the trickling filter then?
+</div>
 
 ### Nitrogen Kinetic Models
 The EPA has complied information from many trickling filters across the US that are used for nitrification. They found that bacteria that preform nitrification, usually Nitrosomonas and Nitrobacter, cannot compete against the BOD removing heterotrophs when the BOD levels are high. The EPA suggests that BOD levels be below $20 \frac{mg}{L}$, with the optimal value of $10 \frac{mg}{L}$. The chemical reactions that the nitrifying bacteria are performing are:
@@ -89,8 +188,22 @@ $NH_{4}^{+}  + 1.5 O_{2} \rightarrow NO_{2}^{-} + 2H^{+} +  H_{2}O$
 
 $NO_{2}^{-}  + 0.5 O_{2} \rightarrow NO_{3}^{-}$.
 
+<div class="alert alert-block alert-danger">
+I am confused because in the previous section, you say that there are no nitrogen kinetic models which is why you are using a BOD model. But then this section is labeled Nitrogen Kinetic Models.
+
+Ok I just read the next paragraph, which eases my fears, but consider renaming this section
+</div>
+
 When the EPA report was written no kinetic model had been derived for nitrification in trickling filters; however, they found four main parameters that removal was based on: low organic loadings, high residence times, sufficient oxygen availability, and consistency in hydraulic, organic, and ammonia loadings [(US EPA, 1991)](https://nepis.epa.gov/Exe/ZyPDF.cgi/P1004T3S.PDF?Dockey=P1004T3S.PDF). [Duddles et. al., 1974](https://www.jstor.org/stable/pdf/25038735.pdf?refreqid=excelsior%3A134b4fcdcce29130f630db8059aa3119) found that nitrification rate is directly proportional to specific surface area. [Gullicks and Cleasby, 1986](http://www.jstor.org/stable/pdf/25042842.pdf?refreqid=excelsior%3Ad9da82b9b851c3d02a23339cd5f0f45d) found that the mass transfer rate of the biofilm can be increased in two ways: increasing temperature and increasing ammonia concentration. From theses reports the team's earlier assumption the parameters affecting BOD removal are similar to those affecting nitrification is valid.
 The team also found another factor that effected nitrification rate which is oxygen availability [(Okey and Albertson 1989)](http://www.jstor.org/stable/25046965). There are two regimes of the nitrogen kinetic equation. When oxygen is limited, it is a zero-order kinetic model with respect to ammonia and half order with respect to oxygen. When oxygen is plentiful, it is a first order model with respect to ammonia. The removal equation found was as:
+
+<div class="alert alert-block alert-danger">
+Nice return to the validity of the BOD model!
+
+Nitpicky - you list what 4 main parameters, but you add qualifications like "low" + "organic loading". Isn't the organic loading the parameter and the "low" the qualifier? I want to know if low is good or bad.
+
+proofread this section and look at it in markdown preview to see formatting
+</div>
 
 $\left(NH_{4}-N\right)_{R} = \frac{K_{ao}S_{o}^{0.5}A_{trans}}{Q} + \left(NH_{4}-N\right)_{trans}\left(1-e^{-K_{n}L}\right)$
 * $\left(NH_{4}-N\right)_{R} = NH_{4}-N$ concentration removed, $\frac{g}{m^{3}}$
@@ -105,10 +218,16 @@ $\left(NH_{4}-N\right)_{R} = \frac{K_{ao}S_{o}^{0.5}A_{trans}}{Q} + \left(NH_{4}
 
 Therefore compared to the team's improvement based on the BOD kinetic model, an additional parameter is oxygen concentration.
 
+<div class="alert alert-block alert-danger">
+What oxygen concentration do you want?
+</div>
+
 #### Ideas for improvements
 The team incorporated the need for airflow into their brainstorming of a novel geometry. In developing this novel geometry, the spacing between our media for the biofilm to grow on should be greater than adhesion and cohesion of water particles can withstand.
 
-
+<div class="alert alert-block alert-danger">
+This is interesting. How can you achieve that spacing? Will that have an affect on the selection of filter media and thus on specific surface area. How will you separate these variables?
+</div>
 
 ## Design Parameters
 
@@ -132,6 +251,18 @@ The team incorporated the need for airflow into their brainstorming of a novel g
 |  Rock (small)   |  Varies   |   98  |   80  |   C, CN, N  |
 |  Rock (small)   |  Varies   |   150  |  70   |  N   |
 
+<div class="alert alert-block alert-danger">
+What does the Application Column mean? (N, C, CN)
+
+Add discussion of how you choose your packing materials? What characteristics are you looking for?
+
+Give the table a title and caption
+
+Also you have "rock (small)" on there three times, how are they different?
+
+Have you thought about heat retention/conductivity of the material?
+</div>
+
 ### Dosing Rate
 
 The dosing rate of on a trickling filter is the depth of liquid discharged on top of the packing for each pass of the distributor (Tchobanoglous et. al. 2003, pp 898).
@@ -149,25 +280,38 @@ $n = \frac{(1 + R)(q)(10^3 mm/m)}{(A)(DR)(60 min/h)}$
 | --- | --- | --- |
 |0.25 |   10-30  |  	$\small\geq$ 200   |
 |  0.5  |  15-45   |   $\small\geq$ 200  |
-| 1.00   |   30-90  |  $\small\geq$ 300  |  
+| 1.00   |   30-90  |  $\small\geq$ 300  |
 |  2.00 |  40-120   |  $\small\geq$ 400  |
 |  3.00   |  60-180   |  $\small\geq$ 600  |
 |  4.00   |  80-240   |  $\small\geq$ 800  |
 
+<div class="alert alert-block alert-danger">
+What is flushing?
+
+Can this be adapted to now rotating arms as discussed earlier?
+</div>
 
 #### Ideas for Improvements
 
 One of the primary failure modes of a trickling filter system involves complications with the mechanized distribution system in industrial plants. The rotational velocity of the arms is usually driven by the hydraulic propulsion, which may not be the optimal dosing rate, and thus will detrimentally effect the efficiency of the overall treatment train.
 
-As the rotary arms dose water to the system, there is a non-uniform distribution across the filter media. This is an immediate source of efficiency losses since the biofilm can only treat the water in which it comes in contact with. Additionally, the dosing ports in the arms have a tendency to become clogged with miscellaneous debris which may have been missed by the primary clarification process. Most plants do not have sub-metering within the arms to measure the volumetric flow distribution of wastewater being dosed to the system.  
+As the rotary arms dose water to the system, there is a non-uniform distribution across the filter media. This is an immediate source of efficiency losses since the biofilm can only treat the water in which it comes in contact with. Additionally, the dosing ports in the arms have a tendency to become clogged with miscellaneous debris which may have been missed by the primary clarification process. Most plants do not have sub-metering within the arms to measure the volumetric flow distribution of wastewater being dosed to the system.
 
 An area for improvement is to completely forgo the mechanical distribution system, and to design a reliable distributor which can dose wastewater uniformly across the media and is adjustable to accommodate the wastewater treatment needs of a community.
+
+<div class="alert alert-block alert-danger">
+Proofread, focus on clarity and being concise.
+</div>
 
 ### Underdrain Systems
 The underdrains capture the filtered wastewater and effluent solids, and serves as the intermediate transfer into the sedimentation tanks (Tchobanoglous et. al. 2003, pp 901). Typical drainage channel slopes range from a 1 to 5 percent grade, and are sized to accommodate a minimum velocity of 2 ft/s.
 
-###Ventilation and Aeration
-####Natural Draft
+<div class="alert alert-block alert-danger">
+Are these important? Reference them earlier in description of overall system.
+</div>
+
+### Ventilation and Aeration
+#### Natural Draft
 The driving force behind natural airflow is derived from a temperature gradient between the ambient air temperature and the temperature within the pores of the media material. An equation from (Schroeder and Tchobanoglous, 1976):
 
 $D_{air} = 353(\frac{1}{T_c} - \frac{1}{T_h})Z$
@@ -179,14 +323,31 @@ $D_{air} = 353(\frac{1}{T_c} - \frac{1}{T_h})Z$
 
 The most likely means of aeration in the trickling filter design for this team is a natural draft, which requires the following criteria for it to be implemented successfully:
 
+<div class="alert alert-block alert-danger">
+Rephrase this sentence, I can't understand it.
+</div>
+
 1. The drainage and collection channels must not flow any greater than halfway full in order to permit air flow throughout the system.
 2. Access ports with adequate openings should be implemented at both tremendous.
 3. Open areas of the underdrain blocks (top slots) should be no less than 15% of the overall cross-sectional area of the filter.
+
+<div class="alert alert-block alert-danger">
+Why? How does that affect air flow? Where does 15% come from?
+</div>
+
 4. A ratio of 10 $\small ft^2$/250 $\small ft^2$ (open grating area/filter area) should be provided in the design.
 (Tchobanoglous et. al. 2003, pp 903)
 
 ## Case Study: Cayuga Heights Trickling Filter Observations
 The team had the opportunity to visit the Cayuga Heights wastewater treatment plant and observe a trickling filter first-hand. It was a very informative visit, and the team was dismayed at the state of the plant and the many issues it was experiencing, especially with the trickling filters. There were two trickling filters at the plant, both of which had substantial debris (clumps of organic material, trash) on top of filter (see Figure 1); the plant manager stated that the cause was likely a failure of the bar screen that should have removed such debris when the water initially enters the plant the plant and the inefficiency of the settling tanks, which the wastewater travels through immediately before the trickling filters.
+
+<div class="alert alert-block alert-danger">
+Instead of "The team had the opportunity to visit the Cayuga Heights wastewater..." consider "The team visited the Cayuga Heights wastewater..."
+
+Focus again on the technical writing.
+
+BTW: The writing throughout this report is high quality, but these little revisions can take it to a really polished level
+</div>
 
 The team also observed that the distribution arms were failing to cover the surface of the filter with water and there was a significant portion of the tank surface that was getting little to no water on it (see Figure 2). The regions that were most noticeably dry were the edges of the tank and an area a couple feet from the center of the base of the distributor arms. There was also a pattern of discoloration on the top of the filter, which seemed to be caused by the substantial organic matter coming through, that suggested that even the portion of the filter’s surface that was getting watered was not getting watered equally, and that there was build up of the organic matter that was getting more water (see Figure 1).
 
@@ -201,17 +362,42 @@ Figure 1: The surface of the trickling filter with significant debris and discol
 ![Figure 2](https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/CHTF%20distribution%20arm.png?raw=true)
 Figure 2: Distribution arms failed to entirely cover the surface of the trickling filter and there was leakage from the base in the center.
 
+<div class="alert alert-block alert-danger">
+Consider moving these photos up into the textrm
 
+Also have you spoken about fabrication techniques and designs that will be easy to assemble/maintain - Seems like they have maintenance issues?
+
+Also is it usual to see two filters running in parallel? Should that be accounted for in the holistic design so that one can be taken off line for maintenance?
+</div>
 
 ## Methods
 
 ### Procedure
 The benchtop experiment for the team is still under development, however, the means with which the experiment will be conducted is backed through verbal and written consensus within the team. The primary objective of the team's first experiment is to gather a hydraulic model for the preferential flow tendencies within the filter media. It is hypothesized that much of the porosity in the filter media is unutilized, and will remain dry due to flaws in the distribution system as well as the geometric structure of the filter.
 
-Water will be dispensed by pipetting a designated volume into the media at a specified point at the surface of the filter. This point will be marked off by drilling and annotating holes on a cap covering the entry point of the filter. The distribution of water will vary both across the distribution grid and by varying the depth of gravel. After a trial is conducted, a collection module of cuvettes will be weight in order to capture the exit point of the water under a given distribution and media depth.  
+<div class="alert alert-block alert-danger">
+What is the purpose of the first sentence?
+
+How do you "gather a hydraulic model," do you mean gather data for a hydraulic model?
+
+Consider "The team hypothesized..." rather than "It is hypothesized..." - active voice rather than passive voice
+</div>
+
+Water will be dispensed by pipetting a designated volume into the media at a specified point at the surface of the filter. This point will be marked off by drilling and annotating holes on a cap covering the entry point of the filter. The distribution of water will vary both across the distribution grid and by varying the depth of gravel. After a trial is conducted, a collection module of cuvettes will be weight in order to capture the exit point of the water under a given distribution and media depth.
+
+<div class="alert alert-block alert-danger">
+Will you be varying the distribution of water? Or do you mean that it was vary based on where you put it?
+
+Revise last sentence - unclear meaning
+</div>
 
 Hydraulic fingering through the media will be represented through a three-dimensional heat map. This experiment can be characterized by the underlying principal of a CAT-scan: the data will provide insight into the cross sectional behavior within the trickling filter media which has not been greatly understood in literature. As more data is collected across varying points in the horizontal plane from the entry grid, and then in the vertical plane by adding or subtracting gravel (packing material), a more robust representation of the hydraulic behavior can be characterized; this level of detail depends on the granularity of the trials and the level of consistency between them.
 
+<div class="alert alert-block alert-danger">
+What is hydraulic fingering?
+
+Is this all one experiment? Do you get degrees from the experiment? Does it directly output a map? I am having a difficult time imagining this.
+</div>
 
 ## Conclusion
 
@@ -221,9 +407,17 @@ The lack of available information and limited research on some aspects of the ki
 
 Preliminary research was driven primarily by industry research, however, it is expected than many of the established parameters will be subject to change as a result of independent research efforts. The findings of the team's experiments will be intended to characterize a trickling filter system absent of mechanical components and with higher filter media utilization. By the conclusion of this team's work, a vast majority of the gaps in literature will be filled with conclusive empirical data to serve as a model for wastewater plants in resource-scarce locations in addition to modifying the faults in industry around the world.
 
+<div class="alert alert-block alert-danger">
+Excellent
+</div>
+
 ## Future Work
 
 In the coming weeks, the team will be conducting its preliminary tests to determine the distribution of flow in trickling filters. The team believes that their literature review period is almost over and hopes to move almost all their time to bench-top testing. In addition to flow mapping, the team will also work on designing novel geometries for testing. This will include building models of the team's current ideas. A future goal that will not be done this semester is to create a bench top model so that nitrogen and phosphorus removal can be measured. The team believes there is many different areas for improvement in the trickling filter and research should continue to explore the possibilities.
+
+<div class="alert alert-block alert-danger">
+Reconsider the last sentence.
+</div>
 
 ## Bibliography
 Ali et al. (2017). Identification and Elucidation of the Designing and Operational Issues of Trickling Filter Systems for Wastewater Treatment. *Polish Journal of Environmental Studies.* 26(6), 2431-2444.
