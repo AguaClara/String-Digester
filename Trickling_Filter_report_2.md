@@ -243,6 +243,63 @@ Tchobanoglous, G., F. Burton, H. D. Stensel (2003). *Wastewater Engineering: Tre
 United States Environmental Protection Agency. (1991, May). *Assessment of Single-Stage Trickling Filter Nitrification*. Office of Water.
 
 
+# Manual
+The goal of this section is to provide all of the guidance that would be necessary for a future team to pick up your work where you left off. Please try to be thorough and put yourselves in the shoes of a newcomer to the project. Below are some recommended sections, but the manual will likely take a slightly different form for each team.
+
+## Fabrication Details
+Include any information related to the fabrication of equipment, experimental apparatuses, or technologies. Include the purpose of each step and the fabrication methods used. Reference appropriate safety precautions.
+
+## Special Components
+If your subteam uses a particular part that is unique and you could foresee a future subteam needing to order it or learn more about it, please include basic information like the vendor where it was purchased, catalog/item number, and a link to any documentation.
+
+## Experimental Methods
+### Set-up
+Step 1.
+* Put tasks in a sequential order.
+* It is okay to have sub-lists.
+  - Like this.
+
+### Experiment
+Step 1.
+
+### Cleaning Procedure
+Step 1.
+
+## Experimental Checklist
+Another potential section could include a list of things that you need to check before running an experiment.
+
+## ProCoDA Method File
+Use this section to explain your method file. This could be broken up into several components as shown below:
+
+### States
+Here, you should describe the function of each state in your method file, both in terms of its overall purpose and also in terms of the details that make it distinct from other states. For example:
+\begin{itemize}
+\item \underline{OFF} - Resting state of ProCoDA. All sensors, relays, and pumps are turned off.
+\end{itemize}
+
+### Set Points
+Here, you should list the set points used in your method file and explain their use as well as how each was calculated.
+
+## Python Code
+
+### Variables
+$g$: gravity
+$\sigma$: dispersion
+$a$: amplitude
+$h$: water depth
+$H$: distance from wave crest to trough (2$a$)
+$T$: wave period
+$\lambda$: wavelength
+$k$: wavenumber
+$c_p$: celerity (wave phase speed)
+$P$: pressure
+$F$: force
+$u$, $w$: x-velocity, z-velocity components
+
+```python
+# Comment
+```
+
 
 ```python
 # To convert the document from markdown to pdf
