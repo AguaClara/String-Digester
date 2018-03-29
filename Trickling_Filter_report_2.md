@@ -399,7 +399,59 @@ What is hydraulic fingering?
 Is this all one experiment? Do you get degrees from the experiment? Does it directly output a map? I am having a difficult time imagining this.
 </div>
 
-<img src="https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/flow_schematic_front.png?raw=true" height=500 width=400>
+### Experimental Apparatus
+Explain your apparatus setup using enough detail such that future teams can recreate your apparatus. Make sure to explain why you built it this way.
+* Design (calculations, constraints)
+
+  $\frac{-b\pm\sqrt{b^2-4ac}}{2a}$
+* Schematic (label parts)
+
+
+<img src="https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/flow_schematic_front.png?raw=true" height=400 width=250>
+
+Figure 3: This is a schematic of the testing structure. It is an acrylic PVC pipe with holes drills at distances of 5,10,20,40,60, and 80 cm from the top. These holes represent the depths of the filter media that we will be testing. Rods are inserted at the depth of testing to support a mesh which holds the filter media. Water flows from the dosing point through the filter media to the collection unit. The Collection unit is held in place by a pvc pipe.
+
+<img src="https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/Gravel_support_top view.png?raw=true" height=300 width=250>
+
+Figure 4: This schematic shows the top view of the support structure for the filter media. There is a mesh which is held up by two rods. The rods go through the PVC pipe and are tightened in place by bolts.  
+
+<img src="https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/Collection_basin_top.png?raw=true" height=300 width=300>
+
+Figure 5: this schematic shows the top view of the collection unit for the team's experiments.The squares represent cuvettes which are held in by velcro to a PVC sheet. The amount of water collected in each cuvette is recorded to determine how much water is flowing where.
+
+
+* Image (from lab; label parts)
+* Materials (dimensions, materials)
+* Complications in construction
+* If already constructed: write a brief summary of important constraints, include any revisions to apparatus, also reference the prior report where construction is described
+
+
+## Results and Analysis
+Present an observation (results), then explain what happened (analysis).  Each paragraph should focus on one aspect of your results. In that same paragraph, you should interpret that result.  
+In other words, there should not be two distinct paragraphs, but instead one paragraph containing one result and the interpretation and analysis of this result. Here are some guiding questions for results and analysis:
+
+When describing your results, present your data, using the guidelines below:
+* What happened? What did you find?
+* Show your experimental data in a professional way.
+```python
+from aide_design.play import*
+x = np.array([1,2,3,4,5])
+y = np.array([1,2,3,4,5])
+plt.figure('ax',(10,8))
+plt.plot(x,y,'*')
+plt.savefig('/Users/jillianwhiting/github/Jillian-Whiting/Images/linear')
+plt.show()
+```
+![linear](https://github.com/jillianwhiting/Jillian-Whiting/blob/master/Images/linear.png?raw=true)
+Figure 1: Captions are very important for figures. Captions go below figures.
+
+After describing a particular result, within a paragraph, go on to connect your work to fundamental physics/chemistry/statics/fluid mechanics, or whatever field is appropriate. Analyze your results and compare with theoretical expectations; or, if you have not yet done the experiments, describe your expectations based on established knowledge. Include implications of your results. How will your results influence the design of AguaClara plants? If possible provide clear recommendations for design changes that should be adopted. Show your experimental data in a professional way using the following guidelines:
+* Why did you get those results/data?
+* Did these results line up with expectations?
+* What went wrong?
+* If the data do not support your hypothesis, is there another hypothesis that describes your new data?
+
+
 
 ## Conclusion
 
@@ -438,6 +490,58 @@ Tchobanoglous, G., F. Burton, H. D. Stensel (2003). *Wastewater Engineering: Tre
 
 United States Environmental Protection Agency. (1991, May). *Assessment of Single-Stage Trickling Filter Nitrification*. Office of Water.
 
+# Manual
+The goal of this section is to provide all of the guidance that would be necessary for a future team to pick up your work where you left off. Please try to be thorough and put yourselves in the shoes of a newcomer to the project. Below are some recommended sections, but the manual will likely take a slightly different form for each team.
+
+## Fabrication Details
+Include any information related to the fabrication of equipment, experimental apparatuses, or technologies. Include the purpose of each step and the fabrication methods used. Reference appropriate safety precautions.
+
+## Special Components
+If your subteam uses a particular part that is unique and you could foresee a future subteam needing to order it or learn more about it, please include basic information like the vendor where it was purchased, catalog/item number, and a link to any documentation.
+
+## Experimental Methods
+### Set-up
+Step 1.
+* Put tasks in a sequential order.
+* It is okay to have sub-lists.
+  - Like this.
+
+### Experiment
+Step 1.
+
+### Cleaning Procedure
+Step 1.
+
+## Experimental Checklist
+Another potential section could include a list of things that you need to check before running an experiment.
+
+## ProCoDA Method File
+Use this section to explain your method file. This could be broken up into several components as shown below:
+
+### States
+Here, you should describe the function of each state in your method file, both in terms of its overall purpose and also in terms of the details that make it distinct from other states. For example:
+\begin{itemize}
+\item \underline{OFF} - Resting state of ProCoDA. All sensors, relays, and pumps are turned off.
+\end{itemize}
+
+### Set Points
+Here, you should list the set points used in your method file and explain their use as well as how each was calculated.
+
+## Python Code
+
+### Variables
+$g$: gravity
+$\sigma$: dispersion
+$a$: amplitude
+$h$: water depth
+$H$: distance from wave crest to trough (2$a$)
+$T$: wave period
+$\lambda$: wavelength
+$k$: wavenumber
+$c_p$: celerity (wave phase speed)
+$P$: pressure
+$F$: force
+$u$, $w$: x-velocity, z-velocity components
 
 
 ```python
