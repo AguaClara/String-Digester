@@ -10,6 +10,6 @@ Rosie Krasnoff (rkk57)
 ## Semester Goals
 Determine if trickling filters are feasible component of a future AguaClara wastewater plant.
 
-## Links to (future) Reports and Presentations
+## Links to Reports and Presentations
 
 [Symposium Presentation](https://docs.google.com/presentation/d/1XDAWSXDn-Me3OXwePyHjROJxUi_ZhIXyg9vinbaDPxc/edit?usp=sharing)
