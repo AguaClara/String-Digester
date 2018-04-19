@@ -49,7 +49,9 @@ Comment has been corrected
 
 Trickling filter research was heavily researched in the 1970's and 1980's but this industry witnessed a dramatic decline in literature in the years following. The wastewater research switched to more active methods of treatment like activated sludge; however, passive treatments like trickling filters have low energy requirements, if any. A driving force behind the investigation of trickling filter research is to find ways that align with the mission of achieving hydraulically-driven systems which will be much more feasible in areas of the world in which capital expenditure is a major barrier for employing this technology.
 
-Implementation of a non-mechanized trickling filter system such as the one described above benefits a wastewater treatment plant in terms of economic and operational sustainability. Eliminating the need of any proprietary, mechanized components opens an opportunity for cost savings and will ultimately extend the usable life for the plant. Any mechanical components added to the system present a point of failure. By removing these moving parts, the system will be able to operate for longer durations with a less-intensive maintenance schedule. This will save money and time in the long run for the plant operations.
+![Trickling Filter](http://4.bp.blogspot.com/-wG5NGChx52c/TfD3bhROrwI/AAAAAAAAAAY/F4WRhidlWSE/s320/img2-25.gif)
+
+Implementation of a non-mechanized trickling filter system such as the one described in the paragraph above, is beneficial a wastewater treatment plant in terms of economic and operational sustainability. Eliminating the need of any proprietary, mechanized components opens an opportunity for cost savings and will ultimately extend the usable life for the plant. Any mechanical components added to the system present a point of failure. By removing these moving parts, the system will be able to operate for longer durations with a less-intensive maintenance schedule. This will save money and time in the long run for the plant operations.
 
 <div class="alert alert-block alert-danger">
 Financial sustainability is a key concept here, explain why it is critical in terms of lifetime of the project, lack of electricity infrastructure, durability, etc. Paint the full picture
@@ -59,12 +61,16 @@ Financial sustainability is a key concept here, explain why it is critical in te
 Comment has been corrected
 </div>
 
-The team believes that there is still a lot of progress to be made in trickling filter research, especially in maximizing the utilization rates of the biofilm surface areas. There is little research on trickling filters as the in terms of the understanding of the nutrient removal performance for the system. The team strives to make significant technological improvements on industry-standard applications for the system.
+Trickling filter research was booming in the 1960-80's, then ceased with the advent of aeration tanks and other more efficient but high energy processes. Therefore, the team believe's with new technologies and information trickling filters can be improved upon in maximizing the utilization rates of the biofilm surface areas and nutrient removal performance for the system. The team strives to make significant technological improvements on industry-standard applications for the system.
 
 <div class="alert alert-block alert-danger">
 First sentence is circular
 
 What I got from this: not much research has been done but it is a low energy technology for nutrient removal, want to find major issues in industry today and set stage for technology development. If this is all correct, then perfect. If not, adjust accordingly.
+</div>
+
+<div class="alert alert-block alert-success">
+Comment has been corrected
 </div>
 
 ## Literature Review
@@ -98,21 +104,32 @@ The less common method of distribution, the fixed distribution systems, utilizes
 
 Unfortunately, these systems are also prone to clogging or blockage issues and similarly challenged by inconsistency of hydraulic load on the surface of the trickling filter. This is another area where there is huge potential for the team to increase the productivity of trickling filters. [(Sperling 2007).](https://www.iwapublishing.com/sites/default/files/ebooks/9781780402123.pdf)
 
+
+
 <div class="alert alert-block alert-danger">
 Potentially add a section explaining how Trickling filters work (i.e. nutrient treatment vs. BOD removal). Remember that your audience is a new team member trying to get caught up.
 
 Add photos to give a mental image. It will aid understanding of the geometry you are discussing.
 </div>
 
+</div>
+<div class="alert alert-block alert-success">
+Picture added
+</div>
+
 ### Kinetics
 ### BOD Kinetic Model
-The trickling filter team assumed that the majority of BOD will be removed by the UASB reactor. Therefore the trickling filter will be mostly removing nutrients (i.e. Nitrogen and Phosphorus). The team could not find consistent literature on a kinetic model for the removal of nitrogen or phosphorus, only empirical models exist. Therefore, the team is using a common BOD kinetic model with the assumption that nutrient removal would be proportional to BOD removal. Nutrient removal equations discussed later validate this assumption. The most common kinetic model for trickling filters is the modified Velz Equation.
+The trickling filter team assumed that the majority of BOD will be removed by the UASB reactor. Therefore the trickling filter will be mostly removing nutrients (i.e. Nitrogen and Phosphorus). The team could not find consistent literature on a kinetic model for the removal of nitrogen or phosphorus, only empirical kinetic models exist. Therefore, the team is using a common BOD kinetic model with the assumption that nutrient removal would be proportional to BOD removal. Nutrient removal equations discussed later validate this assumption. The most common kinetic model for trickling filters is the modified Velz Equation.
 
  <div class="alert alert-block alert-danger">
  Strive for active voice.
 
  What is the evidence that the nutrient removal is proportional to BOD removal? If none, explicitly say that this will be investigated through experimentation or that the error is negligible. Try to give every equation and value discussed meaning.
  </div>
+
+<div class="alert alert-block alert-success">
+Comment has been corrected.
+</div>
 
 The modified Velz Equation from [Logan et. al. 1987](http://www.jstor.org/stable/pdf/25043431.pdf?acceptTC=true):
 
@@ -229,10 +246,14 @@ Comment corrected. Aeration is addressed at a later point in the report.
 </div>
 
 #### Flow Distributions
-An assumption of this model is that the entire volume of the trickling filter is being used. The team would also like to research whether this assumption is valid. The team believes that there may be unused volume for the trickling filter that is not getting any flow because the water takes another path with less resistance. Therefore the team will also conduct experiments to determine how flow is distributed. After these tests, the team determined how to use a packing material and filter design that utilizes all of the available space.
+An assumption of this model is that the entire volume of the trickling filter is being used. The team believes that there may be unused volume for the trickling filter that is not getting any flow because the water takes another path with less resistance, and therefore not fuly treating the water. Therefore the team will also conduct experiments to determine how flow is distributed. After these tests, the team determined how to use a packing material and filter design that utilizes all of the available space.
 
 <div class="alert alert-block alert-danger">
 This is an interesting point - Does this model overestimate the efficiency of the trickling filter then?
+</div>
+
+<div class="alert alert-block alert-success">
+Comment has been corrected
 </div>
 
 ### Nitrogen Kinetic Models
@@ -430,7 +451,7 @@ The team also observed that the distribution arms were failing to cover the surf
 ![Figure 2](https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/CHTF%20distribution%20arm.png?raw=true)
 Figure 2: Distribution arms failed to entirely cover the surface of the trickling filter and there was leakage from the base in the center.
 
-There was leakage from the base of the distributor arm on both trickling filters. One had very substantial leakage and a large fraction of the water was just spraying out of the center to only a foot or two away. The plant manager said that the seal connecting the pipe and distributor arm had broken and was going to be replaced. The volume of water going through the filter in the area around the base of the distributor arm was very high and the team would expect that the level of treatment for that wastewater is very low, if not non-existent, because of how high the hydraulic loading must be.
+There was leakage from the base of the distributor arm on both trickling filters. One had very substantial leakage and a large fraction of the water was just spraying out of the center to only a foot or two away. The plant manager said that the seal connecting the pipe and distributor arm had broken and was going to be replaced. The two filters operating in parallel made it possible for the plant to still operate while under maintenance, but it isn't always true that a system uses two filters, and often plants use recycle flow instead of having multiple filters. The volume of water going through the filter in the area around the base of the distributor arm was very high and the team would expect that the level of treatment for that wastewater is very low, if not non-existent, because of how high the hydraulic loading must be.
 
 The team’s visit to the wastewater treatment plant was very valuable in that it confirmed that the potential issues documented in the literature can be a reality and it made obvious the fact that there is tremendous room for innovation and improvement of trickling filter technology.
 
@@ -444,7 +465,7 @@ Also is it usual to see two filters running in parallel? Should that be accounte
 </div>
 
 <div class="alert alert-block alert-success">
-Photos integrated into text. Maintenance issues experienced by the plant were in part due to failure of various other parts of the plant and it probably isn't
+Photos integrated into text. Maintenance issues experienced by the plant were in part due to failure of various other parts of the plant and doesn't imply that all trickling filters have these maintenance issues.
 
 </div>
 
@@ -472,8 +493,14 @@ This is the collection basin which will be used to map where the water is exitin
 
 After a few experiments, the team found that water was dripping only from the rods and down the side of the PVC. Therefore they removed the rods and balanced the mesh on top of the collection basin.
 
-The procedure for a test was to first wet the surface of the rocks. This meant flowing water through at a high rate and not draining the bottom until the entire column was wet. Then all of the water was drained until what would be gravity potential in a soil. Once the gravel was at this wetted state, a short pulse of 100 mL of water was added.
+The procedure for a test was to first wet the surface of the rocks. This meant flowing water through at a high rate and not draining the bottom until the entire column was wet. Then the water was drained to gravity potential in a soil. Once the gravel  wetted, a short pulse of 100 mL of water was added. For cuvettes that had water in them, the depth of water in millimeters was measured by inserted a marked straw. However, in many of the preliminary tests until the correct amount of water was determined the cuvettes overflowed and the data was compromised. For tests where the water overflowed, the team still recorded whether a cuvette had been "hit", i.e. had water in it.
 
+The team also varied the packing material being tested to marbles. The team choose marbles because they are only slightly larger than the pea gravel, but are uniform in size. 
+
+
+
+
+#old stuff
 
 The benchtop experiment for the team is still under development, however, the means with which the experiment will be conducted is backed through verbal and written consensus within the team. The primary objective of the team's first experiment is to gather a hydraulic model for the preferential flow tendencies within the filter media. It is hypothesized that much of the porosity in the filter media is unutilized, and will remain dry due to flaws in the distribution system as well as the geometric structure of the filter.
 
@@ -507,11 +534,6 @@ Explain your apparatus setup using enough detail such that future teams can recr
 
   $\frac{-b\pm\sqrt{b^2-4ac}}{2a}$
 * Schematic (label parts)
-
-
-
-
-
 * Image (from lab; label parts)
 * Materials (dimensions, materials)
 * Complications in construction
