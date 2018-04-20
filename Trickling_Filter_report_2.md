@@ -31,7 +31,7 @@ Comment has been corrected
 
 The creation of the trickling filter subteam was prompted by the need for further treatment of wastewater following Upflow Anaerobic Sludge Blanket (UASB) treatment. A UASB reactor consists of a suspended sludge blanket which filters incoming wastewater. The wastewater enters the reactor from the bottom and flows upward through through the sludge blanket.
 
-UASB treatment very efficiently treats the biochemical oxygen demand (BOD) of wastewater, but there are high concentrations of nutrient loading in the wastewater in Honduras. The overall objective with respect to the treatment capacity of the system, is to first identify the primary issues in industrial-scale trickling filters. Using this information, the team aims to deploy an efficient, non-mechanized trickling filter which can be adapted to serve the wastewater needs of a resource-scarce community. The team's primary aim is to assess the feasibility of the inclusion of a trickling filter in a future AguaClara wastewater treatment plant.
+UASB treatment efficiently treats the biochemical oxygen demand (BOD) of wastewater, but there are high concentrations of nutrient loading in the wastewater in Honduras. The overall objective with respect to the treatment capacity of the system, is to first identify the primary issues in industrial-scale trickling filters. Using this information, the team aims to deploy an efficient, non-mechanized trickling filter which can be adapted to serve the wastewater needs of a resource-scarce community. The team's primary aim is to assess the feasibility of the inclusion of a trickling filter in a future AguaClara wastewater treatment plant.
 
 <div class="alert alert-block alert-danger">
 Define UASB
@@ -47,9 +47,15 @@ Great statement of purpose in last sentence
 Comment has been corrected
 </div>
 
-Trickling filters were heavily researched in the 1970's and 1980's but this industry witnessed a dramatic decline in literature in the years following. The wastewater research switched to more active methods of treatment like activated sludge; however, passive treatments like trickling filters have low energy requirements, if any. A driving force behind the investigation of trickling filter research is to find ways that align with the mission of achieving hydraulically-driven systems which will be much more feasible in areas of the world in which capital expenditure is a major barrier for employing this technology.
+
+A trickling filter is a biological reactor used in secondary and tertiary wastewater treatment to remove organic matter and nutrients. Settled wastewater is spread evenly by the distribution arm across the filter media, which can be rocks, gravel, or plastic media, among other things. The filter media is cultured with a productive biofilm which grows on the media and degrades the organic matter and nutrients that come into contact with it as the water trickles through.
 
 ![Trickling Filter](http://4.bp.blogspot.com/-wG5NGChx52c/TfD3bhROrwI/AAAAAAAAAAY/F4WRhidlWSE/s320/img2-25.gif)
+
+Figure 1: Cross sectional side view of a conventional trickling filter with stone media and a rotating distributor arm.
+
+
+Trickling filters were heavily researched in the 1970's and 1980's but the industry witnessed a dramatic decline in literature in the years following. The wastewater research switched to more active methods of treatment like activated sludge; however, passive treatments like trickling filters have low energy requirements, if any. A driving force behind the investigation of trickling filter research is to find ways that align with the mission of achieving hydraulically-driven systems which will be much more feasible in areas of the world in which capital expenditure is a major barrier for employing this technology.
 
 Implementation of a non-mechanized trickling filter system such as the one described in the paragraph above, is beneficial a wastewater treatment plant in terms of economic and operational sustainability. Eliminating the need of any proprietary, mechanized components opens an opportunity for cost savings and will ultimately extend the usable life for the plant. Any mechanical components added to the system present a point of failure. By removing these moving parts, the system will be able to operate for longer durations with a less-intensive maintenance schedule. This will save money and time in the long run for the plant operations.
 
@@ -429,10 +435,10 @@ Why? How does that affect air flow? Where does 15% come from?
 (Tchobanoglous et. al. 2003, pp 903)
 
 ## Case Study: Cayuga Heights Trickling Filter Observations
-The team visited the Cayuga Heights wastewater treatment plant and observed a trickling filter first-hand. It was a very informative visit, and the team was dismayed at the state of the plant and the many issues it was experiencing, especially with the trickling filters. There were two trickling filters at the plant, both of which had substantial debris (clumps of organic material, trash) on top of filter (see Figure 1); the plant manager stated that the cause was likely a failure of the bar screen that should have removed such debris when the water initially enters the plant the plant and the inefficiency of the settling tanks, which the wastewater travels through immediately before the trickling filters.
+The team visited the Cayuga Heights wastewater treatment plant and observed a trickling filter first-hand. It was a very informative visit, and the team was dismayed at the state of the plant and the many issues it was experiencing, especially with the trickling filters. There were two trickling filters at the plant, both of which had substantial debris (clumps of organic material, trash) on top of filter (see Figure 2); the plant manager stated that the cause was likely a failure of the bar screen that should have removed such debris when the water initially enters the plant the plant and the inefficiency of the settling tanks, which the wastewater travels through immediately before the trickling filters.
 
-![Figure 1](https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/CHFT%20filter%20surface.jpg?raw=true)
-Figure 1: The surface of the trickling filter with significant debris and discoloration.
+![Figure 2](https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/CHFT%20filter%20surface.jpg?raw=true)
+Figure 2: The surface of the trickling filter with significant debris and discoloration.
 
 <div class="alert alert-block alert-danger">
 Instead of "The team had the opportunity to visit the Cayuga Heights wastewater..." consider "The team visited the Cayuga Heights wastewater..."
@@ -446,10 +452,10 @@ BTW: The writing throughout this report is high quality, but these little revisi
 Comment has been corrected
 </div>
 
-The team also observed that the distribution arms were failing to cover the surface of the filter with water and there was a significant portion of the tank surface that was getting little to no water on it (see Figure 2). The regions that were most noticeably dry were the edges of the tank and an area a couple feet from the center of the base of the distributor arms. There was also a pattern of discoloration on the top of the filter, which seemed to be caused by the substantial organic matter coming through, that suggested that even the portion of the filter’s surface that was getting watered was not getting watered equally, and that there was build up of the organic matter that was getting more water (see Figure 1).
+The team also observed that the distribution arms were failing to cover the surface of the filter with water and there was a significant portion of the tank surface that was getting little to no water on it (see Figure 3). The regions that were most noticeably dry were the edges of the tank and an area a couple feet from the center of the base of the distributor arms. There was also a pattern of discoloration on the top of the filter, which seemed to be caused by the substantial organic matter coming through, that suggested that even the portion of the filter’s surface that was getting watered was not getting watered equally, and that there was build up of the organic matter that was getting more water (see Figure 2).
 
-![Figure 2](https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/CHTF%20distribution%20arm.png?raw=true)
-Figure 2: Distribution arms failed to entirely cover the surface of the trickling filter and there was leakage from the base in the center.
+![Figure 3](https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/CHTF%20distribution%20arm.png?raw=true)
+Figure 3: Distribution arms failed to entirely cover the surface of the trickling filter and there was leakage from the base in the center.
 
 There was leakage from the base of the distributor arm on both trickling filters. One had very substantial leakage and a large fraction of the water was just spraying out of the center to only a foot or two away. The plant manager said that the seal connecting the pipe and distributor arm had broken and was going to be replaced. The two filters operating in parallel made it possible for the plant to still operate while under maintenance, but it isn't always true that a system uses two filters, and often plants use recycle flow instead of having multiple filters. The volume of water going through the filter in the area around the base of the distributor arm was very high and the team would expect that the level of treatment for that wastewater is very low, if not non-existent, because of how high the hydraulic loading must be.
 
@@ -477,17 +483,17 @@ In order to understand the flow patterns in a trickling filter, the team set up 
 
 <img src="https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/flow_schematic_front.png?raw=true" height=400 width=250>
 
-Figure 3: This is a schematic of the testing structure. It is an acrylic PVC pipe with holes drills at distances of 5,10,20,40,60, and 80 cm from the top. These holes represent the depths of the filter media that we will be testing. Rods are inserted at the depth of testing to support a mesh which holds the filter media. Water flows from the dosing point through the filter media to the collection unit. The Collection unit is held in place by a PVC pipe.
+Figure 4: This is a schematic of the testing structure. It is an acrylic PVC pipe with holes drills at distances of 5,10,20,40,60, and 80 cm from the top. These holes represent the depths of the filter media that we will be testing. Rods are inserted at the depth of testing to support a mesh which holds the filter media. Water flows from the dosing point through the filter media to the collection unit. The Collection unit is held in place by a PVC pipe.
 
 The PVC pipe could be filled to different heights of gravel to test how flow disperses as a function of depth. the team's hypothesis is that the flow will spread out as depth increases.
 
 <img src="https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/Gravel_support_top view.png?raw=true" height=300 width=250>
 
-Figure 4: This schematic shows the top view of the support structure for the filter media. There is a mesh which is held up by two rods. The rods go through the PVC pipe and are tightened in place by bolts.  
+Figure 5: This schematic shows the top view of the support structure for the filter media. There is a mesh which is held up by two rods. The rods go through the PVC pipe and are tightened in place by bolts.  
 
 <img src="https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/Collection_basin_top.png?raw=true" height=300 width=300>
 
-Figure 5: this schematic shows the top view of the collection unit for the team's experiments.The squares represent cuvettes which are held in by velcro to a PVC sheet. The amount of water collected in each cuvette is recorded to determine how much water is flowing where.
+Figure 6: this schematic shows the top view of the collection unit for the team's experiments.The squares represent cuvettes which are held in by velcro to a PVC sheet. The amount of water collected in each cuvette is recorded to determine how much water is flowing where.
 
 This is the collection basin which will be used to map where the water is exiting the model filter. The water will flow in from a dosing point at the top of the filter and if it spreads out as it travels down the system it will flow into many different cuvettes. This can be then used to create heat map, or more accurately a flow map, to determine what areas are being utilized.
 
@@ -531,8 +537,11 @@ Is this all one experiment? Do you get degrees from the experiment? Does it dire
 
 ## Results and Analysis
 
-In the teams first test, we ran the pulse of water from the center of the column through the 5 cm rock depth. The team's hypothesis is that since this was such a thin layer, the water would exit nearly exactly where it can in. The team actually observed that almost all the water ended up on the walls of the apparatuses and only 4 cuvettes had water in. There could be multiple reasons for this results. 1. Since the rocks are multiple sizes they fit together in a such a way that the water would prefer to flow sideways instead of down. Then when the water came in contact with the wall it became attached and never unattached. 2. The water hit the mesh at the bottom of the apparatus and it was angled so that water flowed to the edges on the mesh before falling into the collection basin. The team conducted this test multiple times at multiple depths to reveal the same results. The next step is to try marbles because that will determine whether or not it is the mesh or the rocks. Since the marbles are a consistent size, they can't be an almost solid layer.
+In the teams first test, we ran the pulse of water from the center of the column through the 5 cm rock depth. The team's hypothesis is that since this was such a thin layer, the water would exit nearly exactly where it can in. The team actually observed that almost all the water ended up on the walls of the apparatuses and only 4 cuvettes had water in. There could be multiple reasons for this results. 1. Since the rocks are multiple sizes they fit together in a such a way that the water would prefer to flow sideways instead of down. Then when the water came in contact with the wall it became attached and never came unattached. 2. The water hit the mesh at the bottom of the apparatus and it was angled so that water flowed to the edges on the mesh before falling into the collection basin. The team conducted this test multiple times at multiple depths to reveal the same results. The next step is to try marbles because that will determine whether or not it is the mesh or the rocks. Since the marbles are a consistent size, they can't be an almost solid layer.
 
+
+<img src="https://user-images.githubusercontent.com/35943730/38639368-ea56bc0a-3d9e-11e8-998e-6c4cebaf9ec2.JPG">
+Figure 7: An example of a test run through 60 cm of pea gravel. The image shows that a few of the cuvettes were "hit" and contain water, but most are empty and the vast majority of the water ended up outside the cuvettes, in the bottom of the collection unit.
 
 ## Conclusion
 
@@ -550,7 +559,7 @@ In the past few weeks, the team has been fabricating the bench top model and beg
 ...
 
 ## Future Work
-The team has just started with testing flow patterns and will continue to conduct tests and work on mapping the flow, with both the pea gravel and the new filter media of marbles. In addition to flow mapping, the team will also work on brainstorming and designing novel geometries for testing. This will include building models of the team's current ideas. Along with the testing, the team is frequently thinking about what novel designs could address any of the various areas for improvement in the discovered during research. The team expects to have a solid start on an elementary model of an entirely different trickling filter system using strings by the end of the semester, as well as a more solid set of data from the flow tests. A future goal that will not be attempted this semester is to create a bench top model so that nitrogen and phosphorus removal can be measured.
+The team has just started with testing flow patterns and will continue to conduct tests and work on a model for the preferential flow tendencies, with both the pea gravel and the new filter media of marbles. In addition to flow mapping, the team will also work on brainstorming and designing novel geometries for testing. This will include building models of the team's current ideas. Along with the testing, the team is frequently thinking about what novel designs could address any of the various areas for improvement in the discovered during research. The team expects to have a solid start on an elementary model of an entirely different trickling filter system using strings by the end of the semester, as well as a more solid set of data from the flow tests. A future goal that will not be attempted this semester is to create a bench top model so that nitrogen and phosphorus removal can be measured.
 
 <div class="alert alert-block alert-danger">
 Reconsider the last sentence.
@@ -583,8 +592,6 @@ The goal of this section is to provide all of the guidance that would be necessa
 ## Fabrication Details
 Include any information related to the fabrication of equipment, experimental apparatuses, or technologies. Include the purpose of each step and the fabrication methods used. Reference appropriate safety precautions.
 
-## Special Components
-If your subteam uses a particular part that is unique and you could foresee a future subteam needing to order it or learn more about it, please include basic information like the vendor where it was purchased, catalog/item number, and a link to any documentation.
 
 ## Experimental Methods
 ### Set-up
@@ -601,34 +608,6 @@ Step 1.
 
 ## Experimental Checklist
 Another potential section could include a list of things that you need to check before running an experiment.
-
-## ProCoDA Method File
-Use this section to explain your method file. This could be broken up into several components as shown below:
-
-### States
-Here, you should describe the function of each state in your method file, both in terms of its overall purpose and also in terms of the details that make it distinct from other states. For example:
-\begin{itemize}
-\item \underline{OFF} - Resting state of ProCoDA. All sensors, relays, and pumps are turned off.
-\end{itemize}
-
-### Set Points
-Here, you should list the set points used in your method file and explain their use as well as how each was calculated.
-
-## Python Code
-
-### Variables
-$g$: gravity
-$\sigma$: dispersion
-$a$: amplitude
-$h$: water depth
-$H$: distance from wave crest to trough (2$a$)
-$T$: wave period
-$\lambda$: wavelength
-$k$: wavenumber
-$c_p$: celerity (wave phase speed)
-$P$: pressure
-$F$: force
-$u$, $w$: x-velocity, z-velocity components
 
 
 ```python
