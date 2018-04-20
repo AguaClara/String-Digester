@@ -555,11 +555,10 @@ Preliminary research was driven primarily by industry research, however, it is e
 Excellent
 </div>
 
-In the past few weeks, the team has been fabricating the bench top model and beginning to conduct  tests to determine the distribution of flow in trickling filters. The preliminary results from these tests were confusing, as almost all water was running down the side of the tube instead of through the media, so the process of getting data has been slower than the team was expecting.
-...
+In the past few weeks, the team has been fabricating the bench top model and beginning to conduct  tests to determine the distribution of flow in trickling filters. The preliminary results from these tests were confusing, as almost all water was running down the side of the tube instead of through the media, so the process of getting data has been slower than the team was expecting. In an attempt to address this issue and pin point what exactly is causing this, the team has started testing with marbles as a trickling media to see if similar behavior is observed with various media if it is specific to the pea gravel.
 
 ## Future Work
-The team has just started with testing flow patterns and will continue to conduct tests and work on a model for the preferential flow tendencies, with both the pea gravel and the new filter media of marbles. In addition to flow mapping, the team will also work on brainstorming and designing novel geometries for testing. This will include building models of the team's current ideas. Along with the testing, the team is frequently thinking about what novel designs could address any of the various areas for improvement in the discovered during research. The team expects to have a solid start on an elementary model of an entirely different trickling filter system using strings by the end of the semester, as well as a more solid set of data from the flow tests. A future goal that will not be attempted this semester is to create a bench top model so that nitrogen and phosphorus removal can be measured.
+The team has just started with testing flow patterns and will continue to conduct tests and work on a model for the preferential flow tendencies, with both the pea gravel and the new filter media of marbles. In addition to flow mapping, the team will also work on brainstorming and designing novel geometries for testing. This will include building models of the team's current ideas. Along with the testing, the team is frequently thinking about what novel designs could address any of the various areas for improvement in the discovered during research. The team expects to have a solid start on an elementary model of an entirely different trickling filter system using strings by the end of the semester, as well as a more solid set of data from the flow tests. A future goal that will not be attempted this semester is the creation of a bench top model  that allows for measurement of nitrogen and phosphorus removal.
 
 <div class="alert alert-block alert-danger">
 Reconsider the last sentence.
@@ -585,29 +584,6 @@ Sperling, Marcos von (2007). *Activated Sludge and Aerobic Biofilm Reactors.* (p
 Tchobanoglous, G., F. Burton, H. D. Stensel (2003). *Wastewater Engineering: Treatment and Reuse*. New York, NY: McGraw-Hill.
 
 United States Environmental Protection Agency. (1991, May). *Assessment of Single-Stage Trickling Filter Nitrification*. Office of Water.
-
-# Manual
-The goal of this section is to provide all of the guidance that would be necessary for a future team to pick up your work where you left off. Please try to be thorough and put yourselves in the shoes of a newcomer to the project. Below are some recommended sections, but the manual will likely take a slightly different form for each team.
-
-## Fabrication Details
-Include any information related to the fabrication of equipment, experimental apparatuses, or technologies. Include the purpose of each step and the fabrication methods used. Reference appropriate safety precautions.
-
-
-## Experimental Methods
-### Set-up
-Step 1.
-* Put tasks in a sequential order.
-* It is okay to have sub-lists.
-  - Like this.
-
-### Experiment
-Step 1.
-
-### Cleaning Procedure
-Step 1.
-
-## Experimental Checklist
-Another potential section could include a list of things that you need to check before running an experiment.
 
 
 ```python
