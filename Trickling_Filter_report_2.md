@@ -61,7 +61,7 @@ Financial sustainability is a key concept here, explain why it is critical in te
 Comment has been corrected
 </div>
 
-Decline in trickling filter research several decades ago due to the advent of aeration tanks and other more efficient but high energy processes, and so progress in the field has been very limited. Therefore, the team believe's with modern technologies and new information, trickling filters can be improved upon in maximizing the utilization rates of the biofilm surface areas and nutrient removal performance for the system. The team strives to make significant technological improvements on industry-standard applications for the system.
+ Trickling filter research saw a significant decline several decades ago due to the advent of aeration tanks and other more efficient but high energy processes, and so recent progress in the field has been very limited. Therefore, the team believe's with modern technologies and new information, trickling filters can be improved upon in maximizing the utilization rates of the biofilm surface areas and nutrient removal performance for the system. The team strives to make significant technological improvements on industry-standard applications for the system.
 
 <div class="alert alert-block alert-danger">
 First sentence is circular
@@ -583,7 +583,7 @@ In the past few weeks, the team has been fabricating the bench top model and beg
 ...
 
 ## Future Work
-The team has just started with testing flow patterns and will continue to conduct tests and work on mapping the flow, with both the pea gravel and the new filter media of marbles. In addition to flow mapping, the team will also work on brainstorming and designing novel geometries for testing. This will include building models of the team's current ideas. Along with the testing, the team is frequently thinking about what novel designs could address any of the various areas for improvement in the trickling filter discovered during research. The team expects to have a solid start on an elementary model of an entirely different trickling filter system using strings by the end of the semester, as well as a more solid set of data from the flow tests. A future goal that will not be attempted this semester is to create a bench top model so that nitrogen and phosphorus removal can be measured.
+The team has just started with testing flow patterns and will continue to conduct tests and work on mapping the flow, with both the pea gravel and the new filter media of marbles. In addition to flow mapping, the team will also work on brainstorming and designing novel geometries for testing. This will include building models of the team's current ideas. Along with the testing, the team is frequently thinking about what novel designs could address any of the various areas for improvement in the discovered during research. The team expects to have a solid start on an elementary model of an entirely different trickling filter system using strings by the end of the semester, as well as a more solid set of data from the flow tests. A future goal that will not be attempted this semester is to create a bench top model so that nitrogen and phosphorus removal can be measured.
 
 <div class="alert alert-block alert-danger">
 Reconsider the last sentence.
