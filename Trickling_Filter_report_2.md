@@ -47,7 +47,7 @@ Great statement of purpose in last sentence
 Comment has been corrected
 </div>
 
-Trickling filter research was heavily researched in the 1970's and 1980's but this industry witnessed a dramatic decline in literature in the years following. The wastewater research switched to more active methods of treatment like activated sludge; however, passive treatments like trickling filters have low energy requirements, if any. A driving force behind the investigation of trickling filter research is to find ways that align with the mission of achieving hydraulically-driven systems which will be much more feasible in areas of the world in which capital expenditure is a major barrier for employing this technology.
+Trickling filters were heavily researched in the 1970's and 1980's but this industry witnessed a dramatic decline in literature in the years following. The wastewater research switched to more active methods of treatment like activated sludge; however, passive treatments like trickling filters have low energy requirements, if any. A driving force behind the investigation of trickling filter research is to find ways that align with the mission of achieving hydraulically-driven systems which will be much more feasible in areas of the world in which capital expenditure is a major barrier for employing this technology.
 
 ![Trickling Filter](http://4.bp.blogspot.com/-wG5NGChx52c/TfD3bhROrwI/AAAAAAAAAAY/F4WRhidlWSE/s320/img2-25.gif)
 
@@ -61,7 +61,7 @@ Financial sustainability is a key concept here, explain why it is critical in te
 Comment has been corrected
 </div>
 
-Trickling filter research was booming in the 1960-80's, then ceased with the advent of aeration tanks and other more efficient but high energy processes. Therefore, the team believe's with new technologies and information trickling filters can be improved upon in maximizing the utilization rates of the biofilm surface areas and nutrient removal performance for the system. The team strives to make significant technological improvements on industry-standard applications for the system.
+Decline in trickling filter research several decades ago due to the advent of aeration tanks and other more efficient but high energy processes, and so progress in the field has been very limited. Therefore, the team believe's with modern technologies and new information, trickling filters can be improved upon in maximizing the utilization rates of the biofilm surface areas and nutrient removal performance for the system. The team strives to make significant technological improvements on industry-standard applications for the system.
 
 <div class="alert alert-block alert-danger">
 First sentence is circular
@@ -114,7 +114,7 @@ Add photos to give a mental image. It will aid understanding of the geometry you
 
 </div>
 <div class="alert alert-block alert-success">
-Picture added
+Picture added. We are assuming the reader is someone with a general background knowledge of wastewaster treatment and is therefore familiar with trickling filter technology.
 </div>
 
 ### Kinetics
@@ -495,7 +495,7 @@ After a few experiments, the team found that water was dripping only from the ro
 
 The procedure for a test was to first wet the surface of the rocks. This meant flowing water through at a high rate and not draining the bottom until the entire column was wet. Then the water was drained to gravity potential in a soil. Once the gravel  wetted, a short pulse of 100 mL of water was added. For cuvettes that had water in them, the depth of water in millimeters was measured by inserted a marked straw. However, in many of the preliminary tests until the correct amount of water was determined the cuvettes overflowed and the data was compromised. For tests where the water overflowed, the team still recorded whether a cuvette had been "hit", i.e. had water in it.
 
-The team also varied the packing material being tested to marbles. The team choose marbles because they are only slightly larger than the pea gravel, but are uniform in size. 
+The team also varied the packing material being tested to marbles. The team choose marbles because they are only slightly larger than the pea gravel, but are uniform in size.
 
 
 
@@ -579,12 +579,18 @@ Preliminary research was driven primarily by industry research, however, it is e
 Excellent
 </div>
 
-## Future Work
+In the past few weeks, the team has been fabricating the bench top model and beginning to conduct  tests to determine the distribution of flow in trickling filters. The preliminary results from these tests were confusing, as almost all water was running down the side of the tube instead of through the media, so the process of getting data has been slower than the team was expecting.
+...
 
-In the coming weeks, the team will be conducting its preliminary tests to determine the distribution of flow in trickling filters. The team believes that their literature review period is almost over and hopes to move almost all their time to bench-top testing. In addition to flow mapping, the team will also work on designing novel geometries for testing. This will include building models of the team's current ideas. A future goal that will not be done this semester is to create a bench top model so that nitrogen and phosphorus removal can be measured. The team believes there is many different areas for improvement in the trickling filter and research should continue to explore the possibilities.
+## Future Work
+The team has just started with testing flow patterns and will continue to conduct tests and work on mapping the flow, with both the pea gravel and the new filter media of marbles. In addition to flow mapping, the team will also work on brainstorming and designing novel geometries for testing. This will include building models of the team's current ideas. Along with the testing, the team is frequently thinking about what novel designs could address any of the various areas for improvement in the trickling filter discovered during research. The team expects to have a solid start on an elementary model of an entirely different trickling filter system using strings by the end of the semester, as well as a more solid set of data from the flow tests. A future goal that will not be attempted this semester is to create a bench top model so that nitrogen and phosphorus removal can be measured.
 
 <div class="alert alert-block alert-danger">
 Reconsider the last sentence.
+</div>
+
+<div class="alert alert-block alert-success">
+Sentenced changed and moved
 </div>
 
 ## Bibliography
