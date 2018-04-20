@@ -11,7 +11,6 @@ Comment has been corrected
 </div>
 
 ## Abstract
-
 The objective for this semester were to identify problems with trickling filters in industry in parallel with efforts to develop robust kinematic models such to enable future wastewater subteams to employ novel trickling filter applications. This semester was expected to be driven primarily by literature research, but the team has begun construction for a benchtop experiment in preliminary hydraulic modeling through the filter media. The purpose of the team's benchtop experiments were to characterize the hydraulic behavior of a trickling filter and the flow of water through its packing media. The team used this information to identify the areas within the system with the greatest potential for improvements. For instance, large areas in the packing media where water did not flow were considered to be "dead volumes." These portions of the filter media were addressed in steering the focus for optimizing the surface area-to-volume ratios of the system to produce maximum utility in the system's treatment potential.
 
 <div class="alert alert-block alert-danger">
@@ -338,8 +337,8 @@ Comment corrected. We are currently at the brainstorming stage, so we don't know
 |  Rock (large)  |  10-13   |   45  |  60   |   C, CN, N  |
 |  Plastic -- Conventional   |   61 x 61 x 122  |   90  |  >95   |   C, CN, N  |
 |  Plastic -- High Specific Surface Area  |  61 x 61 x 122   |   140  |   >94  |  N   |
-|  Rock (small)   |  Varies   |   98  |   80  |   C, CN, N  |
-|  Rock (small)   |  Varies   |   150  |  70   |  N   |
+|  Plastic random packing - conventional   |  Varies   |   98  |   80  |   C, CN, N  |
+|  Plastic random packing - high specific surface area   |  Varies   |   150  |  70   |  N   |
 
 <div class="alert alert-block alert-danger">
 What does the Application Column mean? (N, C, CN)
@@ -355,7 +354,7 @@ Have you thought about heat retention/conductivity of the material?
 
 ### Dosing Rate
 
-The dosing rate of on a trickling filter is the depth of liquid discharged on top of the packing for each pass of the distributor (Tchobanoglous et. al. 2003, pp 898).
+The dosing rate of on a trickling filter is the depth of liquid discharged on top of the packing for each pass of the distributor (Tchobanoglous et. al. 2003, pp 898). This dosage or "operating dose" can be achieved by adjusting a number of control points in the system. The first of which
 
 $n = \frac{(1 + R)(q)(10^3 mm/m)}{(A)(DR)(60 min/h)}$
 
@@ -495,10 +494,7 @@ After a few experiments, the team found that water was dripping only from the ro
 
 The procedure for a test was to first wet the surface of the rocks. This meant flowing water through at a high rate and not draining the bottom until the entire column was wet. Then the water was drained to gravity potential in a soil. Once the gravel  wetted, a short pulse of 100 mL of water was added. For cuvettes that had water in them, the depth of water in millimeters was measured by inserted a marked straw. However, in many of the preliminary tests until the correct amount of water was determined the cuvettes overflowed and the data was compromised. For tests where the water overflowed, the team still recorded whether a cuvette had been "hit", i.e. had water in it.
 
-The team also varied the packing material being tested to marbles. The team choose marbles because they are only slightly larger than the pea gravel, but are uniform in size. 
-
-
-
+The team also varied the packing material being tested to marbles. The team choose marbles because they are only slightly larger than the pea gravel, but are uniform in size.
 
 #old stuff
 
@@ -527,17 +523,6 @@ What is hydraulic fingering?
 
 Is this all one experiment? Do you get degrees from the experiment? Does it directly output a map? I am having a difficult time imagining this.
 </div>
-
-### Experimental Apparatus
-Explain your apparatus setup using enough detail such that future teams can recreate your apparatus. Make sure to explain why you built it this way.
-* Design (calculations, constraints)
-
-  $\frac{-b\pm\sqrt{b^2-4ac}}{2a}$
-* Schematic (label parts)
-* Image (from lab; label parts)
-* Materials (dimensions, materials)
-* Complications in construction
-* If already constructed: write a brief summary of important constraints, include any revisions to apparatus, also reference the prior report where construction is described
 
 
 ## Results and Analysis
@@ -605,20 +590,17 @@ Tchobanoglous, G., F. Burton, H. D. Stensel (2003). *Wastewater Engineering: Tre
 United States Environmental Protection Agency. (1991, May). *Assessment of Single-Stage Trickling Filter Nitrification*. Office of Water.
 
 # Manual
-The goal of this section is to provide all of the guidance that would be necessary for a future team to pick up your work where you left off. Please try to be thorough and put yourselves in the shoes of a newcomer to the project. Below are some recommended sections, but the manual will likely take a slightly different form for each team.
 
 ## Fabrication Details
 Include any information related to the fabrication of equipment, experimental apparatuses, or technologies. Include the purpose of each step and the fabrication methods used. Reference appropriate safety precautions.
 
 ## Special Components
-If your subteam uses a particular part that is unique and you could foresee a future subteam needing to order it or learn more about it, please include basic information like the vendor where it was purchased, catalog/item number, and a link to any documentation.
+- The mesh for the team's test was gutter mesh used to keep leaves out of gutters
+- The team got the pea gravel from Lowe's
 
 ## Experimental Methods
 ### Set-up
-Step 1.
-* Put tasks in a sequential order.
-* It is okay to have sub-lists.
-  - Like this.
+*
 
 ### Experiment
 Step 1.
@@ -629,33 +611,7 @@ Step 1.
 ## Experimental Checklist
 Another potential section could include a list of things that you need to check before running an experiment.
 
-## ProCoDA Method File
-Use this section to explain your method file. This could be broken up into several components as shown below:
 
-### States
-Here, you should describe the function of each state in your method file, both in terms of its overall purpose and also in terms of the details that make it distinct from other states. For example:
-\begin{itemize}
-\item \underline{OFF} - Resting state of ProCoDA. All sensors, relays, and pumps are turned off.
-\end{itemize}
-
-### Set Points
-Here, you should list the set points used in your method file and explain their use as well as how each was calculated.
-
-## Python Code
-
-### Variables
-$g$: gravity
-$\sigma$: dispersion
-$a$: amplitude
-$h$: water depth
-$H$: distance from wave crest to trough (2$a$)
-$T$: wave period
-$\lambda$: wavelength
-$k$: wavenumber
-$c_p$: celerity (wave phase speed)
-$P$: pressure
-$F$: force
-$u$, $w$: x-velocity, z-velocity components
 
 
 ```python
