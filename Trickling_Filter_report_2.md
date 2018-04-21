@@ -336,16 +336,22 @@ Comment corrected. We are currently at the brainstorming stage, so we don't know
 5. Ventilation through either natural or forced airflow
 6. Settling tank designs for the effluent
 
-### Packing Material properties
+### Packing Media
 
+The ideal packing material for a trickling filter has a high surface area-to-volume ratio. Factors which add to the value of an ideal packing media are its durability, if it is low in cost, and allows for porosity great enough to promote air circulation and to prevent clogging in the system.
+
+Plastic packing, for example, has the advantage over rock-based packing for its ability to operate at higher organic loading rates. Due to the characteristics of the media, the trickling filters can be much taller.
+
+#### Packing Material Properties
 | Material |Nominal Size (cm) |Surface Area (m^2/m^3)| Void Space (%) | Application |
 | --- | --- | --- | --- | --- |--- | --- |
 |  Rock (small)   |   2.5-7.5  |  60   |  50   |  N   |
 |  Rock (large)  |  10-13   |   45  |  60   |   C, CN, N  |
 |  Plastic -- Conventional   |   61 x 61 x 122  |   90  |  >95   |   C, CN, N  |
 |  Plastic -- High Specific Surface Area  |  61 x 61 x 122   |   140  |   >94  |  N   |
-|  Rock (small)   |  Varies   |   98  |   80  |   C, CN, N  |
-|  Rock (small)   |  Varies   |   150  |  70   |  N   |
+|  Plastic random packing - conventional   |  Varies   |   98  |   80  |   C, CN, N  |
+|  Plastic random packing - high specific surface area   |  Varies   |   150  |  70   |  N   |
+######C = BOD Removal; N = Tertiary Nitrification; CN = Combined BOD and Nitrification
 
 <div class="alert alert-block alert-danger">
 What does the Application Column mean? (N, C, CN)
@@ -359,9 +365,23 @@ Also you have "rock (small)" on there three times, how are they different?
 Have you thought about heat retention/conductivity of the material?
 </div>
 
+<div class="alert alert-block alert-success">
+Definition added
+
+Discussion included
+
+Title and caption added
+
+Typo corrected
+
+Temperature is only a concern for naturally aerated systems which is addressed later in the report
+</div>
+
 ### Dosing Rate
 
-The dosing rate of on a trickling filter is the depth of liquid discharged on top of the packing for each pass of the distributor (Tchobanoglous et. al. 2003, pp 898).
+The dosing rate of on a trickling filter is the depth of liquid discharged on top of the packing for each pass of the distributor (Tchobanoglous et. al. 2003, pp 898). To achieve the desired flowrate, plant operators can change a number of control points in the system to do so. Firstly, the locations of some existing orifices can be reversed to the front of the distributor arm. An alternative to this would be to add reversed deflectors to existing orifice discharges. The final, and most energy-intensive alternative to dosing control is to include a variable-speed electric driver to the rotating distributor arm.
+
+If a high dosing rate is set in order to maintain a thick biofilm  in the filter media, then the efficacy of treatment may see a sharp decrease in performance due to a reduction in contact time between the water flowing through the system and the packing media. A daily intermittent high-flow dose is applied to the system, known as the "flushing dose". The flushing dose is used to control the thickness of the biofilm and any remaining solids in the system.
 
 $n = \frac{(1 + R)(q)(10^3 mm/m)}{(A)(DR)(60 min/h)}$
 
@@ -387,26 +407,28 @@ What is flushing?
 Can this be adapted to now rotating arms as discussed earlier?
 </div>
 
+<div class="alert alert-block alert-success">
+Comment corrected.
+</div>
+
 #### Ideas for Improvements
 
-One of the primary failure modes of a trickling filter system involves complications with the mechanized distribution system in industrial plants. The rotational velocity of the arms is usually driven by the hydraulic propulsion, which may not be the optimal dosing rate, and thus will detrimentally effect the efficiency of the overall treatment train.
+One of the primary failure modes of a trickling filter system involves complications with the mechanized components, especially those in the distribution system. The rotational velocity of the arms is usually driven by hydraulic propulsion, which may not apply the optimal dosing rate due to a lack of sub-metering in the distributor. In other words, the application of water across the media is largely left up to a rough approximation.
 
 As the rotary arms dose water to the system, there is a non-uniform distribution across the filter media. This is an immediate source of efficiency losses since the biofilm can only treat the water in which it comes in contact with. Additionally, the dosing ports in the arms have a tendency to become clogged with miscellaneous debris which may have been missed by the primary clarification process. Most plants do not have sub-metering within the arms to measure the volumetric flow distribution of wastewater being dosed to the system.
 
-An area for improvement is to completely forgo the mechanical distribution system, and to design a reliable distributor which can dose wastewater uniformly across the media and is adjustable to accommodate the wastewater treatment needs of a community.
+An area for improvement is to completely forgo the mechanical distribution system, and to design a reliable distributor which can dose wastewater uniformly across the media. The most valuable modification to the distributor would be the ability to have full control over the dosing rates at any given moment.
 
 <div class="alert alert-block alert-danger">
 Proofread, focus on clarity and being concise.
 </div>
 
-### Underdrain Systems
-The underdrains capture the filtered wastewater and effluent solids, and serves as the intermediate transfer into the sedimentation tanks (Tchobanoglous et. al. 2003, pp 901). Typical drainage channel slopes range from a 1 to 5 percent grade, and are sized to accommodate a minimum velocity of 2 ft/s.
-
-<div class="alert alert-block alert-danger">
-Are these important? Reference them earlier in description of overall system.
+<div class="alert alert-block alert-success">
+Comment corrected.
 </div>
 
-### Ventilation and Aeration
+
+### Ventilation and Aeration·
 #### Natural Draft
 The driving force behind natural airflow is derived from a temperature gradient between the ambient air temperature and the temperature within the pores of the media material. An equation from (Schroeder and Tchobanoglous, 1976):
 
