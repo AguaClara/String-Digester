@@ -428,7 +428,11 @@ Comment corrected.
 </div>
 
 
+<<<<<<< HEAD:Trickling_Filter_report_2.md
 ### Ventilation and Aeration·
+=======
+### Ventilation and Aeration
+>>>>>>> 244d1c85c7f8ea933050f94c7cb8091ebf5292db:TricklingFilter_Report_2.md
 #### Natural Draft
 The driving force behind natural airflow is derived from a temperature gradient between the ambient air temperature and the temperature within the pores of the media material. An equation from (Schroeder and Tchobanoglous, 1976):
 
@@ -439,10 +443,14 @@ $D_{air} = 353(\frac{1}{T_c} - \frac{1}{T_h})Z$
 * $\small T_h$ = hot temperature, K
 * $\small Z$ = height of filter, m
 
-The most likely means of aeration in the trickling filter design for this team is a natural draft, which requires the following criteria for it to be implemented successfully:
+The trickling filter for the team will strive to employ a naturally aerated system. The industry-standard for natural aeration or "natural draft" is to use a temperature gradient between the filter media and the ambient air temperature to provide a flow of air. To achieve natural draft, the following criteria are required:
 
 <div class="alert alert-block alert-danger">
 Rephrase this sentence, I can't understand it.
+</div>
+
+<div class="alert alert-block alert-success">
+Comment corrected.
 </div>
 
 1. The drainage and collection channels must not flow any greater than halfway full in order to permit air flow throughout the system.
@@ -451,6 +459,10 @@ Rephrase this sentence, I can't understand it.
 
 <div class="alert alert-block alert-danger">
 Why? How does that affect air flow? Where does 15% come from?
+</div>
+
+<div class="alert alert-block alert-success">
+Empirical constraint derived from Schroeder and Tchobanoglous
 </div>
 
 4. A ratio of 10 $\small ft^2$/250 $\small ft^2$ (open grating area/filter area) should be provided in the design.
@@ -511,7 +523,7 @@ The PVC pipe could be filled to different heights of gravel to test how flow dis
 
 <img src="https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/Gravel_support_top view.png?raw=true" height=300 width=250>
 
-Figure 5: This schematic shows the top view of the support structure for the filter media. There is a mesh which is held up by two rods. The rods go through the PVC pipe and are tightened in place by bolts.  
+Figure 5: This schematic shows the top view of the support structure for the filter media. There is a mesh which is held up by two rods. The rods go through the PVC pipe and are tightened in place by bolts.
 
 <img src="https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/Collection_basin_top.png?raw=true" height=300 width=300>
 
@@ -528,7 +540,7 @@ The team also varied the packing material being tested to marbles. The team choo
 
 
 
-#old stuff
+#Experimental History: Abandoned Project Focus
 
 The benchtop experiment for the team is still under development, however, the means with which the experiment will be conducted is backed through verbal and written consensus within the team. The primary objective of the team's first experiment is to gather a hydraulic model for the preferential flow tendencies within the filter media. It is hypothesized that much of the porosity in the filter media is unutilized, and will remain dry due to flaws in the distribution system as well as the geometric structure of the filter.
 
