@@ -428,7 +428,11 @@ Comment corrected.
 </div>
 
 
+<<<<<<< HEAD:Trickling_Filter_report_2.md
+### Ventilation and Aeration·
+=======
 ### Ventilation and Aeration
+>>>>>>> 244d1c85c7f8ea933050f94c7cb8091ebf5292db:TricklingFilter_Report_2.md
 #### Natural Draft
 The driving force behind natural airflow is derived from a temperature gradient between the ambient air temperature and the temperature within the pores of the media material. An equation from (Schroeder and Tchobanoglous, 1976):
 
