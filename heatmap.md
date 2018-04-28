@@ -12,8 +12,14 @@ rocks_wet_1 = pd.read_csv('Experiment_1_Rocks_Wet.csv')
 rocks_wet_2 = pd.read_csv('Experiment_2_Rocks_Wet.csv')
 rocks_wet_3 = pd.read_csv('Experiment_3_Rocks_Wet.csv')
 marbles = marbles_1 + marbles_2 + marbles_3
+marbles_total = np.sum(marbles)
+print(np.sum(marbles_total))
 rocks_dry = rocks_dry_1 + rocks_dry_2 + rocks_dry_3
+rocks_dry_total = np.sum(rocks_dry)
+print(np.sum(rocks_dry_total))
 rocks_wet = rocks_wet_1 + rocks_wet_2 + rocks_wet_3
+rocks_wet_total = np.sum(rocks_wet)
+print(np.sum(rocks_wet_total))
 plt.imshow(marbles, cmap='hot', interpolation='nearest')
 plt.savefig('marbles')
 plt.show()
