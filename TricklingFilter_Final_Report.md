@@ -12,7 +12,7 @@ Comment has been corrected
 
 ## Abstract
 
-The objective for this semester were to identify problems with trickling filters in industry in parallel with efforts to develop robust kinematic models such to enable future wastewater subteams to employ novel trickling filter applications. This semester was expected to be driven primarily by literature research, but the team has begun construction for a benchtop experiment in preliminary hydraulic modeling through the filter media. The purpose of the team's benchtop experiments were to characterize the hydraulic behavior of a trickling filter and the flow of water through its packing media. The team used this information to identify the areas within the system with the greatest potential for improvements. For instance, large areas in the packing media where water did not flow were considered to be "dead volumes." These portions of the filter media were addressed in steering the focus for optimizing the surface area-to-volume ratios of the system to produce maximum utility in the system's treatment potential.
+The objective for this semester was identifying problems with trickling filters and determining possibly solutions. After an extensive literature review, two bench scale experiments were conducted. The first was to characterize the hydraulic behavior of a trickling filter and the flow of water through its packing media. The team used this information to identify the areas within the system with the greatest potential for improvements. From this information, the first prototype was built using strings to control flow paths and create a high surface area to volume ratio. Preliminary tests were conducted on the prototype to determine flow dispersion, residence time, and optimal string spacing.
 
 <div class="alert alert-block alert-danger">
 Revise first sentence.
@@ -24,17 +24,25 @@ Watch difference between were and was
 Consider revising again for wordiness. Think of sentence length like punches. You can have a few big punches in a fight, but more smaller jabs
 </div>
 
+<div class="alert alert-block alert-success">
+Comment has been corrected
+</div>
+
 ## Introduction
 
-The creation of the trickling filter subteam was prompted by the need for further treatment of wastewater following Upflow Anaerobic Sludge Blanket (UASB) treatment. A UASB reactor consists of a suspended sludge blanket which filters incoming wastewater. The wastewater enters the reactor from the bottom and flows upward through through the sludge blanket.
+The creation of the trickling filter subteam was prompted by the need for further treatment of wastewater following Upflow Anaerobic Sludge Blanket (UASB) treatment. A UASB reactor consists of a suspended sludge blanket which filters incoming wastewater. The wastewater enters the reactor from the bottom and flows upward through through the sludge blanket. UASB treatment efficiently treats the biochemical oxygen demand (BOD) of wastewater, but there are high concentrations of nutrient loading in the wastewater in Honduras. Wastewater that is not treated can transmit diseases and add nutrients to water systems. Excessive nutrients in water systems can decrease dissolved oxygen and also cause toxic algal blooms. Trickling filters can be used to decrease the nutrient and BOD content of wastewater
 
-UASB treatment efficiently treats the biochemical oxygen demand (BOD) of wastewater, but there are high concentrations of nutrient loading in the wastewater in Honduras. The overall objective with respect to the treatment capacity of the system, is to first identify the primary issues in industrial-scale trickling filters. Using this information, the team aims to deploy an efficient, non-mechanized trickling filter which can be adapted to serve the wastewater needs of a resource-scarce community. The team's primary aim is to assess the feasibility of the inclusion of a trickling filter in a future AguaClara wastewater treatment plant.
+The overall objective with respect to the treatment capacity of the system, is to first identify the primary issues in industrial-scale trickling filters. Using this information, the team aims to deploy an efficient, non-mechanized trickling filter which can be adapted to serve the wastewater needs of a resource-scarce community. The team's primary aim is to assess the feasibility of the inclusion of a trickling filter in a future AguaClara wastewater treatment plant.
 
 <div class="alert alert-block alert-danger">
 Consider better flow from first to second sentence
 
 Consider adding health effects if there isn't robust wastewater treatment (one sentence) - ties into importance to AguaClara as a total unit.
 </div>
+<div class="alert alert-block alert-success">
+Added information about wastewater and better broke up the paragraphs to flow well.
+</div>
+
 
 A trickling filter is a biological reactor used in secondary and tertiary wastewater treatment to remove organic matter and nutrients. Settled wastewater is spread evenly by the distribution arm across the filter media, which can be rocks, gravel, or plastic media, among other things. The filter media is cultured with a productive biofilm which grows on the media and degrades the organic matter and nutrients that come into contact with it as the water trickles through.
 
@@ -46,21 +54,8 @@ Figure 1: Cross sectional side view of a conventional trickling filter with ston
 consider centering figures and their captions
 </div>
 
-Trickling filters were heavily researched in the 1970's and 1980's but the industry witnessed a dramatic decline in literature in the years following. The wastewater research switched to more active methods of treatment like activated sludge; however, passive treatments like trickling filters have low energy requirements, if any. A driving force behind the investigation of trickling filter research is to find ways that align with the mission of achieving hydraulically-driven systems which will be much more feasible in areas of the world in which capital expenditure is a major barrier for employing this technology.
-
-<div class="alert alert-block alert-danger">
-When using a sentence like "The wastewater research switched to more active methods of treatment like activated sludge; however, passive treatments like trickling filters have low energy requirements, if any." you want both parts of the sentence to be logically connected.
-
-I understand that you mean that trickling filters have low energy requirements which are advantageous in electricity scarce areas, but this sentence is saying "The research has shifted focus but the filters are low energy" which on its own, doesn't make sense. Try expressing this idea differently.
-</div>
-
-Implementation of a non-mechanized trickling filter system such as the one described in the paragraph above, is beneficial a wastewater treatment plant in terms of economic and operational sustainability. Eliminating the need of any proprietary, mechanized components opens an opportunity for cost savings and will ultimately extend the usable life for the plant. Any mechanical components added to the system present a point of failure. By removing these moving parts, the system will be able to operate for longer durations with a less-intensive maintenance schedule. This will save money and time in the long run for the plant operations.
-
-<div class="alert alert-block alert-danger">
-"extend the usable life of the plant"
-</div>
-
- Trickling filter research saw a significant decline several decades ago due to the advent of aeration tanks and other more efficient but high energy processes, and so recent progress in the field has been very limited. Therefore, the team believe's with modern technologies and new information, trickling filters can be improved upon in maximizing the utilization rates of the biofilm surface areas and nutrient removal performance for the system. The team strives to make significant technological improvements on industry-standard applications for the system.
+Trickling filters were heavily researched in the 1970's and 1980's but the industry witnessed a dramatic decline in literature in the years following. The wastewater research after 1980 switch to more energy intensive methods of treatment, like activated sludge. These processes have a higher removal efficiency, but require massive amounts of energy. One aspects that is central to AguaClara's mission is to use as little (or no) electricity. Therefore, a passive treatment like trickling filters only require the energy for water to make it to the top of the filter. This is especially important in regions where electricity is not available or consistent.
+The team believes with modern technologies and new information, trickling filters can achieve a high performance level. This can be done by improving by maximizing the utilization rates of the biofilm surface areas and nutrient removal performance for the system. The team strives to make significant technological improvements on industry-standard applications for the system.
 
 <div class="alert alert-block alert-danger">
 You mention this two paragraphs ago but there are more details here then there. Considering moving these details up there.
@@ -69,6 +64,31 @@ change "believe's" to believes
 
 Change "improved upon in maximizing" to "improved by maximizing" - the writing has gotten more concise, but continue to revise!
 </div>
+
+<div class="alert alert-block alert-success">
+Comments have been corrected
+</div>
+
+<div class="alert alert-block alert-danger">
+When using a sentence like "The wastewater research switched to more active methods of treatment like activated sludge; however, passive treatments like trickling filters have low energy requirements, if any." you want both parts of the sentence to be logically connected.
+
+I understand that you mean that trickling filters have low energy requirements which are advantageous in electricity scarce areas, but this sentence is saying "The research has shifted focus but the filters are low energy" which on its own, doesn't make sense. Try expressing this idea differently.
+</div>
+
+<div class="alert alert-block alert-success">
+Comment had been corrected
+</div>
+
+Implementation of a non-mechanized trickling filter system such as the one described in the paragraph above, is beneficial a wastewater treatment plant in terms of economic and operational sustainability. Eliminating the need of any proprietary, mechanized components opens an opportunity for cost savings and will ultimately extend the usable life of the plant. Any mechanical components added to the system present a point of failure. By removing these moving parts, the system will be able to operate for longer durations with a less-intensive maintenance schedule. This will save money and time in the long run for the plant operations.
+
+<div class="alert alert-block alert-danger">
+"extend the usable life of the plant"
+</div>
+<div class="alert alert-block alert-success">
+Comment has been corrected
+</div>
+
+ Trickling filter research saw a significant decline several decades ago due to the advent of aeration tanks and other more efficient but high energy processes, and so recent progress in the field has been very limited. Therefore, the team believe's with modern technologies and new information, trickling filters can be improved upon in maximizing the utilization rates of the biofilm surface areas and nutrient removal performance for the system. The team strives to make significant technological improvements on industry-standard applications for the system.
 
 ## Literature Review
 
@@ -91,13 +111,17 @@ There can be issues with variations in temperature: biofilm thickness changes se
 
  Ali et al. states that the most common problem in trickling filters is uncontrolled sloughing, which is often caused by uneven hydraulic loading rates. In the context of a trickling filter, sloughing refers to when a layer of the microbial growth loses the ability to stay attached and is shed from the filter media.  This can be particularly problematic after storm events when flooding results in very high hydraulic loading. It can also be caused by clogging of the distribution arm and uneven distribution of the influent [(Ali et al. 2017).](http://www.pjoes.com/pdf/26.6/Pol.J.Environ.Stud.Vol.26.No.6.2431-2444.pdf) There is potential for the development of a much-improved distribution system that could help to alleviate this problem.
 
- Proper distribution is crucial and can optimize efficiency of treatment. The most common method of distribution is rotating distributors, but after seeing the problems with them at the Cayuga Heights wastewater treatment plant (see Case Study section for details), the team was interested in learning more about other methods that might require less maintenance or be less prone to failure.
+ Proper distribution of wastewater onto the filter media is crucial for optimizing efficiency of treatment. The most common method of distribution is rotating distributors, but after seeing the problems with them at the Cayuga Heights wastewater treatment plant (see Case Study section for details), the team was interested in learning more about other methods that might require less maintenance or be less prone to failure.
 
  <div class="alert alert-block alert-danger">
  Proper distribution of what? Consider "Proper distribution of flow is crucial for optimizing the efficiency of treatment"
  </div>
 
-The less common method of distribution, the fixed distribution systems, utilizes lateral and main distribution pipes, which are placed just above the medium, spaced to give uniform distribution of water. They generally have nozzles with a circular hole and a deflector. They are more commonly used with intermittent dosing, and so flow from the system varies; it starts at a maximum and lowers as the tank empties. Currently, fixed distribution systems are mostly used in deep filter and biotowers.
+  <div class="alert alert-block alert-success">
+  Comment has been corrected
+  </div>
+
+The less common method of distribution, the fixed distribution system, utilizes lateral and main distribution pipes, which are placed just above the medium, spaced to give uniform distribution of water. They generally have nozzles with a circular hole and a deflector. They are more commonly used with intermittent dosing, so flow from the system varies; it starts at a maximum and lowers as the tank empties. Currently, fixed distribution systems are mostly used in deep filter and biotowers (i.e. very tall filter).
 
 <div class="alert alert-block alert-danger">
 Change to "the fixed distribution system" (singular to match beginning of system)
@@ -106,6 +130,10 @@ remove "and" from "and so"
 
 What are deep filters and biotowers?
 </div>
+
+ <div class="alert alert-block alert-success">
+ Comment has been corrected.
+ </div>
 
 Unfortunately, these systems are also prone to clogging or blockage issues and similarly challenged by inconsistency of hydraulic load on the surface of the trickling filter. This is another area where there is huge potential for the team to increase the productivity of trickling filters. [(Sperling 2007).](https://www.iwapublishing.com/sites/default/files/ebooks/9781780402123.pdf)
 
@@ -121,13 +149,18 @@ Picture added. We are assuming the reader is someone with a general background k
 </div>
 
 ### Kinetics
-### BOD Kinetic Model
+
+Kinetics are used to model the removal efficiencies of biological plants. The team believes that the best way to improve filter performance is to improve the kinetics of the filter. Therefore below is a literature review of kinetic models and possible solutions to increase removal.
+#### BOD Kinetic Model
 
 <div class="alert alert-block alert-danger">
 Make this header smaller to show it as a subheading
 </div>
+<div class="alert alert-block alert-success">
+Comment has been corrected
+</div>
 
-The trickling filter team assumed that the majority of BOD will be removed by the UASB reactor. Therefore the trickling filter will be mostly removing nutrients (i.e. Nitrogen and Phosphorus). The team could not find consistent literature on a kinetic model for the removal of nitrogen or phosphorus, only empirical kinetic models exist. Therefore, the team is using a common BOD kinetic model with the assumption that nutrient removal would be proportional to BOD removal. Nutrient removal equations discussed later validate this assumption. The most common kinetic model for trickling filters is the modified Velz Equation.
+The trickling filter team assumed that the majority of BOD will be removed by the UASB reactor. Therefore the trickling filter will be mostly removing nutrients (i.e. Nitrogen and Phosphorus). The team could not find consistent literature on a kinetic model for the removal of nitrogen or phosphorus, only empirical kinetic models exist. Therefore, the team is using the modified Velz BOD kinetic model with the assumption that nutrient removal would be proportional to BOD removal. Nutrient removal equations discussed later validate this assumption. The most common kinetic model for trickling filters is the modified Velz Equation.
 
  <div class="alert alert-block alert-danger">
  Is there a name for the common BOD kinetic model?
@@ -159,13 +192,19 @@ $C_{out} ={C_{in}}{e^{\frac{-k_{20}A_{s}H\theta^{T-20}}{Q_{i}^{n}}}}$
 <div class="alert alert-block alert-danger">
 How does the denominator end up in the numerator? (I might've forgotten how to math)
 </div>
+<div class="alert alert-block alert-success">
+I made it a negative power to move it to the numerator
+</div>
 
-The main points of improvement based on the kinetic model would be to change any of the variables in the equation to increase removal. These points of improvement are to increase the height/depth of the filter, increase the surface area, increase temperature, or increase the $k_{20}$ value.
+The main points of improvement based on the kinetic model would be to change any of the variables in the equation to increase removal (i.e $C_{in} - C_{out}$). These points of improvement are to increase the height/depth of the filter, increase the surface area, increase temperature, or increase the $k_{20}$ value.
 
 <div class="alert alert-block alert-danger">
 Potentially define "removal" in terms of variables
 </div>
 
+<div class="alert alert-block alert-success">
+Comment has been corrected
+</div>
 
 #### Increasing Temperature
 The teams assumption is that the wastewater treatment plants would be built outside without heating or air conditioning. Separately using an anaerobic digester to digest sludge and heat the filter would be an option that future teams could look into. Since the pilot plant is expected to be installed in Honduras, temperature in the filter will be in the optimal range for bacterial growth. Although the kinetic model does not have a cap on temperature, the team does not want to raise the temperature too high as to kill the bacteria. The team did not investigate other heating mechanisms because heating large volumes usually requires a lot of energy, for little payoff.
