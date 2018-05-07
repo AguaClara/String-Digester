@@ -95,7 +95,7 @@ Comment has been corrected
 #### Trickling Filter Operational Difficulties
 There is significant documentation of problems plant operators experienced when dealing with trickling filters. Some of the issues, while important to take into consideration when implementing trickling filters, may not offer much room in terms of what improvements the team can make. Such problems include: the development of slug populations in the trickling filters, which can remove the layer of biofilm and harm the nitrifying bacteria population, thereby negatively impacting the systems performance and plug the channels of the system; filter flies, whose presence suggests a lack of moisture throughout the filter; and foul odors, which can indicate an increasing level of anaerobic reactions or accumulating sloughed-off biomass in the filter media. Addressing pest-control issues is not a priority for the team at this time, as there are greater improvements to be made elsewhere.
 
-However, some of these previously mentioned problems (biomass sloughing and insect and slug presence in filters) contribute to clogging and ponding in filters, which the team does aim to address. Current solutions include “flashing with low doses of chlorine to remove deposited solids and kill excess biomass” or periodic flooding. The team aims avoid the problem altogether by developing a new trickling media that has a lower tendency to experience clogging or ponding, so that period flooding or other solutions are not necessary.
+However, some of these previously mentioned problems (insect and slug presence in filters) as well as high biomass sloughing rate contribute to clogging and ponding in filters, which the team does aim to address. Current solutions include “flashing with low doses of chlorine to remove deposited solids and kill excess biomass” or periodic flooding [(Ali et al. 2017)](http://www.pjoes.com/pdf/26.6/Pol.J.Environ.Stud.Vol.26.No.6.2431-2444.pdf). The team aims avoid the problem altogether by developing a new trickling media that has a lower tendency to experience clogging or ponding, so that periodic flooding or other solutions are not necessary.
 
 <div class="alert alert-block alert-danger">
 Where do you mention biomass sloughing in the previous paragraph?
@@ -105,6 +105,11 @@ Where are all of your in-text citations?
 Why does the second sentence have quotes?
 
 Change "period" to to "periodic" in the last sentence.
+</div>
+<div class="alert alert-block alert-success">
+Comment has been corrected.
+
+All information in first 4 paragraphs of the section are from the same Ali et al paper. Should it be cited repeatedly in every paragraph? I thought I only had to cite once  at the end of all information from that paper, but I understand that it is somewhat unclear where the information in the first paragraphs is from.
 </div>
 
 There can be issues with variations in temperature: biofilm thickness changes seasonally and can be low quality and uneven in cold temperatures. In freezing weather, formation of ice can cause clogging and therefore structural damage to the trickling media. These are generally not major concerns for plants in equatorial regions, and so while important to note, will not be a focus for the team at this point.
@@ -145,7 +150,7 @@ Add photos to give a mental image. It will aid understanding of the geometry you
 
 </div>
 <div class="alert alert-block alert-success">
-Picture added. We are assuming the reader is someone with a general background knowledge of wastewaster treatment and is therefore familiar with trickling filter technology.
+Picture added. We are assuming the reader is someone with a general background knowledge of wastewater treatment and is therefore familiar with trickling filter technology.
 </div>
 
 ### Kinetics
@@ -257,10 +262,13 @@ My concern with the "ideas for improvement" subheaders, is it makes it difficult
 </div>
 
 #### Flow Distributions
-An assumption of this model is that the entire volume of the trickling filter is being used. The team believes that there may be unused volume for the trickling filter that is not getting any flow because the water takes another path with less resistance, and therefore not fuly treating the water. Therefore the team will also conduct experiments to determine how flow is distributed. After these tests, the team determined how to use a packing material and filter design that utilizes all of the available space.
+An assumption of this model is that the entire volume of the trickling filter is being used. The team hypothesized that there might be unused volume in the trickling filter that does not receive any flow because the would water take another path with less resistance, and therefore the system would be failing to fully treat the water. Therefore the team conducted preliminary experiments to determine how flow is distributed. After these tests, the team intends to determine how to use a packing material and filter design that utilizes all of the available space.
 
 <div class="alert alert-block alert-danger">
 Future and past tense used.
+</div>
+<div class="alert alert-block alert-success">
+Comment has been corrected
 </div>
 
 ### Nitrogen Kinetic Models
@@ -270,8 +278,7 @@ $NH_{4}^{+}  + 1.5 O_{2} \rightarrow NO_{2}^{-} + 2H^{+} +  H_{2}O$
 
 $NO_{2}^{-}  + 0.5 O_{2} \rightarrow NO_{3}^{-}$.
 
-When the EPA report was written no kinetic model had been derived for nitrification in trickling filters; however, they found four main parameters that increased removal was based on: low organic loadings, high residence times, sufficient oxygen availability, and consistency in hydraulic, organic, and ammonia loadings [(US EPA, 1991)](https://nepis.epa.gov/Exe/ZyPDF.cgi/P1004T3S.PDF?Dockey=P1004T3S.PDF). [Duddles et. al., 1974](https://www.jstor.org/stable/pdf/25038735.pdf?refreqid=excelsior%3A134b4fcdcce29130f630db8059aa3119) found that nitrification rate is directly proportional to specific surface area. [Gullicks and Cleasby, 1986](http://www.jstor.org/stable/pdf/25042842.pdf?refreqid=excelsior%3Ad9da82b9b851c3d02a23339cd5f0f45d) found that the mass transfer rate of the biofilm can be increased in two ways: increasing temperature and increasing ammonia concentration. From theses reports the team's earlier assumption the parameters affecting BOD removal are similar to those affecting nitrification is valid.
-The team also found another factor that effected nitrification rate which is oxygen availability [(Okey and Albertson 1989)](http://www.jstor.org/stable/25046965). There are two regimes of the nitrogen kinetic equation. When oxygen is limited, it is a zero-order kinetic model with respect to ammonia and half order with respect to oxygen. When oxygen is plentiful, it is a first order model with respect to ammonia. The removal equation found was as:
+When the EPA report was written no kinetic model had been derived for nitrification in trickling filters; however, they found four main parameters that increased removal was based on: low organic loadings, high residence times, sufficient oxygen availability, and consistency in hydraulic, organic, and ammonia loadings [(US EPA, 1991)](https://nepis.epa.gov/Exe/ZyPDF.cgi/P1004T3S.PDF?Dockey=P1004T3S.PDF). [Duddles et. al., 1974](https://www.jstor.org/stable/pdf/25038735.pdf?refreqid=excelsior%3A134b4fcdcce29130f630db8059aa3119) found that nitrification rate is directly proportional to specific surface area. [Gullicks and Cleasby, 1986](http://www.jstor.org/stable/pdf/25042842.pdf?refreqid=excelsior%3Ad9da82b9b851c3d02a23339cd5f0f45d) found that the mass transfer rate of the biofilm can be increased in two ways: increasing temperature and increasing ammonia concentration. From theses reports the team's earlier assumption the parameters affecting BOD removal are similar to those affecting nitrification is valid. The team also found another factor that effected nitrification rate which is oxygen availability [(Okey and Albertson 1989)](http://www.jstor.org/stable/25046965). There are two regimes of the nitrogen kinetic equation. When oxygen is limited, it is a zero-order kinetic model with respect to ammonia and half order with respect to oxygen. When oxygen is plentiful, it is a first order model with respect to ammonia. The removal equation found was as:
 
 <div class="alert alert-block alert-danger">
 proofread this section and look at it in markdown preview to see formatting
@@ -396,7 +403,7 @@ An area for improvement is to completely forgo the mechanical distribution syste
 ### Ventilation and Aeration·
 =======
 ### Ventilation and Aeration
->>>>>>> 244d1c85c7f8ea933050f94c7cb8091ebf5292db:TricklingFilter_Report_2.md
+>>> 244d1c85c7f8ea933050f94c7cb8091ebf5292db:TricklingFilter_Report_2.md
 
 <div class="alert alert-block alert-danger">
 What happened here?
@@ -434,7 +441,7 @@ Consider moving the reference to that course to the sentence "To achieve natural
 (Tchobanoglous et. al. 2003, pp 903)
 
 ## Case Study: Cayuga Heights Trickling Filter Observations
-The team visited the Cayuga Heights wastewater treatment plant and observed a trickling filter first-hand. It was a very informative visit, and the team was dismayed at the state of the plant and the many issues it was experiencing, especially with the trickling filters. There were two trickling filters at the plant, both of which had substantial debris (clumps of organic material, trash) on top of filter (see Figure 2); the plant manager stated that the cause was likely a failure of the bar screen that should have removed such debris when the water initially enters the plant the plant and the inefficiency of the settling tanks, which the wastewater travels through immediately before the trickling filters.
+The team visited the Cayuga Heights wastewater treatment plant and observed a trickling filter first-hand. It was a very informative visit, and the team was dismayed at the state of the plant and the many issues it was experiencing, especially with the trickling filters. There were two trickling filters at the plant, both of which had substantial debris (clumps of organic material, trash) on top of filter (see Figure 2). The plant manager suggested that this was likely due to the failure of the bar screen that should have removed such debris immediately when the water initially entered the plant. The team also noticed issues with the settling tanks, which the wastewater travels through immediately before the trickling filters. It's possible that the inefficiency of the settling tanks resulted in waste that should have settled out continuing through the system to the trickling filters.
 
 ![Figure 2](https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/CHFT%20filter%20surface.jpg?raw=true)
 Figure 2: The surface of the trickling filter with significant debris and discoloration.
@@ -443,24 +450,35 @@ Figure 2: The surface of the trickling filter with significant debris and discol
 Watch out for run-ons (please go through the whole report and work on shortening your sentences and avoiding run-ons)
 </div>
 
-The team also observed that the distribution arms were failing to cover the surface of the filter with water and there was a significant portion of the tank surface that was getting little to no water on it (see Figure 3). The regions that were most noticeably dry were the edges of the tank and an area a couple feet from the center of the base of the distributor arms. There was also a pattern of discoloration on the top of the filter, which seemed to be caused by the substantial organic matter coming through, that suggested that even the portion of the filter’s surface that was getting watered was not getting watered equally, and that there was build up of the organic matter that was getting more water (see Figure 2).
+<div class="alert alert-block alert-success">
+Comment corrected
+</div>
+
+The team also observed that the distribution arms were failing to cover the surface of the filter with wastewater. Because of this, there was a significant portion of the tank's surface that was getting little to no water on it (see Figure 3). The regions that were most noticeably dry were the edges of the tank and an area a couple feet from the center of the base of the distributor arms. There was also a pattern of discoloration on the top of the filter, which seemed to be caused by the substantial organic matter coming through with the wastewater. This discoloration suggests that even the portion of the filter’s surface that was getting watered was not getting watered equally, and that there was build up of the organic matter on top of the filter where the flow rate was higher (see Figure 2).
 
 <div class="alert alert-block alert-danger">
 watch for run-ons
 
-MAke sure every table and figure has a number in the report and is referenced like you did here.
+Make sure every table and figure has a number in the report and is referenced like you did here.
+</div>
+
+<div class="alert alert-block alert-success">
+Comment corrected
 </div>
 
 ![Figure 3](https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/CHTF%20distribution%20arm.png?raw=true)
 Figure 3: Distribution arms failed to entirely cover the surface of the trickling filter and there was leakage from the base in the center.
 
-There was leakage from the base of the distributor arm on both trickling filters. One had very substantial leakage and a large fraction of the water was just spraying out of the center to only a foot or two away. The plant manager said that the seal connecting the pipe and distributor arm had broken and was going to be replaced. The two filters operating in parallel made it possible for the plant to still operate while under maintenance, but it isn't always true that a system uses two filters, and often plants use recycle flow instead of having multiple filters. The volume of water going through the filter in the area around the base of the distributor arm was very high and the team would expect that the level of treatment for that wastewater is very low, if not non-existent, because of how high the hydraulic loading must be.
+There was leakage from the base of the distributor arm on both trickling filters. One had very substantial leakage and a significant fraction of the wastewater was just spraying out of the center to only a foot or two away. The plant manager said that the seal connecting the pipe and distributor arm had broken and was going to be replaced. The two filters operating in parallel made it possible for the plant to still operate while under maintenance, but it isn't always true that a system uses two filters, and often plants use recycle flow instead of having multiple filters. Due to the major leak, the volume of water going through the filter in the area around the base of the distributor arm was extremely high. Because of that high hydraulic loading, the team would expect that the level of treatment for that wastewater is very low, if not non-existent. This is obviously a big concern and emphasizes the importance of having a robust distribution system that will keep flow even across the filter surface and has safeguards against failure.
 
-The team’s visit to the wastewater treatment plant was very valuable in that it confirmed that the potential issues documented in the literature can be a reality and it made obvious the fact that there is tremendous room for innovation and improvement of trickling filter technology.
+The team’s visit to the wastewater treatment plant was  valuable in that it confirmed several of the potential issues documented in the literature. It also made it clear that there is tremendous room for innovation and improvement of trickling filter technology.
 
 
 <div class="alert alert-block alert-danger">
 Conclusion is wordy
+</div>
+<div class="alert alert-block alert-success">
+Comment corrected
 </div>
 
 ## Methods
