@@ -165,7 +165,7 @@ Make this header smaller to show it as a subheading
 Comment has been corrected
 </div>
 
-The trickling filter team assumed that the majority of BOD will be removed by the UASB reactor. Therefore the trickling filter will be mostly removing nutrients (i.e. Nitrogen and Phosphorus). The team could not find consistent literature on a kinetic model for the removal of nitrogen or phosphorus, only empirical kinetic models exist. Therefore, the team is using the modified Velz BOD kinetic model with the assumption that nutrient removal would be proportional to BOD removal. Nutrient removal equations discussed later validate this assumption. The most common kinetic model for trickling filters is the modified Velz Equation.
+The trickling filter team assumed that the majority of BOD will be removed by the UASB reactor. Therefore the trickling filter will be mostly removing nutrients (i.e. Nitrogen and Phosphorus). The team could not find consistent literature on a kinetic model for the removal of nitrogen or phosphorus, only empirical kinetic models exist. Therefore, the team is using the modified Velz BOD kinetic model with the assumption that nutrient removal factors would be similar to BOD removal factors because they are both biological processes. Nutrient removal equations discussed later validate this assumption. The most common kinetic model for trickling filters is the modified Velz Equation.
 
  <div class="alert alert-block alert-danger">
  Is there a name for the common BOD kinetic model?
@@ -175,6 +175,9 @@ The trickling filter team assumed that the majority of BOD will be removed by th
  Also what are the importance of kinetic equations?
  </div>
 
+<div class="alert alert-block alert-success">
+The name is the modified Velz equation as which was added to the report. Also the equations exist as stated however they are not consistent across literature and are empirical. Also we state our assumptions about why we think we can use this equation and just use the empirical (less likely to be completely accurate) equations as a check that our assumptions are good.
+</div>
 The modified Velz Equation from [Logan et. al. 1987](http://www.jstor.org/stable/pdf/25043431.pdf?acceptTC=true):
 
 $C_{out} =\frac{C_{in}}{(R+1)e^{\frac{k_{20}A_{s}H\theta^{T-20}}{Q_{i}(R+1)^{n}}}- R}$
@@ -212,29 +215,32 @@ Comment has been corrected
 </div>
 
 #### Increasing Temperature
-The teams assumption is that the wastewater treatment plants would be built outside without heating or air conditioning. Separately using an anaerobic digester to digest sludge and heat the filter would be an option that future teams could look into. Since the pilot plant is expected to be installed in Honduras, temperature in the filter will be in the optimal range for bacterial growth. Although the kinetic model does not have a cap on temperature, the team does not want to raise the temperature too high as to kill the bacteria. The team did not investigate other heating mechanisms because heating large volumes usually requires a lot of energy, for little payoff.
+The teams assumption is that the wastewater treatment plants would be built outside without heating or air conditioning. Since the pilot plant is expected to be installed in Honduras, temperature in the filter will be in the optimal range for bacterial growth. Although the kinetic model does not have a cap on temperature, the team does not want to raise the temperature too high as to kill the bacteria. The team did not investigate other heating mechanisms because heating large volumes usually requires a lot of energy, for little payoff.
 
 <div class="alert alert-block alert-danger">
 Consider revising for flow
 </div>
+<div class="alert alert-block alert-success">
+Comment has been corrected
+</div>
+
 
 #### Increasing Height of filter
 The team is looking for a novel design that can make traditional filters more cost-effective. The team does not believe that there is a lot of room for improvement in just changing the height of the filter. This is because increasing height of the filter increases the cost of production exponentially. Therefore the team did not investigate this further.
 
 #### Increasing the Specific Surface Area
-Specific surface area is surface area per volume. In order to change the specific surface area of the filter the packing material must be changed. To increase specific surface area, the packing material must have more surface area for the same amount of volume. In many trickling filters in Honduras, the packing material is gravel or rocks. In the US, there has been a lot of research and development of new higher specific surface area packing materials. These materials have a more honeycomb structure. Many of these materials are very expensive and would not fit with AguaClara low-cost model. From these materials though the team can learn what properties improve filter performance and mimic them in a more cost effective material. An important consideration discussed later is oxygen availability. In order to keep it an aerobic environment, particle separation has to be large enough to break surface tension. Therefore the team thinks that changing the surface are and not the volume of the packing material will produce the most effective trickling filter.
+Specific surface area is surface area per volume. In order to change the specific surface area of the filter the packing material must be changed. To increase specific surface area, the packing material must have more surface area for the same amount of volume. Many trickling filters in Honduras, the packing material is gravel or rocks. In the US, there has been a lot of research and development of new higher specific surface area packing materials. These materials have a more honeycomb structure. Many of these materials are very expensive and would not fit with AguaClara low-cost model. Even though using these materials would not be feasible, the team can gain insight into how to make a more efficient filter and then make it low cost. Therefore the team thinks this is a good research area to produce the most effective trickling filter.
 
 <div class="alert alert-block alert-danger">
 Revise second half for technical writing.
 </div>
 
+<div class="alert alert-block alert-success">
+Comment has been corrected.
+</div>
+
 ##### Ideas for improvement
-The team's idea for improvement of specific surface are would be a novel geometry and material combination.
-* Strings
-* Straws
-* Sheets
-* BioBalls
-* Six-pack plastic holder recycling
+The team's idea for improvement of specific surface are would be a novel geometry and material combination. Our ideas are string, straws, sheets, BioBalls, and six-pack plastic holder recycling
 
 <div class="alert alert-block alert-danger">
 Is making this a subsection adding to the organization or taking away from it?
@@ -246,6 +252,9 @@ This would not be included in a published report, but since we may not get to wo
 
 <div class="alert alert-block alert-danger">
 I agree that it's important information, but was wondering if it wouldn't be clearer to just add it as a sentence in the parapgraph above.
+</div>
+<div class="alert alert-block alert-success">
+Comment has been corrected.
 </div>
 
 #### Increasing the $k_{20}$ Value
@@ -259,6 +268,10 @@ There is a very little available research on $k_{20}$ values of different trickl
 Capitalization
 
 My concern with the "ideas for improvement" subheaders, is it makes it difficult for me as the to find information when looking back because it segments the report more.
+</div>
+
+<div class="alert alert-block alert-success">
+I think it is helpful in looking back form a future team standpoint because they can see exactly what our ideas are for each point and even add to them. I think it also captures the goals of our team's start well which was to find problems with trickling filters and propose solutions to fix them.
 </div>
 
 #### Flow Distributions
@@ -278,7 +291,7 @@ $NH_{4}^{+}  + 1.5 O_{2} \rightarrow NO_{2}^{-} + 2H^{+} +  H_{2}O$
 
 $NO_{2}^{-}  + 0.5 O_{2} \rightarrow NO_{3}^{-}$.
 
-When the EPA report was written no kinetic model had been derived for nitrification in trickling filters; however, they found four main parameters that increased removal was based on: low organic loadings, high residence times, sufficient oxygen availability, and consistency in hydraulic, organic, and ammonia loadings [(US EPA, 1991)](https://nepis.epa.gov/Exe/ZyPDF.cgi/P1004T3S.PDF?Dockey=P1004T3S.PDF). [Duddles et. al., 1974](https://www.jstor.org/stable/pdf/25038735.pdf?refreqid=excelsior%3A134b4fcdcce29130f630db8059aa3119) found that nitrification rate is directly proportional to specific surface area. [Gullicks and Cleasby, 1986](http://www.jstor.org/stable/pdf/25042842.pdf?refreqid=excelsior%3Ad9da82b9b851c3d02a23339cd5f0f45d) found that the mass transfer rate of the biofilm can be increased in two ways: increasing temperature and increasing ammonia concentration. From theses reports the team's earlier assumption the parameters affecting BOD removal are similar to those affecting nitrification is valid. The team also found another factor that effected nitrification rate which is oxygen availability [(Okey and Albertson 1989)](http://www.jstor.org/stable/25046965). There are two regimes of the nitrogen kinetic equation. When oxygen is limited, it is a zero-order kinetic model with respect to ammonia and half order with respect to oxygen. When oxygen is plentiful, it is a first order model with respect to ammonia. The removal equation found was as:
+When the EPA report was written no kinetic model had been derived for nitrification in trickling filters. However, they found four main parameters that increased removal was based on: low organic loadings, high residence times, sufficient oxygen availability, and consistency in hydraulic, organic, and ammonia loadings [(US EPA, 1991)](https://nepis.epa.gov/Exe/ZyPDF.cgi/P1004T3S.PDF?Dockey=P1004T3S.PDF). [Duddles et. al., 1974](https://www.jstor.org/stable/pdf/25038735.pdf?refreqid=excelsior%3A134b4fcdcce29130f630db8059aa3119) found that nitrification rate is directly proportional to specific surface area. [Gullicks and Cleasby, 1986](http://www.jstor.org/stable/pdf/25042842.pdf?refreqid=excelsior%3Ad9da82b9b851c3d02a23339cd5f0f45d) found that the mass transfer rate of the biofilm can be increased in two ways: increasing temperature and increasing ammonia concentration. From theses reports the team's earlier assumption the parameters affecting BOD removal are similar to those affecting nitrification is valid. The team also found another factor that effected nitrification rate which is oxygen availability [(Okey and Albertson 1989)](http://www.jstor.org/stable/25046965). There are two regimes of the nitrogen kinetic equation. When oxygen is limited, it is a zero-order kinetic model with respect to ammonia and half order with respect to oxygen. When oxygen is plentiful, it is a first order model with respect to ammonia. The removal equation found was as:
 
 <div class="alert alert-block alert-danger">
 proofread this section and look at it in markdown preview to see formatting
@@ -294,6 +307,10 @@ It looks like someone hit enter after "BOD removal are similar to those affectin
 Also be wary of run-on sentences. Plenty of good content, just hard to digest because it is dense.
 </div>
 
+<div class="alert alert-block alert-success">
+Run-on sentences have been corrected. Also we cannot see any paragraphs or such on our end.
+</div>
+
 $\left(NH_{4}-N\right)_{R} = \frac{K_{ao}S_{o}^{0.5}A_{trans}}{Q} + \left(NH_{4}-N\right)_{trans}\left(1-e^{-K_{n}L}\right)$
 * $\left(NH_{4}-N\right)_{R} = NH_{4}-N$ concentration removed, $\frac{g}{m^{3}}$
 * $S_{o} =$ bulk phase oxygen concentration, $\frac{g}{m^{3}}$
@@ -305,18 +322,27 @@ $\left(NH_{4}-N\right)_{R} = \frac{K_{ao}S_{o}^{0.5}A_{trans}}{Q} + \left(NH_{4}
 * $K_{n} =$ first-order constant, $m^{-1}$
 * $L =$ first order depth term, $m$
 
-Therefore compared to the team's improvement based on the BOD kinetic model, an additional parameter is oxygen concentration. Higher oxygen concentrations result in higher removals.
+Therefore compared to the BOD kinetic model, the only additional parameter is oxygen concentration. Higher oxygen concentrations result in higher removals.
 
 <div class="alert alert-block alert-danger">
 I understand what you mean but the use of the team's improvement as being changed is a bit confusing. Consider a different way of expressing this.
 </div>
+<div class="alert alert-block alert-success">
+Comment has been corrected
+</div>
 
 #### Ideas for improvements
 The team incorporated the need for airflow into their brainstorming of a novel geometry. In developing this novel geometry, the spacing between our media for the biofilm to grow on should be greater than adhesion and cohesion of water particles can withstand. Surface tension in a cylinder can be calculated using the following equation:
-$F_{ST} = \pi\lambda D$ where D is the diameter of the cylinder. Surface tension can be looked up in table for different materials, and the minimum diameter needed to overcome it would be when this force balances with gravitational force.
+
+$F_{ST} = \pi\lambda D$
+
+where $D$ is the diameter of the cylinder. Surface tension can be looked up in table for different materials, and the minimum diameter needed to overcome it would be when this force balances with gravitational force.
 
 <div class="alert alert-block alert-danger">
 Format the equation like the other ones.
+</div>
+<div class="alert alert-block alert-success">
+Comment has been corrected
 </div>
 
 ## Design Parameters
@@ -489,10 +515,14 @@ In order to understand the flow patterns in a trickling filter, the team set up 
 
 <img src="https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/flow_schematic_front.png?raw=true" height=400 width=250>
 
-Figure 4: This is a schematic of the testing structure. It is an acrylic PVC pipe with holes drills at distances of 5,10,20,40,60, and 80 cm from the top. These holes represent the depths of the filter media that we will be testing. Rods are inserted at the depth of testing to support a mesh which holds the filter media. Water flows from the dosing point through the filter media to the collection unit. The Collection unit is held in place by a PVC pipe.
+Figure 4: This is a schematic of the testing structure. It is an acrylic PVC pipe with holes drills at distances of 5,10,20,40,60, and 80 cm from the top. These holes represent the depths of the filter media that we will be testing. Rods are inserted at the depth of testing to support a mesh which holds the filter media. Water flows from the dosing point through the filter media to the collection unit. The collection unit is held in place by a PVC pipe.
 
 <div class="alert alert-block alert-danger">
 Capitalization error
+</div>
+
+<div class="alert alert-block alert-success">
+Comment has been corrected.
 </div>
 
 The PVC pipe could be filled to different heights of gravel to test how flow disperses as a function of depth. the team's hypothesis is that the flow will spread out as depth increases.
@@ -509,11 +539,15 @@ Figure 6: this schematic shows the top view of the collection unit for the team'
 Do you have actual photos as well of the cuvette collection system.
 </div>
 
-This is the collection basin which will be used to map where the water is exiting the model filter. The water will flow in from a dosing point at the top of the filter and if it spreads out as it travels down the system it will flow into many different cuvettes. This can be then used to create heat map, or more accurately a flow map, to determine what areas are being utilized.
+<div class="alert alert-block alert-success">
+Sentence added to reference later photos of the system.
+</div>
+
+This is the collection basin which will be used to map where the water is exiting the model filter. A photograph of the apparatus can be seen in Figure 7. The water will flow in from a dosing point at the top of the filter and if it spreads out as it travels down the system it will flow into many different cuvettes. This can be then used to create heat map, or more accurately a flow map, to determine what areas are being utilized.
 
 After a few experiments, the team found that water was dripping only from the rods and down the side of the PVC. Therefore they removed the rods and balanced the mesh on top of the collection basin.
 
-The procedure for a test was to first wet the surface of the rocks. This meant flowing water through at a high rate and not draining the bottom until the entire column was wet. Then the water was drained to gravity potential in a soil. Once the gravel  wetted, a short pulse of 100 mL of water was added. For cuvettes that had water in them, the depth of water in millimeters was measured by inserted a marked straw. However, in many of the preliminary tests until the correct amount of water was determined the cuvettes overflowed and the data was compromised. For tests where the water overflowed, the team still recorded whether a cuvette had been "hit", i.e. had water in it.
+The procedure for a test was to first wet the surface of the rocks. This meant flowing water through at a high rate and not draining the bottom until the entire column was wet. The water was then drained to gravity potential. Once the gravel was wetted, a short pulse of 50 mL of water was added. For cuvettes that had water in them, the depth of water in millimeters was measured by inserted a marked straw. However, in many of the preliminary tests until the correct amount of water was determined the cuvettes overflowed and the data was compromised. For tests where the water overflowed, the team still recorded whether a cuvette had been "hit", i.e. had water in it.
 
 <div class="alert alert-block alert-danger">
 revise third sentence and also later sentences
@@ -521,55 +555,78 @@ revise third sentence and also later sentences
 consider word other than "wetted"
 </div>
 
+<div class="alert alert-block alert-success">
+Comment has been corrected. Do you have suggestion for a word besides wetted because saturated would be incorrect?
+</div>
+
 The team also varied the packing material being tested to marbles. The team choose marbles because they are only slightly larger than the pea gravel, but are uniform in size.
+
+Table 4: Benchtop Experiment Trials
+| Trial | Packing Material | Depth |
+|:----- |:---------------- | ----- |
+| 1     | Wet Rocks        | 10    |
+| 2     | Wet Rocks        | 100   |
+| 3     | Marbles          | 15    |
+| 4     | Dry Rocks        | 15    |
+| 5     | Wetted Rocks     | 15    |
+
 
 <div class="alert alert-block alert-danger">
 Give table of different tests tried
 </div>
 
-#Experimental History: Abandoned Project Focus
+<div class="alert alert-block alert-success">
+Table has been added.
+</div>
 
 <div class="alert alert-block alert-danger">
 Did you guys not revise this section? If you downt intend to use a section, remove it, comment it out, or tell me.
 </div>
 
-The benchtop experiment for the team is still under development, however, the means with which the experiment will be conducted is backed through verbal and written consensus within the team. The primary objective of the team's first experiment is to gather a hydraulic model for the preferential flow tendencies within the filter media. It is hypothesized that much of the porosity in the filter media is unutilized, and will remain dry due to flaws in the distribution system as well as the geometric structure of the filter.
-
-<div class="alert alert-block alert-danger">
-What is the purpose of the first sentence?
-
-How do you "gather a hydraulic model," do you mean gather data for a hydraulic model?
-
-Consider "The team hypothesized..." rather than "It is hypothesized..." - active voice rather than passive voice
+<div class="alert alert-block alert-success">
+Section has been deleted as it was inaccurate of what we are now doing.
 </div>
 
-Water will be dispensed by pipetting a designated volume into the media at a specified point at the surface of the filter. This point will be marked off by drilling and annotating holes on a cap covering the entry point of the filter. The distribution of water will vary both across the distribution grid and by varying the depth of gravel. After a trial is conducted, a collection module of cuvettes will be weight in order to capture the exit point of the water under a given distribution and media depth.
 
-<div class="alert alert-block alert-danger">
-Will you be varying the distribution of water? Or do you mean that it was vary based on where you put it?
-
-Revise last sentence - unclear meaning
-</div>
-
-Hydraulic fingering through the media will be represented through a three-dimensional heat map. This experiment can be characterized by the underlying principal of a CAT-scan: the data will provide insight into the cross sectional behavior within the trickling filter media which has not been greatly understood in literature. As more data is collected across varying points in the horizontal plane from the entry grid, and then in the vertical plane by adding or subtracting gravel (packing material), a more robust representation of the hydraulic behavior can be characterized; this level of detail depends on the granularity of the trials and the level of consistency between them.
-
-<div class="alert alert-block alert-danger">
-What is hydraulic fingering?
-
-Is this all one experiment? Do you get degrees from the experiment? Does it directly output a map? I am having a difficult time imagining this.
-</div>
 
 
 ## Results and Analysis
 
-In the teams first test, we ran the pulse of water from the center of the column through the 5 cm rock depth. The team's hypothesis is that since this was such a thin layer, the water would exit nearly exactly where it can in. The team actually observed that almost all the water ended up on the walls of the apparatuses and only 4 cuvettes had water in. There could be multiple reasons for this results. 1. Since the rocks are multiple sizes they fit together in a such a way that the water would prefer to flow sideways instead of down. Then when the water came in contact with the wall it became attached and never came unattached. 2. The water hit the mesh at the bottom of the apparatus and it was angled so that water flowed to the edges on the mesh before falling into the collection basin. The team conducted this test multiple times at multiple depths to reveal the same results. The next step is to try marbles because that will determine whether or not it is the mesh or the rocks. Since the marbles are a consistent size, they can't be an almost solid layer.
+In the teams first test, we ran the pulse of water from the center of the column through the 5 cm rock depth. The team's hypothesis is that since this was such a thin layer, the water would exit nearly exactly where it can in. The team actually observed that almost all the water ended up on the walls of the apparatuses and only 4 cuvettes had water in. There could be multiple reasons for this results. 1. Since the rocks are multiple sizes they fit together in a such a way that the water would prefer to flow sideways instead of down. Then when the water came in contact with the wall it became attached and never came unattached. 2. The water hit the mesh at the bottom of the apparatus and it was angled so that water flowed to the edges on the mesh before falling into the collection basin. The team conducted this test multiple times at multiple depths to reveal the same results.
 
 <div class="alert alert-block alert-danger">
 In methods you say that you already used marbles?
 </div>
 
+<div class="alert alert-block alert-success">
+We were just trying to use the past tense, but now it has been run so results from marbles have been added
+</div>
+
 <img src="https://user-images.githubusercontent.com/35943730/38639368-ea56bc0a-3d9e-11e8-998e-6c4cebaf9ec2.JPG">
 Figure 7: An example of a test run through 60 cm of pea gravel. The image shows that a few of the cuvettes were "hit" and contain water, but most are empty and the vast majority of the water ended up outside the cuvettes, in the bottom of the collection unit.
+
+The team then was comparing how packing material affects flow. One parameter that was tested was the randomness of the media, marbles of all the same size make a predictable matrix, whereas rocks can form many arrangements. Another parameter that was tested was if wetness of the surface affected flow. Water is very cohesive. In a dry rock, the first path that becomes wet could "pull in" more flow. In a wet rocks all of the rocks have water so there is no preferential flow do to cohesion. From water volume data from each test a heat map was made. Since the measurement was in height of water based on markings, the exact values in the heat maps do not have a physical meeting, but the scale represents differences between cuvettes. All tests were dosed in the middle of the apparatus.
+
+![Marbles](https://github.com/AguaClara/Trickling-Filter/blob/master/marbles.png?raw=true)
+
+Figure 8: The flow of water through marbles is very consistent. The water was dosed in the middle and the highest values are in the middle. Then some flow was diverted to the outside where the depth of water recorded decreases with distance to the center.
+
+![Wet Rocks](https://github.com/AguaClara/Trickling-Filter/blob/master/rocks_wet.png?raw=true)
+
+Figure 9: In the experiment with wet rocks, a somewhat random dispersion is recorded. The highest volume areas are not grouped together.
+
+![Dry Rocks](https://github.com/AguaClara/Trickling-Filter/blob/master/rocks_dry.png?raw=true)
+
+Figure 10: The dry rocks show almost no dispersion with the center cell having double the water volume of any other cells. The rest of the flow was uniform and more similar to the marbles than wet rocks.
+
+Table: Total Water Volume out of bench-scale experiment
+| Trial     | Total Water Depth Captured |
+|:--------- |:-------------------------- |
+| Marbles   | 144                        |
+| Wet Rocks | 100.35                     |
+| Dry Rocks | 70.75                      |
+
+These experiments show the differences in flow that can exist in a trickling filter.  Marbles had the most predictable flow and almost all of the flow ended up in the basin. There is a large difference in water captured by the wet rocks and dry rocks, this is most likely because some water attached to the dry rocks and did not make it out the bottom. The difference between the wet rocks and marble is due to water that made it to the side of the container and ran down the outside. The dry rocks followed the earlier hypothesis that the first path that was wetted would be the preferential flow path. One reason the wet rocks preformed so randomly is that the rocks lock together to form almost a sheet which spread the water over the whole area. This is good to make sure that all areas of the filter are being used and increases retention time. However, this layer that is hard for water to pass through can creating pooling on top of it in the filter which less to anoxic conditions. This experiment highlighted for the team some of the intricacies of packing material selection. The mesh at the bottom of the apparatus that held up the packing materials could have impacted the results if water ran along it.
 
 ## Conclusion
 
@@ -579,7 +636,7 @@ The lack of available information and limited research on some aspects of the ki
 
 Preliminary research was driven primarily by industry research, however, it is expected than many of the established parameters will be subject to change as a result of independent research efforts. The findings of the team's experiments will be intended to characterize a trickling filter system absent of mechanical components and with higher filter media utilization. By the conclusion of this team's work, a vast majority of the gaps in literature will be filled with conclusive empirical data to serve as a model for wastewater plants in resource-scarce locations in addition to modifying the faults in industry around the world.
 
-In the past few weeks, the team has been fabricating the bench top model and beginning to conduct  tests to determine the distribution of flow in trickling filters. The preliminary results from these tests were confusing, as almost all water was running down the side of the tube instead of through the media, so the process of getting data has been slower than the team was expecting. In an attempt to address this issue and pin point what exactly is causing this, the team has started testing with marbles as a trickling media to see if similar behavior is observed with various media if it is specific to the pea gravel.
+In the past few weeks, the team has been fabricating the bench top model and beginning to conduct  tests to determine the distribution of flow in trickling filters. The preliminary results from these tests were confusing, as almost all water was running down the side of the tube instead of through the media. The second phase of testing yielded usable results. From this experiment, the team believes that a uniform packing material is better than a random material. It yields consistent results and since it is easy to determine the dispersion and location of the flow the filter can be designed to maximize removal based on that flow. The random filter does spread out the water well; however, it is nearly impossible to model and can create anoxic zones which would limit nutrient removal.
 
 ## Future Work
 The team has just started with testing flow patterns and will continue to conduct tests and work on a model for the preferential flow tendencies, with both the pea gravel and the new filter media of marbles. In addition to flow mapping, the team will also work on brainstorming and designing novel geometries for testing. This will include building models of the team's current ideas. Along with the testing, the team is frequently thinking about what novel designs could address any of the various areas for improvement in the discovered during research. The team expects to have a solid start on an elementary model of an entirely different trickling filter system using strings by the end of the semester, as well as a more solid set of data from the flow tests. A future goal that will not be attempted this semester is the creation of a bench top model  that allows for measurement of nitrogen and phosphorus removal.

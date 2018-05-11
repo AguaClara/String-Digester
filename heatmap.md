@@ -20,15 +20,26 @@ print(np.sum(rocks_dry_total))
 rocks_wet = rocks_wet_1 + rocks_wet_2 + rocks_wet_3
 rocks_wet_total = np.sum(rocks_wet)
 print(np.sum(rocks_wet_total))
-plt.imshow(marbles, cmap='hot', interpolation='nearest')
+
+fig, ax = plt.subplots()
+im = ax.pcolormesh(marbles)
+fig.colorbar(im)
 plt.savefig('marbles')
 plt.show()
-plt.imshow(rocks_wet, cmap='hot', interpolation='nearest')
+
+fig, ax = plt.subplots()
+im = ax.pcolormesh(rocks_wet)
+fig.colorbar(im)
 plt.savefig('rocks_wet')
 plt.show()
-plt.imshow(rocks_dry, cmap='hot', interpolation='nearest')
+
+fig, ax = plt.subplots()
+im = ax.pcolormesh(rocks_dry)
+fig.colorbar(im)
 plt.savefig('rocks_dry')
 plt.show()
+
+
 
 
 ```
