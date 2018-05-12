@@ -89,7 +89,7 @@ Implementation of a non-mechanized trickling filter system such as the one descr
 Comment has been corrected
 </div>
 
- Trickling filter research saw a significant decline several decades ago due to the advent of aeration tanks and other more efficient but high energy processes, and so recent progress in the field has been very limited. Therefore, the team believe's with modern technologies and new information, trickling filters can be improved upon in maximizing the utilization rates of the biofilm surface areas and nutrient removal performance for the system. The team strives to make significant technological improvements on industry-standard applications for the system.
+ Trickling filter research saw a significant decline several decades ago due to the advent of aeration tanks and other more efficient but high energy processes, and so recent progress in the field has been very limited. Therefore, the team believes with modern technologies and new information, trickling filters can be improved upon in maximizing the utilization rates of the biofilm surface areas and nutrient removal performance for the system. The team strives to make significant technological improvements on industry-standard applications for the system.
 
 ## Literature Review
 
@@ -127,7 +127,7 @@ There can be issues with variations in temperature: biofilm thickness changes se
   Comment has been corrected
   </div>
 
-The less common method of distribution, the fixed distribution system, utilizes lateral and main distribution pipes, which are placed just above the medium, spaced to give uniform distribution of water. They generally have nozzles with a circular hole and a deflector. They are more commonly used with intermittent dosing, so flow from the system varies; it starts at a maximum and lowers as the tank empties. Currently, fixed distribution systems are mostly used in deep filter and biotowers (i.e. very tall filter).
+The less common method of distribution, the fixed distribution system, utilizes lateral and main distribution pipes, which are placed just above the medium, spaced to give uniform distribution of water. They generally have nozzles with a circular hole and a deflector. They are more commonly used with intermittent dosing, so flow from the system varies; it starts at a maximum and lowers as the tank empties. Currently, fixed distribution systems are mostly used in deep filter and biotowers (i.e. very tall filters).
 
 <div class="alert alert-block alert-danger">
 Change to "the fixed distribution system" (singular to match beginning of system)
@@ -177,7 +177,7 @@ The trickling filter team assumed that the majority of BOD will be removed by th
  </div>
 
 <div class="alert alert-block alert-success">
-The name is the modified Velz equation as which was added to the report. I changed the senteance to have it make more sense.
+The name is the modified Velz equation as which was added to the report. I changed the sentence so it would make more sense
 </div>
 The modified Velz Equation from [Logan et. al. 1987](http://www.jstor.org/stable/pdf/25043431.pdf?acceptTC=true):
 
@@ -502,7 +502,7 @@ Comment corrected
 
 ## Methods
 
-### Benchtop Experiment: Mapping Flow
+### Benchtop Experiment: Mapping Flow Through Packing Media
 
 In order to understand the flow patterns in a trickling filter, the team set up a benchtop model to run clean water through. The bench top model was constructed with a 6 inch inner diameter acrylic PVC pipe. As shown in the schematic below.
 
@@ -622,20 +622,21 @@ Table: Total Water Volume out of bench-scale experiment
 
 These experiments show the differences in flow that can exist in a trickling filter.  Marbles had the most predictable flow and almost all of the flow ended up in the basin. There is a large difference in water captured by the wet rocks and dry rocks, this is most likely because some water attached to the dry rocks and did not make it out the bottom. The difference between the wet rocks and marble is due to water that made it to the side of the container and ran down the outside. The dry rocks followed the earlier hypothesis that the first path that was wetted would be the preferential flow path. One reason the wet rocks preformed so randomly is that the rocks lock together to form almost a sheet which spread the water over the whole area. This is good to make sure that all areas of the filter are being used and increases retention time. However, this layer that is hard for water to pass through can creating pooling on top of it in the filter which less to anoxic conditions. This experiment highlighted for the team some of the intricacies of packing material selection. The mesh at the bottom of the apparatus that held up the packing materials could have impacted the results if water ran along it.
 
-### Benchtop Experiment: String Methods
-The team decided to pursue an entirely novel preliminary design for a trickling filter involving the use of strings as the trickling media and an overflowing basin.
+### Benchtop Experiment: Testing Unconventional Filter Media--Strings Applications
+The team decided to pursue an entirely novel preliminary design for a trickling filter in order to investigate options to optimize the surface area to volume ratio of the packing media to both improve the overall treatment efficiency of the system and to decrease the physical footprint of the filter. The first innovation to improve trickling filter media was the use of strings as the packing media and an overflowing basin to wick the water across the length of the string as it was treated.
 
-<img src="https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/StringApparatus.png" height=550 width=600>
+<img src="https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/StringApparatus.png?raw=true" height=550 width=600>
+Figure 11: Schematic of experimental apparatus used to flow water across strings during proof-of-concept trials
 
 
 <img src="https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/string%20filter%20set%20up.png?raw=true" height=711 width=400>
 
-Figure X: Set up of string filter, with holding basin at the top (currently being dosed from above) and yarn/string wrapped around the top of the basin to the bar below. In this picture the system has 46 strings coming from the basin (string was wrapped around 46 times).
+Figure 12: Set up of string filter, with holding basin at the top (currently being dosed from above) and yarn/string wrapped around the top of the basin to the bar below. In this picture the system has 46 strings coming from the basin (string was wrapped around 46 times).
 
 
 
 
-The team's initial goal was simply to test if the system would behave as expected: will the water flow over the edges of the basin and flow along the strings? Several trials were conducted simply dosing the basin with a low flow rate and observing. With the strings packed tightly as shown in the initial set up above in Figure X, the water that overflowed from the basin followed the string all the way down. This provided confirmation that the concept of using strings as the tickling media has the potential to be successful. Next, the team began testing to target various parameters of the design.
+The team's initial goal was simply to test if the system would behave as expected: will the water flow over the edges of the basin and flow along the strings? The stipulation of this question that would indicate success in the experiment was whether or not the water would consistently prefer the strings as opposed to dripping along the wall of the basin or elsewhere. Several trials were conducted simply dosing the basin with a low flow rate and observing. With the strings packed tightly as shown in the initial set up above in Figure 12, the water that overflowed from the basin followed the string all the way down. This provided confirmation that the concept of using strings as the tickling media has the potential to be successful. Next, the team began testing to target various parameters of the design.
 
 ## Results and Analysis
 The first set of tests conducted aimed to identify whether residence time of the water on the string depends on the flow rate being pumped into the basin. This test was conducted by starting with red dye in the basin so that the speed of the water moving down the string could be observed visually and timed. One team member began dosing the basin with clean water, and another team member watched the strings and began timing when the water first started to overflow from the basin. The timer was stopped when the first drops of dyed water reached the bottom of the strings. The table below presents the data gathered in these tests.
@@ -654,15 +655,15 @@ The next parameter the team aimed to test was string spacing. Specifically, the 
 
 <img src="https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/10%20strings%20spacing.png?raw=true" height=711 width=400>
 
-Figure Y: String filter set up with 10 strings to test effects of increased spacing.
+Figure 13: String filter set up with 10 strings to test effects of increased spacing.
 
 Tests were conducted at 35 rpm, and the number of strings was gradually reduced from 46, to 20, then to 15, 10, 8, 6, 5, 3, and finally 1 (tests were conducted both with the one string in the center of the basin and at one end). For all tests, the flow of water followed the string and did not flow freely down the side of the basin or fall off the string. Only when the flow rate was increased to 60 rpm with one string did the system begin to fail and water dripped down the side of the basin. From this series of tests, the team can conclude that spacing is not a limiting factor on design and therefore the number of strings in the filter will be determined by other factors like maximizing treatment and allowing for sufficient aeration.
 
-Finally, the team wanted to test the feasibility of an idea of having some strings anchored at an angle away from basin, not straight below it like previous set-ups. To model this, every other string was threaded onto a thin bar, which separated half the strings out and created two layers of strings on each side of the basin (see figure Z). The team conducted the same test of simply dosing with red dye and observing the flow. For the alternative anchoring set up, the flow was much less uniform than in previous tests. A higher flow of water was observed on the strings that were anchored so that they rested against the side of the basin. Also, some of the water that flowed along the outer set of strings would stay on the thin bar and drip off instead of following the strings all the way down.
+Finally, the team wanted to test the feasibility of an idea of having some strings anchored at an angle away from basin, not straight below it like previous set-ups. To model this, every other string was hung across a thin bar, which separated half the strings outward, thus creating two layers of strings cascading from either side of the basin (see figure 14). The team conducted the same procedure of injecting red dye and observing the flow. For the alternative anchoring set up, the flow was much less uniform than in previous tests. A higher flow of water was observed on the strings that were anchored so that they rested against the side of the basin. Also, some of the water that flowed along the outer set of strings would stay on the thin bar and drip off instead of following the strings all the way down.
 
 <img src="https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/split%20anchoring.png?raw=true" height=400 width=400>
 
-Figure Z: String filter with alternating strings anchored away from the wall of the basin.
+Figure 14: String filter with alternating strings anchored away from the wall of the basin.
 
 Based on these preliminary tests, the team concludes that the benefits of additional anchoring points (a potential to pack more strings into the filter without causing aerobic conditions) do not outweigh the various complications that this additional parameter would introduce. Therefore, the team would suggest focusing on other ways to maximize treatment in the future and stay with one anchoring point directly under the edge of the basin.
 
