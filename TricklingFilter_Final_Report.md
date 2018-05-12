@@ -69,6 +69,7 @@ Change "improved upon in maximizing" to "improved by maximizing" - the writing h
 Comments have been corrected
 </div>
 
+
 <div class="alert alert-block alert-danger">
 When using a sentence like "The wastewater research switched to more active methods of treatment like activated sludge; however, passive treatments like trickling filters have low energy requirements, if any." you want both parts of the sentence to be logically connected.
 
@@ -95,7 +96,7 @@ Comment has been corrected
 #### Trickling Filter Operational Difficulties
 There is significant documentation of problems plant operators experienced when dealing with trickling filters. Some of the issues, while important to take into consideration when implementing trickling filters, may not offer much room in terms of what improvements the team can make. Such problems include: the development of slug populations in the trickling filters, which can remove the layer of biofilm and harm the nitrifying bacteria population, thereby negatively impacting the systems performance and plug the channels of the system; filter flies, whose presence suggests a lack of moisture throughout the filter; and foul odors, which can indicate an increasing level of anaerobic reactions or accumulating sloughed-off biomass in the filter media. Addressing pest-control issues is not a priority for the team at this time, as there are greater improvements to be made elsewhere.
 
-However, some of these previously mentioned problems (insect and slug presence in filters) as well as high biomass sloughing rate contribute to clogging and ponding in filters, which the team does aim to address. Current solutions include “flashing with low doses of chlorine to remove deposited solids and kill excess biomass” or periodic flooding [(Ali et al. 2017)](http://www.pjoes.com/pdf/26.6/Pol.J.Environ.Stud.Vol.26.No.6.2431-2444.pdf). The team aims avoid the problem altogether by developing a new trickling media that has a lower tendency to experience clogging or ponding, so that periodic flooding or other solutions are not necessary.
+However, some of these previously mentioned problems (insect and slug presence in filters) as well as high biomass sloughing rate contribute to clogging and ponding in filters, which the team does aim to address. The sloughing of biomass refers to the gradual accumulation of a sizeable layer of biomass. If this layer is not maintained at a desired thickness, treatment performance will decrease. Current solutions include flashing with low doses of chlorine to remove deposited solids and kill excess biomass or periodic flooding [(Ali et al. 2017)](http://www.pjoes.com/pdf/26.6/Pol.J.Environ.Stud.Vol.26.No.6.2431-2444.pdf). The team aims avoid the problem altogether by developing a new trickling media that has a lower tendency to experience clogging or ponding, so that periodic flooding or other solutions are not necessary.
 
 <div class="alert alert-block alert-danger">
 Where do you mention biomass sloughing in the previous paragraph?
@@ -275,7 +276,7 @@ I think it is helpful in looking back form a future team standpoint because they
 </div>
 
 #### Flow Distributions
-An assumption of this model is that the entire volume of the trickling filter is being used. The team hypothesized that there might be unused volume in the trickling filter that does not receive any flow because the would water take another path with less resistance, and therefore the system would be failing to fully treat the water. Therefore the team conducted preliminary experiments to determine how flow is distributed. After these tests, the team intends to determine how to use a packing material and filter design that utilizes all of the available space.
+An assumption of this model is that the entire volume of the trickling filter is being used. The team hypothesized that there might be unused volume in the trickling filter that does not receive any flow because the would water take another path with less resistance, and therefore the system would be failing to fully treat the water. Therefore the team conducted preliminary experiments to determine how flow is distributed. Using the information gathered from these tests, the team intends to eventually determine how to use a packing material and filter design that utilizes all of the available space.
 
 <div class="alert alert-block alert-danger">
 Future and past tense used.
@@ -425,15 +426,7 @@ As the rotary arms dose water to the system, there is a non-uniform distribution
 
 An area for improvement is to completely forgo the mechanical distribution system, and to design a reliable distributor which can dose wastewater uniformly across the media. The most valuable modification to the distributor would be the ability to have full control over the dosing rates at any given moment.
 
-<<<<<<< HEAD:Trickling_Filter_report_2.md
-### Ventilation and Aeration·
-=======
 ### Ventilation and Aeration
->>> 244d1c85c7f8ea933050f94c7cb8091ebf5292db:TricklingFilter_Report_2.md
-
-<div class="alert alert-block alert-danger">
-What happened here?
-</div>
 
 #### Natural Draft
 The driving force behind natural airflow is derived from a temperature gradient between the ambient air temperature and the temperature within the pores of the media material. An equation from (Schroeder and Tchobanoglous, 1976):
@@ -509,7 +502,7 @@ Comment corrected
 
 ## Methods
 
-### Benchtop Experiment
+### Benchtop Experiment: Mapping Flow
 
 In order to understand the flow patterns in a trickling filter, the team set up a benchtop model to run clean water through. The bench top model was constructed with a 6 inch inner diameter acrylic PVC pipe. As shown in the schematic below.
 
@@ -605,6 +598,7 @@ We were just trying to use the past tense, but now it has been run so results fr
 <img src="https://user-images.githubusercontent.com/35943730/38639368-ea56bc0a-3d9e-11e8-998e-6c4cebaf9ec2.JPG">
 Figure 7: An example of a test run through 60 cm of pea gravel. The image shows that a few of the cuvettes were "hit" and contain water, but most are empty and the vast majority of the water ended up outside the cuvettes, in the bottom of the collection unit.
 
+
 The team then was comparing how packing material affects flow. One parameter that was tested was the randomness of the media, marbles of all the same size make a predictable matrix, whereas rocks can form many arrangements. Another parameter that was tested was if wetness of the surface affected flow. Water is very cohesive. In a dry rock, the first path that becomes wet could "pull in" more flow. In a wet rocks all of the rocks have water so there is no preferential flow do to cohesion. From water volume data from each test a heat map was made. Since the measurement was in height of water based on markings, the exact values in the heat maps do not have a physical meeting, but the scale represents differences between cuvettes. All tests were dosed in the middle of the apparatus.
 
 ![Marbles](https://github.com/AguaClara/Trickling-Filter/blob/master/marbles.png?raw=true)
@@ -628,6 +622,51 @@ Table: Total Water Volume out of bench-scale experiment
 
 These experiments show the differences in flow that can exist in a trickling filter.  Marbles had the most predictable flow and almost all of the flow ended up in the basin. There is a large difference in water captured by the wet rocks and dry rocks, this is most likely because some water attached to the dry rocks and did not make it out the bottom. The difference between the wet rocks and marble is due to water that made it to the side of the container and ran down the outside. The dry rocks followed the earlier hypothesis that the first path that was wetted would be the preferential flow path. One reason the wet rocks preformed so randomly is that the rocks lock together to form almost a sheet which spread the water over the whole area. This is good to make sure that all areas of the filter are being used and increases retention time. However, this layer that is hard for water to pass through can creating pooling on top of it in the filter which less to anoxic conditions. This experiment highlighted for the team some of the intricacies of packing material selection. The mesh at the bottom of the apparatus that held up the packing materials could have impacted the results if water ran along it.
 
+### Benchtop Experiment: String Methods
+The team decided to pursue an entirely novel preliminary design for a trickling filter involving the use of strings as the trickling media and an overflowing basin.
+
+<img src="https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/StringApparatus.png" height=550 width=600>
+
+
+<img src="https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/string%20filter%20set%20up.png?raw=true" height=711 width=400>
+
+Figure X: Set up of string filter, with holding basin at the top (currently being dosed from above) and yarn/string wrapped around the top of the basin to the bar below. In this picture the system has 46 strings coming from the basin (string was wrapped around 46 times).
+
+
+
+
+The team's initial goal was simply to test if the system would behave as expected: will the water flow over the edges of the basin and flow along the strings? Several trials were conducted simply dosing the basin with a low flow rate and observing. With the strings packed tightly as shown in the initial set up above in Figure X, the water that overflowed from the basin followed the string all the way down. This provided confirmation that the concept of using strings as the tickling media has the potential to be successful. Next, the team began testing to target various parameters of the design.
+
+## Results and Analysis
+The first set of tests conducted aimed to identify whether residence time of the water on the string depends on the flow rate being pumped into the basin. This test was conducted by starting with red dye in the basin so that the speed of the water moving down the string could be observed visually and timed. One team member began dosing the basin with clean water, and another team member watched the strings and began timing when the water first started to overflow from the basin. The timer was stopped when the first drops of dyed water reached the bottom of the strings. The table below presents the data gathered in these tests.
+
+Table 5: residence time of water on the string for varying flow rates. All tests conducted with size 17 tubing.
+| Flow rate (rpm) | Length of Trial 1 (secs)   | Length of Trial 2 (secs)    | Length of Trial 3 (secs)    | Average Trial Length (secs) |
+|:------: |:-------: |:--------: |:--------: |:-------: |
+| 25 | 27 | 42 | 47  | 38.67    |
+| 50 | 28 | 31 | 29  | 29.33    |
+| 75 | 21 | 23 | 24  | 22.67    |
+
+Based on these tests, the team is able to conclude that the residence time of water does depend on the flow rate, and that as the dosing rate is increased, the residence time decreases. Therefore, in order to maximize the amount of time wastewater spends on the string to allow for as much treatment as possible, the design would require a very low dosing rate.
+
+The next parameter the team aimed to test was string spacing. Specifically, the team wanted to know how far apart the strings could be placed before the system fails and water no longer follows along the string, therefore not being treated. The same process of running water through the system was repeated, but with each trial the spacing between the strings was increased by reducing the number of strings coming from the basin. See figure Y below for an example of a test with increased spacing.
+
+
+<img src="https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/10%20strings%20spacing.png?raw=true" height=711 width=400>
+
+Figure Y: String filter set up with 10 strings to test effects of increased spacing.
+
+Tests were conducted at 35 rpm, and the number of strings was gradually reduced from 46, to 20, then to 15, 10, 8, 6, 5, 3, and finally 1 (tests were conducted both with the one string in the center of the basin and at one end). For all tests, the flow of water followed the string and did not flow freely down the side of the basin or fall off the string. Only when the flow rate was increased to 60 rpm with one string did the system begin to fail and water dripped down the side of the basin. From this series of tests, the team can conclude that spacing is not a limiting factor on design and therefore the number of strings in the filter will be determined by other factors like maximizing treatment and allowing for sufficient aeration.
+
+Finally, the team wanted to test the feasibility of an idea of having some strings anchored at an angle away from basin, not straight below it like previous set-ups. To model this, every other string was threaded onto a thin bar, which separated half the strings out and created two layers of strings on each side of the basin (see figure Z). The team conducted the same test of simply dosing with red dye and observing the flow. For the alternative anchoring set up, the flow was much less uniform than in previous tests. A higher flow of water was observed on the strings that were anchored so that they rested against the side of the basin. Also, some of the water that flowed along the outer set of strings would stay on the thin bar and drip off instead of following the strings all the way down.
+
+<img src="https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/split%20anchoring.png?raw=true" height=400 width=400>
+
+Figure Z: String filter with alternating strings anchored away from the wall of the basin.
+
+Based on these preliminary tests, the team concludes that the benefits of additional anchoring points (a potential to pack more strings into the filter without causing aerobic conditions) do not outweigh the various complications that this additional parameter would introduce. Therefore, the team would suggest focusing on other ways to maximize treatment in the future and stay with one anchoring point directly under the edge of the basin.
+
+
 ## Conclusion
 
 In the team’s initial research, extensive information has been gathered on the operational difficulties, the kinetics, and typical design parameters of trickling filters. Many of the issues plant operators encounter with trickling filters, like clogging and ponding, lack of moisture in parts of the filter, and generally inefficiency of the filter can be addressed by improving two aspects of the filter: the filter media itself and the distribution system. The BOD kinetic model also supports improving the filter media to increase the specific surface area, using alternative materials instead of the traditional rocks or gravel. The team’s research on nitrogen kinetics adds a need for proper aeration of the filter to the list of considerations when designing a new filter media.
@@ -636,10 +675,10 @@ The lack of available information and limited research on some aspects of the ki
 
 Preliminary research was driven primarily by industry research, however, it is expected than many of the established parameters will be subject to change as a result of independent research efforts. The findings of the team's experiments will be intended to characterize a trickling filter system absent of mechanical components and with higher filter media utilization. By the conclusion of this team's work, a vast majority of the gaps in literature will be filled with conclusive empirical data to serve as a model for wastewater plants in resource-scarce locations in addition to modifying the faults in industry around the world.
 
-In the past few weeks, the team has been fabricating the bench top model and beginning to conduct  tests to determine the distribution of flow in trickling filters. The preliminary results from these tests were confusing, as almost all water was running down the side of the tube instead of through the media. The second phase of testing yielded usable results. From this experiment, the team believes that a uniform packing material is better than a random material. It yields consistent results and since it is easy to determine the dispersion and location of the flow the filter can be designed to maximize removal based on that flow. The random filter does spread out the water well; however, it is nearly impossible to model and can create anoxic zones which would limit nutrient removal.
+The team fabricated the bench top model for flow mapping and conducted tests to determine the distribution of flow in trickling filters with small rock and marble media. The preliminary results from these tests were confusing, as almost all water was running down the side of the tube instead of through the media. The second phase of testing yielded usable results. From this experiment, the team believes that a uniform packing material is better than a random material. It yields consistent results and since it is easy to determine the dispersion and location of the flow the filter can be designed to maximize removal based on that flow. The random filter does spread out the water well; however, it is nearly impossible to model and can create anoxic zones which would limit nutrient removal.
 
 ## Future Work
-This semesters accomplishments were mostly in the hydraulics of the system. Tasks for future teams should include two main components: biological growth and scaling. The current prototype is very different from traditional filters and it is unknown how a biofilm will grow on it. One important parameter about growth to consider in this design is sloughing. One possible issue is the biofilm that sloughs off also takes all the biofilm on the string below it off. Another task is to determine if the biofilm should be grown just based on what is in the wastewater or if it should be seeded. If it is to be seeded, the future team should determine what the best culture is for nutrient removal. Once the team has both a proof of hydraulic concept and biological concept, they can move on to scaling.  The team must consider how this will be assembled at a large scale. Each side where there is overflow must be completely level. To scale up to a plant size this would cover about an entire classroom. This is a lot of strings and assembly could prove too difficult. Once a scaled design is complete, a small-scale test at the Ithaca WWTP can prove that is can remove nutrients before it is deployed in Honduras. 
+This semesters accomplishments were mostly in the hydraulics of the system. Tasks for future teams should include two main components: biological growth and scaling. The current prototype is very different from traditional filters and it is unknown how a biofilm will grow on it. One important parameter about growth to consider in this design is sloughing. One possible issue is the biofilm that sloughs off also takes all the biofilm on the string below it off. Another task is to determine if the biofilm should be grown just based on what is in the wastewater or if it should be seeded. If it is to be seeded, the future team should determine what the best culture is for nutrient removal. Once the team has both a proof of hydraulic concept and biological concept, they can move on to scaling.  The team must consider how this will be assembled at a large scale. Each side where there is overflow must be completely level. To scale up to a plant size this would cover about an entire classroom. This is a lot of strings and assembly could prove too difficult. Once a scaled design is complete, a small-scale test at the Ithaca WWTP can prove that is can remove nutrients before it is deployed in Honduras.
 
 <div class="alert alert-block alert-danger">
 Have you considered widening up the area of filter media? Or else how to address the experimental issues detailed in results/analysis
