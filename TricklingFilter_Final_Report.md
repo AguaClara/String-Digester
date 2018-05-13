@@ -12,7 +12,7 @@ Comment has been corrected
 
 ## Abstract
 
-The objective for this semester was identifying problems with trickling filters and determining possibly solutions. After an extensive literature review, two bench scale experiments were conducted. The first was to characterize the hydraulic behavior of a trickling filter and the flow of water through its packing media. The team used this information to identify the areas within the system with the greatest potential for improvements. From this information, the first prototype was built using strings to control flow paths and create a high surface area to volume ratio. Preliminary tests were conducted on the prototype to determine flow dispersion, residence time, and optimal string spacing.
+The objective for this semester was identifying problems with trickling filters and determining possible solutions. After an extensive literature review, two bench scale experiments were conducted. The first was to characterize the hydraulic behavior of a trickling filter and the flow of water through its packing media. The team used this information to identify the areas within the system with the greatest potential for improvements. From this information, the first prototype was built using strings to control flow paths and create a high surface area to volume ratio. Preliminary tests were conducted on the prototype to determine flow dispersion, residence time, and optimal string spacing.
 
 <div class="alert alert-block alert-danger">
 Revise first sentence.
@@ -28,9 +28,17 @@ Consider revising again for wordiness. Think of sentence length like punches. Yo
 Comment has been corrected
 </div>
 
+<div class="alert alert-block alert-danger">
+It should be explicitly stated that the trickling filter is for domestic wastewater. 
+</div>
+
 ## Introduction
 
 The creation of the trickling filter subteam was prompted by the need for further treatment of wastewater following Upflow Anaerobic Sludge Blanket (UASB) treatment. A UASB reactor consists of a suspended sludge blanket which filters incoming wastewater. The wastewater enters the reactor from the bottom and flows upward through through the sludge blanket. UASB treatment efficiently treats the biochemical oxygen demand (BOD) of wastewater, but there are high concentrations of nutrient loading in the wastewater in Honduras. Wastewater that is not treated can transmit diseases and add nutrients to water systems. Excessive nutrients in water systems can decrease dissolved oxygen and also cause toxic algal blooms. Trickling filters can be used to decrease the nutrient and BOD content of wastewater
+
+<div class="alert alert-block alert-danger">
+The UASB acts as primary and secondary treatment to settle out solids and allow for BOD removal. It doesn't really "filter" the wastewater so consider revising that sentence. Also, there are high concentrations of nutrient loading in most wastewaters, particularly domestic wastewater for nitrogen. I think that should be mentioned instead of just saying that it exists in Honduras. 
+</div>
 
 The overall objective with respect to the treatment capacity of the system, is to first identify the primary issues in industrial-scale trickling filters. Using this information, the team aims to deploy an efficient, non-mechanized trickling filter which can be adapted to serve the wastewater needs of a resource-scarce community. The team's primary aim is to assess the feasibility of the inclusion of a trickling filter in a future AguaClara wastewater treatment plant.
 
@@ -43,6 +51,9 @@ Consider adding health effects if there isn't robust wastewater treatment (one s
 Added information about wastewater and better broke up the paragraphs to flow well.
 </div>
 
+<div class="alert alert-block alert-danger">
+Review the tense that the paragraph is written in (ex: "The objective is to first"). Also, what does industrial scale mean? You are still referring to large scale domestic wastewater treatment, right?
+</div>
 
 A trickling filter is a biological reactor used in secondary and tertiary wastewater treatment to remove organic matter and nutrients. Settled wastewater is spread evenly by the distribution arm across the filter media, which can be rocks, gravel, or plastic media, among other things. The filter media is cultured with a productive biofilm which grows on the media and degrades the organic matter and nutrients that come into contact with it as the water trickles through.
 
@@ -54,7 +65,7 @@ Figure 1: Cross sectional side view of a conventional trickling filter with ston
 consider centering figures and their captions
 </div>
 
-Trickling filters were heavily researched in the 1970's and 1980's but the industry witnessed a dramatic decline in literature in the years following. The wastewater research after 1980 switch to more energy intensive methods of treatment, like activated sludge. These processes have a higher removal efficiency, but require massive amounts of energy. One aspects that is central to AguaClara's mission is to use as little (or no) electricity. Therefore, a passive treatment like trickling filters only require the energy for water to make it to the top of the filter. This is especially important in regions where electricity is not available or consistent.
+Trickling filters were heavily researched in the 1970's and 1980's but the industry witnessed a dramatic decline in literature in the years following. The wastewater research after 1980 switched to more energy intensive methods of treatment, like activated sludge. These processes have a higher removal efficiency, but require massive amounts of energy. One aspects that is central to AguaClara's mission is to use as little (or no) electricity. Therefore, a passive treatment like trickling filters only require the energy for water to make it to the top of the filter. This is especially important in regions where electricity is not available or consistent.
 The team believes with modern technologies and new information, trickling filters can achieve a high performance level. This can be done by improving by maximizing the utilization rates of the biofilm surface areas and nutrient removal performance for the system. The team strives to make significant technological improvements on industry-standard applications for the system.
 
 <div class="alert alert-block alert-danger">
@@ -89,7 +100,7 @@ Implementation of a non-mechanized trickling filter system such as the one descr
 Comment has been corrected
 </div>
 
- Trickling filter research saw a significant decline several decades ago due to the advent of aeration tanks and other more efficient but high energy processes, and so recent progress in the field has been very limited. Therefore, the team believes with modern technologies and new information, trickling filters can be improved upon in maximizing the utilization rates of the biofilm surface areas and nutrient removal performance for the system. The team strives to make significant technological improvements on industry-standard applications for the system.
+ Trickling filter research saw a significant decline several decades ago due to the advent of aeration tanks and other more efficient but high energy processes, so recent progress in the field has been very limited. Therefore, the team believes with modern technologies and new information, trickling filters can be improved upon in maximizing the utilization rates of the biofilm surface areas and nutrient removal performance for the system. The team strives to make significant technological improvements on industry-standard applications for the system.
 
 ## Literature Review
 
@@ -258,11 +269,16 @@ I agree that it's important information, but was wondering if it wouldn't be cle
 Comment has been corrected.
 </div>
 
+
+<div class="alert alert-block alert-danger">
+The first sentence in this paragraph is not grammatically clear ("are would be")
+</div>
+
 #### Increasing the $k_{20}$ Value
 There is a very little available research on $k_{20}$ values of different trickling filters. Most research reports just state the value for the filters they were testing. The $k_{20}$ value is the removal coefficient of the specific bacterial culture used at 20 degrees Celsius. A reasonable $k_{20}$ value for an aerobic sludge reactor would be 0.20.
 
 ##### Ideas for improvement
-* Using different bacterial cultures that are more effective at removing nitrogen and Phosphorus to grow on the filter
+* Using different bacterial cultures that are more effective at removing nitrogen and phosphorus to grow on the filter
 * Ensuring that aeration reaches all areas of the filter, therefore keeping the bacteria functioning at a high rate
 
 <div class="alert alert-block alert-danger">
@@ -275,14 +291,23 @@ My concern with the "ideas for improvement" subheaders, is it makes it difficult
 I think it is helpful in looking back form a future team standpoint because they can see exactly what our ideas are for each point and even add to them. I think it also captures the goals of our team's start well which was to find problems with trickling filters and propose solutions to fix them.
 </div>
 
+
+<div class="alert alert-block alert-danger">
+Can you explain a little more about what the $k_{20}$ value is? Be clear about what the removal efficiency is for. Also, while this would be great to select for different bacteria, it is unlikely in a passive system that is naturally inoculated by wastewater. Can you include a point about feasibility?
+</div>
+
 #### Flow Distributions
-An assumption of this model is that the entire volume of the trickling filter is being used. The team hypothesized that there might be unused volume in the trickling filter that does not receive any flow because the would water take another path with less resistance, and therefore the system would be failing to fully treat the water. Therefore the team conducted preliminary experiments to determine how flow is distributed. Using the information gathered from these tests, the team intends to eventually determine how to use a packing material and filter design that utilizes all of the available space.
+An assumption of this model is that the entire volume of the trickling filter is being used. The team hypothesized that there might be unused volume in the trickling filter that does not receive any flow because the water would take another path with less resistance, and therefore the system would be failing to fully treat the water. Therefore the team conducted preliminary experiments to determine how flow is distributed. Using the information gathered from these tests, the team intends to eventually determine how to use a packing material and filter design that utilizes all of the available space.
 
 <div class="alert alert-block alert-danger">
 Future and past tense used.
 </div>
 <div class="alert alert-block alert-success">
 Comment has been corrected
+</div>
+
+<div class="alert alert-block alert-danger">
+An assumption of which model? What does "this" refer to?
 </div>
 
 ### Nitrogen Kinetic Models
@@ -580,8 +605,9 @@ Did you guys not revise this section? If you downt intend to use a section, remo
 Section has been deleted as it was inaccurate of what we are now doing.
 </div>
 
-
-
+<div class="alert alert-block alert-danger">
+Be sure to include units in your table headings, esp for depth.
+</div>
 
 ## Results and Analysis
 
@@ -595,11 +621,15 @@ In methods you say that you already used marbles?
 We were just trying to use the past tense, but now it has been run so results from marbles have been added
 </div>
 
+<div class="alert alert-block alert-danger">
+Avoid using "we"
+</div>
+
 <img src="https://user-images.githubusercontent.com/35943730/38639368-ea56bc0a-3d9e-11e8-998e-6c4cebaf9ec2.JPG">
 Figure 7: An example of a test run through 60 cm of pea gravel. The image shows that a few of the cuvettes were "hit" and contain water, but most are empty and the vast majority of the water ended up outside the cuvettes, in the bottom of the collection unit.
 
 
-The team then was comparing how packing material affects flow. One parameter that was tested was the randomness of the media, marbles of all the same size make a predictable matrix, whereas rocks can form many arrangements. Another parameter that was tested was if wetness of the surface affected flow. Water is very cohesive. In a dry rock, the first path that becomes wet could "pull in" more flow. In a wet rocks all of the rocks have water so there is no preferential flow do to cohesion. From water volume data from each test a heat map was made. Since the measurement was in height of water based on markings, the exact values in the heat maps do not have a physical meeting, but the scale represents differences between cuvettes. All tests were dosed in the middle of the apparatus.
+The team then compared how packing material affects flow. One parameter that was tested was the randomness of the media, marbles of all the same size make a predictable matrix, whereas rocks can form many arrangements. Another parameter that was tested was if wetness of the surface affected flow. Water is very cohesive. In a dry rock, the first path that becomes wet could "pull in" more flow. In a wet rocks all of the rocks have water so there is no preferential flow do to cohesion. From water volume data from each test a heat map was made. Since the measurement was in height of water based on markings, the exact values in the heat maps do not have a physical meeting, but the scale represents differences between cuvettes. All tests were dosed in the middle of the apparatus.
 
 ![Marbles](https://github.com/AguaClara/Trickling-Filter/blob/master/marbles.png?raw=true)
 
@@ -621,6 +651,10 @@ Table: Total Water Volume out of bench-scale experiment
 | Dry Rocks | 70.75                      |
 
 These experiments show the differences in flow that can exist in a trickling filter.  Marbles had the most predictable flow and almost all of the flow ended up in the basin. There is a large difference in water captured by the wet rocks and dry rocks, this is most likely because some water attached to the dry rocks and did not make it out the bottom. The difference between the wet rocks and marble is due to water that made it to the side of the container and ran down the outside. The dry rocks followed the earlier hypothesis that the first path that was wetted would be the preferential flow path. One reason the wet rocks preformed so randomly is that the rocks lock together to form almost a sheet which spread the water over the whole area. This is good to make sure that all areas of the filter are being used and increases retention time. However, this layer that is hard for water to pass through can creating pooling on top of it in the filter which less to anoxic conditions. This experiment highlighted for the team some of the intricacies of packing material selection. The mesh at the bottom of the apparatus that held up the packing materials could have impacted the results if water ran along it.
+
+<div class="alert alert-block alert-danger">
+Again, include units in table
+</div>
 
 ### Benchtop Experiment: Testing Unconventional Filter Media--Strings Applications
 The team decided to pursue an entirely novel preliminary design for a trickling filter in order to investigate options to optimize the surface area to volume ratio of the packing media to both improve the overall treatment efficiency of the system and to decrease the physical footprint of the filter. The first innovation to improve trickling filter media was the use of strings as the packing media and an overflowing basin to wick the water across the length of the string as it was treated.
