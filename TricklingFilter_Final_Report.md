@@ -1,35 +1,14 @@
 # Trickling Filter, Spring 2018
 #### Jillian Whiting, Ben Gassaway, Rosie Krasnoff
-#### March 9th, 2018
-
-<div class="alert alert-block alert-danger">
-Please do not delete my comments. Address them for the next submission and then I will use the comments to check for corrections. If you disagree with my comments, just add one below mine.
-</div>
-
-<div class="alert alert-block alert-success">
-Comment has been corrected
-</div>
+#### May 18th, 2018
 
 ## Abstract
 
 The objective for this semester was identifying problems with trickling filters and determining possible solutions. After an extensive literature review, two bench scale experiments were conducted. The first was to characterize the hydraulic behavior of a trickling filter and the flow of water through its packing media. The team used this information to identify the areas within the system with the greatest potential for improvements. From this information, the first prototype was built using strings to control flow paths and create a high surface area to volume ratio. Preliminary tests were conducted on the prototype to determine flow dispersion, residence time, and optimal string spacing.
 
-<div class="alert alert-block alert-danger">
-Revise first sentence.
-
-Avoid passive voice.
-
-Watch difference between were and was
-
-Consider revising again for wordiness. Think of sentence length like punches. You can have a few big punches in a fight, but more smaller jabs
-</div>
-
-<div class="alert alert-block alert-success">
-Comment has been corrected
-</div>
 
 <div class="alert alert-block alert-danger">
-It should be explicitly stated that the trickling filter is for domestic wastewater. 
+It should be explicitly stated that the trickling filter is for domestic wastewater.
 </div>
 
 ## Introduction
@@ -37,19 +16,11 @@ It should be explicitly stated that the trickling filter is for domestic wastewa
 The creation of the trickling filter subteam was prompted by the need for further treatment of wastewater following Upflow Anaerobic Sludge Blanket (UASB) treatment. A UASB reactor consists of a suspended sludge blanket which filters incoming wastewater. The wastewater enters the reactor from the bottom and flows upward through through the sludge blanket. UASB treatment efficiently treats the biochemical oxygen demand (BOD) of wastewater, but there are high concentrations of nutrient loading in the wastewater in Honduras. Wastewater that is not treated can transmit diseases and add nutrients to water systems. Excessive nutrients in water systems can decrease dissolved oxygen and also cause toxic algal blooms. Trickling filters can be used to decrease the nutrient and BOD content of wastewater
 
 <div class="alert alert-block alert-danger">
-The UASB acts as primary and secondary treatment to settle out solids and allow for BOD removal. It doesn't really "filter" the wastewater so consider revising that sentence. Also, there are high concentrations of nutrient loading in most wastewaters, particularly domestic wastewater for nitrogen. I think that should be mentioned instead of just saying that it exists in Honduras. 
+The UASB acts as primary and secondary treatment to settle out solids and allow for BOD removal. It doesn't really "filter" the wastewater so consider revising that sentence. Also, there are high concentrations of nutrient loading in most wastewaters, particularly domestic wastewater for nitrogen. I think that should be mentioned instead of just saying that it exists in Honduras.
 </div>
 
 The overall objective with respect to the treatment capacity of the system, is to first identify the primary issues in industrial-scale trickling filters. Using this information, the team aims to deploy an efficient, non-mechanized trickling filter which can be adapted to serve the wastewater needs of a resource-scarce community. The team's primary aim is to assess the feasibility of the inclusion of a trickling filter in a future AguaClara wastewater treatment plant.
 
-<div class="alert alert-block alert-danger">
-Consider better flow from first to second sentence
-
-Consider adding health effects if there isn't robust wastewater treatment (one sentence) - ties into importance to AguaClara as a total unit.
-</div>
-<div class="alert alert-block alert-success">
-Added information about wastewater and better broke up the paragraphs to flow well.
-</div>
 
 <div class="alert alert-block alert-danger">
 Review the tense that the paragraph is written in (ex: "The objective is to first"). Also, what does industrial scale mean? You are still referring to large scale domestic wastewater treatment, right?
@@ -61,44 +32,14 @@ A trickling filter is a biological reactor used in secondary and tertiary wastew
 
 Figure 1: Cross sectional side view of a conventional trickling filter with stone media and a rotating distributor arm.
 
-<div class="alert alert-block alert-danger">
-consider centering figures and their captions
-</div>
 
 Trickling filters were heavily researched in the 1970's and 1980's but the industry witnessed a dramatic decline in literature in the years following. The wastewater research after 1980 switched to more energy intensive methods of treatment, like activated sludge. These processes have a higher removal efficiency, but require massive amounts of energy. One aspects that is central to AguaClara's mission is to use as little (or no) electricity. Therefore, a passive treatment like trickling filters only require the energy for water to make it to the top of the filter. This is especially important in regions where electricity is not available or consistent.
 The team believes with modern technologies and new information, trickling filters can achieve a high performance level. This can be done by improving by maximizing the utilization rates of the biofilm surface areas and nutrient removal performance for the system. The team strives to make significant technological improvements on industry-standard applications for the system.
 
-<div class="alert alert-block alert-danger">
-You mention this two paragraphs ago but there are more details here then there. Considering moving these details up there.
 
-change "believe's" to believes
-
-Change "improved upon in maximizing" to "improved by maximizing" - the writing has gotten more concise, but continue to revise!
-</div>
-
-<div class="alert alert-block alert-success">
-Comments have been corrected
-</div>
-
-
-<div class="alert alert-block alert-danger">
-When using a sentence like "The wastewater research switched to more active methods of treatment like activated sludge; however, passive treatments like trickling filters have low energy requirements, if any." you want both parts of the sentence to be logically connected.
-
-I understand that you mean that trickling filters have low energy requirements which are advantageous in electricity scarce areas, but this sentence is saying "The research has shifted focus but the filters are low energy" which on its own, doesn't make sense. Try expressing this idea differently.
-</div>
-
-<div class="alert alert-block alert-success">
-Comment had been corrected
-</div>
 
 Implementation of a non-mechanized trickling filter system such as the one described in the paragraph above, is beneficial a wastewater treatment plant in terms of economic and operational sustainability. Eliminating the need of any proprietary, mechanized components opens an opportunity for cost savings and will ultimately extend the usable life of the plant. Any mechanical components added to the system present a point of failure. By removing these moving parts, the system will be able to operate for longer durations with a less-intensive maintenance schedule. This will save money and time in the long run for the plant operations.
 
-<div class="alert alert-block alert-danger">
-"extend the usable life of the plant"
-</div>
-<div class="alert alert-block alert-success">
-Comment has been corrected
-</div>
 
  Trickling filter research saw a significant decline several decades ago due to the advent of aeration tanks and other more efficient but high energy processes, so recent progress in the field has been very limited. Therefore, the team believes with modern technologies and new information, trickling filters can be improved upon in maximizing the utilization rates of the biofilm surface areas and nutrient removal performance for the system. The team strives to make significant technological improvements on industry-standard applications for the system.
 
@@ -109,20 +50,6 @@ There is significant documentation of problems plant operators experienced when 
 
 However, some of these previously mentioned problems (insect and slug presence in filters) as well as high biomass sloughing rate contribute to clogging and ponding in filters, which the team does aim to address. The sloughing of biomass refers to the gradual accumulation of a sizeable layer of biomass. If this layer is not maintained at a desired thickness, treatment performance will decrease. Current solutions include flashing with low doses of chlorine to remove deposited solids and kill excess biomass or periodic flooding [(Ali et al. 2017)](http://www.pjoes.com/pdf/26.6/Pol.J.Environ.Stud.Vol.26.No.6.2431-2444.pdf). The team aims avoid the problem altogether by developing a new trickling media that has a lower tendency to experience clogging or ponding, so that periodic flooding or other solutions are not necessary.
 
-<div class="alert alert-block alert-danger">
-Where do you mention biomass sloughing in the previous paragraph?
-
-Where are all of your in-text citations?
-
-Why does the second sentence have quotes?
-
-Change "period" to to "periodic" in the last sentence.
-</div>
-<div class="alert alert-block alert-success">
-Comment has been corrected.
-
-All information in first 4 paragraphs of the section are from the same Ali et al paper. Should it be cited repeatedly in every paragraph? I thought I only had to cite once  at the end of all information from that paper, but I understand that it is somewhat unclear where the information in the first paragraphs is from.
-</div>
 
 There can be issues with variations in temperature: biofilm thickness changes seasonally and can be low quality and uneven in cold temperatures. In freezing weather, formation of ice can cause clogging and therefore structural damage to the trickling media. These are generally not major concerns for plants in equatorial regions, and so while important to note, will not be a focus for the team at this point.
 
@@ -130,66 +57,19 @@ There can be issues with variations in temperature: biofilm thickness changes se
 
  Proper distribution of wastewater onto the filter media is crucial for optimizing efficiency of treatment. The most common method of distribution is rotating distributors, but after seeing the problems with them at the Cayuga Heights wastewater treatment plant (see Case Study section for details), the team was interested in learning more about other methods that might require less maintenance or be less prone to failure.
 
- <div class="alert alert-block alert-danger">
- Proper distribution of what? Consider "Proper distribution of flow is crucial for optimizing the efficiency of treatment"
- </div>
-
-  <div class="alert alert-block alert-success">
-  Comment has been corrected
-  </div>
 
 The less common method of distribution, the fixed distribution system, utilizes lateral and main distribution pipes, which are placed just above the medium, spaced to give uniform distribution of water. They generally have nozzles with a circular hole and a deflector. They are more commonly used with intermittent dosing, so flow from the system varies; it starts at a maximum and lowers as the tank empties. Currently, fixed distribution systems are mostly used in deep filter and biotowers (i.e. very tall filters).
 
-<div class="alert alert-block alert-danger">
-Change to "the fixed distribution system" (singular to match beginning of system)
-
-remove "and" from "and so"
-
-What are deep filters and biotowers?
-</div>
-
- <div class="alert alert-block alert-success">
- Comment has been corrected.
- </div>
 
 Unfortunately, these systems are also prone to clogging or blockage issues and similarly challenged by inconsistency of hydraulic load on the surface of the trickling filter. This is another area where there is huge potential for the team to increase the productivity of trickling filters. [(Sperling 2007).](https://www.iwapublishing.com/sites/default/files/ebooks/9781780402123.pdf)
-
-<div class="alert alert-block alert-danger">
-Potentially add a section explaining how Trickling filters work (i.e. nutrient treatment vs. BOD removal). Remember that your audience is a new team member trying to get caught up.
-
-Add photos to give a mental image. It will aid understanding of the geometry you are discussing.
-</div>
-
-</div>
-<div class="alert alert-block alert-success">
-Picture added. We are assuming the reader is someone with a general background knowledge of wastewater treatment and is therefore familiar with trickling filter technology.
-</div>
 
 ### Kinetics
 
 Kinetics are used to model the removal efficiencies of biological plants. The team believes that the best way to improve filter performance is to improve the kinetics of the filter. Therefore below is a literature review of kinetic models and possible solutions to increase removal.
 #### BOD Kinetic Model
 
-<div class="alert alert-block alert-danger">
-Make this header smaller to show it as a subheading
-</div>
-<div class="alert alert-block alert-success">
-Comment has been corrected
-</div>
-
 The trickling filter team assumed that the majority of BOD will be removed by the UASB reactor. Therefore the trickling filter will be mostly removing nutrients (i.e. Nitrogen and Phosphorus). Since there is not a common nutrient removal equation that many books cite, the common BOD model will be used and compared to one paper's nutrient removal equation. Therefore, the team is using the modified Velz BOD kinetic model with the assumption that nutrient removal factors would be similar to BOD removal factors because they are both biological processes. Nutrient removal equations discussed later validate this assumption. The most common kinetic model for trickling filters is the modified Velz Equation.
 
- <div class="alert alert-block alert-danger">
- Is there a name for the common BOD kinetic model?
-
- I'm a bit confused bc you say that nutrient removal kinetic equations don't exist but then use nutrient removal equations as justifications for using the BOD kinetic model. Flesh this out a bit.
-
- Also what are the importance of kinetic equations?
- </div>
-
-<div class="alert alert-block alert-success">
-The name is the modified Velz equation as which was added to the report. I changed the sentence so it would make more sense
-</div>
 The modified Velz Equation from [Logan et. al. 1987](http://www.jstor.org/stable/pdf/25043431.pdf?acceptTC=true):
 
 $C_{out} =\frac{C_{in}}{(R+1)e^{\frac{k_{20}A_{s}H\theta^{T-20}}{Q_{i}(R+1)^{n}}}- R}$
@@ -209,32 +89,12 @@ The team's preliminary design for the filter would not include any recycle, ther
 
 $C_{out} ={C_{in}}{e^{\frac{-k_{20}A_{s}H\theta^{T-20}}{Q_{i}^{n}}}}$
 
-<div class="alert alert-block alert-danger">
-How does the denominator end up in the numerator? (I might've forgotten how to math)
-</div>
-<div class="alert alert-block alert-success">
-I made it a negative power to move it to the numerator
-</div>
 
 The main points of improvement based on the kinetic model would be to change any of the variables in the equation to increase removal (i.e $C_{in} - C_{out}$). These points of improvement are to increase the height/depth of the filter, increase the surface area, increase temperature, or increase the $k_{20}$ value.
 
-<div class="alert alert-block alert-danger">
-Potentially define "removal" in terms of variables
-</div>
-
-<div class="alert alert-block alert-success">
-Comment has been corrected
-</div>
 
 #### Increasing Temperature
 The teams assumption is that the wastewater treatment plants would be built outside without heating or air conditioning. Since the pilot plant is expected to be installed in Honduras, temperature in the filter will be in the optimal range for bacterial growth. Although the kinetic model does not have a cap on temperature, the team does not want to raise the temperature too high as to kill the bacteria. The team did not investigate other heating mechanisms because heating large volumes usually requires a lot of energy, for little payoff.
-
-<div class="alert alert-block alert-danger">
-Consider revising for flow
-</div>
-<div class="alert alert-block alert-success">
-Comment has been corrected
-</div>
 
 
 #### Increasing Height of filter
@@ -243,36 +103,9 @@ The team is looking for a novel design that can make traditional filters more co
 #### Increasing the Specific Surface Area
 Specific surface area is surface area per volume. In order to change the specific surface area of the filter the packing material must be changed. To increase specific surface area, the packing material must have more surface area for the same amount of volume. Many trickling filters in Honduras, the packing material is gravel or rocks. In the US, there has been a lot of research and development of new higher specific surface area packing materials. These materials have a more honeycomb structure. Many of these materials are very expensive and would not fit with AguaClara low-cost model. Even though using these materials would not be feasible, the team can gain insight into how to make a more efficient filter and then make it low cost. Therefore the team thinks this is a good research area to produce the most effective trickling filter.
 
-<div class="alert alert-block alert-danger">
-Revise second half for technical writing.
-</div>
-
-<div class="alert alert-block alert-success">
-Comment has been corrected.
-</div>
 
 ##### Ideas for improvement
-The team's idea for improvement of specific surface are would be a novel geometry and material combination. Our ideas are string, straws, sheets, BioBalls, and six-pack plastic holder recycling
-
-<div class="alert alert-block alert-danger">
-Is making this a subsection adding to the organization or taking away from it?
-</div>
-
-<div class="alert alert-block alert-success">
-This would not be included in a published report, but since we may not get to work on this this semester, it would be helpful to future teams.
-</div>
-
-<div class="alert alert-block alert-danger">
-I agree that it's important information, but was wondering if it wouldn't be clearer to just add it as a sentence in the parapgraph above.
-</div>
-<div class="alert alert-block alert-success">
-Comment has been corrected.
-</div>
-
-
-<div class="alert alert-block alert-danger">
-The first sentence in this paragraph is not grammatically clear ("are would be")
-</div>
+The team's idea for improvement of specific surface area would be a novel geometry and material combination. Our ideas are string, straws, sheets, BioBalls, and six-pack plastic holder recycling
 
 #### Increasing the $k_{20}$ Value
 There is a very little available research on $k_{20}$ values of different trickling filters. Most research reports just state the value for the filters they were testing. The $k_{20}$ value is the removal coefficient of the specific bacterial culture used at 20 degrees Celsius. A reasonable $k_{20}$ value for an aerobic sludge reactor would be 0.20.
@@ -281,34 +114,14 @@ There is a very little available research on $k_{20}$ values of different trickl
 * Using different bacterial cultures that are more effective at removing nitrogen and phosphorus to grow on the filter
 * Ensuring that aeration reaches all areas of the filter, therefore keeping the bacteria functioning at a high rate
 
-<div class="alert alert-block alert-danger">
-Capitalization
-
-My concern with the "ideas for improvement" subheaders, is it makes it difficult for me as the to find information when looking back because it segments the report more.
-</div>
-
-<div class="alert alert-block alert-success">
-I think it is helpful in looking back form a future team standpoint because they can see exactly what our ideas are for each point and even add to them. I think it also captures the goals of our team's start well which was to find problems with trickling filters and propose solutions to fix them.
-</div>
-
 
 <div class="alert alert-block alert-danger">
 Can you explain a little more about what the $k_{20}$ value is? Be clear about what the removal efficiency is for. Also, while this would be great to select for different bacteria, it is unlikely in a passive system that is naturally inoculated by wastewater. Can you include a point about feasibility?
 </div>
 
 #### Flow Distributions
-An assumption of this model is that the entire volume of the trickling filter is being used. The team hypothesized that there might be unused volume in the trickling filter that does not receive any flow because the water would take another path with less resistance, and therefore the system would be failing to fully treat the water. Therefore the team conducted preliminary experiments to determine how flow is distributed. Using the information gathered from these tests, the team intends to eventually determine how to use a packing material and filter design that utilizes all of the available space.
+An assumption of the modified Velz model is that the entire volume of the trickling filter is being used. The team hypothesized that there might be unused volume in the trickling filter that does not receive any flow because the water would take another path with less resistance, and therefore the system would be failing to fully treat the water. Therefore the team conducted preliminary experiments to determine how flow is distributed. Using the information gathered from these tests, the team intends to eventually determine how to use a packing material and filter design that utilizes all of the available space.
 
-<div class="alert alert-block alert-danger">
-Future and past tense used.
-</div>
-<div class="alert alert-block alert-success">
-Comment has been corrected
-</div>
-
-<div class="alert alert-block alert-danger">
-An assumption of which model? What does "this" refer to?
-</div>
 
 ### Nitrogen Kinetic Models
 The EPA has complied information from many trickling filters across the US that are used for nitrification. They found that bacteria that preform nitrification, usually Nitrosomonas and Nitrobacter, cannot compete against the BOD removing heterotrophs when the BOD levels are high. The EPA suggests that BOD levels be below $20 \frac{mg}{L}$, with the optimal value of $10 \frac{mg}{L}$. The chemical reactions that the nitrifying bacteria are performing are:
@@ -319,23 +132,6 @@ $NO_{2}^{-}  + 0.5 O_{2} \rightarrow NO_{3}^{-}$.
 
 When the EPA report was written no kinetic model had been derived for nitrification in trickling filters. However, they found four main parameters that increased removal was based on: low organic loadings, high residence times, sufficient oxygen availability, and consistency in hydraulic, organic, and ammonia loadings [(US EPA, 1991)](https://nepis.epa.gov/Exe/ZyPDF.cgi/P1004T3S.PDF?Dockey=P1004T3S.PDF). [Duddles et. al., 1974](https://www.jstor.org/stable/pdf/25038735.pdf?refreqid=excelsior%3A134b4fcdcce29130f630db8059aa3119) found that nitrification rate is directly proportional to specific surface area. [Gullicks and Cleasby, 1986](http://www.jstor.org/stable/pdf/25042842.pdf?refreqid=excelsior%3Ad9da82b9b851c3d02a23339cd5f0f45d) found that the mass transfer rate of the biofilm can be increased in two ways: increasing temperature and increasing ammonia concentration. From theses reports the team's earlier assumption the parameters affecting BOD removal are similar to those affecting nitrification is valid. The team also found another factor that effected nitrification rate which is oxygen availability [(Okey and Albertson 1989)](http://www.jstor.org/stable/25046965). There are two regimes of the nitrogen kinetic equation. When oxygen is limited, it is a zero-order kinetic model with respect to ammonia and half order with respect to oxygen. When oxygen is plentiful, it is a first order model with respect to ammonia. The removal equation found was as:
 
-<div class="alert alert-block alert-danger">
-proofread this section and look at it in markdown preview to see formatting
-</div>
-
-<div class="alert alert-block alert-success">
-Comment corrected. What part of the formatting is incorrect/weird. When I open markdown preview it looks fine.
-</div>
-
-<div class="alert alert-block alert-danger">
-It looks like someone hit enter after "BOD removal are similar to those affecting nitrification is valid." - Is it supposed to be a new paragraph?
-
-Also be wary of run-on sentences. Plenty of good content, just hard to digest because it is dense.
-</div>
-
-<div class="alert alert-block alert-success">
-Run-on sentences have been corrected. Also we cannot see any paragraphs or such on our end.
-</div>
 
 $\left(NH_{4}-N\right)_{R} = \frac{K_{ao}S_{o}^{0.5}A_{trans}}{Q} + \left(NH_{4}-N\right)_{trans}\left(1-e^{-K_{n}L}\right)$
 * $\left(NH_{4}-N\right)_{R} = NH_{4}-N$ concentration removed, $\frac{g}{m^{3}}$
@@ -350,12 +146,6 @@ $\left(NH_{4}-N\right)_{R} = \frac{K_{ao}S_{o}^{0.5}A_{trans}}{Q} + \left(NH_{4}
 
 Therefore compared to the BOD kinetic model, the only additional parameter is oxygen concentration. Higher oxygen concentrations result in higher removals.
 
-<div class="alert alert-block alert-danger">
-I understand what you mean but the use of the team's improvement as being changed is a bit confusing. Consider a different way of expressing this.
-</div>
-<div class="alert alert-block alert-success">
-Comment has been corrected
-</div>
 
 #### Ideas for improvements
 The team incorporated the need for airflow into their brainstorming of a novel geometry. In developing this novel geometry, the spacing between our media for the biofilm to grow on should be greater than adhesion and cohesion of water particles can withstand. Surface tension in a cylinder can be calculated using the following equation:
@@ -364,12 +154,6 @@ $F_{ST} = \pi\lambda D$
 
 where $D$ is the diameter of the cylinder. Surface tension can be looked up in table for different materials, and the minimum diameter needed to overcome it would be when this force balances with gravitational force.
 
-<div class="alert alert-block alert-danger">
-Format the equation like the other ones.
-</div>
-<div class="alert alert-block alert-success">
-Comment has been corrected
-</div>
 
 ## Design Parameters
 
@@ -382,17 +166,11 @@ Comment has been corrected
 5. Ventilation through either natural or forced airflow
 6. Settling tank designs for the effluent
 
-<div class="alert alert-block alert-danger">
-This is fantastic!
-</div>
 
 ### Packing Media
 
-The ideal packing material for a trickling filter has a high surface area-to-volume ratio. Factors which add to the value of an ideal packing media are its durability, if it is low in cost, and allows for porosity great enough to promote air circulation and to prevent clogging in the system.
+The ideal packing material for a trickling filter has a high surface area-to-volume ratio. Factors which add to the value of an ideal packing media are: its durability, its affordability, and its ability to both promote air circulation and prevent clogs in the system.
 
-<div class="alert alert-block alert-danger">
-Use parallel sentence structures in lists
-</div>
 
 Plastic packing, for example, has the advantage over rock-based packing for its ability to operate at higher organic loading rates. Due to the characteristics of the media, the trickling filters can be much taller.
 
@@ -469,13 +247,6 @@ The trickling filter for the team will strive to employ a naturally aerated syst
 2. Access ports with adequate openings should be implemented at both tremendous.
 3. Open areas of the underdrain blocks (top slots) should be no less than 15% of the overall cross-sectional area of the filter.
 
-<div class="alert alert-block alert-danger">
-Why? How does that affect air flow? Where does 15% come from?
-</div>
-
-<div class="alert alert-block alert-success">
-Empirical constraint derived from Schroeder and Tchobanoglous
-</div>
 
 <div class="alert alert-block alert-danger">
 Consider moving the reference to that course to the sentence "To achieve natural drat, the following criteria are required" so that the reader knows each of the bullets is from him.
@@ -715,11 +486,6 @@ The team fabricated the bench top model for flow mapping and conducted tests to 
 ## Future Work
 This semesters accomplishments were mostly in the hydraulics of the system. Tasks for future teams should include two main components: biological growth and scaling. The current prototype is very different from traditional filters and it is unknown how a biofilm will grow on it. One important parameter about growth to consider in this design is sloughing. One possible issue is the biofilm that sloughs off also takes all the biofilm on the string below it off. Another task is to determine if the biofilm should be grown just based on what is in the wastewater or if it should be seeded. If it is to be seeded, the future team should determine what the best culture is for nutrient removal. Once the team has both a proof of hydraulic concept and biological concept, they can move on to scaling.  The team must consider how this will be assembled at a large scale. Each side where there is overflow must be completely level. To scale up to a plant size this would cover about an entire classroom. This is a lot of strings and assembly could prove too difficult. Once a scaled design is complete, a small-scale test at the Ithaca WWTP can prove that is can remove nutrients before it is deployed in Honduras.
 
-<div class="alert alert-block alert-danger">
-Have you considered widening up the area of filter media? Or else how to address the experimental issues detailed in results/analysis
-
-What designs would you be building?
-</div>
 
 ## Bibliography
 Ali et al. (2017). Identification and Elucidation of the Designing and Operational Issues of Trickling Filter Systems for Wastewater Treatment. *Polish Journal of Environmental Studies.* 26(6), 2431-2444.
