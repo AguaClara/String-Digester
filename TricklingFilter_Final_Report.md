@@ -4,12 +4,8 @@
 
 ## Abstract
 
-The objective for this semester was identifying problems with trickling filters and determining possible solutions. After an extensive literature review, two bench scale experiments were conducted. The first was to characterize the hydraulic behavior of a trickling filter and the flow of water through its packing media. The team used this information to identify the areas within the system with the greatest potential for improvements. From this information, the first prototype was built using strings to control flow paths and create a high surface area to volume ratio. Preliminary tests were conducted on the prototype to determine flow dispersion, residence time, and optimal string spacing.
+The trickling filter subteam's objective for this semester was to identify problems with trickling filters and determine possible solutions to these problems. The long term goal of the team is to create a novel design for a trickling filter that will perform secondary and tertiary treatment on domestic wastewater in a future AguaClara wastewater treatment plant. After an extensive literature review, two bench scale experiments were conducted. The first test aimed to characterize the hydraulic behavior of a trickling filter and the flow of water through its packing media. The team used this information to identify the areas within the system with the greatest potential for improvements. From this information, the first prototype was built using strings to control flow paths and create a high surface area to volume ratio. Preliminary tests were conducted on the prototype to determine flow dispersion, residence time, and optimal string spacing.
 
-
-<div class="alert alert-block alert-danger">
-It should be explicitly stated that the trickling filter is for domestic wastewater.
-</div>
 
 ## Introduction
 
@@ -19,12 +15,8 @@ The creation of the trickling filter subteam was prompted by the need for furthe
 The UASB acts as primary and secondary treatment to settle out solids and allow for BOD removal. It doesn't really "filter" the wastewater so consider revising that sentence. Also, there are high concentrations of nutrient loading in most wastewaters, particularly domestic wastewater for nitrogen. I think that should be mentioned instead of just saying that it exists in Honduras.
 </div>
 
-The overall objective with respect to the treatment capacity of the system, is to first identify the primary issues in industrial-scale trickling filters. Using this information, the team aims to deploy an efficient, non-mechanized trickling filter which can be adapted to serve the wastewater needs of a resource-scarce community. The team's primary aim is to assess the feasibility of the inclusion of a trickling filter in a future AguaClara wastewater treatment plant.
+The overall objective with respect to the treatment capacity of the system, was to first identify the primary issues in industrial-scale trickling filters. Using this information, the team aims to eventually deploy an efficient, non-mechanized trickling filter which can be adapted to serve the wastewater needs of a resource-scarce community. The team's primary aim is to assess the feasibility of the inclusion of a trickling filter in a future AguaClara wastewater treatment plant.
 
-
-<div class="alert alert-block alert-danger">
-Review the tense that the paragraph is written in (ex: "The objective is to first"). Also, what does industrial scale mean? You are still referring to large scale domestic wastewater treatment, right?
-</div>
 
 A trickling filter is a biological reactor used in secondary and tertiary wastewater treatment to remove organic matter and nutrients. Settled wastewater is spread evenly by the distribution arm across the filter media, which can be rocks, gravel, or plastic media, among other things. The filter media is cultured with a productive biofilm which grows on the media and degrades the organic matter and nutrients that come into contact with it as the water trickles through.
 
@@ -174,7 +166,7 @@ The ideal packing material for a trickling filter has a high surface area-to-vol
 
 Plastic packing, for example, has the advantage over rock-based packing for its ability to operate at higher organic loading rates. Due to the characteristics of the media, the trickling filters can be much taller.
 
-#### Packing Material Properties
+Table 1: Properties of various packing materials
 | Material |Nominal Size (cm) |Surface Area (m^2/m^3)| Void Space (%) | Application |
 | --- | --- | --- | --- | --- |--- | --- |
 |  Rock (small)   |   2.5-7.5  |  60   |  50   |  N   |
@@ -187,10 +179,9 @@ Plastic packing, for example, has the advantage over rock-based packing for its 
 
 ### Dosing Rate
 
-The dosing rate of on a trickling filter is the depth of liquid discharged on top of the packing for each pass of the distributor (Tchobanoglous et. al. 2003, pp 898). To achieve the desired flowrate, plant operators can change a number of control points in the system to do so. Firstly, the locations of some existing orifices can be reversed to the front of the distributor arm. An alternative to this would be to add reversed deflectors to existing orifice discharges. The final, and most energy-intensive alternative to dosing control is to include a variable-speed electric driver to the rotating distributor arm.
+The dosing rate of a trickling filter is defined as the depth of liquid discharged on top of the packing for each pass of the distributor (Tchobanoglous et. al. 2003, pp 898). To achieve the desired flow rate, plant operators can change a number of control points in the system. Firstly, the locations of some existing orifices can be reversed to the front of the distributor arm. An alternative to this would be to add reversed deflectors to existing orifice discharges. The most energy-intensive alternative to dosing control is to include a variable-speed electric driver to the rotating distributor arm.
 
 <div class="alert alert-block alert-danger">
-Revise to be concise.
 
 What does reversing the location of the existing orifices do? Make the flow rate increase or decrease?
 </div>
@@ -205,7 +196,7 @@ $n = \frac{(1 + R)(q)(10^3 mm/m)}{(A)(DR)(60 min/h)}$
 * $\small A$ = number of arms in rotary distributor assembly
 * $\small DR$ = dosing rate, mm/pass of distributor arm
 
-
+Table 2: Typical flushing and operating doses for various BOD loadings
 | BOD Loading, kg/m^3 $\cdot$ d |Operating Dose, mm/pass |Flushing Dose, mm/pass|
 | --- | --- | --- |
 |0.25 |   10-30  |  	$\small\geq$ 200   |
@@ -216,7 +207,6 @@ $n = \frac{(1 + R)(q)(10^3 mm/m)}{(A)(DR)(60 min/h)}$
 |  4.00   |  80-240   |  $\small\geq$ 800  |
 
 <div class="alert alert-block alert-danger">
-Give table a title (and preferably a table number)
 
 When do you want a higher or lower flow rate?
 </div>
@@ -261,25 +251,9 @@ The team visited the Cayuga Heights wastewater treatment plant and observed a tr
 ![Figure 2](https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/CHFT%20filter%20surface.jpg?raw=true)
 Figure 2: The surface of the trickling filter with significant debris and discoloration.
 
-<div class="alert alert-block alert-danger">
-Watch out for run-ons (please go through the whole report and work on shortening your sentences and avoiding run-ons)
-</div>
-
-<div class="alert alert-block alert-success">
-Comment corrected
-</div>
 
 The team also observed that the distribution arms were failing to cover the surface of the filter with wastewater. Because of this, there was a significant portion of the tank's surface that was getting little to no water on it (see Figure 3). The regions that were most noticeably dry were the edges of the tank and an area a couple feet from the center of the base of the distributor arms. There was also a pattern of discoloration on the top of the filter, which seemed to be caused by the substantial organic matter coming through with the wastewater. This discoloration suggests that even the portion of the filter’s surface that was getting watered was not getting watered equally, and that there was build up of the organic matter on top of the filter where the flow rate was higher (see Figure 2).
 
-<div class="alert alert-block alert-danger">
-watch for run-ons
-
-Make sure every table and figure has a number in the report and is referenced like you did here.
-</div>
-
-<div class="alert alert-block alert-success">
-Comment corrected
-</div>
 
 ![Figure 3](https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/CHTF%20distribution%20arm.png?raw=true)
 Figure 3: Distribution arms failed to entirely cover the surface of the trickling filter and there was leakage from the base in the center.
@@ -288,13 +262,6 @@ There was leakage from the base of the distributor arm on both trickling filters
 
 The team’s visit to the wastewater treatment plant was  valuable in that it confirmed several of the potential issues documented in the literature. It also made it clear that there is tremendous room for innovation and improvement of trickling filter technology.
 
-
-<div class="alert alert-block alert-danger">
-Conclusion is wordy
-</div>
-<div class="alert alert-block alert-success">
-Comment corrected
-</div>
 
 ## Methods
 
@@ -306,13 +273,6 @@ In order to understand the flow patterns in a trickling filter, the team set up 
 
 Figure 4: This is a schematic of the testing structure. It is an acrylic PVC pipe with holes drills at distances of 5,10,20,40,60, and 80 cm from the top. These holes represent the depths of the filter media that we will be testing. Rods are inserted at the depth of testing to support a mesh which holds the filter media. Water flows from the dosing point through the filter media to the collection unit. The collection unit is held in place by a PVC pipe.
 
-<div class="alert alert-block alert-danger">
-Capitalization error
-</div>
-
-<div class="alert alert-block alert-success">
-Comment has been corrected.
-</div>
 
 The PVC pipe could be filled to different heights of gravel to test how flow disperses as a function of depth. the team's hypothesis is that the flow will spread out as depth increases.
 
@@ -324,33 +284,17 @@ Figure 5: This schematic shows the top view of the support structure for the fil
 
 Figure 6: this schematic shows the top view of the collection unit for the team's experiments.The squares represent cuvettes which are held in by velcro to a PVC sheet. The amount of water collected in each cuvette is recorded to determine how much water is flowing where.
 
-<div class="alert alert-block alert-danger">
-Do you have actual photos as well of the cuvette collection system.
-</div>
-
-<div class="alert alert-block alert-success">
-Sentence added to reference later photos of the system.
-</div>
 
 This is the collection basin which will be used to map where the water is exiting the model filter. A photograph of the apparatus can be seen in Figure 7. The water will flow in from a dosing point at the top of the filter and if it spreads out as it travels down the system it will flow into many different cuvettes. This can be then used to create heat map, or more accurately a flow map, to determine what areas are being utilized.
 
 After a few experiments, the team found that water was dripping only from the rods and down the side of the PVC. Therefore they removed the rods and balanced the mesh on top of the collection basin.
 
-The procedure for a test was to first wet the surface of the rocks. This meant flowing water through at a high rate and not draining the bottom until the entire column was wet. The water was then drained to gravity potential. Once the gravel was wetted, a short pulse of 50 mL of water was added. For cuvettes that had water in them, the depth of water in millimeters was measured by inserted a marked straw. However, in many of the preliminary tests until the correct amount of water was determined the cuvettes overflowed and the data was compromised. For tests where the water overflowed, the team still recorded whether a cuvette had been "hit", i.e. had water in it.
+The procedure for a test was to first wet the surface of the rocks. This meant flowing water through at a high rate and not draining the bottom until the entire column was wet. The water was then drained to gravity potential. Once the gravel was wetted, a short pulse of 50 mL of water was added. For cuvettes that had water in them, the depth of water in millimeters was measured by inserting a marked straw, so water depth is relative and has no units. However, in many of the preliminary tests until the correct amount of water was determined, the cuvettes overflowed and the data was compromised. For tests where the water overflowed, the team still recorded whether a cuvette had been "hit", i.e. had water in it.
 
-<div class="alert alert-block alert-danger">
-revise third sentence and also later sentences
 
-consider word other than "wetted"
-</div>
+The team also varied the packing material, also performing tests using marbles. The team choose marbles because they are only slightly larger than the pea gravel, but are uniform in size.
 
-<div class="alert alert-block alert-success">
-Comment has been corrected. Do you have suggestion for a word besides wetted because saturated would be incorrect?
-</div>
-
-The team also varied the packing material being tested to marbles. The team choose marbles because they are only slightly larger than the pea gravel, but are uniform in size.
-
-Table 4: Benchtop Experiment Trials
+Table 3: Summary of Benchtop Experiment Trials
 | Trial | Packing Material | Depth |
 |:----- |:---------------- | ----- |
 | 1     | Wet Rocks        | 10    |
@@ -360,41 +304,11 @@ Table 4: Benchtop Experiment Trials
 | 5     | Wetted Rocks     | 15    |
 
 
-<div class="alert alert-block alert-danger">
-Give table of different tests tried
-</div>
-
-<div class="alert alert-block alert-success">
-Table has been added.
-</div>
-
-<div class="alert alert-block alert-danger">
-Did you guys not revise this section? If you downt intend to use a section, remove it, comment it out, or tell me.
-</div>
-
-<div class="alert alert-block alert-success">
-Section has been deleted as it was inaccurate of what we are now doing.
-</div>
-
-<div class="alert alert-block alert-danger">
-Be sure to include units in your table headings, esp for depth.
-</div>
 
 ## Results and Analysis
 
-In the teams first test, we ran the pulse of water from the center of the column through the 5 cm rock depth. The team's hypothesis is that since this was such a thin layer, the water would exit nearly exactly where it can in. The team actually observed that almost all the water ended up on the walls of the apparatuses and only 4 cuvettes had water in. There could be multiple reasons for this results. 1. Since the rocks are multiple sizes they fit together in a such a way that the water would prefer to flow sideways instead of down. Then when the water came in contact with the wall it became attached and never came unattached. 2. The water hit the mesh at the bottom of the apparatus and it was angled so that water flowed to the edges on the mesh before falling into the collection basin. The team conducted this test multiple times at multiple depths to reveal the same results.
+In the first test, the team ran the pulse of water from the center of the column through the 5 cm rock depth. The team hypothesized that since this was such a thin layer, the water would exit nearly exactly where it came in. The team actually observed that almost all the water ended up on the walls of the apparatuses and only 4 cuvettes had water in them. There could be multiple reasons for this result. 1. Since the rocks are multiple sizes they fit together in a such a way that the water would prefer to flow sideways instead of down. Then, when the water came in contact with the wall it became attached and never came unattached. 2. The water hit the mesh at the bottom of the apparatus and it was angled so that water flowed to the edges on the mesh before falling into the collection basin. The team conducted this test multiple times at multiple depths to reveal the same results.
 
-<div class="alert alert-block alert-danger">
-In methods you say that you already used marbles?
-</div>
-
-<div class="alert alert-block alert-success">
-We were just trying to use the past tense, but now it has been run so results from marbles have been added
-</div>
-
-<div class="alert alert-block alert-danger">
-Avoid using "we"
-</div>
 
 <img src="https://user-images.githubusercontent.com/35943730/38639368-ea56bc0a-3d9e-11e8-998e-6c4cebaf9ec2.JPG">
 Figure 7: An example of a test run through 60 cm of pea gravel. The image shows that a few of the cuvettes were "hit" and contain water, but most are empty and the vast majority of the water ended up outside the cuvettes, in the bottom of the collection unit.
@@ -414,7 +328,7 @@ Figure 9: In the experiment with wet rocks, a somewhat random dispersion is reco
 
 Figure 10: The dry rocks show almost no dispersion with the center cell having double the water volume of any other cells. The rest of the flow was uniform and more similar to the marbles than wet rocks.
 
-Table: Total Water Volume out of bench-scale experiment
+Table 4: Total Water Volume from bench-scale experiment
 | Trial     | Total Water Depth Captured |
 |:--------- |:-------------------------- |
 | Marbles   | 144                        |
@@ -423,9 +337,6 @@ Table: Total Water Volume out of bench-scale experiment
 
 These experiments show the differences in flow that can exist in a trickling filter.  Marbles had the most predictable flow and almost all of the flow ended up in the basin. There is a large difference in water captured by the wet rocks and dry rocks, this is most likely because some water attached to the dry rocks and did not make it out the bottom. The difference between the wet rocks and marble is due to water that made it to the side of the container and ran down the outside. The dry rocks followed the earlier hypothesis that the first path that was wetted would be the preferential flow path. One reason the wet rocks preformed so randomly is that the rocks lock together to form almost a sheet which spread the water over the whole area. This is good to make sure that all areas of the filter are being used and increases retention time. However, this layer that is hard for water to pass through can creating pooling on top of it in the filter which less to anoxic conditions. This experiment highlighted for the team some of the intricacies of packing material selection. The mesh at the bottom of the apparatus that held up the packing materials could have impacted the results if water ran along it.
 
-<div class="alert alert-block alert-danger">
-Again, include units in table
-</div>
 
 ### Benchtop Experiment: Testing Unconventional Filter Media--Strings Applications
 The team decided to pursue an entirely novel preliminary design for a trickling filter in order to investigate options to optimize the surface area to volume ratio of the packing media to both improve the overall treatment efficiency of the system and to decrease the physical footprint of the filter. The first innovation to improve trickling filter media was the use of strings as the packing media and an overflowing basin to wick the water across the length of the string as it was treated.
@@ -446,7 +357,7 @@ The team's initial goal was simply to test if the system would behave as expecte
 ## Results and Analysis
 The first set of tests conducted aimed to identify whether residence time of the water on the string depends on the flow rate being pumped into the basin. This test was conducted by starting with red dye in the basin so that the speed of the water moving down the string could be observed visually and timed. One team member began dosing the basin with clean water, and another team member watched the strings and began timing when the water first started to overflow from the basin. The timer was stopped when the first drops of dyed water reached the bottom of the strings. The table below presents the data gathered in these tests.
 
-Table 5: residence time of water on the string for varying flow rates. All tests conducted with size 17 tubing.
+Table 5: Residence time of water on the string for varying flow rates. All tests conducted with size 17 tubing.
 | Flow rate (rpm) | Length of Trial 1 (secs)   | Length of Trial 2 (secs)    | Length of Trial 3 (secs)    | Average Trial Length (secs) |
 |:------: |:-------: |:--------: |:--------: |:-------: |
 | 25 | 27 | 42 | 47  | 38.67    |
@@ -485,6 +396,7 @@ The team fabricated the bench top model for flow mapping and conducted tests to 
 
 ## Future Work
 This semesters accomplishments were mostly in the hydraulics of the system. Tasks for future teams should include two main components: biological growth and scaling. The current prototype is very different from traditional filters and it is unknown how a biofilm will grow on it. One important parameter about growth to consider in this design is sloughing. One possible issue is the biofilm that sloughs off also takes all the biofilm on the string below it off. Another task is to determine if the biofilm should be grown just based on what is in the wastewater or if it should be seeded. If it is to be seeded, the future team should determine what the best culture is for nutrient removal. Once the team has both a proof of hydraulic concept and biological concept, they can move on to scaling.  The team must consider how this will be assembled at a large scale. Each side where there is overflow must be completely level. To scale up to a plant size this would cover about an entire classroom. This is a lot of strings and assembly could prove too difficult. Once a scaled design is complete, a small-scale test at the Ithaca WWTP can prove that is can remove nutrients before it is deployed in Honduras.
+
 
 
 ## Bibliography
