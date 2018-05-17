@@ -12,4 +12,6 @@ Determine if trickling filters are feasible component of a future AguaClara wast
 
 ## Links to Reports and Presentations
 
-[Symposium Presentation](https://docs.google.com/presentation/d/1XDAWSXDn-Me3OXwePyHjROJxUi_ZhIXyg9vinbaDPxc/edit?usp=sharing)
+[Symposium Presentation Spring 2018](https://docs.google.com/presentation/d/1XDAWSXDn-Me3OXwePyHjROJxUi_ZhIXyg9vinbaDPxc/edit?usp=sharing)
+
+[Final Presenation Spring 2018](https://docs.google.com/presentation/d/1_vMpeAHLTWiyMqMjaBWWG4nJNSslfR_e8YygcmiFHNs/edit#slide=id.g11134c9c49_0_0)
