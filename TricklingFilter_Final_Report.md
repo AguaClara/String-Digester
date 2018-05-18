@@ -165,19 +165,10 @@ Table 1: Properties of various packing materials
 
 ### Dosing Rate
 
-The dosing rate of a trickling filter is defined as the depth of liquid discharged on top of the packing for each pass of the distributor (Tchobanoglous et. al. 2003, pp 898). To achieve the desired flow rate, plant operators can change a number of control points in the system. Firstly, the locations of some existing orifices can be reversed to the front of the distributor arm. An alternative to this would be to add reversed deflectors to existing orifice discharges. The most energy-intensive alternative to dosing control is to include a variable-speed electric driver to the rotating distributor arm.
+The dosing rate of a trickling filter is defined as the depth of liquid discharged on top of the packing for each pass of the distributor (Tchobanoglous et. al. 2003, pp 898). To achieve the desired flow rate, plant operators can change a number of control points in the system. Firstly, the locations of some existing orifices can be reversed to the front of the distributor arm, which would slow the rotational velocity of the dosing arm by pushing against the propulsion jet from the rear orifices. An alternative to this would be to add reversed deflectors to existing orifice discharges. The most energy-intensive alternative to dosing control is to include a variable-speed electric driver to the rotating distributor arm.
 
-<div class="alert alert-block alert-danger">
 
-What does reversing the location of the existing orifices do? Make the flow rate increase or decrease?
-</div>
-
-If a high dosing rate is set in order to maintain a thick biofilm  in the filter media, then the efficacy of treatment may see a sharp decrease in performance due to a reduction in contact time between the water flowing through the system and the packing media. A daily intermittent high-flow dose is applied to the system, known as the "flushing dose". The flushing dose is used to control the thickness of the biofilm and any remaining solids in the system.
-
-<div class="alert alert-block alert-danger">
-
-When do you want a higher or lower flow rate?
-</div>
+If a high dosing rate is set in order to maintain a thick biofilm in the filter media, then the efficacy of treatment may see a sharp decrease in performance due to a reduction in contact time between the water flowing through the system and the packing media. The flow rate is unique to each packing media and geometry of the filter structure. This will be calculated on a case-by-case basis depending on the treatment regulatory requirements of the area and the size of the filter needed for a given community. A daily intermittent high-flow dose is applied to the system, known as the "flushing dose". The flushing dose is used to control the thickness of the biofilm and any remaining solids in the system.
 
 $n = \frac{(1 + R)(q)(10^3 mm/m)}{(A)(DR)(60 min/h)}$
 
