@@ -4,29 +4,24 @@
 
 ## Abstract
 
-The trickling filter subteam's objective for this semester was to identify problems with trickling filters and determine possible solutions to these problems. The long term goal of the team is to create a novel design for a trickling filter that will perform secondary and tertiary treatment on domestic wastewater in a future AguaClara wastewater treatment plant. After an extensive literature review, two bench scale experiments were conducted. The first test aimed to characterize the hydraulic behavior of a trickling filter and the flow of water through its packing media. The team used this information to identify the areas within the system with the greatest potential for improvements. From this information, the first prototype was built using strings to control flow paths and create a high surface area to volume ratio. Preliminary tests were conducted on the prototype to determine flow dispersion, residence time, and optimal string spacing.
+The trickling filter subteam's objective for this semester was to identify problems with trickling filters and to provide possible solutions to these problems. The long term goal of the team is to create a novel design for a trickling filter that will perform secondary and tertiary treatment on domestic wastewater in a future AguaClara wastewater treatment plant. After an extensive literature review, two bench scale experiments were conducted. The first test aimed to characterize the hydraulic behavior of a trickling filter and the flow of water through its packing media. The team used this information to identify the areas within the system with the greatest potential for improvements. From this information, the first prototype was built using strings to control flow paths and create a high surface area to volume ratio. Preliminary tests were conducted on the prototype to determine flow dispersion, residence time, and optimal string spacing.
 
 
 ## Introduction
 
-The creation of the trickling filter subteam was prompted by the need for further treatment of wastewater following Upflow Anaerobic Sludge Blanket (UASB) treatment. A UASB reactor consists of a suspended sludge blanket which filters incoming wastewater. The wastewater enters the reactor from the bottom and flows upward through through the sludge blanket. UASB treatment efficiently treats the biochemical oxygen demand (BOD) of wastewater, but there are high concentrations of nutrient loading in the wastewater in Honduras. Wastewater that is not treated can transmit diseases and add nutrients to water systems. Excessive nutrients in water systems can decrease dissolved oxygen and also cause toxic algal blooms. Trickling filters can be used to decrease the nutrient and BOD content of wastewater
-
-<div class="alert alert-block alert-danger">
-The UASB acts as primary and secondary treatment to settle out solids and allow for BOD removal. It doesn't really "filter" the wastewater so consider revising that sentence. Also, there are high concentrations of nutrient loading in most wastewaters, particularly domestic wastewater for nitrogen. I think that should be mentioned instead of just saying that it exists in Honduras.
-</div>
+The creation of the trickling filter subteam was prompted by the need for further treatment of wastewater following upflow anaerobic sludge blanket (UASB) treatment. A UASB reactor consists of a suspended sludge blanket which settles and treat incoming wastewater. The wastewater enters the reactor from the bottom and flows upward through through the sludge blanket. UASB treatment efficiently treats the biochemical oxygen demand (BOD) of wastewater, but there are also high concentrations of nutrient loading in the domestic wastewater. Wastewater that is not treated can transmit diseases and add nutrients to water systems. Excessive nutrients in water systems can lead to a decrease in dissolved oxygen levels and also cause toxic algal blooms. Trickling filters can be used to decrease the nutrient and BOD content of wastewater.
 
 The overall objective with respect to the treatment capacity of the system, was to first identify the primary issues in industrial-scale trickling filters. Using this information, the team aims to eventually deploy an efficient, non-mechanized trickling filter which can be adapted to serve the wastewater needs of a resource-scarce community. The team's primary aim is to assess the feasibility of the inclusion of a trickling filter in a future AguaClara wastewater treatment plant.
 
 
-A trickling filter is a biological reactor used in secondary and tertiary wastewater treatment to remove organic matter and nutrients. Settled wastewater is spread evenly by the distribution arm across the filter media, which can be rocks, gravel, or plastic media, among other things. The filter media is cultured with a productive biofilm which grows on the media and degrades the organic matter and nutrients that come into contact with it as the water trickles through.
+A trickling filter is a biological reactor used in secondary and tertiary wastewater treatment to remove organic matter and nutrients. Settled wastewater is spread evenly by the distribution arm across the filter media, which can be rocks, gravel, or plastic media, among other things. The filter media is cultured with a productive biofilm which grows on the media and degrades the organic matter and nutrients that come into contact with it as the water trickles through. A conventional trickling filter with a rotating distributor arm can be seen in Figure 1 below.
 
 ![Trickling Filter](http://4.bp.blogspot.com/-wG5NGChx52c/TfD3bhROrwI/AAAAAAAAAAY/F4WRhidlWSE/s320/img2-25.gif)
 
 Figure 1: Cross sectional side view of a conventional trickling filter with stone media and a rotating distributor arm.
 
 
-Trickling filters were heavily researched in the 1970's and 1980's but the industry witnessed a dramatic decline in literature in the years following. The wastewater research after 1980 switched to more energy intensive methods of treatment, like activated sludge. These processes have a higher removal efficiency, but require massive amounts of energy. One aspects that is central to AguaClara's mission is to use as little (or no) electricity. Therefore, a passive treatment like trickling filters only require the energy for water to make it to the top of the filter. This is especially important in regions where electricity is not available or consistent.
-The team believes with modern technologies and new information, trickling filters can achieve a high performance level. This can be done by improving by maximizing the utilization rates of the biofilm surface areas and nutrient removal performance for the system. The team strives to make significant technological improvements on industry-standard applications for the system.
+Trickling filters were heavily researched in the 1970's and 1980's but the industry witnessed a dramatic decline in literature in the years following. The wastewater research after 1980 switched to more energy intensive methods of treatment, like activated sludge. These processes have a higher removal efficiency, but require massive amounts of energy. One aspects that is central to AguaClara's mission is to use little or no electricity. Therefore, a passive treatment like trickling filters only require the energy for water to make it to the top of the filter. This is especially important in regions where electricity is not available or consistent. The team believes with modern technologies and new information, trickling filters can achieve a high performance level. This can be done by  maximizing the utilization rates of the biofilm surface areas and improving nutrient removal performance for the system. The team strives to make significant technological improvements on industry-standard applications for the system.
 
 
 
@@ -100,16 +95,11 @@ Specific surface area is surface area per volume. In order to change the specifi
 The team's idea for improvement of specific surface area would be a novel geometry and material combination. Our ideas are string, straws, sheets, BioBalls, and six-pack plastic holder recycling
 
 #### Increasing the $k_{20}$ Value
-There is a very little available research on $k_{20}$ values of different trickling filters. Most research reports just state the value for the filters they were testing. The $k_{20}$ value is the removal coefficient of the specific bacterial culture used at 20 degrees Celsius. A reasonable $k_{20}$ value for an aerobic sludge reactor would be 0.20.
+The $k_{20}$ value is the reaction rate constant of degradation at 20 degrees Celsius. A higher value means that more nutrients or BOD is consumed per day. There is a very little available research on $k_{20}$ values of different trickling filters. Most research reports just state the value for the filters they were testing. A reasonable $k_{20}$ value for an aerobic sludge reactor would be 0.20. One of the factors that effects the value is the type of bacteria used and how they are suite to the environment.
 
 ##### Ideas for improvement
-* Using different bacterial cultures that are more effective at removing nitrogen and phosphorus to grow on the filter
-* Ensuring that aeration reaches all areas of the filter, therefore keeping the bacteria functioning at a high rate
-
-
-<div class="alert alert-block alert-danger">
-Can you explain a little more about what the $k_{20}$ value is? Be clear about what the removal efficiency is for. Also, while this would be great to select for different bacteria, it is unlikely in a passive system that is naturally inoculated by wastewater. Can you include a point about feasibility?
-</div>
+* Using different bacterial cultures that are more effective at removing nitrogen and phosphorus to grow on the filter. Most filters use natural inoculation (i.e. what grows when wastewater is run through the filter). Research would need to be conducted on if controlled inoculation could be done for a selected culture, and if it would be sustainable throughout the lifetime of the filter.
+* Ensuring that aeration is uniform and effective at all points of the filter media, maintaining a high performance of microbial treatment
 
 #### Flow Distributions
 An assumption of the modified Velz model is that the entire volume of the trickling filter is being used. The team hypothesized that there might be unused volume in the trickling filter that does not receive any flow because the water would take another path with less resistance, and therefore the system would be failing to fully treat the water. Therefore the team conducted preliminary experiments to determine how flow is distributed. Using the information gathered from these tests, the team intends to eventually determine how to use a packing material and filter design that utilizes all of the available space.
@@ -140,7 +130,7 @@ Therefore compared to the BOD kinetic model, the only additional parameter is ox
 
 
 #### Ideas for improvements
-The team incorporated the need for airflow into their brainstorming of a novel geometry. In developing this novel geometry, the spacing between our media for the biofilm to grow on should be greater than adhesion and cohesion of water particles can withstand. Surface tension in a cylinder can be calculated using the following equation:
+The team incorporated the need for airflow into their brainstorming of a novel geometry. In developing this novel geometry, the spacing between each string should prevent any unwanted cohesive interactions between water particles to allow for sufficient biofilm aeration per string. To optimize this spacing between strings, each was modeled as a cylinder to account for the predicted surface tension effects that would be observed during treatment. Surface tension in a cylinder can be calculated using the following equation:
 
 $F_{ST} = \pi\lambda D$
 
@@ -231,19 +221,13 @@ $D_{air} = 353(\frac{1}{T_c} - \frac{1}{T_h})Z$
 * $\small T_h$ = hot temperature, K
 * $\small Z$ = height of filter, m
 
-The trickling filter for the team will strive to employ a naturally aerated system. The industry-standard for natural aeration or "natural draft" is to use a temperature gradient between the filter media and the ambient air temperature to provide a flow of air. To achieve natural draft, the following criteria are required:
+The trickling filter for the team will strive to employ a naturally aerated system. The industry-standard for natural aeration or "natural draft" is to use a temperature gradient between the filter media and the ambient air temperature to provide a flow of air. This will prevent the need to mechanically aerate with fans or other air pumps, to prevent excess use of electricity. To achieve natural draft, the following criteria are required (Tchobanoglous et. al. 2003, pp 903):
 
 1. The drainage and collection channels must not flow any greater than halfway full in order to permit air flow throughout the system.
 2. Access ports with adequate openings should be implemented at both tremendous.
 3. Open areas of the underdrain blocks (top slots) should be no less than 15% of the overall cross-sectional area of the filter.
-
-
-<div class="alert alert-block alert-danger">
-Consider moving the reference to that course to the sentence "To achieve natural drat, the following criteria are required" so that the reader knows each of the bullets is from him.
-</div>
-
 4. A ratio of 10 $\small ft^2$/250 $\small ft^2$ (open grating area/filter area) should be provided in the design.
-(Tchobanoglous et. al. 2003, pp 903)
+
 
 ## Case Study: Cayuga Heights Trickling Filter Observations
 The team visited the Cayuga Heights wastewater treatment plant and observed a trickling filter first-hand. It was a very informative visit, and the team was dismayed at the state of the plant and the many issues it was experiencing, especially with the trickling filters. There were two trickling filters at the plant, both of which had substantial debris (clumps of organic material, trash) on top of filter (see Figure 2). The plant manager suggested that this was likely due to the failure of the bar screen that should have removed such debris immediately when the water initially entered the plant. The team also noticed issues with the settling tanks, which the wastewater travels through immediately before the trickling filters. It's possible that the inefficiency of the settling tanks resulted in waste that should have settled out continuing through the system to the trickling filters.
@@ -282,7 +266,7 @@ Figure 5: This schematic shows the top view of the support structure for the fil
 
 <img src="https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/Collection_basin_top.png?raw=true" height=300 width=300>
 
-Figure 6: this schematic shows the top view of the collection unit for the team's experiments.The squares represent cuvettes which are held in by velcro to a PVC sheet. The amount of water collected in each cuvette is recorded to determine how much water is flowing where.
+Figure 6: This schematic shows the top view of the collection unit for the team's experiments.The squares represent cuvettes which are held in by velcro to a PVC sheet. The amount of water collected in each cuvette is recorded to determine how much water is flowing where.
 
 
 This is the collection basin which will be used to map where the water is exiting the model filter. A photograph of the apparatus can be seen in Figure 7. The water will flow in from a dosing point at the top of the filter and if it spreads out as it travels down the system it will flow into many different cuvettes. This can be then used to create heat map, or more accurately a flow map, to determine what areas are being utilized.
@@ -307,7 +291,9 @@ Table 3: Summary of Benchtop Experiment Trials
 
 ## Results and Analysis
 
-In the first test, the team ran the pulse of water from the center of the column through the 5 cm rock depth. The team hypothesized that since this was such a thin layer, the water would exit nearly exactly where it came in. The team actually observed that almost all the water ended up on the walls of the apparatuses and only 4 cuvettes had water in them. There could be multiple reasons for this result. 1. Since the rocks are multiple sizes they fit together in a such a way that the water would prefer to flow sideways instead of down. Then, when the water came in contact with the wall it became attached and never came unattached. 2. The water hit the mesh at the bottom of the apparatus and it was angled so that water flowed to the edges on the mesh before falling into the collection basin. The team conducted this test multiple times at multiple depths to reveal the same results.
+In the first test, the team ran the pulse of water from the center of the column through the 5 cm rock depth. The team hypothesized that since this was such a thin layer, the water would exit nearly exactly where it came in. The team actually observed that almost all the water ended up on the walls of the apparatuses and only 4 cuvettes had water in them. There could be multiple reasons for this result:
+1. Since the rocks are multiple sizes they fit together in a such a way that the water would prefer to flow sideways instead of down. Then, when the water came in contact with the wall it became attached and never came unattached.
+2. The water hit the mesh at the bottom of the apparatus and it was angled so that water flowed to the edges on the mesh before falling into the collection basin. The team conducted this test multiple times at multiple depths to reveal the same results.
 
 
 <img src="https://user-images.githubusercontent.com/35943730/38639368-ea56bc0a-3d9e-11e8-998e-6c4cebaf9ec2.JPG">
@@ -352,7 +338,7 @@ Figure 12: Set up of string filter, with holding basin at the top (currently bei
 
 
 
-The team's initial goal was simply to test if the system would behave as expected: will the water flow over the edges of the basin and flow along the strings? The stipulation of this question that would indicate success in the experiment was whether or not the water would consistently prefer the strings as opposed to dripping along the wall of the basin or elsewhere. Several trials were conducted simply dosing the basin with a low flow rate and observing. With the strings packed tightly as shown in the initial set up above in Figure 12, the water that overflowed from the basin followed the string all the way down. This provided confirmation that the concept of using strings as the tickling media has the potential to be successful. Next, the team began testing to target various parameters of the design.
+The team's initial goal was simply to test if the system would behave as expected: will the water flow over the edges of the basin and flow along the strings until the flow reaches the bottom? The stipulation of this question that would indicate success in the experiment was whether or not the water would consistently prefer the strings as opposed to dripping along the wall of the basin or elsewhere. Several trials were conducted simply dosing the basin with a low flow rate and observing. With the strings packed tightly as shown in the initial set up above in Figure 12, the water that overflowed from the basin followed the string all the way down. This provided confirmation that the concept of using strings as the tickling media has the potential to be successful. Next, the team began testing to target various parameters of the design.
 
 ## Results and Analysis
 The first set of tests conducted aimed to identify whether residence time of the water on the string depends on the flow rate being pumped into the basin. This test was conducted by starting with red dye in the basin so that the speed of the water moving down the string could be observed visually and timed. One team member began dosing the basin with clean water, and another team member watched the strings and began timing when the water first started to overflow from the basin. The timer was stopped when the first drops of dyed water reached the bottom of the strings. The table below presents the data gathered in these tests.
