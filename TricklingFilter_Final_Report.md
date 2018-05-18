@@ -9,38 +9,34 @@ The trickling filter subteam's objective for this semester was to identify probl
 
 ## Introduction
 
-The creation of the trickling filter subteam was prompted by the need for further treatment of wastewater following upflow anaerobic sludge blanket (UASB) treatment. A UASB reactor consists of a suspended sludge blanket which settles and treat incoming wastewater. The wastewater enters the reactor from the bottom and flows upward through through the sludge blanket. UASB treatment efficiently treats the biochemical oxygen demand (BOD) of wastewater, but there are also high concentrations of nutrient loading in the domestic wastewater. Wastewater that is not treated can transmit diseases and add nutrients to water systems. Excessive nutrients in water systems can lead to a decrease in dissolved oxygen levels and also cause toxic algal blooms. Trickling filters can be used to decrease the nutrient and BOD content of wastewater.
+The creation of the trickling filter subteam was prompted by the need for further treatment of wastewater following upflow anaerobic sludge blanket (UASB) treatment. A UASB reactor consists of a suspended sludge blanket which settles and treat incoming wastewater. The wastewater enters the reactor from the bottom and flows upward through through the sludge blanket. UASB treatment efficiently treats the biochemical oxygen demand (BOD) of wastewater, but there are also high concentrations of nutrient loading in the domestic wastewater. Wastewater that is not treated can transmit diseases and add nutrients to water systems. Excessive nutrients in water systems can lead to a decrease in dissolved oxygen levels and also cause toxic algal blooms.
 
-The overall objective with respect to the treatment capacity of the system, was to first identify the primary issues in industrial-scale trickling filters. Using this information, the team aims to eventually deploy an efficient, non-mechanized trickling filter which can be adapted to serve the wastewater needs of a resource-scarce community. The team's primary aim is to assess the feasibility of the inclusion of a trickling filter in a future AguaClara wastewater treatment plant.
-
-
-A trickling filter is a biological reactor used in secondary and tertiary wastewater treatment to remove organic matter and nutrients. Settled wastewater is spread evenly by the distribution arm across the filter media, which can be rocks, gravel, or plastic media, among other things. The filter media is cultured with a productive biofilm which grows on the media and degrades the organic matter and nutrients that come into contact with it as the water trickles through. A conventional trickling filter with a rotating distributor arm can be seen in Figure 1 below.
+A trickling filter is a biological reactor used in secondary and tertiary wastewater treatment to remove BOD and nutrients. Settled wastewater is spread evenly by the distribution arm across the filter media, which can be rocks, gravel, or plastic media, among other things. The filter media is cultured with a productive biofilm which grows on the media and degrades the organic matter and nutrients that come into contact with it as the water trickles through. A conventional trickling filter with a rotating distributor arm can be seen in Figure 1 below.
 
 ![Trickling Filter](http://4.bp.blogspot.com/-wG5NGChx52c/TfD3bhROrwI/AAAAAAAAAAY/F4WRhidlWSE/s320/img2-25.gif)
 
 Figure 1: Cross sectional side view of a conventional trickling filter with stone media and a rotating distributor arm.
 
 
-Trickling filters were heavily researched in the 1970's and 1980's but the industry witnessed a dramatic decline in literature in the years following. The wastewater research after 1980 switched to more energy intensive methods of treatment, like activated sludge. These processes have a higher removal efficiency, but require massive amounts of energy. One aspects that is central to AguaClara's mission is to use little or no electricity. Therefore, a passive treatment like trickling filters only require the energy for water to make it to the top of the filter. This is especially important in regions where electricity is not available or consistent. The team believes with modern technologies and new information, trickling filters can achieve a high performance level. This can be done by  maximizing the utilization rates of the biofilm surface areas and improving nutrient removal performance for the system. The team strives to make significant technological improvements on industry-standard applications for the system.
+Trickling filters were heavily researched in the 1970's and 1980's but the industry witnessed a dramatic decline in literature in the years following. The wastewater research after 1980 switched to more energy intensive methods of treatment, like activated sludge, so recent progress in trickling filter technology has been limited in recent decades. These newer processes have a higher removal efficiency, but require massive amounts of energy. One aspects that is central to AguaClara's mission is to use little or no electricity. Therefore, using passive treatment methods that have low energy requirements is a priority, especially in regions where electricity is not available or consistent. The only part of the trickling filter treatment process that requires energy is pumping the wastewater to the top of the filter for distribution, which makes it an ideal technology for situations with limited energy availability.
 
+ The team believes with modern technologies and new information, trickling filters can achieve a high performance level. This can be done by  maximizing the utilization rates of the biofilm surface areas and improving nutrient removal performance for the system. The team strives to make significant technological improvements on industry-standard applications for the system.
 
+Implementation of a non-mechanized trickling filter system such as the one described above would be beneficial to a wastewater treatment plant in terms of economic and operational sustainability. Eliminating the need for any proprietary, mechanized components opens up an opportunity for cost savings and will ultimately extend the usable life of the plant. Any mechanical components added to the system present an additional point of failure. By removing these moving parts, the system will be able to operate for longer with a less-intensive maintenance schedule. This will save money and time in the long run for the plant operations.
 
-Implementation of a non-mechanized trickling filter system such as the one described in the paragraph above, is beneficial a wastewater treatment plant in terms of economic and operational sustainability. Eliminating the need of any proprietary, mechanized components opens an opportunity for cost savings and will ultimately extend the usable life of the plant. Any mechanical components added to the system present a point of failure. By removing these moving parts, the system will be able to operate for longer durations with a less-intensive maintenance schedule. This will save money and time in the long run for the plant operations.
-
-
- Trickling filter research saw a significant decline several decades ago due to the advent of aeration tanks and other more efficient but high energy processes, so recent progress in the field has been very limited. Therefore, the team believes with modern technologies and new information, trickling filters can be improved upon in maximizing the utilization rates of the biofilm surface areas and nutrient removal performance for the system. The team strives to make significant technological improvements on industry-standard applications for the system.
+The overall objective of this team with respect to the treatment capacity of the system, was to first identify the primary issues in industrial-scale trickling filters. Using this information, the team aims to eventually deploy an efficient, non-mechanized trickling filter which can be adapted to serve the wastewater needs of a resource-scarce community. The team's primary aim is to assess the feasibility of the inclusion of a trickling filter in a future AguaClara wastewater treatment plant.
 
 ## Literature Review
 
 #### Trickling Filter Operational Difficulties
-There is significant documentation of problems plant operators experienced when dealing with trickling filters. Some of the issues, while important to take into consideration when implementing trickling filters, may not offer much room in terms of what improvements the team can make. Such problems include: the development of slug populations in the trickling filters, which can remove the layer of biofilm and harm the nitrifying bacteria population, thereby negatively impacting the systems performance and plug the channels of the system; filter flies, whose presence suggests a lack of moisture throughout the filter; and foul odors, which can indicate an increasing level of anaerobic reactions or accumulating sloughed-off biomass in the filter media. Addressing pest-control issues is not a priority for the team at this time, as there are greater improvements to be made elsewhere.
+There is significant documentation of problems plant operators experience when dealing with trickling filters. Some of the issues, while important to take into consideration when implementing trickling filters, may not offer much room in terms of what improvements the team can make. Such problems include: the development of slug populations in the trickling filters, which can remove the layer of biofilm and harm the nitrifying bacteria population, thereby negatively impacting the systems performance and plug the channels of the system; filter flies, whose presence suggests a lack of moisture throughout the filter; and foul odors, which can indicate an increasing level of anaerobic reactions or accumulating sloughed-off biomass in the filter media. Addressing pest-control issues is not a priority for the team at this time, as there are greater improvements to be made elsewhere.
 
-However, some of these previously mentioned problems (insect and slug presence in filters) as well as high biomass sloughing rate contribute to clogging and ponding in filters, which the team does aim to address. The sloughing of biomass refers to the gradual accumulation of a sizeable layer of biomass. If this layer is not maintained at a desired thickness, treatment performance will decrease. Current solutions include flashing with low doses of chlorine to remove deposited solids and kill excess biomass or periodic flooding [(Ali et al. 2017)](http://www.pjoes.com/pdf/26.6/Pol.J.Environ.Stud.Vol.26.No.6.2431-2444.pdf). The team aims avoid the problem altogether by developing a new trickling media that has a lower tendency to experience clogging or ponding, so that periodic flooding or other solutions are not necessary.
+However, some of these previously mentioned problems (insect and slug presence in filters) as well as high biomass sloughing rate contribute to clogging and ponding in filters, which the team does aim to address. In the context of a trickling filter, sloughing refers to when a layer of the microbial growth loses the ability to stay attached and is shed from the filter media and washed away by water flow. If the layer of biofilm is not maintained at a desired thickness, treatment performance will decrease. Current solutions include flashing with low doses of chlorine to remove deposited solids and kill excess biomass or periodic flooding [(Ali et al. 2017)](http://www.pjoes.com/pdf/26.6/Pol.J.Environ.Stud.Vol.26.No.6.2431-2444.pdf). The team aims avoid the problem altogether by developing a new trickling media that has a lower tendency to experience clogging or ponding, so that periodic flooding or other solutions are not necessary.
 
 
 There can be issues with variations in temperature: biofilm thickness changes seasonally and can be low quality and uneven in cold temperatures. In freezing weather, formation of ice can cause clogging and therefore structural damage to the trickling media. These are generally not major concerns for plants in equatorial regions, and so while important to note, will not be a focus for the team at this point.
 
- Ali et al. states that the most common problem in trickling filters is uncontrolled sloughing, which is often caused by uneven hydraulic loading rates. In the context of a trickling filter, sloughing refers to when a layer of the microbial growth loses the ability to stay attached and is shed from the filter media.  This can be particularly problematic after storm events when flooding results in very high hydraulic loading. It can also be caused by clogging of the distribution arm and uneven distribution of the influent [(Ali et al. 2017).](http://www.pjoes.com/pdf/26.6/Pol.J.Environ.Stud.Vol.26.No.6.2431-2444.pdf) There is potential for the development of a much-improved distribution system that could help to alleviate this problem.
+ Ali et al. states that the most common problem in trickling filters is uncontrolled sloughing, which is often caused by uneven hydraulic loading rates. This can be particularly problematic after storm events when flooding results in very high hydraulic loading. It can also be caused by clogging of the distribution arm and uneven distribution of the influent [(Ali et al. 2017).](http://www.pjoes.com/pdf/26.6/Pol.J.Environ.Stud.Vol.26.No.6.2431-2444.pdf) There is potential for the development of a much-improved distribution system that could help to alleviate this problem.
 
  Proper distribution of wastewater onto the filter media is crucial for optimizing efficiency of treatment. The most common method of distribution is rotating distributors, but after seeing the problems with them at the Cayuga Heights wastewater treatment plant (see Case Study section for details), the team was interested in learning more about other methods that might require less maintenance or be less prone to failure.
 
@@ -53,9 +49,10 @@ Unfortunately, these systems are also prone to clogging or blockage issues and s
 ### Kinetics
 
 Kinetics are used to model the removal efficiencies of biological plants. The team believes that the best way to improve filter performance is to improve the kinetics of the filter. Therefore below is a literature review of kinetic models and possible solutions to increase removal.
+
 #### BOD Kinetic Model
 
-The trickling filter team assumed that the majority of BOD will be removed by the UASB reactor. Therefore the trickling filter will be mostly removing nutrients (i.e. Nitrogen and Phosphorus). Since there is not a common nutrient removal equation that many books cite, the common BOD model will be used and compared to one paper's nutrient removal equation. Therefore, the team is using the modified Velz BOD kinetic model with the assumption that nutrient removal factors would be similar to BOD removal factors because they are both biological processes. Nutrient removal equations discussed later validate this assumption. The most common kinetic model for trickling filters is the modified Velz Equation.
+The trickling filter team assumed that the majority of BOD will be removed by the UASB reactor. Therefore the purpose of the trickling filter will be primarily removing nutrients (i.e. nitrogen and phosphorus). Since there is not a common nutrient removal equation that many books cite, the common BOD model will be used and compared to one paper's nutrient removal equation. Therefore, the team is using the modified Velz BOD kinetic model with the assumption that nutrient removal factors would be similar to BOD removal factors because they are both biological processes. Nutrient removal equations discussed later validate this assumption. The most common kinetic model for trickling filters is the modified Velz Equation.
 
 The modified Velz Equation from [Logan et. al. 1987](http://www.jstor.org/stable/pdf/25043431.pdf?acceptTC=true):
 
@@ -88,11 +85,11 @@ The teams assumption is that the wastewater treatment plants would be built outs
 The team is looking for a novel design that can make traditional filters more cost-effective. The team does not believe that there is a lot of room for improvement in just changing the height of the filter. This is because increasing height of the filter increases the cost of production exponentially. Therefore the team did not investigate this further.
 
 #### Increasing the Specific Surface Area
-Specific surface area is surface area per volume. In order to change the specific surface area of the filter the packing material must be changed. To increase specific surface area, the packing material must have more surface area for the same amount of volume. Many trickling filters in Honduras, the packing material is gravel or rocks. In the US, there has been a lot of research and development of new higher specific surface area packing materials. These materials have a more honeycomb structure. Many of these materials are very expensive and would not fit with AguaClara low-cost model. Even though using these materials would not be feasible, the team can gain insight into how to make a more efficient filter and then make it low cost. Therefore the team thinks this is a good research area to produce the most effective trickling filter.
+Specific surface area is surface area per volume. In order to change the specific surface area of the filter the packing material must be changed. To increase specific surface area, the packing material must have more surface area for the same amount of volume. Many trickling filters in Honduras, the packing material is gravel or rocks. In the United States, there has been a lot of research and development of new higher specific surface area packing materials. These materials have a more honeycomb structure. Many of these materials are very expensive and would not fit with AguaClara low-cost model. Even though using these materials would not be feasible, the team can gain insight into how to make a more efficient filter and then make it low cost. Therefore the team thinks this is a good research area to produce an effective trickling filter.
 
 
 ##### Ideas for improvement
-The team's idea for improvement of specific surface area would be a novel geometry and material combination. Our ideas are string, straws, sheets, BioBalls, and six-pack plastic holder recycling
+The team's idea for improvement of specific surface area would be a novel geometry and material combination. Possible ideas include using string, straws, sheets, BioBalls, and six-pack plastic holder recycling
 
 #### Increasing the $k_{20}$ Value
 The $k_{20}$ value is the reaction rate constant of degradation at 20 degrees Celsius. A higher value means that more nutrients or BOD is consumed per day. There is a very little available research on $k_{20}$ values of different trickling filters. Most research reports just state the value for the filters they were testing. A reasonable $k_{20}$ value for an aerobic sludge reactor would be 0.20. One of the factors that effects the value is the type of bacteria used and how they are suite to the environment.
@@ -112,7 +109,7 @@ $NH_{4}^{+}  + 1.5 O_{2} \rightarrow NO_{2}^{-} + 2H^{+} +  H_{2}O$
 
 $NO_{2}^{-}  + 0.5 O_{2} \rightarrow NO_{3}^{-}$.
 
-When the EPA report was written no kinetic model had been derived for nitrification in trickling filters. However, they found four main parameters that increased removal was based on: low organic loadings, high residence times, sufficient oxygen availability, and consistency in hydraulic, organic, and ammonia loadings [(US EPA, 1991)](https://nepis.epa.gov/Exe/ZyPDF.cgi/P1004T3S.PDF?Dockey=P1004T3S.PDF). [Duddles et. al., 1974](https://www.jstor.org/stable/pdf/25038735.pdf?refreqid=excelsior%3A134b4fcdcce29130f630db8059aa3119) found that nitrification rate is directly proportional to specific surface area. [Gullicks and Cleasby, 1986](http://www.jstor.org/stable/pdf/25042842.pdf?refreqid=excelsior%3Ad9da82b9b851c3d02a23339cd5f0f45d) found that the mass transfer rate of the biofilm can be increased in two ways: increasing temperature and increasing ammonia concentration. From theses reports the team's earlier assumption the parameters affecting BOD removal are similar to those affecting nitrification is valid. The team also found another factor that effected nitrification rate which is oxygen availability [(Okey and Albertson 1989)](http://www.jstor.org/stable/25046965). There are two regimes of the nitrogen kinetic equation. When oxygen is limited, it is a zero-order kinetic model with respect to ammonia and half order with respect to oxygen. When oxygen is plentiful, it is a first order model with respect to ammonia. The removal equation found was as:
+When the EPA report was written no kinetic model had been derived for nitrification in trickling filters. However, they found four main parameters that increased removal was based on: low organic loadings, high residence times, sufficient oxygen availability, and consistency in hydraulic, organic, and ammonia loadings [(US EPA, 1991)](https://nepis.epa.gov/Exe/ZyPDF.cgi/P1004T3S.PDF?Dockey=P1004T3S.PDF). [Duddles et. al., 1974](https://www.jstor.org/stable/pdf/25038735.pdf?refreqid=excelsior%3A134b4fcdcce29130f630db8059aa3119) found that nitrification rate is directly proportional to specific surface area. [Gullicks and Cleasby, 1986](http://www.jstor.org/stable/pdf/25042842.pdf?refreqid=excelsior%3Ad9da82b9b851c3d02a23339cd5f0f45d) found that the mass transfer rate of the biofilm can be increased in two ways: increasing temperature and increasing ammonia concentration. Based on these reports, the team's earlier assumption that parameters affecting BOD removal are similar to those affecting nitrification is valid. The team also found another factor that effected nitrification rate: oxygen availability [(Okey and Albertson 1989)](http://www.jstor.org/stable/25046965). There are two regimes of the nitrogen kinetic equation. When oxygen is limited, it is a zero-order kinetic model with respect to ammonia and half order with respect to oxygen. When oxygen is plentiful, it is a first order model with respect to ammonia. The removal equation found was as:
 
 
 $\left(NH_{4}-N\right)_{R} = \frac{K_{ao}S_{o}^{0.5}A_{trans}}{Q} + \left(NH_{4}-N\right)_{trans}\left(1-e^{-K_{n}L}\right)$
@@ -126,7 +123,7 @@ $\left(NH_{4}-N\right)_{R} = \frac{K_{ao}S_{o}^{0.5}A_{trans}}{Q} + \left(NH_{4}
 * $K_{n} =$ first-order constant, $m^{-1}$
 * $L =$ first order depth term, $m$
 
-Therefore compared to the BOD kinetic model, the only additional parameter is oxygen concentration. Higher oxygen concentrations result in higher removals.
+Therefore, compared to the BOD kinetic model, the only additional parameter is oxygen concentration. Higher oxygen concentrations result in higher removals.
 
 
 #### Ideas for improvements
@@ -153,7 +150,6 @@ where $D$ is the diameter of the cylinder. Surface tension can be looked up in t
 
 The ideal packing material for a trickling filter has a high surface area-to-volume ratio. Factors which add to the value of an ideal packing media are: its durability, its affordability, and its ability to both promote air circulation and prevent clogs in the system.
 
-
 Plastic packing, for example, has the advantage over rock-based packing for its ability to operate at higher organic loading rates. Due to the characteristics of the media, the trickling filters can be much taller.
 
 Table 1: Properties of various packing materials
@@ -178,6 +174,11 @@ What does reversing the location of the existing orifices do? Make the flow rate
 
 If a high dosing rate is set in order to maintain a thick biofilm  in the filter media, then the efficacy of treatment may see a sharp decrease in performance due to a reduction in contact time between the water flowing through the system and the packing media. A daily intermittent high-flow dose is applied to the system, known as the "flushing dose". The flushing dose is used to control the thickness of the biofilm and any remaining solids in the system.
 
+<div class="alert alert-block alert-danger">
+
+When do you want a higher or lower flow rate?
+</div>
+
 $n = \frac{(1 + R)(q)(10^3 mm/m)}{(A)(DR)(60 min/h)}$
 
 * $\small n$ = rotational speed, rev/min
@@ -196,10 +197,6 @@ Table 2: Typical flushing and operating doses for various BOD loadings
 |  3.00   |  60-180   |  $\small\geq$ 600  |
 |  4.00   |  80-240   |  $\small\geq$ 800  |
 
-<div class="alert alert-block alert-danger">
-
-When do you want a higher or lower flow rate?
-</div>
 
 #### Ideas for Improvements
 
@@ -221,7 +218,7 @@ $D_{air} = 353(\frac{1}{T_c} - \frac{1}{T_h})Z$
 * $\small T_h$ = hot temperature, K
 * $\small Z$ = height of filter, m
 
-The trickling filter for the team will strive to employ a naturally aerated system. The industry-standard for natural aeration or "natural draft" is to use a temperature gradient between the filter media and the ambient air temperature to provide a flow of air. This will prevent the need to mechanically aerate with fans or other air pumps, to prevent excess use of electricity. To achieve natural draft, the following criteria are required (Tchobanoglous et. al. 2003, pp 903):
+The team's trickling filter design will strive to employ a naturally aerated system. The industry-standard for natural aeration or "natural draft" is to use a temperature gradient between the filter media and the ambient air temperature to provide a flow of air. This will prevent the need to mechanically aerate with fans or other air pumps, to prevent excess use of electricity. To achieve natural draft, the following criteria are required (Tchobanoglous et. al. 2003, pp 903):
 
 1. The drainage and collection channels must not flow any greater than halfway full in order to permit air flow throughout the system.
 2. Access ports with adequate openings should be implemented at both tremendous.
@@ -251,14 +248,14 @@ The team’s visit to the wastewater treatment plant was  valuable in that it co
 
 ### Benchtop Experiment: Mapping Flow Through Packing Media
 
-In order to understand the flow patterns in a trickling filter, the team set up a benchtop model to run clean water through. The bench top model was constructed with a 6 inch inner diameter acrylic PVC pipe. As shown in the schematic below.
+In order to understand the flow patterns in a trickling filter, the team set up a benchtop model to run clean water through. The bench top model was constructed with a 6 inch inner diameter acrylic PVC pipe, as shown in the schematic below (Figure 4).
 
 <img src="https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/flow_schematic_front.png?raw=true" height=400 width=250>
 
 Figure 4: This is a schematic of the testing structure. It is an acrylic PVC pipe with holes drills at distances of 5,10,20,40,60, and 80 cm from the top. These holes represent the depths of the filter media that we will be testing. Rods are inserted at the depth of testing to support a mesh which holds the filter media. Water flows from the dosing point through the filter media to the collection unit. The collection unit is held in place by a PVC pipe.
 
 
-The PVC pipe could be filled to different heights of gravel to test how flow disperses as a function of depth. the team's hypothesis is that the flow will spread out as depth increases.
+The PVC pipe could be filled to different heights of gravel to test how flow disperses as a function of depth. The team's hypothesis is that the flow will spread out as depth increases.
 
 <img src="https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/Gravel_support_top view.png?raw=true" height=300 width=250>
 
@@ -271,9 +268,9 @@ Figure 6: This schematic shows the top view of the collection unit for the team'
 
 This is the collection basin which will be used to map where the water is exiting the model filter. A photograph of the apparatus can be seen in Figure 7. The water will flow in from a dosing point at the top of the filter and if it spreads out as it travels down the system it will flow into many different cuvettes. This can be then used to create heat map, or more accurately a flow map, to determine what areas are being utilized.
 
-After a few experiments, the team found that water was dripping only from the rods and down the side of the PVC. Therefore they removed the rods and balanced the mesh on top of the collection basin.
+After a few experiments, the team found that water was dripping only from the rods and down the side of the PVC. Therefore they removed the rods and placed the mesh directly on top of the collection basin.
 
-The procedure for a test was to first wet the surface of the rocks. This meant flowing water through at a high rate and not draining the bottom until the entire column was wet. The water was then drained to gravity potential. Once the gravel was wetted, a short pulse of 50 mL of water was added. For cuvettes that had water in them, the depth of water in millimeters was measured by inserting a marked straw, so water depth is relative and has no units. However, in many of the preliminary tests until the correct amount of water was determined, the cuvettes overflowed and the data was compromised. For tests where the water overflowed, the team still recorded whether a cuvette had been "hit", i.e. had water in it.
+The procedure for a test was to first wet the surface of the rocks. This meant flowing water through at a high rate and not draining the bottom until the entire column was wet. The water was then drained to gravity potential. Once the gravel was wet, a short pulse of 50 mL of water was added. For cuvettes that had water in them, the depth of water in millimeters was measured by inserting a marked straw, so water depth is relative and has no units. However, in many of the preliminary tests until the correct amount of water was determined, the cuvettes overflowed and the data was compromised. For tests where the water overflowed, the team still recorded whether a cuvette had been "hit", i.e. had water in it.
 
 
 The team also varied the packing material, also performing tests using marbles. The team choose marbles because they are only slightly larger than the pea gravel, but are uniform in size.
@@ -314,7 +311,7 @@ Figure 9: In the experiment with wet rocks, a somewhat random dispersion is reco
 
 Figure 10: The dry rocks show almost no dispersion with the center cell having double the water volume of any other cells. The rest of the flow was uniform and more similar to the marbles than wet rocks.
 
-Table 4: Total Water Volume from bench-scale experiment
+Table 4: Total water volume from bench-scale experiment
 | Trial     | Total Water Depth Captured |
 |:--------- |:-------------------------- |
 | Marbles   | 144                        |
@@ -325,6 +322,7 @@ These experiments show the differences in flow that can exist in a trickling fil
 
 
 ### Benchtop Experiment: Testing Unconventional Filter Media--Strings Applications
+
 The team decided to pursue an entirely novel preliminary design for a trickling filter in order to investigate options to optimize the surface area to volume ratio of the packing media to both improve the overall treatment efficiency of the system and to decrease the physical footprint of the filter. The first innovation to improve trickling filter media was the use of strings as the packing media and an overflowing basin to wick the water across the length of the string as it was treated.
 
 <img src="https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/StringApparatus.png?raw=true" height=550 width=600>
@@ -334,7 +332,6 @@ Figure 11: Schematic of experimental apparatus used to flow water across strings
 <img src="https://github.com/AguaClara/Trickling-Filter/blob/master/pictures/string%20filter%20set%20up.png?raw=true" height=711 width=400>
 
 Figure 12: Set up of string filter, with holding basin at the top (currently being dosed from above) and yarn/string wrapped around the top of the basin to the bar below. In this picture the system has 46 strings coming from the basin (string was wrapped around 46 times).
-
 
 
 
@@ -374,15 +371,14 @@ Based on these preliminary tests, the team concludes that the benefits of additi
 
 In the team’s initial research, extensive information has been gathered on the operational difficulties, the kinetics, and typical design parameters of trickling filters. Many of the issues plant operators encounter with trickling filters, like clogging and ponding, lack of moisture in parts of the filter, and generally inefficiency of the filter can be addressed by improving two aspects of the filter: the filter media itself and the distribution system. The BOD kinetic model also supports improving the filter media to increase the specific surface area, using alternative materials instead of the traditional rocks or gravel. The team’s research on nitrogen kinetics adds a need for proper aeration of the filter to the list of considerations when designing a new filter media.
 
-The lack of available information and limited research on some aspects of the kinetic model, $k_{20}$ values for example, motivate the team to potentially do lab tests and calculate $k_{20}$ values for various media and try to find a more standardized model than what is found in the existing literature. Similarly, the team is working on a test to address the assumption made by the current kinetic model that the entire volume of the filter is being used by looking at the flow distribution.
+The lack of available information and limited research on some aspects of the kinetic model, $k_{20}$ values for example, motivate the team to potentially do lab tests and calculate $k_{20}$ values for various media and try to find a more standardized model than what is found in the existing literature. Similarly, the team flow mapping test attempted to address and challenge the assumption made by the current kinetic model that the entire volume of the filter is being used by looking at the flow distribution.
 
-Preliminary research was driven primarily by industry research, however, it is expected than many of the established parameters will be subject to change as a result of independent research efforts. The findings of the team's experiments will be intended to characterize a trickling filter system absent of mechanical components and with higher filter media utilization. By the conclusion of this team's work, a vast majority of the gaps in literature will be filled with conclusive empirical data to serve as a model for wastewater plants in resource-scarce locations in addition to modifying the faults in industry around the world.
+Preliminary research was driven primarily by industry research, however, it is expected than many of the established parameters will be subject to change as a result of independent research efforts. The findings of the team's experiments are intended to characterize a trickling filter system absent of mechanical components and with higher filter media utilization. By the conclusion of this team's work, a vast majority of the gaps in literature should be filled with conclusive empirical data to serve as a model for wastewater plants in resource-scarce locations in addition to modifying the faults in industry around the world.
 
 The team fabricated the bench top model for flow mapping and conducted tests to determine the distribution of flow in trickling filters with small rock and marble media. The preliminary results from these tests were confusing, as almost all water was running down the side of the tube instead of through the media. The second phase of testing yielded usable results. From this experiment, the team believes that a uniform packing material is better than a random material. It yields consistent results and since it is easy to determine the dispersion and location of the flow the filter can be designed to maximize removal based on that flow. The random filter does spread out the water well; however, it is nearly impossible to model and can create anoxic zones which would limit nutrient removal.
 
 ## Future Work
 This semesters accomplishments were mostly in the hydraulics of the system. Tasks for future teams should include two main components: biological growth and scaling. The current prototype is very different from traditional filters and it is unknown how a biofilm will grow on it. One important parameter about growth to consider in this design is sloughing. One possible issue is the biofilm that sloughs off also takes all the biofilm on the string below it off. Another task is to determine if the biofilm should be grown just based on what is in the wastewater or if it should be seeded. If it is to be seeded, the future team should determine what the best culture is for nutrient removal. Once the team has both a proof of hydraulic concept and biological concept, they can move on to scaling.  The team must consider how this will be assembled at a large scale. Each side where there is overflow must be completely level. To scale up to a plant size this would cover about an entire classroom. This is a lot of strings and assembly could prove too difficult. Once a scaled design is complete, a small-scale test at the Ithaca WWTP can prove that is can remove nutrients before it is deployed in Honduras.
-
 
 
 ## Bibliography
