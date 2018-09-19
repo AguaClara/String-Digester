@@ -1,11 +1,10 @@
-# Trickling Filter
+# String Digester
 ## Team Members:
-Jillian Whiting (jpw236)
+Rosie Krasnoff (rkk57)   (607)351-5441
+Zsofia Szegletes (zms28)
+Tony Martinez (apm234)
+Madeline Garell (mpg95)
 
-Ben Gassaway (bsg73)
-
-Rosie Krasnoff (rkk57)
-(607)351-5441
 
 ## Semester Goals
 Determine if trickling filters are feasible component of a future AguaClara wastewater plant.
