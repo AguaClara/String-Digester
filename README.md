@@ -1,8 +1,11 @@
 # String Digester
 ## Team Members:
 Rosie Krasnoff (rkk57)   (607)351-5441
+
 Zsofia Szegletes (zms28)
+
 Tony Martinez (apm234)
+
 Madeline Garell (mpg95)
 
 
