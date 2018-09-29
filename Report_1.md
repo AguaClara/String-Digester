@@ -29,6 +29,9 @@ Some of these previously mentioned problems (insect and slug presence in filters
 
 There can be issues with variations in temperature: biofilm thickness changes seasonally and can be low quality and uneven in cold temperatures. In freezing weather, formation of ice can cause clogging and structural damage to the trickling media. These are generally not major concerns for plants in equatorial regions, and so while important to note, will not be a focus for the team at this point.
 
+In terms of odor as an indication of anaerobic conditions, the team will incorporate the need for airflow into their brainstorming of a novel geometry. Current trickling filters have inner rocks that are anoxic & anaerobic as airflow is not able to get to them. The spacing between each string should prevent any unwanted cohesive interactions between water particles to allow for sufficient biofilm aeration per string. This space between the strings will allow air to openly flow through the system.
+Another disadvantage of the conventional trickling filter that is it is filled with materials such as rocks, gravel, shredded PVC bottles, or special pre-formed plastic filter media. However, since not all these are regularly shaped, the water flowing through the filter takes the paths of least resistance. Due to this, not all parts & materials are locally available & used leading a less efficient reducing of organic matter. The team hopes to use strings as a solution to this problem. A trickling filter that is composed completely out of horizontal strings will allow for the same amount of flow on each string. In this way, all parts & materials of the trickling filter will be utilized. In addition, specially manufactured plastic media, like corrugated plastic sheets or even hollow plastic cylinders can optimize surface area for biofilm formation & allow for free movement of air [(Spuhler 2018).](https://www.sswm.info/node/8215)
+
  Ali et al. states that the most common problem in trickling filters is uncontrolled sloughing, which is often caused by uneven hydraulic loading rates. This can be particularly problematic after storm events when flooding results in very high hydraulic loading. It can also be caused by clogging of the distribution arm and uneven distribution of the influent [(Ali et al. 2017).](http://www.pjoes.com/pdf/26.6/Pol.J.Environ.Stud.Vol.26.No.6.2431-2444.pdf) There is potential for the development of a much-improved distribution system that could help to alleviate this problem.
 
  Proper distribution of wastewater onto the filter media is crucial for optimizing efficiency of treatment. The most common method of distribution is rotating distributors, but this system will not serve the string-focused design, so the team will eventually need to pursue a new distribution method, that would hopefully require less maintenance and be less prone to failure.
@@ -43,9 +46,4 @@ Ali et al. (2017). Identification and Elucidation of the Designing and Operation
 
 Sperling, Marcos von (2007). *Activated Sludge and Aerobic Biofilm Reactors.* (pp. 271-283) London: IWA Publishing.
 
-
-
-
-
-
-Discuss what is already known about your research area based on both external work and that of past AguaClara Teams. Connect your objectives with what is already known and explain what additional contribution you intend to make. Make sure to add APA formatted in-text citations. If you mention the author(s) in your sentence, you can simply give the year of publication.[(Logan et. al. 1987)](http://www.jstor.org/stable/pdf/25043431.pdf?acceptTC=true)
+Spuhler, Dorothee; Eawag (Swiss Federal Institute of Aquatic Science and Technology). *Trickling Filter.*
