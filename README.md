@@ -10,9 +10,13 @@ Madeline Garell (mpg95)
 
 
 ## Semester Goals
-Determine if trickling filters are feasible component of a future AguaClara wastewater plant.
+Determine if ideas about using strings as media for trickling filter based design are a feasible component of a future AguaClara wastewater plant.
 
 ## Links to Reports and Presentations
+
+### Fall 2018
+[Symposium Presentation](https://docs.google.com/presentation/d/1B0oq8NB6Wiu3eZtoH0XupzLUeAUmPYKxPFIgBA1XBPc/edit#slide=id.g346a079b2f_0_0)
+
 
 ### Spring 2018
 [Symposium Presentation](https://docs.google.com/presentation/d/1XDAWSXDn-Me3OXwePyHjROJxUi_ZhIXyg9vinbaDPxc/edit?usp=sharing)
