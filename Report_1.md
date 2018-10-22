@@ -54,7 +54,7 @@ Another disadvantage of the conventional trickling filter that is it is filled w
 [EM: Fix grammar, spelling, and punctuation mistakes. Review this paragraph - contents are stated more as goals.]
 
 Ali et al. states that the most common problem in trickling filters is uncontrolled sloughing, which is often caused by uneven hydraulic loading rates. This can be particularly problematic after storm events when flooding results in very high hydraulic loading. It can also be caused by clogging of the distribution arm and uneven distribution of the influent [(Ali et al. 2017).](http://www.pjoes.com/pdf/26.6/Pol.J.Environ.Stud.Vol.26.No.6.2431-2444.pdf) There is potential for the development of a much-improved distribution system that could help to alleviate this problem.
- 
+
 [EM: This should be with the other review on sloughing.]
 
 Proper distribution of wastewater onto the filter media is crucial for optimizing efficiency of treatment. The most common method of distribution is rotating distributors, but this system will not serve the string-focused design, so the team will eventually need to pursue a new distribution method, that would hopefully require less maintenance and be less prone to failure.
@@ -67,9 +67,74 @@ The less common method of distribution, the fixed distribution system, utilizes 
 
 Unfortunately, these systems are also prone to clogging or blockage issues and similarly challenged by inconsistency of hydraulic load on the surface of the trickling filter. This is another area where there is huge potential for the team to increase the productivity of trickling filters. [(Sperling 2007).](https://www.iwapublishing.com/sites/default/files/ebooks/9781780402123.pdf)
 
+## Methods
+Explain the techniques you have used to acquire additional data and insights. Reserve fine detail for the Manual at the end of the report, but use this section to give an overview with enough detail for the reader to understand your Results and Analysis. Describe your apparatus, and have a justification for every decision you made and every parameter you chose in the design of the apparatus. Be especially careful to detail the conditions your experiments were conducted under, as this information is especially important for interpreting your results
+
+Below, some example sections are given. Sectioning the report is meant to keep similar information together.  Continue making sections as necessary, or delete sections if you do not need them. Feel free to add subsubsections to further delineate the information. For example, under the Experimental Apparatus section below, the EStaRS team might consider having sections such as "Filter Design" and "Filter Fabrication".
+
+### Experimental Apparatus
+Explain your apparatus setup using enough detail such that future teams can recreate your apparatus. Make sure to explain why you built it this way. Create a schematic drawing of the apparatus (not a photo) that has clearly labeled components, flow paths, sensors, and reactor geometry.
+* Design (calculations, constraints)
+
+  $\frac{-b\pm\sqrt{b^2-4ac}}{2a}$
+* Schematic (label parts)
+
+  <img src="https://github.com/jillianwhiting/Jillian-Whiting/blob/master/Images/IMG_0009.jpg?raw=true" height=250 width=200>
+
+* Image (from lab; label parts)
+* Materials (dimensions, materials)
+* Complications in construction
+* If already constructed: write a brief summary of important constraints, include any revisions to apparatus, also reference the prior report where construction is described
+
+### Procedure
+Discuss your experimental procedure. How did you run your experiment? What were you testing? What were the values of relevant parameters?
+
+## Results and Analysis
+Present an observation (results), then explain what happened (analysis).  Each paragraph should focus on one aspect of your results. In that same paragraph, you should interpret that result.  
+In other words, there should not be two distinct paragraphs, but instead one paragraph containing one result and the interpretation and analysis of this result. Here are some guiding questions for results and analysis:
+
+
+
+## Conclusions
+Explain what you have learned and how that influences your next steps. Why does what you discovered matter to AguaClara?
+
+Make sure that you defend your conclusions with facts and results.
+
+## Future Work
+Describe your plan of action for the next several weeks of research. Detail the next steps for this team. How can AguaClara use what you discovered for future projects? Your suggestions for challenges for future teams are most welcome. Should research in this area continue?
+
+
+
 ## Bibliography
 Ali et al. (2017). Identification and Elucidation of the Designing and Operational Issues of Trickling Filter Systems for Wastewater Treatment. *Polish Journal of Environmental Studies.* 26(6), 2431-2444.
 
 Sperling, Marcos von (2007). *Activated Sludge and Aerobic Biofilm Reactors.* (pp. 271-283) London: IWA Publishing.
 
 Spuhler, Dorothee; Eawag (Swiss Federal Institute of Aquatic Science and Technology). *Trickling Filter.*
+
+
+
+# Manual
+The goal of this section is to provide all of the guidance that would be necessary for a future team to pick up your work where you left off. Please try to be thorough and put yourselves in the shoes of a newcomer to the project. Below are some recommended sections, but the manual will likely take a slightly different form for each team.
+
+## Fabrication Details
+Include any information related to the fabrication of equipment, experimental apparatuses, or technologies. Include the purpose of each step and the fabrication methods used. Reference appropriate safety precautions.
+
+## Special Components
+If your subteam uses a particular part that is unique and you could foresee a future subteam needing to order it or learn more about it, please include basic information like the vendor where it was purchased, catalog/item number, and a link to any documentation.
+
+## Experimental Methods
+### Set-up
+Step 1.
+* Put tasks in a sequential order.
+* It is okay to have sub-lists.
+  - Like this.
+
+### Experiment
+Step 1.
+
+### Cleaning Procedure
+Step 1.
+
+## Experimental Checklist
+Another potential section could include a list of things that you need to check before running an experiment.
