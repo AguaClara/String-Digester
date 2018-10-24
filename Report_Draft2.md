@@ -7,15 +7,11 @@
 
 ## Abstract
 
-The string digester team’s objective for this semester is to continue research on designing a new wastewater treatment system to eliminate problems associated with current trickling filters by using strings to optimize surface area and improve consistency in wastewater treatment. The long-term goal of this team is to create an efficient wastewater treatment system that will perform secondary and tertiary treatment on domestic wastewater when implemented in an AguaClara treatment plant. Initial tests involving string material, biofilm growth, and string spacing will help define design parameters for the construction of a functioning string digester.
-
-[EM: Sentences are very long - consider shortening them and making them more efficient.]
+The string digester team’s objective for this semester is to continue research on designing a new wastewater treatment system to eliminate problems associated with current trickling filters. To improve consistency in wastewater treatment, experiments will be conducted using strings to optimize surface area. The long-term goal of this team is to create an efficient wastewater treatment system that will perform secondary and tertiary treatment on domestic wastewater. Initial tests involving different string materials, biofilm growth, and string spacing will help define design parameters for the construction of a functioning string digester.
 
 ## Introduction
 
-The String Digester, formerly Trickling Filter, sub-team originated in the Spring of 2018 due to the remaining need for continued wastewater treatment after treatment from the Upflow Anaerobic Sludge Blanket (UASB) reactor. Nutrient pollution still remains in wastewater of Honduras, thus the trickling filter wastewater treatment can be pivotal in minimizing, if not eliminating, the unwanted organic matter. Seeking to augment industrial-scale trickling filters, work from the previous semester identified an issue with the process: a large amount of unused space is found within almost all units due to preferential flow of wastewater. That being said, the primary objective is to continue to discover, construct, and tweak methods that can maximize the efficiency of trickling filter wastewater treatment. After coming to the idea that strings may be a good replacement as the media in these units, this semester will focus on boosting the amount of used volume within the trickling filter by examining different materials of strings as well as the placement of this form of media on a filter. With this work, the team will work towards assessing the feasibility of the implementation of a trickling filter unit in future AguaClara treatment plants.
-
-[EM: Avoid use of colloquialisms. Avoid fluff. This paragraph can be much shorter if information is presented well.
+The String Digester sub-team originated due to the remaining need for continued wastewater treatment after treatment from the Upflow Anaerobic Sludge Blanket (UASB) reactor. Looking to enhance industrial-scale trickling filters, work from the previous semester identified an issue with the process: a large amount of unused space is present in almost all treatment units due to preferential flow of wastewater. The primary objective of this sub-team is to continue to discover, construct, and tweak methods that can maximize the efficiency of trickling filter wastewater treatment. At conclusion of strings was viable option for filter media, this research of this semester will focus on augmenting the amount of used volume within the trickling filter by examining different materials of strings as well as the placement of this form of media on a filter. With this work, the team will work towards assessing the feasibility of the implementation of a modified trickling filter unit in future AguaClara treatment plants.
 
 Research dealing with trickling filter wastewater treatment was ubiquitous in the 1970's and 1980's, however the method of treatment faced a lack of research in the following decades. Research on wastewater treatment shift more towards processes that were more active and higher in energy consumption. A notable feature of the trickling filter wastewater treatment is the low-energy requirements to run the reactor. This feature of this type of treatment is the driving force in the investigation of trickling filter research for AguaClara. This method of treatment has the potential to align with the mission of achieving hydraulically-driven systems which will be much more feasible in areas of the world in which capital expenditure is a major barrier for employing this technology.
 
@@ -61,16 +57,74 @@ Proper distribution of wastewater onto the filter media is crucial for optimizin
 
 [EM: Belongs with goals.]
 
-The less common method of distribution, the fixed distribution system, utilizes lateral and main distribution pipes, which are placed just above the medium, spaced to give uniform distribution of water. Because this method is not rotating, it may be more applicable to the string media They generally have nozzles with a circular hole and a deflector. They are more commonly used with intermittent dosing, so flow from the system varies; it starts at a maximum and lowers as the tank empties. Currently, fixed distribution systems are mostly used in deep filter and biotowers (i.e. very tall filters).
+The less common method of distribution, the fixed distribution system, utilizes lateral and main distribution pipes, which are placed just above the medium and spaced to give uniform distribution of water. The pipes generally have nozzles with a circular hole and a deflector. This method is commonly used with intermittent dosing, meaning flow from the system varies; it starts at a maximum and lowers as the tank empties. Currently, fixed distribution systems are mostly used in deep filter and biotowers (i.e. very tall filters). Because this method is not rotating, it may be more applicable to the proposed use of a string media.  
 
 [EM: Fix grammar, spelling, and punctuation mistakes. ]
 
 Unfortunately, these systems are also prone to clogging or blockage issues and similarly challenged by inconsistency of hydraulic load on the surface of the trickling filter. This is another area where there is huge potential for the team to increase the productivity of trickling filters. [(Sperling 2007).](https://www.iwapublishing.com/sites/default/files/ebooks/9781780402123.pdf)
 
+
+
 ## Methods
 Explain the techniques you have used to acquire additional data and insights. Reserve fine detail for the Manual at the end of the report, but use this section to give an overview with enough detail for the reader to understand your Results and Analysis. Describe your apparatus, and have a justification for every decision you made and every parameter you chose in the design of the apparatus. Be especially careful to detail the conditions your experiments were conducted under, as this information is especially important for interpreting your results
 
 Below, some example sections are given. Sectioning the report is meant to keep similar information together.  Continue making sections as necessary, or delete sections if you do not need them. Feel free to add subsubsections to further delineate the information. For example, under the Experimental Apparatus section below, the EStaRS team might consider having sections such as "Filter Design" and "Filter Fabrication".
+
+### Initial Experiment
+#### Experimental Apparatus
+A scale was secured approximately 2 meters above a lab bench. The twine was attached to the bottom of the scale and allowed to hang down freely. See below for further information on the twine.
+
+####Strings
+For the string aspect of the experimental apparatus for the initial experiment, four strings varying in non-biodegradable material, structure, and diameter were chosen. For polymer-based materials, a polypropylene, twine string with a diameter of 0.0500 inches and a nylon, monofilament string with a diameter of 0.0220 inches were used. For metal alloy materials, a 304-type stainless steel wire with a diameter of 0.0200 inches and a 304-type stainless steel cable with a diameter of 0.0625 inches were used. The stainless steel cable was lubricated upon purchase.
+
+For the remainder of the report, the following strings will be referred to by the following: polypropylene twine will be referred to as "twine", the nylon monofilament string will be referred to as "nylon string", the stainless steel wire will be referred to as "wire", and the stainless steel cable will be referred to as "cable".
+
+First, the scope of what material of string to utilize was immediately narrowed to non-biodegradable materials due to the notion that biodegradable strings would not be able to withstand the detriments from the wastewater over time. Metal alloys and polymer-based materials were the most accessible materials to obtain, so it was decided to obtain equal amount of strings in each. Next, the structure and diameter of the strings was differentiated in each material group due to the notion that surface texture and/or diameter of the strings could have a strong effect on water flow.
+
+#### Procedure
+In this experiment, the team was trying to quantify the amount of water contained on each string. A narrow tube was connected to a peristaltic pump and was pumped at a known rate. The end of the tube was directed onto the top of the string. Measurements of the weight of the string were to be taken prior and post adding water to quantify the volume on water in the sheath that was hypothesized to form on the strings.
+
+#### Results and Analysis
+The method of directing the water onto the twine did not work. Water spiraled off the string and was not able to trickle down it. Therefore, no weight measurements were taken after there was water on the string and other materials were not tested out with this method.
+
+### Recreated Experiment
+#### Experimental Apparatus
+
+The experiment from last semester was recreated using the new material strings mentioned above.
+
+
+
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/Screen%20Shot%202018-10-24%20at%203.14.20%20PM.png?raw=true" width = 200 />
+<img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/Screen%20Shot%202018-10-24%20at%203.14.28%20PM.png?raw=true" width = 200 />
+Schematic 1. Experimental Set-Up
+
+####Strings
+For the string aspect of the experimental apparatus for the recreated experiments, all four strings were re-utilized from the initial experiment. Reference to the "String" subsection of the Initial Experiment for more information on the strings.
+
+#### Procedure
+Water is pumped into the top of the dispenser at a known rate. The strings are wrapped around the dispenser and around a bottom pole in one long strand and pulled taught. The dispenser is filled to the top with water. As the water level overflows the dispenser basin, the water must find a path down. All four of the aforementioned materials were tested in this fashion with varying pumping rates.
+
+#### Results and Analysis
+Photo 1. Strings on the set-up in the following material from left to right: wire, unrolled twine, nylon string, and twine
+
+The water did not like any of the materials. It avoided the strings mostly and flowed over the side of the dispenser at the top. The cable was hard to experiment on as it didn't conform to the sharp edges of the basin and did not make good contact with the water.
+
+
+
+### Modified Experiments
+#### Experimental Apparatus
+Using the experimental setup described in the recreated experiment above, the team modified this with two pieces of pipe cut into quarter circles and glued onto the sides of the basin so the basin had downward sloping sides. To ensure the basin was watertight, glue was applied to all the seams. To keep the strings vertical when wrapped around the setup, a flat rectangle of acrylic was taped to the bar at bottom of the setup. This modified experiment was conducted in order to observe whether a gradual slope would help the water flow down onto the strings rather then straight down off the sides of the basin. This experiment was conducted in a similar way that the recreated experiment (above) was conducted in. A pump was used to regulate the flow of water into the basin. The team experimented with different flow rates and observed how water flowed or did not flow down the various strings.
+
+The same four strings (wire, cable, twine, and nylon string) were used in this experiment. Since the cable was lubricated, the team washed it with soap and water before testing in hopes that this would make it less hydrophobic. The twine was also untwisted and tested as a secondary modification to the experiment.
+
+####Strings
+For the string aspect of the experimental apparatus for the modified experiments, all four strings were re-utilized from the initial experiment. Reference to the "String" subsection of the Initial Experiment for more information on the strings.
+
+#### Procedure
+This experiment was run in the same way as the recreated experiment (above) was run.
+
+#### Results and Analysis
+Despite introducing a gradual slope for the water to flow down, the results of this experiment were similar to the results from the recreated experiment. The strings were still hydrophobic so the water avoided flowing down the strings even when on the curved plastic. If the water did flow along the string on the plastic, droplets began to fall off the strings once they left the plastic at the top. The water overflowing from the basin was irregular and often flowed over the curved plastic in paths between the strings.
 
 ### Experimental Apparatus
 Explain your apparatus setup using enough detail such that future teams can recreate your apparatus. Make sure to explain why you built it this way. Create a schematic drawing of the apparatus (not a photo) that has clearly labeled components, flow paths, sensors, and reactor geometry.
@@ -79,7 +133,7 @@ Explain your apparatus setup using enough detail such that future teams can recr
   $\frac{-b\pm\sqrt{b^2-4ac}}{2a}$
 * Schematic (label parts)
 
-  <img src="https://github.com/jillianwhiting/Jillian-Whiting/blob/master/Images/IMG_0009.jpg?raw=true" height=250 width=200>
+  <img src="String-Digester/Photos/Screen Shot 2018-10-24 at 3.14.20 PM.png" height=250 width=200>
 
 * Image (from lab; label parts)
 * Materials (dimensions, materials)
@@ -92,8 +146,6 @@ Discuss your experimental procedure. How did you run your experiment? What were 
 ## Results and Analysis
 Present an observation (results), then explain what happened (analysis).  Each paragraph should focus on one aspect of your results. In that same paragraph, you should interpret that result.  
 In other words, there should not be two distinct paragraphs, but instead one paragraph containing one result and the interpretation and analysis of this result. Here are some guiding questions for results and analysis:
-
-
 
 ## Conclusions
 Explain what you have learned and how that influences your next steps. Why does what you discovered matter to AguaClara?
@@ -111,30 +163,3 @@ Ali et al. (2017). Identification and Elucidation of the Designing and Operation
 Sperling, Marcos von (2007). *Activated Sludge and Aerobic Biofilm Reactors.* (pp. 271-283) London: IWA Publishing.
 
 Spuhler, Dorothee; Eawag (Swiss Federal Institute of Aquatic Science and Technology). *Trickling Filter.*
-
-
-
-# Manual
-The goal of this section is to provide all of the guidance that would be necessary for a future team to pick up your work where you left off. Please try to be thorough and put yourselves in the shoes of a newcomer to the project. Below are some recommended sections, but the manual will likely take a slightly different form for each team.
-
-## Fabrication Details
-Include any information related to the fabrication of equipment, experimental apparatuses, or technologies. Include the purpose of each step and the fabrication methods used. Reference appropriate safety precautions.
-
-## Special Components
-If your subteam uses a particular part that is unique and you could foresee a future subteam needing to order it or learn more about it, please include basic information like the vendor where it was purchased, catalog/item number, and a link to any documentation.
-
-## Experimental Methods
-### Set-up
-Step 1.
-* Put tasks in a sequential order.
-* It is okay to have sub-lists.
-  - Like this.
-
-### Experiment
-Step 1.
-
-### Cleaning Procedure
-Step 1.
-
-## Experimental Checklist
-Another potential section could include a list of things that you need to check before running an experiment.
