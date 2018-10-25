@@ -108,9 +108,8 @@ For the string aspect of the experimental apparatus for the recreated experiment
 Water is pumped into the top of the dispenser at a known rate. The strings are wrapped around the dispenser and around a bottom pole in one long strand and pulled taught. The dispenser is filled to the top with water. As the water level overflows the dispenser basin, the water must find a path down. All four of the aforementioned materials were tested in this fashion with varying pumping rates.
 
 #### Results and Analysis
-Photo 1. Strings on the set-up in the following material from left to right: wire, unrolled twine, nylon string, and twine
-
-* Add photo here *
+<img src= "Photos/IMG_2524 copy.jpg" />
+Photo 1. Strings on the set-up in the following material from left to right: wire, unrolled twine, nylon string, and twine.
 
 The water did not like any of the materials. It avoided the strings mostly and flowed over the side of the dispenser at the top. In addition, the water that did get onto the materials formed droplets. The water would also start off flowing down the strings and then spiral off. The cable was hard to experiment on as it didn't conform to the sharp edges of the basin and did not make good contact with the water.
 
