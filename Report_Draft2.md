@@ -41,11 +41,11 @@ There can be issues with variations in temperature: biofilm thickness changes se
 
 [EM: Try focusing on articles/papers that identify issues with trickling filters that can be solved with the use of a string digester.]
 
-In terms of odor as an indication of anaerobic conditions, the team will incorporate the need for airflow into their brainstorming of a novel geometry. Current trickling filters have inner rocks that are anoxic & anaerobic as airflow is not able to get to them. The spacing between each string should prevent any unwanted cohesive interactions between water particles to allow for sufficient biofilm aeration per string. This space between the strings will allow air to openly flow through the system.
+In terms of odor as an indication of anaerobic conditions, the team will incorporate the need for airflow into their brainstorming of a novel geometry. Current trickling filters have inner rocks that are anoxic and anaerobic as airflow is not able to get to them. The spacing between each string should prevent any unwanted cohesive interactions between water particles to allow for sufficient biofilm aeration per string. This space between the strings will allow air to openly flow through the system.
 
 [EM: Avoid using symbols ("and" instead of "&"). This does not belong in the literature review section; goals are more suited for the introduction.]
 
-Another disadvantage of the conventional trickling filter that is it is filled with materials such as rocks, gravel, shredded PVC bottles, or special pre-formed plastic filter media. However, since not all these are regularly shaped, the water flowing through the filter takes the paths of least resistance. Due to this, not all parts & materials are locally available & used leading a less efficient reducing of organic matter. The team hopes to use strings as a solution to this problem. A trickling filter that is composed completely out of horizontal strings will allow for the same amount of flow on each string. In this way, all parts & materials of the trickling filter will be utilized. In addition, specially manufactured plastic media, like corrugated plastic sheets or even hollow plastic cylinders can optimize surface area for biofilm formation & allow for free movement of air [(Spuhler 2018).](https://www.sswm.info/node/8215)
+Another disadvantage of the conventional trickling filter is that it is filled with materials such as rocks, gravel, shredded PVC bottles, or special pre-formed plastic filter media. However, since not all these materials are regularly shaped, the water flowing through the filter takes the paths of least resistance and leads to preferential flow. Due to this, not all parts and materials are locally available and used. This leads to a less efficient reduction of organic matter than if all of the filter were utilized. The team hopes to use strings as a solution to this problem. A trickling filter that is composed completely out of horizontal strings will allow for the same amount of flow on each string. In this way, all parts & materials of the trickling filter will be utilized. In addition, specially manufactured plastic media, like corrugated plastic sheets or even hollow plastic cylinders can optimize surface area for biofilm formation & allow for free movement of air [(Spuhler 2018).](https://www.sswm.info/node/8215)
 
 [EM: Fix grammar, spelling, and punctuation mistakes. Review this paragraph - contents are stated more as goals.]
 
@@ -57,7 +57,7 @@ Proper distribution of wastewater onto the filter media is crucial for optimizin
 
 [EM: Belongs with goals.]
 
-The less common method of distribution, the fixed distribution system, utilizes lateral and main distribution pipes, which are placed just above the medium and spaced to give uniform distribution of water. The pipes generally have nozzles with a circular hole and a deflector. This method is commonly used with intermittent dosing, meaning flow from the system varies; it starts at a maximum and lowers as the tank empties. Currently, fixed distribution systems are mostly used in deep filter and biotowers (i.e. very tall filters). Because this method is not rotating, it may be more applicable to the proposed use of a string media.  
+The less common method of distribution, the fixed distribution system, utilizes lateral and main distribution pipes, which are placed just above the medium and spaced to give uniform distribution of water. The pipes generally have nozzles with a circular hole and a deflector. This method is commonly used with intermittent dosing, meaning flow from the system varies; it starts at a maximum and lowers as the tank empties. Currently, fixed distribution systems are mostly used in deep filter and biotowers (i.e. very tall filters). Since this method is non-rotating, it may be more applicable for the proposed use of a string media.  
 
 [EM: Fix grammar, spelling, and punctuation mistakes. ]
 
@@ -90,13 +90,16 @@ The method of directing the water onto the twine did not work. Water spiraled of
 ### Recreated Experiment
 #### Experimental Apparatus
 
-The experiment from last semester was recreated using the new material strings mentioned above.
+The experiment from last semester was recreated using the new material strings mentioned above. A basin was filled with water and attached at an elevated surface about 1.5 m off the lab bench. Strings were then wrapped tightly around the top of the basin and at a metal rode below the basin. The strings were set up so they were evenly spaced and perpendicular to the ground.
 
 
 
-<img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/Screen%20Shot%202018-10-24%20at%203.14.20%20PM.png?raw=true" width = 200 />
-<img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/Screen%20Shot%202018-10-24%20at%203.14.28%20PM.png?raw=true" width = 200 />
-Schematic 1. Experimental Set-Up
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/Screen%20Shot%202018-10-24%20at%203.14.20%20PM.png?raw=true" />
+
+Scematic 1. Experimental Set-up
+
+<img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/Screen%20Shot%202018-10-24%20at%203.14.28%20PM.png?raw=true"/>
+Schematic 2. Close up of basin of Experimental Set-up
 
 ####Strings
 For the string aspect of the experimental apparatus for the recreated experiments, all four strings were re-utilized from the initial experiment. Reference to the "String" subsection of the Initial Experiment for more information on the strings.
@@ -107,7 +110,9 @@ Water is pumped into the top of the dispenser at a known rate. The strings are w
 #### Results and Analysis
 Photo 1. Strings on the set-up in the following material from left to right: wire, unrolled twine, nylon string, and twine
 
-The water did not like any of the materials. It avoided the strings mostly and flowed over the side of the dispenser at the top. The cable was hard to experiment on as it didn't conform to the sharp edges of the basin and did not make good contact with the water.
+* Add photo here *
+
+The water did not like any of the materials. It avoided the strings mostly and flowed over the side of the dispenser at the top. In addition, the water that did get onto the materials formed droplets. The water would also start off flowing down the strings and then spiral off. The cable was hard to experiment on as it didn't conform to the sharp edges of the basin and did not make good contact with the water.
 
 
 
