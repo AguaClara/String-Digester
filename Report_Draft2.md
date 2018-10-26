@@ -47,6 +47,9 @@ Some testing has been done of the growth of biofilm in different surfaces. One s
 ## Methods
 
 ### Initial Experiment
+####Objective of Experiment
+The objective of the initial experiment was to determine the amount of water that would be contained on each string we had purchased.
+
 #### Experimental Apparatus
 A scale was secured approximately 2 meters above a lab bench. A single string was attached to the bottom of the scale and allowed to hang down freely.
 
@@ -64,6 +67,9 @@ In this experiment, the team was attempting to quantify the amount of water cont
 The method of directing the water onto the string did not work. Water spiraled off the string upon immediate contact and was not able to trickle down the hanging string. Therefore, no weight measurements were able taken after attempting to direct water on the string, as the sheath did not form. The other materials were not tested out with this method, as this experiment was scrapped after the first test using the twine.
 
 ### Recreated Experiment
+####Objective of Experiment
+The objective of this experiment was to see if the water would run down the strings using the basin distributing system from Spring 2018.
+
 #### Experimental Apparatus
 The experiment from last semester was recreated using the strings as media, rather than the cotton yarn. A basin was filled with water and attached at an elevated surface about 1.5 meters above the lab bench. Strings were then wrapped tightly around the top of the basin and at a metal rod below the basin. The strings were set up so they were evenly spaced and perpendicular to the ground. The amount of a string wrapped on the apparatus as well as the different types of strings wrapped on the apparatus was up to the discretion of the sub-team.
 
@@ -92,7 +98,8 @@ The water did not like any of the materials. It avoided the strings mostly and f
 
 ### Modified Experiments
 #### Experimental Apparatus
-Using the experimental setup described in the recreated experiment (mentioned above), the team modified the basin by attaching two plastic arcs. This was done by slicing pieces of plastic pipe into quarters to create arcs and glueing the arcs onto the sides of the basin so that the basin had downward sloping sides. To ensure the basin was watertight, glue was applied to all the seams. To keep the strings vertical when wrapped around the setup, a flat rectangle of acrylic was taped to the bar at bottom of the setup. This modified experiment was conducted in order to observe whether a gradual slope would help the water flow down onto the strings rather then straight down off the sides of the basin. This experiment was conducted in a similar way that the recreated experiment (mentioned above) was conducted in. A pump was used to regulate the flow of water into the basin. The team experimented with different flow rates and observed how water flowed or did not flow down the various strings.
+
+Because the strings were hydrophobic, the team modified the experiment to give the water more time to flow onto the string. Using the experimental setup described in the recreated experiment (mentioned above), the team modified the basin by attaching two plastic arcs. This was done by slicing pieces of plastic pipe into quarters to create arcs and glueing the arcs onto the sides of the basin so that the basin had downward sloping sides. To ensure the basin was watertight, glue was applied to all the seams. To keep the strings vertical when wrapped around the setup, a flat rectangle of acrylic was taped to the bar at bottom of the setup. This modified experiment was conducted in order to observe whether a gradual slope would help the water flow down onto the strings rather then straight down off the sides of the basin. This experiment was conducted in a similar way that the recreated experiment (mentioned above) was conducted in. A pump was used to regulate the flow of water into the basin. The team experimented with different flow rates and observed how water flowed or did not flow down the various strings.
 
 The same four strings (wire, cable, twine, and nylon string) were used in this experiment. Since the cable was lubricated, the team washed it with soap and water before testing in hopes that this would make it less hydrophobic. The twine was also untwisted and tested as a secondary modification to the experiment.
 
