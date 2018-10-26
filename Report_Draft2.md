@@ -41,14 +41,14 @@ Trickling filters have a relatively low residence time, which the team should pl
 ### Biofilm
 A component of the string digester that is crucial to its success is the biofilm. "A biofilm is an assemblage of microbial cells that is irreversibly associated (not removed by gentle rinsing) with a surface and enclosed in a matrix of primarily polysaccharide material." [(Donlan 2002).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732559/) Biofilm attachment is a complex process regulated by diverse characteristics of the growth medium, substratum, and cell surface. Biofilm on trickling filters are composed of a variety of organisms and are typically enclosed in a polysaccharide. The biofilm matrix may also contain mineral crystals, corrosion particles, and clay or silt particles. Biofilms in wastewater systems are often highly complex [(Donlan 2002).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732559/)
 
-Some testing has been done of the growth of biofilm in different surfaces. One study compared growth on glossy electro-polished, bright annealed stainless steel to matte stainless steel and to PVC. The paper notes that stainless steel is hydrophilic and PVC is hydrophobic. In the last 45 days of the 167 day experiment, the matte steel had about 1.44 times more microorganisms than the electro-polished steel, and there was no significant difference between the PVC and polished steel. In discussion of why this occurs, Pedersen cites two reasons: "detachment due to shear forces from the flow will be reduced on the rougher surface since cells can be shielded from the bulk flow and more substratum surface area may be available for the biofilm." [(Pedersen 1990).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732559/)
+Some testing has been done of the growth of biofilm in different surfaces. One study compared growth on glossy electro-polished, bright annealed stainless steel to matte stainless steel and to PVC. The paper notes that stainless steel is hydrophilic and PVC is hydrophobic. In the last 45 days of the 167 day experiment, the matte steel had about 1.44 times more microorganisms than the electro-polished steel, and there was no significant difference between the PVC and polished steel. In discussion of why this occurs, Pedersen cites two reasons: "detachment due to shear forces from the flow will be reduced on the rougher surface since cells can be shielded from the bulk flow and more substratum surface area may be available for the biofilm" [(Pedersen 1990).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732559/)
 
 
 ## Methods
 
 ### Initial Experiment
 ####Objective of Experiment
-The objective of the initial experiment was to determine the amount of water that would be contained on each string we had purchased.
+The objective of the initial experiment was to determine the amount of water that could be held on different types of string and potentially make connections between specific properties of the strings and how much water they held at once.
 
 #### Experimental Apparatus
 A scale was secured approximately 2 meters above a lab bench. A single string was attached to the bottom of the scale and allowed to hang down freely.
@@ -95,8 +95,12 @@ Photo 1. Strings on the set-up in the following material from left to right: wir
 The water did not like any of the materials. It avoided the strings mostly and flowed over the side of the dispenser at the top. In addition, the water that did get onto the materials formed droplets. The water would also start off flowing down the strings and then spiral off. The cable was hard to experiment on as it didn't conform to the sharp edges of the basin and did not make good contact with the water.
 
 
-
 ### Modified Experiments
+
+####Objective of Experiment
+
+
+
 #### Experimental Apparatus
 
 Because the strings were hydrophobic, the team modified the experiment to give the water more time to flow onto the string. Using the experimental setup described in the recreated experiment (mentioned above), the team modified the basin by attaching two plastic arcs. This was done by slicing pieces of plastic pipe into quarters to create arcs and glueing the arcs onto the sides of the basin so that the basin had downward sloping sides. To ensure the basin was watertight, glue was applied to all the seams. To keep the strings vertical when wrapped around the setup, a flat rectangle of acrylic was taped to the bar at bottom of the setup. This modified experiment was conducted in order to observe whether a gradual slope would help the water flow down onto the strings rather then straight down off the sides of the basin. This experiment was conducted in a similar way that the recreated experiment (mentioned above) was conducted in. A pump was used to regulate the flow of water into the basin. The team experimented with different flow rates and observed how water flowed or did not flow down the various strings.
