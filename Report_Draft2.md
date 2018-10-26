@@ -20,7 +20,6 @@ The team fabricated a bench top model for flow mapping and conducted several rou
 
 
 ## Literature Review
-
 ###Trickling Filters
 The filter media in a conventional trickling filter is usually a material such as rocks, gravel, shredded PVC bottles, or special pre-formed plastic filter media. Because all these materials are not regularly shaped and wastewater is not distributed exactly equally across the top of the media, the water follows the paths of least resistance and thus preferential flow occurs. Thus, there is wasted space in the filter that remains dry and unused. This leads to a less efficient treatment of organic matter than if all of the space in the filter were utilized. One suggestion from the author is specially manufactured plastic media, like corrugated plastic sheets or even hollow plastic cylinders, to optimize surface area for biofilm formation & allow for free movement of air [(Spuhler 2018).](https://www.sswm.info/node/8215)
 
@@ -40,7 +39,6 @@ Trickling filters have a relatively low residence time, which the team should pl
 
 
 ###Biofilm
-
 A component of the string digester that is crucial to its success is the biofilm. "A biofilm is an assemblage of microbial cells that is irreversibly associated (not removed by gentle rinsing) with a surface and enclosed in a matrix of primarily polysaccharide material." [(Donlan 2002).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732559/) Biofilm attachment is a complex process regulated by diverse characteristics of the growth medium, substratum, and cell surface. Biofilm on trickling filters are composed of a variety of organisms and are typically enclosed in a polysaccharide. The biofilm matrix may also contain mineral crystals, corrosion particles, and clay or silt particles. Biofilms in wastewater systems are often highly complex [(Donlan 2002).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732559/)
 
 Some testing has been done of the growth of biofilm in different surfaces. One study compared growth on glossy electro-polished, bright annealed stainless steel to matte stainless steel and to PVC. The paper notes that stainless steel is hydrophilic and PVC is hydrophobic. In the last 45 days of the 167 day experiment, the matte steel had about 1.44 times more microorganisms than the electro-polished steel, and there was no significant difference between the PVC and polished steel. In discussion of why this occurs, Pedersen cites two reasons: "detachment due to shear forces from the flow will be reduced on the rougher surface since cells can be shielded from the bulk flow and more substratum surface area may be available for the biofilm." [(Pedersen 1990).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732559/)
@@ -66,7 +64,7 @@ First, the scope of what material of string to utilize was immediately narrowed 
 In this experiment, the team was attempting to quantify the amount of water contained on each string. A narrow tube was connected to a peristaltic pump and was pumped at a known rate. The end of the tube was directed onto the top of the string, to promote water flow onto the hanging string. Measurements of the weight of the string were to be taken before and after adding water for a short, specified period of time to quantify the volume on water in the hypothetical sheath that was to form on the strings.
 
 #### Results and Analysis
-The method of directing the water onto the string did not work. Water spiraled off the string upon immediate contact and was not able to trickle down the hanging string. Therefore, no weight measurements were able taken after attempting to direct water on the string, as the sheath did not form. The other materials were not tested out with this method, as this experiment was scrapped after the first test with the twine.
+The method of directing the water onto the string did not work. Water spiraled off the string upon immediate contact and was not able to trickle down the hanging string. Therefore, no weight measurements were able taken after attempting to direct water on the string, as the sheath did not form. The other materials were not tested out with this method, as this experiment was scrapped after the first test using the twine.
 
 ### Recreated Experiment
 #### Experimental Apparatus
@@ -85,7 +83,7 @@ Schematic 2. Close up of basin of Experimental Set-up
 For the string aspect of the experimental apparatus for the recreated experiments, all four strings were re-utilized from the initial experiment. Reference to the "String" subsection of the Initial Experiment for more information on the strings.
 
 #### Procedure
-Water is pumped into the top of the dispenser at a known rate. The strings are wrapped around the dispenser and around a bottom pole in one long strand and pulled taught. The dispenser is filled to the top with water. As the water level overflows the dispenser basin, the water must find a path down. All four of the aforementioned materials were tested in this fashion with varying pumping rates.
+ The desired strings were wrapped around the dispenser and around a bottom pole in one long strand (amount of strings is at discretion of sub-team) and pulled taught. The basin was filled with water using the peristaltic pump to induce overflow. As the water overflows the basin, the water will find a path down. All four of the aforementioned materials were tested in this fashion at varying pumping rates.
 
 #### Results and Analysis
 <img src= "Photos/IMG_2524 copy.jpg" />
@@ -97,7 +95,7 @@ The water did not like any of the materials. It avoided the strings mostly and f
 
 ### Modified Experiments
 #### Experimental Apparatus
-Using the experimental setup described in the recreated experiment above, the team modified this with two pieces of pipe cut into quarter circles and glued onto the sides of the basin so the basin had downward sloping sides. To ensure the basin was watertight, glue was applied to all the seams. To keep the strings vertical when wrapped around the setup, a flat rectangle of acrylic was taped to the bar at bottom of the setup. This modified experiment was conducted in order to observe whether a gradual slope would help the water flow down onto the strings rather then straight down off the sides of the basin. This experiment was conducted in a similar way that the recreated experiment (above) was conducted in. A pump was used to regulate the flow of water into the basin. The team experimented with different flow rates and observed how water flowed or did not flow down the various strings.
+Using the experimental setup described in the recreated experiment (mentioned above), the team modified the basin by attaching two plastic arcs. This was done by slicing pieces of plastic pipe into quarters to create arcs and glueing the arcs onto the sides of the basin so that the basin had downward sloping sides. To ensure the basin was watertight, glue was applied to all the seams. To keep the strings vertical when wrapped around the setup, a flat rectangle of acrylic was taped to the bar at bottom of the setup. This modified experiment was conducted in order to observe whether a gradual slope would help the water flow down onto the strings rather then straight down off the sides of the basin. This experiment was conducted in a similar way that the recreated experiment (mentioned above) was conducted in. A pump was used to regulate the flow of water into the basin. The team experimented with different flow rates and observed how water flowed or did not flow down the various strings.
 
 The same four strings (wire, cable, twine, and nylon string) were used in this experiment. Since the cable was lubricated, the team washed it with soap and water before testing in hopes that this would make it less hydrophobic. The twine was also untwisted and tested as a secondary modification to the experiment.
 
@@ -105,14 +103,13 @@ The same four strings (wire, cable, twine, and nylon string) were used in this e
 For the string aspect of the experimental apparatus for the modified experiments, all four strings were re-utilized from the initial experiment. Reference to the "String" subsection of the Initial Experiment for more information on the strings.
 
 #### Procedure
-This experiment was run in the same way as the recreated experiment (above) was run.
+This experiment was run in the same way as the recreated experiment (mentioned above) was run.
 
 #### Results and Analysis
 Despite introducing a gradual slope for the water to flow down, the results of this experiment were similar to the results from the recreated experiment. The strings were still hydrophobic so the water avoided flowing down the strings even when on the curved plastic. If the water did flow along the string on the plastic, droplets began to fall off the strings once they left the plastic at the top. The water overflowing from the basin was irregular and often flowed over the curved plastic in paths between the strings.
 
 
 ## Conclusions
-
 The team experienced difficulties  finding a material for the strings that is both non-biodegradable and will allow the wastewater to stay on the string as it falls over the side of the basin instead of coming off and just falling freely. Experimentation showed that the plastic polymer based string options will not work as a filter media unless somehow altered to make them hydrophilic. The stainless steel based strings show more potential but still seem to require some modifications to the design before they will work with any consistency. The results from experiments suggest that the team's current path may not lead to a successful design and the team should continue to think on how to address the issue of keeping the water on the string.
 
 
