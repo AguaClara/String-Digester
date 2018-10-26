@@ -20,7 +20,7 @@ The team fabricated a bench top model for flow mapping and conducted several rou
 
 
 ## Literature Review
-###Trickling Filters
+### Trickling Filters
 The filter media in a conventional trickling filter is usually a material such as rocks, gravel, shredded PVC bottles, or special pre-formed plastic filter media. Because all these materials are not regularly shaped and wastewater is not distributed exactly equally across the top of the media, the water follows the paths of least resistance and thus preferential flow occurs. Thus, there is wasted space in the filter that remains dry and unused. This leads to a less efficient treatment of organic matter than if all of the space in the filter were utilized. One suggestion from the author is specially manufactured plastic media, like corrugated plastic sheets or even hollow plastic cylinders, to optimize surface area for biofilm formation & allow for free movement of air [(Spuhler 2018).](https://www.sswm.info/node/8215)
 
 There is significant documentation of problems plant operators experience when dealing with trickling filters. One major problem is clogging and ponding occurring within the filter media due to high biomass sloughing rate. In the context of a trickling filter, sloughing refers to when a layer of the microbial growth loses the ability to stay attached and is shed from the filter media and washed away by water flow. If the layer of biofilm is not maintained at a desired thickness, treatment performance will decrease. Clogging results in a decreased efficiency of treatment and if it is not address the quality of the effluent will suffer. Current solutions include flashing with low doses of chlorine to remove deposited solids and kill excess biomass or periodic flooding [(Ali et al. 2017)](http://www.pjoes.com/pdf/26.6/Pol.J.Environ.Stud.Vol.26.No.6.2431-2444.pdf). The team aims avoid the problem altogether by using strings and not having a media that can clog up. It is still an important factor to consider in the design because any small slots or holes that the wastewater travels through in the system will likely clog up with biofilm growth.
@@ -38,7 +38,7 @@ Unfortunately, these systems are also prone to clogging or blockage issues and s
 Trickling filters have a relatively low residence time, which the team should plan to maintain in future designs. Hinton and Stensel measured residence time per unit length of between 30 and 40 sec/m with dye tests. Their predicted residence times, calculated from laminar flow theory, were closer to about 15 sec/m. The authors attributed this discretion to "dye sorption and desorption by the biofilm." In either case, the residence time for a 5 meter deep trickling filter would be well under 5 minutes. [(Hinton and Stensel 1991).](https://ac.els-cdn.com/0043135491901179/1-s2.0-0043135491901179-main.pdf?_tid=e8d2db22-8e0f-4d3c-a421-352ef74e6f5e&acdnat=1540500088_4808114af12660c061fbd139ac0fbd33)
 
 
-###Biofilm
+### Biofilm
 A component of the string digester that is crucial to its success is the biofilm. "A biofilm is an assemblage of microbial cells that is irreversibly associated (not removed by gentle rinsing) with a surface and enclosed in a matrix of primarily polysaccharide material." [(Donlan 2002).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732559/) Biofilm attachment is a complex process regulated by diverse characteristics of the growth medium, substratum, and cell surface. Biofilm on trickling filters are composed of a variety of organisms and are typically enclosed in a polysaccharide. The biofilm matrix may also contain mineral crystals, corrosion particles, and clay or silt particles. Biofilms in wastewater systems are often highly complex [(Donlan 2002).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732559/)
 
 Some testing has been done of the growth of biofilm in different surfaces. One study compared growth on glossy electro-polished, bright annealed stainless steel to matte stainless steel and to PVC. The paper notes that stainless steel is hydrophilic and PVC is hydrophobic. In the last 45 days of the 167 day experiment, the matte steel had about 1.44 times more microorganisms than the electro-polished steel, and there was no significant difference between the PVC and polished steel. In discussion of why this occurs, Pedersen cites two reasons: "detachment due to shear forces from the flow will be reduced on the rougher surface since cells can be shielded from the bulk flow and more substratum surface area may be available for the biofilm." [(Pedersen 1990).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732559/)
@@ -53,7 +53,7 @@ Below, some example sections are given. Sectioning the report is meant to keep s
 #### Experimental Apparatus
 A scale was secured approximately 2 meters above a lab bench. A single string was attached to the bottom of the scale and allowed to hang down freely.
 
-####Strings
+#### Strings
 For the string aspect of the experimental apparatus for the initial experiment, four strings varying in non-biodegradable material, structure, and diameter were chosen. For polymer-based materials, a polypropylene, twine string with a diameter of 0.0500 inches and a nylon, monofilament string with a diameter of 0.0220 inches were used. For metal alloy materials, a 304-type stainless steel wire with a diameter of 0.0200 inches and a 304-type stainless steel cable with a diameter of 0.0625 inches were used. The stainless steel cable was lubricated upon purchase.
 
 For the remainder of the report, the following strings will be referred to by the following: polypropylene twine will be referred to as "twine", the nylon monofilament string will be referred to as "nylon string", the stainless steel wire will be referred to as "wire", and the stainless steel cable will be referred to as "cable".
@@ -79,7 +79,7 @@ Scematic 1. Experimental Set-up
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/Screen%20Shot%202018-10-24%20at%203.14.28%20PM.png?raw=true"/>
 Schematic 2. Close up of basin of Experimental Set-up
 
-####Strings
+#### Strings
 For the string aspect of the experimental apparatus for the recreated experiments, all four strings were re-utilized from the initial experiment. Reference to the "String" subsection of the Initial Experiment for more information on the strings.
 
 #### Procedure
@@ -99,7 +99,7 @@ Using the experimental setup described in the recreated experiment (mentioned ab
 
 The same four strings (wire, cable, twine, and nylon string) were used in this experiment. Since the cable was lubricated, the team washed it with soap and water before testing in hopes that this would make it less hydrophobic. The twine was also untwisted and tested as a secondary modification to the experiment.
 
-####Strings
+#### Strings
 For the string aspect of the experimental apparatus for the modified experiments, all four strings were re-utilized from the initial experiment. Reference to the "String" subsection of the Initial Experiment for more information on the strings.
 
 #### Procedure
