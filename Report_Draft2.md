@@ -98,8 +98,7 @@ The water did not like any of the materials. It avoided the strings mostly and f
 ### Modified Experiments
 
 ####Objective of Experiment
-
-
+The team objective on the next experiment was to see if the team could use a modified design of the system to "encourage" the water to attach to and better follow along the string.
 
 #### Experimental Apparatus
 
