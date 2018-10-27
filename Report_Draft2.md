@@ -47,6 +47,7 @@ Some testing has been done of the growth of biofilm in different surfaces. One s
 ## Methods
 
 ### Initial Experiment
+
 ####Objective of Experiment
 The objective of the initial experiment was to determine the amount of water that could be held on different types of string and potentially make connections between specific properties of the strings and how much water they held at once.
 
@@ -67,7 +68,9 @@ In this experiment, the team was attempting to quantify the amount of water cont
 The method of directing the water onto the string did not work. Water spiraled off the string upon immediate contact and was not able to trickle down the hanging string. Therefore, no weight measurements were able taken after attempting to direct water on the string, as the sheath did not form. The other materials were not tested out with this method, as this experiment was scrapped after the first test using the twine.
 
 ### Recreated Experiment
+
 ####Objective of Experiment
+
 The objective of this experiment was to see if the water would run down the strings using the basin distributing system from Spring 2018.
 
 #### Experimental Apparatus
@@ -98,6 +101,7 @@ The water did not like any of the materials. It avoided the strings mostly and f
 ### Modified Experiments
 
 ####Objective of Experiment
+
 The team objective on the next experiment was to see if the team could use a modified design of the system to "encourage" the water to attach to and better follow along the string.
 
 #### Experimental Apparatus
