@@ -2,11 +2,12 @@
 #### Rosalie Krasnoff, Zsofia Szegletes, Madeline Garell, Antonio Martinez
 #### October 26, 2018
 
-
+[Shuo: Hello String Digester! I'll write my comments in the square brackets like this. Please feel free to delete them when you revise or update your report. ]
 ## Abstract
 
 The string digester team’s objective for this semester is to continue research on designing a new wastewater treatment system to eliminate problems associated with current trickling filters. To improve consistency in wastewater treatment, experiments will be conducted using strings to optimize surface area. The long-term goal of this team is to create an efficient wastewater treatment system that will perform secondary and tertiary treatment on domestic wastewater. Initial tests involving different string materials, biofilm growth, and string spacing will help define design parameters for the construction of a functioning string digester.
 
+[Very concise and Clear abstract. ]
 ## Introduction
 The String Digester sub-team originated due to the remaining need for continued wastewater treatment after treatment from the Upflow Anaerobic Sludge Blanket (UASB) reactor. Looking to enhance industrial-scale trickling filters, work from the previous semester identified an issue with the process: a large amount of unused space is present in almost all treatment units due to preferential flow of wastewater. The primary objective of this sub-team is to continue to discover, construct, and tweak methods that can maximize the efficiency of trickling filter wastewater treatment. The team believes that the trickling filter treatment system can significantly increase in efficacy by innovating the media aspect of the  wastewater treatment system. After conclusion of strings being a viable option for filter media, the research of this semester will focus on augmenting the amount of used volume within the trickling filter by examining different materials of strings as well as the placement of this form of media on a filter. With this work, the team will work towards assessing the feasibility of the implementation of a modified trickling filter unit in future AguaClara treatment plant while striving to make significant technological improvements on industry-standard applications for the system.
 
@@ -14,11 +15,14 @@ Research dealing with trickling filter wastewater treatment was ubiquitous in th
 
 ## Previous work
 ###Spring 2018
+
+[fix the format above. Preview your report before submitting.]
+
 Last semester, the Trickling Filter team spent a substantial amount of time doing research and gathering information on the operational difficulties, the kinetics, and typical design parameters of trickling filters. The team aimed to address many of the issues plant operators encounter with trickling filters, like clogging and ponding, lack of moisture in parts of the filter, and generally inefficiency of the filter. The two main areas for improvement the team identified were the filter media itself and the distribution system.
 
 The team fabricated a bench top model for flow mapping and conducted several rounds of tests to determine the distribution of flow in trickling filters with small rock and marble media. From these experiments, the team noticed that there were significant portions of the media that never got wet and thus concluded that a substantial volume of the trickling filter was unused due to preferential flow and therefore there is wasted space. From these tests the team also showed that a uniform packing material is superior to a random material. In an effort to both maximize the surface area to volume ratio and to minimize the footprint of the system by not wasting space, the team shifted focus towards strings as a possible filter media. This concept led the team to start with very preliminary testing of a system that was essentially an overflowing basin with strings submerged at the top, inside the basin, and draped over the sides to guide water down to a collection bucket below. In these initial tests, the team members observed that the water overflowing does in fact follow the along strings when it overflows. From these observations, the String Digester team will now begin more rigorous testing on the concept and investigate whether using strings in a wastewater treatment system is truly viable.
 
-
+[You are encouraged to provide some useful links to the previous work or some graphs to show the results.]
 ## Literature Review
 ### Trickling Filters
 The filter media in a conventional trickling filter is usually a material such as rocks, gravel, shredded PVC bottles, or special pre-formed plastic filter media. Because all these materials are not regularly shaped and wastewater is not distributed exactly equally across the top of the media, the water follows the paths of least resistance and thus preferential flow occurs. Thus, there is wasted space in the filter that remains dry and unused. This leads to a less efficient treatment of organic matter than if all of the space in the filter were utilized. One suggestion from the author is specially manufactured plastic media, like corrugated plastic sheets or even hollow plastic cylinders, to optimize surface area for biofilm formation & allow for free movement of air [(Spuhler 2018).](https://www.sswm.info/node/8215)
@@ -37,6 +41,7 @@ Unfortunately, these systems are also prone to clogging or blockage issues and s
 
 Trickling filters have a relatively low residence time, which the team should plan to maintain in future designs. Hinton and Stensel measured residence time per unit length of between 30 and 40 sec/m with dye tests. Their predicted residence times, calculated from laminar flow theory, were closer to about 15 sec/m. The authors attributed this discretion to "dye sorption and desorption by the biofilm." In either case, the residence time for a 5 meter deep trickling filter would be well under 5 minutes. [(Hinton and Stensel 1991).](https://ac.els-cdn.com/0043135491901179/1-s2.0-0043135491901179-main.pdf?_tid=e8d2db22-8e0f-4d3c-a421-352ef74e6f5e&acdnat=1540500088_4808114af12660c061fbd139ac0fbd33)
 
+[Some similiar problems with first draft: Some literature were usually provided at the end of the paragraph. Also, you need more logical transitions to make this part more readable. Some paragraphs are disjointed. ]
 
 ### Biofilm
 A component of the string digester that is crucial to its success is the biofilm. "A biofilm is an assemblage of microbial cells that is irreversibly associated (not removed by gentle rinsing) with a surface and enclosed in a matrix of primarily polysaccharide material." [(Donlan 2002).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732559/) Biofilm attachment is a complex process regulated by diverse characteristics of the growth medium, substratum, and cell surface. Biofilm on trickling filters are composed of a variety of organisms and are typically enclosed in a polysaccharide. The biofilm matrix may also contain mineral crystals, corrosion particles, and clay or silt particles. Biofilms in wastewater systems are often highly complex [(Donlan 2002).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732559/)
@@ -51,8 +56,12 @@ Some testing has been done of the growth of biofilm in different surfaces. One s
 ####Objective of Experiment
 The objective of the initial experiment was to determine the amount of water that could be held on different types of string and potentially make connections between specific properties of the strings and how much water they held at once.
 
+[Fix the format above.]
+
 #### Experimental Apparatus
 A scale was secured approximately 2 meters above a lab bench. A single string was attached to the bottom of the scale and allowed to hang down freely.
+
+[Can you provide the photo or the diagram of the initial apparatus?]
 
 #### Strings
 For the string aspect of the experimental apparatus for the initial experiment, four strings varying in non-biodegradable material, structure, and diameter were chosen. For polymer-based materials, a polypropylene, twine string with a diameter of 0.0500 inches and a nylon, monofilament string with a diameter of 0.0220 inches were used. For metal alloy materials, a 304-type stainless steel wire with a diameter of 0.0200 inches and a 304-type stainless steel cable with a diameter of 0.0625 inches were used. The stainless steel cable was lubricated upon purchase.
@@ -85,6 +94,7 @@ Scematic 1. Experimental Set-up
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/Screen%20Shot%202018-10-24%20at%203.14.28%20PM.png?raw=true"/>
 Schematic 2. Close up of basin of Experimental Set-up
 
+[Center the photos and the captions.]
 #### Strings
 For the string aspect of the experimental apparatus for the recreated experiments, all four strings were re-utilized from the initial experiment. Reference to the "String" subsection of the Initial Experiment for more information on the strings.
 
@@ -119,9 +129,12 @@ This experiment was run in the same way as the recreated experiment (mentioned a
 #### Results and Analysis
 Despite introducing a gradual slope for the water to flow down, the results of this experiment were similar to the results from the recreated experiment. The strings were still hydrophobic so the water avoided flowing down the strings even when on the curved plastic. If the water did flow along the string on the plastic, droplets began to fall off the strings once they left the plastic at the top. The water overflowing from the basin was irregular and often flowed over the curved plastic in paths between the strings.
 
+[It's good that all the details of three experiments were provided. But you can rearrange them to delete the overlap and emphasis the contrast or the advantages of the updated experiment. Also, we expect to see more analysis¸of your result.]
 
 ## Conclusions
 The team experienced difficulties  finding a material for the strings that is both non-biodegradable and will allow the wastewater to stay on the string as it falls over the side of the basin instead of coming off and just falling freely. Experimentation showed that the plastic polymer based string options will not work as a filter media unless somehow altered to make them hydrophilic. The stainless steel based strings show more potential but still seem to require some modifications to the design before they will work with any consistency. The results from experiments suggest that the team's current path may not lead to a successful design and the team should continue to think on how to address the issue of keeping the water on the string.
+
+[Explain why that's important to AguaClara.]
 
 
 ## Future Work
