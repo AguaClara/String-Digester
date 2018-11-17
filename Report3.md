@@ -1,6 +1,6 @@
 # String Digester, Fall 2018
 #### Rosalie Krasnoff, Zsofia Szegletes, Madeline Garell, Antonio Martinez
-#### October 26, 2018
+#### November 19, 2018
 
 [Shuo: Hello String Digester! I'll write my comments in the square brackets like this. Please feel free to delete them when you revise or update your report. ]
 ## Abstract
@@ -27,24 +27,19 @@ The team fabricated a bench top model for flow mapping and conducted several rou
 ### Trickling Filters
 The filter media in a conventional trickling filter is usually a material such as rocks, gravel, shredded PVC bottles, or special pre-formed plastic filter media. Because all these materials are not regularly shaped and wastewater is not distributed exactly equally across the top of the media, the water follows the paths of least resistance and thus preferential flow occurs. Thus, there is wasted space in the filter that remains dry and unused. This leads to a less efficient treatment of organic matter than if all of the space in the filter were utilized. One suggestion from the author is specially manufactured plastic media, like corrugated plastic sheets or even hollow plastic cylinders, to optimize surface area for biofilm formation & allow for free movement of air [(Spuhler 2018).](https://www.sswm.info/node/8215)
 
-There is significant documentation of problems plant operators experience when dealing with trickling filters. One major problem is clogging and ponding occurring within the filter media due to high biomass sloughing rate. In the context of a trickling filter, sloughing refers to when a layer of the microbial growth loses the ability to stay attached and is shed from the filter media and washed away by water flow. If the layer of biofilm is not maintained at a desired thickness, treatment performance will decrease. Clogging results in a decreased efficiency of treatment and if it is not address the quality of the effluent will suffer. Current solutions include flashing with low doses of chlorine to remove deposited solids and kill excess biomass or periodic flooding [(Ali et al. 2017)](http://www.pjoes.com/pdf/26.6/Pol.J.Environ.Stud.Vol.26.No.6.2431-2444.pdf). The team aims avoid the problem altogether by using strings and not having a media that can clog up. It is still an important factor to consider in the design because any small slots or holes that the wastewater travels through in the system will likely clog up with biofilm growth.
+In addition to non-homogenous distribution of wastewater throughout the filter, there is significant documentation of other problems plant operators experience when dealing with trickling filters. One major problem is clogging and ponding occurring within the filter media due to high biomass sloughing rate. In the context of a trickling filter, sloughing refers to when a layer of the microbial growth loses the ability to stay attached and is shed from the filter media and washed away by water flow. If the layer of biofilm is not maintained at a desired thickness, treatment performance will decrease. Clogging results in a decreased efficiency of treatment and if it is not addressed, the quality of the effluent will suffer. Current solutions include flashing with low doses of chlorine to remove deposited solids and kill excess biomass or periodic flooding [(Ali et al. 2017)](http://www.pjoes.com/pdf/26.6/Pol.J.Environ.Stud.Vol.26.No.6.2431-2444.pdf). The team aims avoid the problem altogether by using strings and not having a media that can clog up. It is still an important factor to consider in the design because any small slots or holes that the wastewater travels through in the system will likely clog up with biofilm growth.
 
-Ali et al. states that the most common problem in trickling filters is uncontrolled sloughing, which is often caused by uneven hydraulic loading rates. This can be particularly problematic after storm events when flooding results in very high hydraulic loading. It can also be caused by clogging of the distribution arm and uneven distribution of the influent [(Ali et al. 2017).](http://www.pjoes.com/pdf/26.6/Pol.J.Environ.Stud.Vol.26.No.6.2431-2444.pdf) There is potential for the development of a much-improved distribution system that could help to alleviate this problem.
+Ali and co-authors state that the aforementioned sloughing and clogging is often caused by uneven hydraulic loading rates (HLR). Uneven HLR is caused by clogging of the distribution arm and an uneven distribution of influent. Therefore, proper distribution of wastewater onto the filter media is crucial for optimizing efficiency of treatment. The most common method of influent distribution is rotating distributors. Rotating distributors consist of moving parts that require more maintenance and may be a burden in a plant to operators. Additionally, this system will not serve the string-focused design.
 
-
-Proper distribution of wastewater onto the filter media is crucial for optimizing efficiency of treatment. The most common method of distribution is rotating distributors. Rotating distributors require moving parts that require can more maintenance and may be a burden in a plant to operators. Additionally, this system will not serve the string-focused design.
-
-The less common method of distribution, the fixed distribution system, utilizes lateral and main distribution pipes, which are placed just above the medium and spaced to give uniform distribution of water. The pipes generally have nozzles with a circular hole and a deflector. This method is commonly used with intermittent dosing, meaning flow from the system varies; it starts at a maximum and lowers as the tank empties. Currently, fixed distribution systems are mostly used in deep filter and biotowers (i.e. very tall filters). Since this method is non-rotating, it may be more applicable for the proposed use of a string media.
-
-Unfortunately, these systems are also prone to clogging or blockage issues and similarly challenged by inconsistency of hydraulic load on the surface of the trickling filter. This is another area where there is huge potential for the team to increase the productivity of trickling filters. [(Sperling 2007).](https://www.iwapublishing.com/sites/default/files/ebooks/9781780402123.pdf)
+The less common method of distribution, the fixed distribution system, utilizes lateral and main distribution pipes, which are placed just above the medium and spaced to give uniform distribution of water. The pipes generally have nozzles with a circular hole and a deflector. This method is commonly used with intermittent dosing, meaning flow from the system varies; it starts at a maximum and lowers as the tank empties. Currently, fixed distribution systems are mostly used in deep filter and biotowers (i.e. very tall filters). Since this method is non-rotating, it may be more applicable for the proposed use of a string media. However, both the fixed and rotating distribution systems have an inconsistent hydraulic load of the influent [(Sperling 2007)](https://www.iwapublishing.com/sites/default/files/ebooks/9781780402123.pdf). Therefore, the distribution system is another area where there is huge potential for the team to increase the productivity of trickling filters.
 
 
-Trickling filters have a relatively low residence time, which the team should plan to maintain in future designs. Hinton and Stensel measured residence time per unit length of between 30 and 40 sec/m with dye tests. Their predicted residence times, calculated from laminar flow theory, were closer to about 15 sec/m. The authors attributed this discretion to "dye sorption and desorption by the biofilm." In either case, the residence time for a 5 meter deep trickling filter would be well under 5 minutes. [(Hinton and Stensel 1991).](https://ac.els-cdn.com/0043135491901179/1-s2.0-0043135491901179-main.pdf?_tid=e8d2db22-8e0f-4d3c-a421-352ef74e6f5e&acdnat=1540500088_4808114af12660c061fbd139ac0fbd33)
+Although there are multiple problems with trickling filters, one main advantage of trickling filters is that they have a relatively low residence time. This is a consideration which the team should plan to maintain in future designs. Hinton and Stensel measured residence time per unit length of between 30 and 40 sec/m with dye tests. Their predicted residence times, calculated from laminar flow theory, were closer to about 15 sec/m. The authors attributed this discretion to "dye sorption and desorption by the biofilm." In either case, the residence time for a 5 meter deep trickling filter would be well under 5 minutes [(Hinton and Stensel 1991)](https://ac.els-cdn.com/0043135491901179/1-s2.0-0043135491901179-main.pdf?_tid=e8d2db22-8e0f-4d3c-a421-352ef74e6f5e&acdnat=1540500088_4808114af12660c061fbd139ac0fbd33). This short treatment time makes trickling filters an appealing wastewater treatment option if problems such as uneven HLR and clogging can be minimized.
 
 ###Trickling Filter Alternatives
-Downward Hanging Sponge (DHS) Reactors are another form of treating wastewater. They have a similar mechanism as trickling filters. Water is distributed onto sponges and water trickles down through and on the sponges due to gravity. Biofilm grows within and on the sponge and removes organic nutrients from the wastewater as it trickles down. Onodera and co-authors found the advantages of DHS include: high biomass concentration, high sludge residence time, low hydraulic retention time, small footprint. There are six generations of the DHS reactor. The different generations are different sizes and geometries of sponges including sponge cubes, curtain long triangular sponge strips on a plastic sheet, sponge packing unit in net-like plastic, and the most recent generation: a rigid sponge from a mix of polyurethane and epoxy resin. Polyurethane was shown to support microorganism growth.
+Downward Hanging Sponge (DHS) Reactors are another form of treating wastewater. They have a similar mechanism as trickling filters. Water is distributed onto sponges and water trickles down through and on the sponges due to gravity. Biofilm grows within and on the sponge and removes organic nutrients from the wastewater as it trickles down. Onodera and co-authors found the advantages of DHS include: high biomass concentration, high sludge residence time, low hydraulic retention time, small footprint. There are six generations of the DHS reactor. The different generations are different sizes and geometries of sponges including sponge cubes, curtain long triangular sponge strips on a plastic sheet, sponge packing unit in net-like plastic, and the most recent generation: a rigid sponge from a mix of polyurethane and epoxy resin. Polyurethane was shown to support microorganism growth and retain water [(Onodera 2013)](https://www.ncbi.nlm.nih.gov/pubmed/24291312). In addition, the high porosity of the sponge enhances diffusion of air into the wastewater, and maintains an dissolved oxygen at level higher than necessary for aerobes. This way, no extra aeration is necessary for the system compared to traditional aerobic treatment systems [(M. Tandukar et al., 2005)](https://www.ncbi.nlm.nih.gov/pubmed/16180445).
 
-DHS reactors are an appealing alternative to traditional trickling filters as they overcome some problems. One problem DHS overcomes is a low sludge residence time. This is because micro-organisms can grow both inside and on the surface of the sponge. This also optimizes the space. The DHS was also shown to have lower excess sludge and longer hydraulic retention time (HRT) than the traditional trickling filter. The longer HRT leads to more organic nutrient removal. Onodera and co-authors showed that DHS reactors are a viable secondary treatment post USAB and that sponges have much potential in treating wastewater [(Onodera 2013)](https://www.ncbi.nlm.nih.gov/pubmed/24291312).  
+DHS reactors are an appealing alternative to traditional trickling filters as they overcome some problems. One problem DHS overcomes is a low sludge residence time. This is because micro-organisms can grow both inside and on the surface of the sponge. This also optimizes the space. The DHS was also shown to have lower excess sludge than the traditional trickling filter. Onodera and co-authors showed that DHS reactors are a viable secondary treatment post USAB and that sponges have much potential in treating wastewater [(Onodera 2013)](https://www.ncbi.nlm.nih.gov/pubmed/24291312).  
 
 [Some similiar problems with first draft: Some literature were usually provided at the end of the paragraph. Also, you need more logical transitions to make this part more readable. Some paragraphs are disjointed. ]
 
@@ -65,9 +60,9 @@ The objective of the initial experiment was to determine the amount of water tha
 A scale was secured approximately one meter above a lab bench resting on supports at each corner so the bottom of the scale was left open. There is a hook on the bottom of the scale that measures the weight that is hung from the hook. A single string was attached to the hook on the bottom of the scale and allowed to hang down freely, see Figure 1 below.
 
 <center>
-<img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/scale%20string%20set%20up.png?raw=true" />
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/scale%20string%20set%20up.png?raw=true" width = 300/>
 
-Figure 1. Diagram of experimental appartaus set up for measuring water held on a string.
+Figure 1. Diagram of experimental apparatus set up for measuring water held on a string.
 
 </center>
 
@@ -90,54 +85,66 @@ The failure of this test prompted the team to question whether the water would f
 
 #### Objective of Experiment
 
-The objective of this experiment was to see if the water would run down the new strings using the basin distribution system from Spring 2018 or if all the new strings were unable to
+The objective of this experiment was to see if the water would run down the new strings using the basin distribution system from Spring 2018 or if all the new strings were unable to hold any water at all.
 
 #### Experimental Apparatus
-The experiment from last semester was recreated using the strings as media, rather than the cotton yarn. A basin was filled with water and attached at an elevated surface about 1.5 meters above the lab bench. Strings were then wrapped tightly around the top of the basin and at a metal rod below the basin. The strings were set up so they were evenly spaced and perpendicular to the ground. The amount of a string wrapped on the apparatus as well as the different types of strings wrapped on the apparatus was up to the discretion of the sub-team.
-
-
+The experiment from last semester was recreated using the strings as media, rather than the cotton yarn. A basin was filled with water and attached at an elevated surface about one meter above the lab bench. Strings were then wrapped tightly around the top of the basin and at a metal rod below the basin. The strings were set up so they were evenly spaced and perpendicular to the ground. The amount of a string wrapped on the apparatus as well as the different types of strings wrapped on the apparatus was up to the discretion of the sub-team.
 
 <center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/Screen%20Shot%202018-10-24%20at%203.14.20%20PM.png?raw=true" />
 
-Schematic 1. Experimental Set-up
+Figure 2. Experimental Set-up with water basin.
 
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/Screen%20Shot%202018-10-24%20at%203.14.28%20PM.png?raw=true"/>
-Schematic 2. Close up of basin of Experimental Set-up
+
+Figure 3. Close up view of basin of Experimental Set-up
 
 </center>
 
-[Center the photos and the captions.]
 #### Strings
-For the string aspect of the experimental apparatus for the recreated experiments, all four strings were re-utilized from the initial experiment. Reference to the "String" subsection of the Initial Experiment for more information on the strings.
+The strings from the initial experiment were used again in this experiment. Reference to the "String" subsection of the Initial Experiment for more information on the strings.
 
 #### Procedure
- The desired strings were wrapped around the dispenser and around a bottom pole in one long strand (amount of strings is at discretion of sub-team) and pulled taught. The basin was filled with water using the peristaltic pump to induce overflow. As the water overflows the basin, the water will find a path down. All four of the aforementioned materials were tested in this fashion at varying pumping rates.
+String was wrapped around the dispenser and around a bottom pole in one long strand and pulled taught. The basin was filled with water using the peristaltic pump to induce overflow. As the water overflows the basin, the water will find a path down. All four of the aforementioned materials were tested in this fashion at varying pumping rates.
 
 #### Results and Analysis
-<img src= "Photos/IMG_2524 copy.jpg" />
-Photo 1. Strings on the set-up in the following material from left to right: wire, unrolled twine, nylon string, and twine.
+<center>
+<img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/IMG_2524.png?raw=true" width = 300/>
 
-The water did not like any of the materials. It avoided the strings mostly and flowed over the side of the dispenser at the top. In addition, the water that did get onto the materials formed droplets. The water would also start off flowing down the strings and then spiral off. The cable was hard to experiment on as it didn't conform to the sharp edges of the basin and did not make good contact with the water.
+Figure 4. Strings on the set-up in the following material from left to right: wire, unrolled twine, nylon string, and twine.
+</center>
+
+The water did not "like" any of the materials. It mostly avoided the strings and flowed over the side of the basin at the top, falling freely through the air instead of attaching to a string. In addition, the water that did get onto the materials formed droplets and didn't travel down string in a constant flow (see Figure 4). The minimal water that did attach to the strings initially would then spiral off part way down. The cable was hard to experiment on as it didn't conform to the sharp edges of the basin and did not make good contact with the water.
+
+From these results, the team confirmed the concern that these strings were not inclined to carry water the way the cotton yarn had in Spring 2018. These experiments suggested to the team that the material of the strings might be hydrophilic, or at least water adverse in the sense that they were unwilling to carry water. The team was not yet ready to abandon the idea of using the purchased strings altogether, so an effort was made to modify the system to get the water to go on the strings (and stay on) more often.
 
 
 ### Modified Experiments
-
 #### Objective of Experiment
-
-The team objective on the next experiment was to see if the team could use a modified design of the system to "encourage" the water to attach to and better follow along the string.
+The team objective of the next set of experiments was to see if the team could use a modified design of the system to "encourage" the water to attach to and better follow along the string. The team wanted to observe whether a gradual slope would help the water flow down onto the strings rather then straight down off the sides of the basin.
 
 #### Experimental Apparatus
+Because the water was avoid the strings, the team modified the experimental apparatus to give the water more time and a gentler slope to flow onto the string. Using the set up described in the recreated experiment (Reference to the “Experimental Apparatus” subsection of the Recreated Experiment for more information), the team modified the basin by attaching two plastic arcs, or "wings". This was done by cutting pieces of PVC pipe into quarters to create quarter circles and glueing the arcs onto the sides of the basin so that the basin had downward sloping sides (see Figures 5 and 6). To ensure the basin was watertight, glue was applied to all the seams. To keep the strings vertical when wrapped around the setup, a flat rectangle of acrylic was taped to the bar at bottom of the setup.
 
-Because the strings were hydrophobic, the team modified the experiment to give the water more time to flow onto the string. Using the experimental setup described in the recreated experiment (mentioned above), the team modified the basin by attaching two plastic arcs. This was done by slicing pieces of plastic pipe into quarters to create arcs and glueing the arcs onto the sides of the basin so that the basin had downward sloping sides. To ensure the basin was watertight, glue was applied to all the seams. To keep the strings vertical when wrapped around the setup, a flat rectangle of acrylic was taped to the bar at bottom of the setup. This modified experiment was conducted in order to observe whether a gradual slope would help the water flow down onto the strings rather then straight down off the sides of the basin. This experiment was conducted in a similar way that the recreated experiment (mentioned above) was conducted in. A pump was used to regulate the flow of water into the basin. The team experimented with different flow rates and observed how water flowed or did not flow down the various strings.
+<center>
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/Screen%20Shot%202018-10-26%20at%204.13.49%20PM.png?raw=true" width = 300/>
 
-The same four strings (wire, cable, twine, and nylon string) were used in this experiment. Since the cable was lubricated, the team washed it with soap and water before testing in hopes that this would make it less hydrophobic. The twine was also untwisted and tested as a secondary modification to the experiment.
+Figure 5. Front view of basin with curved sides with twine.
+
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/Screen%20Shot%202018-10-26%20at%204.14.19%20PM.png?raw=true" width = 300/>
+
+Figure 6. Side view of basin with cuved sides ("wings") with cable.
+
+</center>
+
 
 #### Strings
-For the string aspect of the experimental apparatus for the modified experiments, all four strings were re-utilized from the initial experiment. Reference to the "String" subsection of the Initial Experiment for more information on the strings.
+The strings from the initial experiment were used again in this experiment. Reference to the “String” subsection of the Initial Experiment for more information on the strings.
+
+Since the cable was lubricated, the team washed it with soap and water before testing in hopes that this would make it less hydrophobic. The twine was also untwisted and tested as a secondary modification to the experiment.
 
 #### Procedure
-This experiment was run in the same way as the recreated experiment (mentioned above) was run.
+This experiment was run in the same way as previous experiment. A pump was used to regulate the flow of water into the basin. The team experimented with different flow rates and observed how water flowed or did not flow down the various strings. Reference to the “Procedure” subsection of the Recreated Experiment for more information.
 
 #### Results and Analysis
 Despite introducing a gradual slope for the water to flow down, the results of this experiment were similar to the results from the recreated experiment. The strings were still hydrophobic so the water avoided flowing down the strings even when on the curved plastic. If the water did flow along the string on the plastic, droplets began to fall off the strings once they left the plastic at the top. The water overflowing from the basin was irregular and often flowed over the curved plastic in paths between the strings.
@@ -155,6 +162,7 @@ To get a broad sense of the feasibility of the new materials as string media, th
 
 
 #### Strings
+
 For the string aspect of the new materials experiments, eight new materials were purchased to use as the string media. For metal alloy-based materials, four unfinished stainless steel chains that varied in chain type were purchased: a 50-foot, size-12, sash chain, a 10-foot, size-35, sash chain, a 50-foot, size-18, jack chain, and a 50-foot, size-3, bead chain were purchased. For the polymer-based materials, four polymer foams were purchased: a 20-foot, closed-cell construction, chemical-resistant, grey polyethylene cord with a diameter of 0.500 inches, a 36 by 2 inch, open-cell construction, ultra-conformable, teal polyurethane strip with a thickness of 0.500 inches, a 36 by 2 inch, open-cell construction, super-cushioning, white polyurethane sheet with a thickness of 0.5000 inches, and a 24 by 24 inch, open-cell construction, super-absorbent, blue polyurethane sheet with a thickness of 0.2500 inches.
 
 For the remainder of the report, the metal-alloy based strings will be referred to by the following: the size-35 sash chain will be referred to as "big sash chain", the size-12 sash chain will be referred to as "small sash chain", the size-18 jack chain will be referred to as "jack chain", and the size-3 bead chain cable will be referred to as "bead chain". The polymer-based foams will be referred to by the following: the grey polyethylene cord will be referred to as "grey foam", the teal polyurethane foam will be referred to as "teal foam", the white polyurethane foam will be referred to as "white foam", and the blue polyurethane foam will be referred to as "blue foam".
@@ -164,19 +172,39 @@ Following the results of the previous experiments, the scope of what materials o
 #### Procedure
 The desired strings were wrapped around the dispenser and around a bottom pole in one long strand (amount of strings is at discretion of sub-team) and pulled taught for each test in the experiment. The basin was filled with water using the peristaltic pump to induce overflow. As the water overflows the basin, the water will find a path down. All eight of the aforementioned materials were tested in this similar fashion for each test differentiating in basin type at varying pumping rates.
 
+<center>
+<img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/gray%20foam%20strings.jpeg?raw=true" width = 300/>
+
+Figure 5. Grey foam cords on the 3.750-inch basin test apparatus.
+</center>
+
 #### Results and Analysis
 
-|Material|Pump Speed [rpm]|1.5in Basin|3.75in Basin|4.5in Basin|
-|---|---|---|---|---|
-|Jack Chain|25, 50 80, 100|5 strands on each side of basin <br> 25 & 50 rpm: flow down 5/10 chains, flowed down strands closest to wall (basin may not have been level) <br> 80 rpm: flow down 5/10 chains<br> 100 rpm: flow down 7/10 chains, two chains stuck together|10 strands on each side of basin<br>At each speed only 2-4 chains on each side of the basin had consistent water flow<br>Water bridged gaps in chain|10 strands on each side of basin<br>Narrow Base<br>25 rpm: water flowed down one side of basin (basin may not have been level)<br>50 rpm: flow down 10/10 of strands on one side, only 1/10 on the other side <br> 80 rpm: flow down 7-9/10 on one side but 0-2/10 on the other side <br>Widened Base<br>25 rpm: flow down 4/20 strands<br> 50 rpm: flow down 4/20 strands<br> 80 rpm: flow down 5/20 strands|   
-|Bead Chain|25, 50, 80|N/A|   |   |   
-|Sash Chain (size 12, lubricated)|25, 50, 80|   |   |   |
-|Sash Chain (size 35)|25, 50|   |   |   |
-|Teal Sponge|   |   |   |   |
-|Blue Sponge|   |   |   |   |
-|White Sponge|   |   |   |   |
-|Gray Sponge|   |   |   |   |   |
+In the following table, size 16 tubing was used to dispense water into the basins and strands were spaced 5-10 mm apart.
 
+|Material|Pump Speed [rpm]|1.5in Basin|3.75in Basin|4.5in Winged Basin|
+|---|---|---|---|---|
+|Jack Chain|25, 50 80, 100|5 strands on each side of basin<br>25 & 50 rpm: flow down 5/10 chains, flowed down strands closest to wall (basin may not have been level)<br>80 rpm: flow down 5/10 chains<br>100 rpm: flow down 7/10 chains, two chains stuck together|10 strands on each side of basin<br>At each speed only 2-4 chains on each side of the basin had consistent water flow<br>Water bridged gaps in chain|10 strands on each side of basin<br>Narrow Base<br>25 rpm: water flowed down one side of basin (basin may not have been level)<br>50 rpm: flow down 10/10 of strands on one side, only 1/10 on the other side<br>80 rpm: flow down 7-9/10 on one side but 0-2/10 on the other side<br>Widened Base<br>25 & 50 rpm: flow down 4/20 strands<br>80 rpm: flow down 5/20 strands|   
+|Bead Chain|25, 50, 80|Not tested |25 & 50 rpm: 90% of strings hold water and have consistent flow<br>80 rpm: too fast, water starts to jump of strings|Narrow Base: Didn't work well, less strings got wet compared to the wide base or the other setups<br>Wide Base: 50% of strings had flow, didn't work as well as predicted|
+|Small Sash Chain|25, 50, 80|5 strands on each side<br>25 rpm: few strings with flow<br>50 rpm: 50% of chains carrying water, can manipulate with hands to get flow down 90% of strands<br>80 rpm: too fast for this few strings, water drips over edge of basin without adhering to chain|Similar results at each speed, only difference was flowrate down the chains<br>Flow down 20% of strands<br>Once wetted more chains carried water|Little to no flow down strands<br>Water flows to end of wings then drips off|
+|Big Sash Chain|25, 50|2 strands on each side of basin<br>25 rpm: chain is too thick for our setup so water spills over basin sides<br>Flow down strands if water is dispensed directly onto chain<br>50 rpm: water spills over sides of basin|Not tested: Chain is not long enough to have a different setup|Works slightly better than straight sided basin<br>Would need a different distribution method to direct water directly onto the chain|
+
+Based on these initial tests, the bead chain on the the 3.75in basin and the jack chain on the 4.5in winged basin had the most promising results. At multiple speeds, these two setups resulted in the highest number of strands with consistent flow and the team was able to observe water  filling the gaps in the chains; the water filled the holes in the jack chain and filled the gaps between the beads on the bead chain. These results demonstrate the feasibility of using chains as strands in a string digester. Further tests with these chains, possibly varying in thickness, length, and pump speed would be helpful in determining an optimal setup to treat water.
+
+|Foam|Results|
+|---|---|
+|Teal Foam|Using the 3.750 inch basin, the foam was cut into 0.7500-inch square cross sections, duct-taped two pieces together at the top, and had tape in middle of basin. Two foam strings were wrapped around (2 strings on each side), water was convex in the dispenser and water flowed over side and on top of sponge. The foam strings worked slightly better when they were pre-wet, but still, a large amount of water was flowing on the outside.|
+|Blue Foam|Using the 1.500 inch basin, the foam was cut into 0.2500-inch square cross sections, and were let hang loosely down. Four foam strings were on each side, with strings touching. There was no water tension in basin, and water was concave; water ran down and saturated all the foam strings. There was no need to pre-wet, as most of the water was running through the foam and not on the sides. The team was able to see that the water was flowing through the center of the foam as well as running down the outside. The foam strings were tested at several different speeds, and exhibited the same results at each speed.|
+|White Foam|Using the 3.750 inch basin, the foam was cut into 0.7500-inch square cross sections, taped at top and had two strands on each side similar to the set-up for the teal strings. The water droplets were absorbed to foam strings: water was concave in the dispenser, and water flowed on outside and down in all of the strings. There was no need to pre-wet, but it was difficult to tell if water was only flowing down the outside of the strands or if it was also flowing through the center. Strands were very heavy after testing, which indicated that a lot of water had been absorbed in the center of the strand.|
+|Grey Foam|Using the 3.750 inch basin, the initial tests (without modifying the foam) did not work, as water was not absorbed by foam and did not like flowing down the strands. The cords were then cut in half (inside of strand seemed more absorbent), and were wrapped around, tried with both flat side (inside) and rounded side towards the dispenser. Water formed droplets on material, but did not absorb much. Pre-wetting did not help, and water flowed over edge of dispenser and not onto the gray sponge.|
+
+For the polymer-based foams, the foams were not tested on each of the apparatuses in this experiment due to the lack of needed length. Aside from the grey foam, each of the foams had to be physically altered into a string, and upon doing so, it left the team with little length to work with. Thus, the foams were used on the testing apparatus that allowed for a feasible amount of wrapping with good spacing in between so that valid data could be collected.
+
+Based on the data collected, it is clear that the blue foam worked best out of the foams purchased. The blue foam required no manipulation such as pre-wetting, and were able to retain a large amount of water. The teal and white foam also worked well, but needed some sort of manipulation to better the water flow. Furthermore, the grey foam did not work at all, as no water was able to flow down the strings. The grey foam is also the only closed-cell constructed foam, thus making the foam moisture resistant. Knowing this beforehand, the results of the grey foam were somewhat expected.
+
+Looking at the data for foams, it shows that foams could be a feasible media for the string. Besides the grey foam, the foams seemed to retain water easily, and there was little to no water flowing on the outside of the foams. The blue foam seemed to be the most promising, as it was easy to work with after physical altercation into strings. The foam was exhibiting similar results at various pumping speeds, thus minimizing the weight of how pumping speed can affect water flow on the strings.
+
+Furthermore, the open-cell construction foams exhibited better results than the closed-cell construction foam. The closed-cell construction foam built water tension on the basin, and was not able to carry the water as wanted. Based on the data collected, the idea of using closed-cell construction foams as string media could be ruled out, and research on open-cell construction foams should be furthered.
 
 [It's good that all the details of three experiments were provided. But you can rearrange them to delete the overlap and emphasis the contrast or the advantages of the updated experiment. Also, we expect to see more analysis¸of your result.]
 
@@ -187,7 +215,18 @@ The team experienced difficulties finding a material for the strings that is bot
 
 
 ## Future Work
-In the next few weeks, the team will continue to investigate potential string material that will allow for proper treatment to occur. In terms of how exactly the team will do this, more thought and brainstorming is needed. One potential avenue would be to inoculate the string with biofilm before putting it in the system with the basin in the hopes that the presence of biofilm will make the surface of the string more hydrophilic and that water will not "fall off" the string. If research with the string method continues to not show any promising results, the team may move away from strings and using surface tension. A possible alternative method would be using steeply slanted, quite thin plates as the media surface. This would use gravity to keep the water on the surface instead of relying on surface tension and cohesion. The team still sees the potential for a trickling filter-influenced design for wastewater treatment in a future AguaClara plant, but the inclusion of strings as a media is not yet certain.
+Describe your plan of action for the next several weeks of research. Detail the next steps for this team. How can AguaClara use what you discovered for future projects? Your suggestions for challenges for future teams are most welcome. Should research in this area continue?
+
+
+
+In the next couple of weeks, the team will
+
+try to evaluate which of the new options is the best and continue to test if it is viable for it to actually work in a trickling filter
+
+
+
+
+ continue to investigate potential string material that will allow for proper treatment to occur. In terms of how exactly the team will do this, more thought and brainstorming is needed. One potential avenue would be to inoculate the string with biofilm before putting it in the system with the basin in the hopes that the presence of biofilm will make the surface of the string more hydrophilic and that water will not "fall off" the string. If research with the string method continues to not show any promising results, the team may move away from strings and using surface tension. A possible alternative method would be using steeply slanted, quite thin plates as the media surface. This would use gravity to keep the water on the surface instead of relying on surface tension and cohesion. The team still sees the potential for a trickling filter-influenced design for wastewater treatment in a future AguaClara plant, but the inclusion of strings as a media is not yet certain.
 
 ## Bibliography
 Ali et al. (2017). "Identification and Elucidation of the Designing and Operational Issues of Trickling Filter Systems for Wastewater Treatment." *Polish Journal of Environmental Studies.* 26(6), 2431-2444.
@@ -196,8 +235,12 @@ Donlan, Rodney. (2002). "Biofilms: Microbial Life on Surfaces." *Emerging Infect
 
 Hinton, Steven. David, Stensel. (1991). "Experimental observation of trickling filter hydraulics." *Water Research.* (pp. 1389-139).
 
+Onodera et al. (2014). "Development of a sixth-generation down-flow hanging sponge (DHS) reactor using rigid sponge media for post-treatment of UASB treating municipal sewage." *Bioresource Technology.* 152, 93-100.
+
 Pedersen, Karsten. (1990). "Biofilm development on stainless steel and PCV surfaces in drinking water" *Water Research.* (pp. 239-243).
 
 Sperling, Marcos von (2007). *Activated Sludge and Aerobic Biofilm Reactors.* (pp. 271-283) London: IWA Publishing.
 
 Spuhler, Dorothee; Eawag (Swiss Federal Institute of Aquatic Science and Technology). *Trickling Filter.*
+
+Tandukar et al. (2005). "A low-cost municipal sewage treatment system with a combination of UASB and the "fourth-generation" downflow hanging sponge reactors." *Water Science Technology.* 52(1-2): 323-329.
