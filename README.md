@@ -23,4 +23,4 @@ Determine if ideas about using strings as media for trickling filter based desig
 
 [Final Presentation](https://docs.google.com/presentation/d/1_vMpeAHLTWiyMqMjaBWWG4nJNSslfR_e8YygcmiFHNs/edit#slide=id.g11134c9c49_0_0)
 
-[Final Report](https://github.com/AguaClara/Trickling-Filter/blob/master/TricklingFilter_Final_Report.md)
+[Final Report](https://github.com/AguaClara/String-Digester/blob/master/Spring%20'18/TricklingFilter_Final_Report.md)
