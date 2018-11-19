@@ -36,7 +36,7 @@ The less common method of distribution, the fixed distribution system, utilizes 
 
 Although there are multiple problems with trickling filters, one main advantage of trickling filters is that they have a relatively low residence time. This is a consideration which the team should plan to maintain in future designs. Hinton and Stensel measured residence time per unit length of between 30 and 40 sec/m with dye tests. Their predicted residence times, calculated from laminar flow theory, were closer to about 15 sec/m. The authors attributed this discretion to "dye sorption and desorption by the biofilm." In either case, the residence time for a 5 meter deep trickling filter would be well under 5 minutes [(Hinton and Stensel 1991)](https://ac.els-cdn.com/0043135491901179/1-s2.0-0043135491901179-main.pdf?_tid=e8d2db22-8e0f-4d3c-a421-352ef74e6f5e&acdnat=1540500088_4808114af12660c061fbd139ac0fbd33). This short treatment time makes trickling filters an appealing wastewater treatment option if problems such as uneven HLR and clogging can be minimized.
 
-###Trickling Filter Alternatives
+### Trickling Filter Alternatives
 Downward Hanging Sponge (DHS) Reactors are another form of treating wastewater. They have a similar mechanism as trickling filters. Water is distributed onto sponges and water trickles down through and on the sponges due to gravity. Biofilm grows within and on the sponge and removes organic nutrients from the wastewater as it trickles down. Onodera and co-authors found the advantages of DHS include: high biomass concentration, high sludge residence time, low hydraulic retention time, small footprint. There are six generations of the DHS reactor. The different generations are different sizes and geometries of sponges including sponge cubes, curtain long triangular sponge strips on a plastic sheet, sponge packing unit in net-like plastic, and the most recent generation: a rigid sponge from a mix of polyurethane and epoxy resin. Polyurethane was shown to support microorganism growth and retain water [(Onodera 2013)](https://www.ncbi.nlm.nih.gov/pubmed/24291312). In addition, the high porosity of the sponge enhances diffusion of air into the wastewater, and maintains an dissolved oxygen at level higher than necessary for aerobes. This way, no extra aeration is necessary for the system compared to traditional aerobic treatment systems [(M. Tandukar et al., 2005)](https://www.ncbi.nlm.nih.gov/pubmed/16180445).
 
 DHS reactors are an appealing alternative to traditional trickling filters as they overcome some problems. One problem DHS overcomes is a low sludge residence time. This is because micro-organisms can grow both inside and on the surface of the sponge. This also optimizes the space. The DHS was also shown to have lower excess sludge than the traditional trickling filter. Onodera and co-authors showed that DHS reactors are a viable secondary treatment post USAB and that sponges have much potential in treating wastewater [(Onodera 2013)](https://www.ncbi.nlm.nih.gov/pubmed/24291312).  
@@ -90,7 +90,7 @@ The objective of this experiment was to see if the water would run down the new 
 #### Experimental Apparatus
 The experiment from last semester was recreated using the strings as media, rather than the cotton yarn. A basin was filled with water and attached at an elevated surface about one meter above the lab bench. Strings were then wrapped tightly around the top of the basin and at a metal rod below the basin. The strings were set up so they were evenly spaced and perpendicular to the ground. The amount of a string wrapped on the apparatus as well as the different types of strings wrapped on the apparatus was up to the discretion of the sub-team.
 
-<center>
+<div style = "text-align:center">
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/Screen%20Shot%202018-10-24%20at%203.14.20%20PM.png?raw=true" />
 
 Figure 2. Experimental Set-up with water basin.
@@ -99,7 +99,7 @@ Figure 2. Experimental Set-up with water basin.
 
 Figure 3. Close up view of basin of Experimental Set-up
 
-</center>
+<div style = "text-align:left">
 
 #### Strings
 The strings from the initial experiment were used again in this experiment. Reference to the "String" subsection of the Initial Experiment for more information on the strings.
