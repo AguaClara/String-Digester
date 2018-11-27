@@ -7,9 +7,8 @@
 ## Abstract
 The string digester team’s objective for the Fall 2018 semester was to continue research on designing a new wastewater treatment system to eliminate problems associated with current trickling filters. To improve consistency in wastewater treatment, experiments were conducted using strings to optimize surface area. The long-term goal of this team is to create an efficient wastewater treatment system that will perform secondary and tertiary treatment on domestic wastewater. Initial tests involving different string materials, biofilm growth, and string spacing helped define design parameters for the construction of a functioning string digester.
 
-
 ## Introduction
-The String Digester sub-team was created in response to the remaining   need for secondary and tertiary wastewater treatment after treatment from the Upflow Anaerobic Sludge Blanket (UASB) reactor. Looking to improve on the traditional industrial-scale trickling filter design, previous work identified an issue with the process: there is a substantial amount of unused space in almost all treatment units due to preferential flow of wastewater. The primary objective of this sub-team is to continue to develop a novel design for a highly efficient trickling filter with a minimized footprint. Following the conclusion from Spring 2018 that strings would be a viable trickling media, the team decided to focus this semester's research on trying to determine what strings would work the best and whether the current concept is still valid. With this work, the team will work towards assessing the feasibility of a modified trickling filter unit in future AguaClara treatment plant while striving to make significant technological improvements on industry-standard applications for the system.
+The String Digester sub-team was created in response to the remaining need for secondary and tertiary wastewater treatment after treatment from the Upflow Anaerobic Sludge Blanket (UASB) reactor. Looking to improve on the traditional industrial-scale trickling filter design, previous work identified an issue with the process: there is a substantial amount of unused space in almost all treatment units due to preferential flow of wastewater. The primary objective of this sub-team is to continue to develop a novel design for a highly efficient trickling filter with a minimized footprint. Following the conclusion from Spring 2018 that strings would be a viable trickling media, the team decided to focus this semester's research on trying to determine what strings would work the best and whether the current concept is still valid. With this work, the team will work towards assessing the feasibility of a modified trickling filter unit in future AguaClara treatment plants while striving to make significant technological improvements on industry-standard applications for the system.
 
 Research dealing with trickling filter wastewater treatment was ubiquitous in the 1970's and 1980's, however, research on this method of treatment significantly decreased in following decades. Research on secondary wastewater treatment, performed by trickling filters previously, shifted more towards processes higher in energy consumption. Because of AguaClara's mission and the regions a future wastewater plant would serve, trickling filters are a promising technology due to their low-energy requirements. Maintaining will be a priority in the team's future design. With modification, the trickling filter treatment system carries much potential to be implemented in areas of the world in which capital expenditure is a major barrier for employing traditional secondary wastewater treatment (aeration tanks).
 
@@ -19,11 +18,8 @@ In Spring 2018, the Trickling Filter team spent a substantial amount of time doi
 
 The team fabricated a bench top model for flow mapping and conducted several rounds of tests to determine the distribution of flow in trickling filters with small rock and marble media. From these experiments, the team noticed that there were significant portions of the media that never got wet and thus concluded that a substantial volume of the trickling filter was unused due to preferential flow. From these tests the team also showed that a uniform packing material is superior to an irregularly shaped material. In an effort to both maximize the surface area to volume ratio and to minimize the footprint of the system by not wasting space, the team shifted focus towards strings as a possible filter media. This concept led the team to start with very preliminary testing of a system that was essentially an overflowing basin with strings submerged at the top, inside the basin, and draped over the sides to guide water down to a collection bucket below. In these initial tests, the team members observed that the water did in fact follow the along strings when it overflowed. From these observations, the String Digester team began to design more rigorous tests on the concept and planned to investigate whether using strings in a wastewater treatment system is truly viable.
 
-[You are encouraged to provide some useful links to the previous work or some graphs to show the results.]
+[Spring 2018 Final Report](https://github.com/AguaClara/String-Digester/blob/master/Spring%20'18/TricklingFilter_Final_Report.md)
 
-[Response to comment: the previous work was very preliminary and no substantial or relevant data or graphs exist.]
-
-[**Response to response: a hyperlink to last semester's final report would suffice and act as a citation**]
 
 ## Literature Review
 ### Trickling Filters
@@ -69,11 +65,9 @@ Figure 1. Diagram of experimental apparatus set up for measuring mass of water h
 </center>
 
 #### 1.3 Material: Strings
-Because the focus of the experiment was on the properties of string, the team tested several types. The team chose four strings varying in non-biodegradable material, structure, and diameter. For polymer-based materials: a polypropylene, twine string with a diameter of 0.0500 inches and a nylon, monofilament string with a diameter of 0.0220 inches were tested. For metal alloy material: a 304-type stainless steel wire with a diameter of 0.0200 inches and a 304-type stainless steel cable with a diameter of 0.0625 inches were tested. The stainless steel cable was lubricated upon purchase. [**with what?**]
-
-For the remainder of the report, the following strings will be referred to by the following names: polypropylene twine will be referred to as "twine", the nylon monofilament string will be referred to as "nylon string", the stainless steel wire will be referred to as "wire", and the stainless steel cable will be referred to as "cable". [**good clarification!**]
-
 The strings were selected based on their ability to withstand a wastewater treatment system. The scope of the potential materials for strings was immediately narrowed to non-biodegradable materials due to the team's realization that biodegradable strings would not be durable in a system that continuously covered them in wastewater and would not be able to support the necessary biofilm without degrading. Metal alloys and polymer-based materials were the most accessible materials to obtain, so it was decided to obtain equal amount of strings in each. The structure and diameter of the strings was differentiated in each material group due to the notion that surface texture and/or diameter of the strings could have an effect on water flow and the team's desire to test this effect.
+
+For experiments 1,2, and 3 the same set of strings were used, see Manual for detailed description of strings.
 
 #### 1.4 Procedure
 A narrow tube was connected to a peristaltic pump and water was pumped at a known rate. The end of the tube was directed onto the top of the string hanging from the scale, in an attempt to allow water to flow onto and down the hanging string. The scale was zeroed before the experiment started so the scale would just measure the weight of the water on the string. The idea was to get water flowing on the string and then, while continuously pumping water onto the string, measure the weight of the water on the string at a moment in time. From this measurement, the team would be able to quantify how much water a particular string could hold per unit length.
@@ -90,7 +84,7 @@ The failure of this test prompted the team to question whether the water would f
 The objective of this experiment was to see if the water would run down the new non-biodegradable strings using the basin distribution system from Spring 2018 or if all the new strings were unable to hold water.
 
 #### 2.2 Experimental Apparatus
-The experiment from last semester was recreated using the non-biodegradable strings as media, rather than the cotton yarn. A basin was filled with water and attached at an elevated surface about one meter above the lab bench. Strings were then wrapped tightly around the top of the basin and at a metal rod below the basin. The strings were set up so they were evenly spaced and perpendicular to the ground. The amount of a string wrapped on the apparatus as well as the different types of strings wrapped on the apparatus was up to the discretion of the sub-team. [**was this uniform or standardized? Or was it determined not to matter? This sentence phrased like this raises more questions than it answers**]
+The experiment from last semester was recreated using the non-biodegradable strings as media, rather than the cotton yarn. A basin was filled with water and attached at an elevated surface about one meter above the lab bench. Strings were then wrapped tightly around the top of the basin and at a metal rod below the basin. The strings were set up so they were evenly spaced and perpendicular to the ground. The amount of a string wrapped on the apparatus were spaced somewhat uniformly, limited by the length of string available. The team believes spacing is important for maximizing a system's treatment capacity but spacing was not tested in experiments and therefore keep as consistent as possible.
 
 <div style = "text-align:center">
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/Screen%20Shot%202018-10-24%20at%203.14.20%20PM.png?raw=true" />
@@ -104,10 +98,10 @@ Figure 3. Close up view of basin of Experimental Set-up
 <div style = "text-align:left">
 
 #### 2.3 Material: Strings
-The strings from the initial experiment were used again in this experiment. Reference to subsection 1.3 of the Initial Experiment for more information on the strings.
+****REMOVE?????????????
 
 #### 2.4 Procedure
-String was wrapped around the dispenser and around a bottom pole in one long strand and pulled taught. The basin was filled with water using the peristaltic pump to induce overflow. As the water overflows the basin, the water will find a path down. All four of the aforementioned materials were tested in this fashion at varying pumping rates.
+String was wrapped around the dispenser and around a bottom pole in one long strand and pulled taught. The basin was filled with water using the peristaltic pump to induce overflow. As the water overflows the basin, the team observed whether or not the overflowing water followed a path down the string as desired.
 
 #### 2.5 Results and Analysis
 <center>
@@ -118,15 +112,14 @@ Figure 4. Strings on the set-up in the following material from left to right: wi
 
 The water did not flow along any of the materials. It mostly avoided the strings and flowed over the side of the basin at the top, falling freely through the air instead of attaching to a string. In addition, the water that did get onto the materials formed droplets and didn't travel down string in a constant flow (see Figure 4). The minimal water that did attach to the strings initially would then spiral off part way down. The cable was hard to experiment on as it didn't conform to the sharp edges of the basin and did not make good contact with the water.
 
-From these results, the team confirmed the concern that these strings were not inclined to carry water the way the cotton yarn had in Spring 2018. These experiments suggested to the team that the material of the strings might be hydrophilic, or at least water adverse in the sense that they were unwilling to carry water. The team was not yet ready to abandon the idea of using the purchased strings altogether, so an effort was made to modify the system to get the water to go on the strings (and stay on) more often. [**consider: "an effort was made to modify the system to make the string more favorable for the overflowing water"**]
-
+From these results, the team confirmed the concern that these strings were not inclined to carry water the way the cotton yarn had in Spring 2018. These experiments suggested to the team that the material of the strings might be hydrophilic, or at least water adverse in the sense that they were unwilling to carry water. The team was not yet ready to abandon the idea of using the purchased strings altogether, so an effort was made to modify the system to  make the string more favorable for the overflowing water.
 
 ### 3. Modified Experiments
 #### 3.1 Objective of Experiment
 The team objective of the next set of experiments was to see if the team could use a modified design of the system to "encourage" the water to attach to and better follow along the string. The team wanted to observe whether a gradual slope would help the water flow down onto the strings rather then straight down off the sides of the basin.
 
 #### 3.2 Experimental Apparatus
-Because the water was avoiding the strings, the team modified the experimental apparatus to give the water more time and a gentler slope to flow onto the string. Using the set up described in the recreated experiment (Reference to the “Experimental Apparatus” subsection of the Recreated Experiment for more information), the team modified the basin by attaching two plastic arcs, or "wings". This was done by cutting pieces of PVC pipe into quarters to create quarter circles and gluing the arcs onto the sides of the basin so that the basin had downward sloping sides (see Figures 5 and 6). To ensure the basin was watertight, glue was applied to all the seams. To keep the strings vertical when wrapped around the setup, a flat rectangle of acrylic was taped to the bar at bottom of the setup. [**is there a picture of the bottom of the set-up?**]
+Because the water was avoiding the strings, the team modified the experimental apparatus to give the water more time and a gentler slope to flow onto the string. Using the setup described in the recreated experiment (Reference to the “Experimental Apparatus” subsection of the Recreated Experiment for more information), the team modified the basin by attaching two plastic arcs, or "wings". This was done by cutting pieces of PVC pipe into quarters to create quarter circles and gluing the arcs onto the sides of the basin so that the basin had downward sloping sides (see Figures 5 and 6). To ensure the basin was watertight, glue was applied to all the seams. To keep the strings vertical when wrapped around the setup, a flat rectangle of acrylic was taped to the bar at bottom of the setup (see Figure 7).
 
 <center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/Screen%20Shot%202018-10-26%20at%204.13.49%20PM.png?raw=true" width = 300/>
@@ -135,13 +128,16 @@ Figure 5. Front view of basin with curved sides with twine.
 
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/Screen%20Shot%202018-10-26%20at%204.14.19%20PM.png?raw=true" width = 300/>
 
-Figure 6. Side view of basin with cuved sides ("wings") with cable.
+Figure 6. Side view of basin with curved sides ("wings") with cable.
 
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/bottomofsetup.jpg?raw=true" width = 300/>
+
+Figure 7. Bottom view of basin with curved sides ("wings").
 </center>
 
 
 #### 3.3 Material: Strings
-The strings from the initial experiment were used again in this experiment. Reference to subsection 1.3 of the Initial Experiment for more information on the strings.
+REMOVE?
 
 Since the cable was lubricated, the team washed it with soap and water before testing in hopes that this would make it less hydrophobic. The twine was also untwisted and tested as a secondary modification to the experiment.
 
@@ -167,26 +163,24 @@ To get a broad sense of the feasibility of the new materials as string media, th
 
 #### 4.3 Material: Chain and Foam
 
-[**perhaps rename this section chains and foam or new strings or something more specific, also pictures of the materials**]
+in manual
 
-For the string aspect of the new materials experiments, eight new materials were purchased to use as the string media. For metal alloy-based materials, four unfinished stainless steel chains that varied in chain type were purchased: a 50-foot, size-12, sash chain, a 10-foot, size-35, sash chain, a 50-foot, size-18, jack chain, and a 50-foot, size-3, bead chain were purchased. For the polymer-based materials, four polymer foams were purchased: a 20-foot, closed-cell construction, chemical-resistant, grey polyethylene cord with a diameter of 0.500 inches, a 36 by 2 inch, open-cell construction, ultra-conformable, teal polyurethane strip with a thickness of 0.500 inches, a 36 by 2 inch, open-cell construction, super-cushioning, white polyurethane sheet with a thickness of 0.5000 inches, and a 24 by 24 inch, open-cell construction, super-absorbent, blue polyurethane sheet with a thickness of 0.2500 inches.
+Following the results of the previous experiments, the scope of what materials of string to use in this set of experiments was immediately narrowed to hydrophilic, non-biodegradable strings. The polymer-based strings were scrapped as they exhibited no hydrophilic property in the set of experiments, so it was decided to switch over from monofilaments, to a more porous material. Thus, the team decided to look into polymer-based foams, as they would most likely exhibit hydrophilic properties and retain the non-biodegradability. Furthermore, the metal-alloy based strings appeared as if they could work in previous experiments but were inhibited by the lubricant left on the chains after manufacturing. Thus, the team decided to purchase chains that were unfinished to ensure there was no finish left on the chain. Finally, the structure and diameter of the strings was differentiated in each material group due to the notion that surface texture and/or diameter of the strings could have a strong effect on water flow.
 
-For the remainder of the report, the metal-alloy based strings will be referred to by the following: the size-35 sash chain will be referred to as "big sash chain", the size-12 sash chain will be referred to as "small sash chain", the size-18 jack chain will be referred to as "jack chain", and the size-3 bead chain cable will be referred to as "bead chain". The polymer-based foams will be referred to by the following: the grey polyethylene cord will be referred to as "grey foam", the teal polyurethane foam will be referred to as "teal foam", the white polyurethane foam will be referred to as "white foam", and the blue polyurethane foam will be referred to as "blue foam".
 
-Following the results of the previous experiments, the scope of what materials of string to use in this set of experiments was immediately narrowed to hydrophilic, non-biodegradable strings. The polymer-based strings were scrapped as they exhibited no hydrophilic property in the set of experiments, so it was decided to switch over from monofilaments, to a material more porous. Thus, the team decided to look into polymer-based foams, as they would most likely exhibit hydrophilic properties and retain the non-biodegradability. Furthermore, the metal-alloy based strings appeared as if they could work in previous experiments but were inhibited by the lubricant left on the chains after manufacturing. Thus, the team decided to purchase chains that were unfinished to ensure there was no finish left on the chain. Finally, the structure and diameter of the strings was differentiated in each material group due to the notion that surface texture and/or diameter of the strings could have a strong effect on water flow.
 
 #### 4.4 Procedure
-The desired strings were wrapped around the dispenser and around a bottom pole in one long strand (amount of strings is at discretion of sub-team) [**see previous comment about this wording!**] and pulled taught for each test in the experiment. The basin was filled with water using the peristaltic pump to induce overflow. As the water overflows the basin, the water will find a path down. All eight of the aforementioned materials were tested in this similar fashion for each test differentiating in basin type at varying pumping rates.
+The desired strings were wrapped around the dispenser and around a bottom pole in one long strand and pulled taught for each test in the experiment. The basin was filled with water using the peristaltic pump to induce overflow. As the water overflows the basin, the water will find a path down. All eight of the aforementioned materials were tested in this similar fashion for each test differentiating in basin type at varying pumping rates.
 
 <center>
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/gray%20foam%20strings.jpeg?raw=true" width = 300/>
 
-Figure 5. Grey foam cords on the 3.750-inch basin test apparatus.
+Figure 8. Grey foam cords on the 3.750-inch basin test apparatus.
 </center>
 
 #### 4.5 Results and Analysis
 
-In the following table, size 16 tubing was used to dispense water into the basins and strands were spaced 5-10 mm apart.
+In the following table the team documented the observations made during each test with the various chains. Size 16 tubing was used to dispense water into three basins of different widths (1.75in, 3.75in, and 4.5in) and the chains were setup with spacing of 5-10mm between each strand. To observe the effects of different flow rates, three different pump speeds (25, 50, and 80 rpm) were tested with each chain and basin combination. The 4.5in winged basin was tested in two ways, with a narrow base and with a widened base, to test the effects of angled strings.
 
 [**Consider a table heading to briefly describe what each column means**]
 
@@ -222,6 +216,7 @@ The team at first experienced difficulties finding a material for the strings th
 
 Creating a rapid but efficient string digester would be impactful for the future of AguaClara's involvement in wastewater treatment. String digesters have the potential to greatly decrease the wastewater processing time and also decrease the organic solutes in the effluent. By maximizing potential surface area for the microbes to grow on using strings and sponges, thereby allowing for more microbial digestion of the water, some traditional trickling filter problems would be solved or minimized. Effluent from the UASB will require further treatment and the team believes that a string digester could provide the necessary treatment with minimal energy requirements.
 
+
 ## Future Work
 
 In the next week, the team will work to identify which of the new materials are the most promising for the project's success. In terms of how exactly the team will do this, more thought and brainstorming is needed as there are many factors that contribute to what makes a material better than others for the filter.
@@ -247,3 +242,48 @@ Sperling, Marcos von (2007). *Activated Sludge and Aerobic Biofilm Reactors.* (p
 Spuhler, Dorothee; Eawag (Swiss Federal Institute of Aquatic Science and Technology). *Trickling Filter.*
 
 Tandukar et al. (2005). "A low-cost municipal sewage treatment system with a combination of UASB and the "fourth-generation" downflow hanging sponge reactors." *Water Science Technology.* 52(1-2): 323-329.
+
+
+# Manual
+
+## Special Components
+
+### String
+Because the focus of the experiment was on the properties of string, the team tested several types. The team chose four strings varying in non-biodegradable material, structure, and diameter. For polymer-based materials: a polypropylene, twine string with a diameter of 0.0500 inches and a nylon, monofilament string with a diameter of 0.0220 inches were tested. For metal alloy material: a 304-type stainless steel wire with a diameter of 0.0200 inches and a 304-type stainless steel cable with a diameter of 0.0625 inches were tested. The stainless steel cable was lubricated upon purchase with an oily substance that was not water soluble.
+
+
+In this report, the following strings will be referred to by the following names: polypropylene twine will be referred to as "twine", the nylon monofilament string will be referred to as "nylon string", the stainless steel wire will be referred to as "wire", and the stainless steel cable will be referred to as "cable".
+
+<center>
+<img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/polymerstringz.jpg?raw=true" width = 300/>
+
+Figure 9. The polymer-based strings, twine (left) and nylon string (right).
+</center>
+
+<center>
+<img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/wireandcable.jpg?raw=true" width = 300/>
+
+Figure 10. The metal-alloy-based strings, cable (left) and wire (right).
+</center>
+
+### Chain
+For metal alloy-based materials, four unfinished stainless steel chains that varied in chain type were purchased: a 50-foot, size-12, sash chain, a 10-foot, size-35, sash chain, a 50-foot, size-18, jack chain, and a 50-foot, size-3, bead chain were purchased.
+
+In this report, the metal-alloy based strings will be referred to as the following: the size-35 sash chain will be referred to as "big sash chain", the size-12 sash chain will be referred to as "small sash chain", the size-18 jack chain will be referred to as "jack chain", and the size-3 bead chain cable will be referred to as "bead chain".
+
+<center>
+<img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/chainzz.jpg?raw=true" width = 300/>
+
+Figure 11. The stainless steel chains from left to right: small sash chain, bead chain, big sash chain, and jack chain.
+</center>
+
+### Foam
+For the polymer-based materials, four polymer foams were purchased: a 20-foot, closed-cell construction, chemical-resistant, grey polyethylene cord with a diameter of 0.500 inches, a 36 by 2 inch, open-cell construction, ultra-conformable, teal polyurethane strip with a thickness of 0.500 inches, a 36 by 2 inch, open-cell construction, super-cushioning, white polyurethane sheet with a thickness of 0.5000 inches, and a 24 by 24 inch, open-cell construction, super-absorbent, blue polyurethane sheet with a thickness of 0.2500 inches.
+
+The polymer-based foams will be referred to as the following: the grey polyethylene cord will be referred to as "grey foam", the teal polyurethane foam will be referred to as "teal foam", the white polyurethane foam will be referred to as "white foam", and the blue polyurethane foam will be referred to as "blue foam".
+
+<center>
+<img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/foamz.jpg?raw=true" width = 300/>
+
+Figure 12. The polymer-based foams from left to right: white foam, teal foam, blue foam, and grey foam.
+</center>
