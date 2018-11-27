@@ -87,10 +87,10 @@ The failure of this test prompted the team to question whether the water would f
 
 #### 2.1 Objective of Experiment
 
-The objective of this experiment was to see if the water would run down the new [**non-biodegradable**] strings using the basin distribution system from Spring 2018 or if all the new strings were unable to hold [any water at all.] [**replace with "water"**]
+The objective of this experiment was to see if the water would run down the new non-biodegradable strings using the basin distribution system from Spring 2018 or if all the new strings were unable to hold water.
 
 #### 2.2 Experimental Apparatus
-The experiment from last semester was recreated using the strings as media, rather than the cotton yarn. A basin was filled with water and attached at an elevated surface about one meter above the lab bench. Strings were then wrapped tightly around the top of the basin and at a metal rod below the basin. The strings were set up so they were evenly spaced and perpendicular to the ground. The amount of a string wrapped on the apparatus as well as the different types of strings wrapped on the apparatus was up to the discretion of the sub-team. [**was this uniform or standardized? Or was it determined not to matter? This sentence phrased like this raises more questions than it answers**]
+The experiment from last semester was recreated using the non-biodegradable strings as media, rather than the cotton yarn. A basin was filled with water and attached at an elevated surface about one meter above the lab bench. Strings were then wrapped tightly around the top of the basin and at a metal rod below the basin. The strings were set up so they were evenly spaced and perpendicular to the ground. The amount of a string wrapped on the apparatus as well as the different types of strings wrapped on the apparatus was up to the discretion of the sub-team. [**was this uniform or standardized? Or was it determined not to matter? This sentence phrased like this raises more questions than it answers**]
 
 <div style = "text-align:center">
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/Screen%20Shot%202018-10-24%20at%203.14.20%20PM.png?raw=true" />
