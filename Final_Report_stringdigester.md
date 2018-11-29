@@ -249,6 +249,12 @@ Tandukar et al. (2005). "A low-cost municipal sewage treatment system with a com
 ### String
 Because the focus of the experiment was on the properties of string, the team tested several types. The team chose four strings varying in non-biodegradable material, structure, and diameter. For polymer-based materials: a polypropylene, twine string with a diameter of 0.0500 inches and a nylon, monofilament string with a diameter of 0.0220 inches were tested. For metal alloy material: a 304-type stainless steel wire with a diameter of 0.0200 inches and a 304-type stainless steel cable with a diameter of 0.0625 inches were tested. The stainless steel cable was lubricated upon purchase with an oily substance that was not water soluble.
 
+Purchasing Links:
+[Twine](https://www.mcmaster.com/2078T34),
+[Nylon String](https://www.mcmaster.com/9442T3),
+[Wire](https://www.mcmaster.com/8860K12),
+[Cable](https://www.mcmaster.com/3461t633)
+
 
 <center>
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/polymerstringz.jpg?raw=true" width = 300/>
@@ -267,6 +273,12 @@ For metal alloy-based materials, four unfinished stainless steel chains that var
 
 In this report, the metal-alloy based strings will be referred to as the following: the size-35 sash chain will be referred to as "big sash chain", the size-12 sash chain will be referred to as "small sash chain", the size-18 jack chain will be referred to as "jack chain", and the size-3 bead chain cable will be referred to as "bead chain".
 
+Purchasing Links:
+[Big Sash Chain](https://www.mcmaster.com/3607T17),
+[Small Sash Chain](https://www.mcmaster.com/3385T14),
+[Jack Chain](https://www.mcmaster.com/3617T2),
+[Bead Chain](https://www.mcmaster.com/3606T13),
+
 <center>
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/chainzz.jpg?raw=true" width = 300/>
 
@@ -277,6 +289,19 @@ Figure 11. The stainless steel chains from left to right: small sash chain, bead
 For the polymer-based materials, four polymer foams were purchased: a 20-foot, closed-cell construction, chemical-resistant, grey polyethylene cord with a diameter of 0.500 inches, a 36 by 2 inch, open-cell construction, ultra-conformable, teal polyurethane strip with a thickness of 0.500 inches, a 36 by 2 inch, open-cell construction, super-cushioning, white polyurethane sheet with a thickness of 0.5000 inches, and a 24 by 24 inch, open-cell construction, super-absorbent, blue polyurethane sheet with a thickness of 0.2500 inches.
 
 The polymer-based foams will be referred to as the following: the grey polyethylene cord will be referred to as "grey foam", the teal polyurethane foam will be referred to as "teal foam", the white polyurethane foam will be referred to as "white foam", and the blue polyurethane foam will be referred to as "blue foam".
+
+Purchasing Links:
+[Grey Foam](https://www.mcmaster.com/93295k33),
+[Teal Foam](https://www.mcmaster.com/86195k92),
+[White Foam](https://www.mcmaster.com/8643k481),
+[Blue Foam](https://www.mcmaster.com/8884k51),
+
+
+
+
+
+
+
 
 <center>
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/foamz.jpg?raw=true" width = 300/>
