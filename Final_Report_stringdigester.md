@@ -54,7 +54,7 @@ The team decided to start with buying a selection of strings to test as possible
 
 In this report, the following strings will be referred to by the following names: the polypropylene twine will be referred to as "twine", the nylon monofilament string will be referred to as "nylon string", the stainless steel wire will be referred to as "wire", and the stainless steel cable will be referred to as "cable".
 
-For experiments 1.1, 1.2, and 1.3 the same set of strings were used, see Strings section in the Manual for detailed descriptions.
+For experiments 1.1, 1.2, and 1.3 the same set of strings were used, see Strings section in the Manual for detailed descriptions and pictures.
 
 ### 1.1 Mass of Water Experiment
 
@@ -148,6 +148,11 @@ The lack of consistent or promising results prompted the team to look at new mat
 ### 2. Filter Media: Chains and Foam
 Following the results of the previous experiments, the scope of what materials of string to use in this set of experiments was further narrowed to hydrophilic, non-biodegradable strings. The polymer-based strings were scrapped as they exhibited no hydrophilic property in the set of experiments, so it was decided to switch over from monofilaments, to a more porous material. Thus, the team decided to look into polymer-based foams, as they would most likely exhibit hydrophilic properties and retain the non-biodegradability. Furthermore, the metal-alloy based strings appeared as if they could work in previous experiments but were inhibited by the lubricant and a lack of texture. The team concluded that using a chain instead of a smooth wire could provide the texture needed to hold water on the string. The team decided to purchase chains that were unfinished to in an attempt to ensure there was no lubricant on the chain. Finally, the structure and diameter of the strings was differentiated in each material group due to the notion that surface texture and/or diameter of the strings could have a strong effect on water flow.
 
+The polymer-based foams will be referred to as the following: the grey polyethylene cord will be referred to as "grey foam", the teal polyurethane foam will be referred to as "teal foam", the white polyurethane foam will be referred to as "white foam", and the blue polyurethane foam will be referred to as "blue foam".
+
+In this report, the metal-alloy based strings will be referred to as the following: the size-35 sash chain will be referred to as "big sash chain", the size-12 sash chain will be referred to as "small sash chain", the size-18 jack chain will be referred to as "jack chain", and the size-3 bead chain cable will be referred to as "bead chain".
+
+See Chains and Foam sections in the Manual for detailed descriptions and pictures of each material.
 
 ### 2.1 Overflowing Basin Experiment with new materials
 
@@ -156,17 +161,6 @@ The team objective on this set of experiments was to further experiment with met
 
 #### 2.1.2 Experimental Apparatus
 To get a broad sense of the feasibility of the new materials as string media, this experiment featured each string being put through several tests with slightly different basins. Using a new set of strings, the first test was done with the experimental setup described in the experiment 1.2, the original overflowing basin experiment. The second test was done using the experimental setup described in the modified overflowing basin experiment, 1.3. The third test was newly created, and involved using a newly fabricated basin that was half the size of the original basin used in experiment 1.2; in this case, the basin was 1.5 inches in length.  The remaining setup for these tests were the same as in the previous two experiments, see section 1.2.3 for more information. Not every material was tested in each basin, because some were more well suited to certain basins based on physical parameters like the length or width of the string. The team experimented with different flow rates and observed how water flowed or did not flow down the various <a name="strings"> strings </a>.
-
-<center>
-
-|Method|Basin Set-Up|
-|---|---|
-|4.2.1|Refer to method 2.2|
-|4.2.2|Refer to method 3.2|
-|4.2.3|Basin from method 2.2 was cut in half for a final length of 1.5 inches|
-
-</center>
-
 
 #### 2.1.3 Procedure
 The desired strings were wrapped around the dispenser and around a bottom pole in one long strand and pulled taught for each test in the experiment. The basin was filled with water using the peristaltic pump to induce overflow. As the water overflows the basin, the water will find a path down. All eight of the aforementioned materials were tested in this similar fashion for each test differentiating in basin type at varying pumping rates.
@@ -192,15 +186,12 @@ Based on these initial tests, the bead chain on the the 3.75in basin and the jac
 
 For the polymer-based foams, the foams were not tested on each of the apparatuses in this experiment due to the lack of needed length. Aside from the grey foam, each of the foams had to be physically altered into a string, and upon doing so, it left the team with little length to work with. Thus, the foams were used on the testing apparatus that allowed for a feasible amount of wrapping with good spacing in between so that valid data could be collected.
 
-|Type of Foam|1.500 inch Basin|3.750 inch Basin|4.500 inch Winged Basin|
-|---|---|---|---|
-|<center>Teal Foam <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/jackchain.jpg?raw=true" width = 300/> </center>|<center>HAS POTENTIAL</center>|<center>HAS POTENTIAL</center>|<center>SUCCESS</center>|   
-|<center>Blue Foam <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/beadchain.jpg?raw=true" width = 300/> </center>|<center>N/A</center>|<center>SUCCESS</center>|<center>FAIL</center>|
-|<center>White Foam <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/smallsashchain.jpg?raw=true" width = 300/> </center>|<center>HAS POTENTIAL</center>|<center>HAS POTENTIAL</center>|<center>FAIL</center>|
-|<center>Grey Foam <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/bigsashchain.jpg?raw=true" width = 300/> </center>|<center>FAIL</center>|<center>N/A</center>|<center>FAIL</center>|
-
-[**These tables are somewhat hard to read because of the amount of info in them. Consider summarizing more concisely and putting paragraphs of detail in the appendix**]
-
+|Type of Foam|Basin Used|Result|
+|---|---|---|
+|<center>Teal Foam <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/tealfoam.jpg?raw=true" width = 300/> </center>|<center>3.750 Inch</center>|<center>HAS POTENTIAL</center>|  
+|<center>Blue Foam <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/bluefoam.jpg?raw=true" width = 300/> </center>|<center>N/A</center>|<center>SUCCESS</center>|
+|<center>White Foam <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/whitefoam.jpg?raw=true" width = 300/> </center>|<center>HAS POTENTIAL</center>|<center>HAS POTENTIAL</center>|
+|<center>Grey Foam <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/greyfoam.jpg?raw=true" width = 300/> </center>|<center>FAIL</center>|<center>N/A</center>|
 
 Based on the data collected, it is clear that the blue foam worked best out of the foams purchased. The blue foam required no manipulation such as pre-wetting, and were able to retain a large amount of water. The teal and white foam also worked well, but needed some sort of manipulation to better the water flow. Furthermore, the grey foam did not work at all, as no water was able to flow down the strings. The grey foam is also the only closed-cell constructed foam, thus making the foam moisture resistant. Knowing this beforehand, the results of the grey foam were somewhat expected.
 
@@ -269,7 +260,6 @@ Figure 10. The metal-alloy-based strings, cable (left) and wire (right).
 ### Chain
 For metal alloy-based materials, four unfinished stainless steel chains that varied in chain type were purchased: a 50-foot, size-12, sash chain, a 10-foot, size-35, sash chain, a 50-foot, size-18, jack chain, and a 50-foot, size-3, bead chain were purchased.
 
-In this report, the metal-alloy based strings will be referred to as the following: the size-35 sash chain will be referred to as "big sash chain", the size-12 sash chain will be referred to as "small sash chain", the size-18 jack chain will be referred to as "jack chain", and the size-3 bead chain cable will be referred to as "bead chain".
 
 Purchasing Links:
 [Big Sash Chain](https://www.mcmaster.com/3607T17),
@@ -286,18 +276,13 @@ Figure 11. The stainless steel chains from left to right: small sash chain, bead
 ### Foam
 For the polymer-based materials, four polymer foams were purchased: a 20-foot, closed-cell construction, chemical-resistant, grey polyethylene cord with a diameter of 0.500 inches, a 36 by 2 inch, open-cell construction, ultra-conformable, teal polyurethane strip with a thickness of 0.500 inches, a 36 by 2 inch, open-cell construction, super-cushioning, white polyurethane sheet with a thickness of 0.5000 inches, and a 24 by 24 inch, open-cell construction, super-absorbent, blue polyurethane sheet with a thickness of 0.2500 inches.
 
-The polymer-based foams will be referred to as the following: the grey polyethylene cord will be referred to as "grey foam", the teal polyurethane foam will be referred to as "teal foam", the white polyurethane foam will be referred to as "white foam", and the blue polyurethane foam will be referred to as "blue foam".
+
 
 Purchasing Links:
 [Grey Foam](https://www.mcmaster.com/93295k33),
 [Teal Foam](https://www.mcmaster.com/86195k92),
 [White Foam](https://www.mcmaster.com/8643k481),
 [Blue Foam](https://www.mcmaster.com/8884k51),
-
-
-
-
-
 
 
 
