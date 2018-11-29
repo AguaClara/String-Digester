@@ -2,8 +2,6 @@
 #### Rosalie Krasnoff, Zsofia Szegletes, Madeline Garell, Antonio Martinez
 #### November 30, 2018
 
-[**Clare: Hi String Digester! My comments will be like this, so you should be able to find them easily!**]
-
 ## Abstract
 The string digester team’s objective for the Fall 2018 semester was to continue research on designing a new wastewater treatment system to eliminate problems associated with current trickling filters. To improve consistency in wastewater treatment, experiments were conducted using strings to optimize surface area. The long-term goal of this team is to create an efficient wastewater treatment system that will perform secondary and tertiary treatment on domestic wastewater. Initial tests involving different string materials, biofilm growth, and string spacing helped define design parameters for the construction of a functioning string digester.
 
@@ -25,9 +23,9 @@ The team fabricated a bench top model for flow mapping and conducted several rou
 ### Trickling Filters
 The filter media in a conventional trickling filter is usually a material such as rocks, gravel, shredded PVC bottles, or special pre-formed plastic filter media. Because all these materials are not regularly shaped and wastewater is not distributed exactly equally across the top of the media, the water follows the paths of least resistance and preferential flow occurs. Thus, there is wasted space in the filter that remains dry and unused. This leads to a less efficient treatment of organic matter than if all of the space in the filter were utilized. In their paper, Spuhler recommends using specially manufactured plastic media, like corrugated plastic sheets or even hollow plastic cylinders, to optimize surface area for biofilm formation & allow for free movement of air [(Spuhler 2018).](https://www.sswm.info/node/8215)
 
-In addition to non-homogenous distribution of wastewater throughout the filter, there is significant documentation of other problems plant operators experience when dealing with trickling filters. One major problem is clogging and ponding occurring within the filter media due to high biomass sloughing rate. In the context of a trickling filter, sloughing refers to when a layer of the microbial growth loses the ability to stay attached and is shed from the filter media and washed away by water flow. If the layer of biofilm is not maintained at a desired thickness, treatment performance will decrease. Clogging results in a decreased efficiency of treatment and if it is not addressed, the quality of the effluent will suffer. Current solutions include flashing with low doses of chlorine to remove deposited solids and kill excess biomass or periodic flooding [(Ali et al. 2017)](http://www.pjoes.com/pdf/26.6/Pol.J.Environ.Stud.Vol.26.No.6.2431-2444.pdf). The team aims avoid the problem altogether by using strings and not having a media that can clog up. It is still an important factor to consider in the design because any small slots or holes that the wastewater travels through in the system will likely clog up with biofilm growth.
+In addition to non-homogenous distribution of wastewater throughout the filter, there is significant documentation of other problems plant operators experience when dealing with trickling filters. Ali and co-authors state that one major problem is clogging and ponding occurring within the filter media due to high biomass sloughing rate. In the context of a trickling filter, sloughing refers to when a layer of the microbial growth loses the ability to stay attached and is shed from the filter media and washed away by water flow. If the layer of biofilm is not maintained at a desired thickness, treatment performance will decrease. Clogging results in a decreased efficiency of treatment and if it is not addressed, the quality of the effluent will suffer. Current solutions include flashing with low doses of chlorine to remove deposited solids and kill excess biomass or periodic flooding [(Ali et al. 2017)](http://www.pjoes.com/pdf/26.6/Pol.J.Environ.Stud.Vol.26.No.6.2431-2444.pdf). The team aims avoid the problem altogether by using strings and not having a media that can clog up. It is still an important factor to consider in the design because any small slots or holes that the wastewater travels through in the system will likely clog up with biofilm growth.
 
-Ali and co-authors state that the aforementioned sloughing and clogging is often caused by uneven hydraulic loading rates (HLR). Uneven HLR is caused by clogging of the distribution arm and an uneven distribution of influent. Therefore, proper distribution of wastewater onto the filter media is crucial for optimizing efficiency of treatment. The most common method of influent distribution is rotating distributors. Rotating distributors consist of moving parts that require more maintenance and may be a burden in a plant to operators. Additionally, this system will not serve the string-focused design.
+Ali also states that the aforementioned sloughing and clogging is often caused by uneven hydraulic loading rates (HLR). Uneven HLR is caused by clogging of the distribution arm and an uneven distribution of influent. Therefore, proper distribution of wastewater onto the filter media is crucial for optimizing efficiency of treatment. The most common method of influent distribution is rotating distributors. Rotating distributors consist of moving parts that require more maintenance and may be a burden in a plant to operators. Additionally, this system will not serve the string-focused design.
 
 The less common method of distribution, the fixed distribution system, utilizes lateral and main distribution pipes, which are placed just above the medium and spaced to give uniform distribution of water. The pipes generally have nozzles with a circular hole and a deflector. This method is commonly used with intermittent dosing, meaning flow from the system varies; it starts at a maximum and lowers as the tank empties. Currently, fixed distribution systems are mostly used in deep filter and biotowers (i.e. very tall filters). Since this method is non-rotating, it may be more applicable for the proposed use of a string media. However, Sperling and colleagues showed that both the fixed and rotating distribution systems have an inconsistent hydraulic load of the influent [(Sperling 2007)](https://www.iwapublishing.com/sites/default/files/ebooks/9781780402123.pdf). Therefore, the distribution system is another area where there is huge potential for the team to increase the productivity of trickling filters.
 
@@ -38,8 +36,6 @@ Although there are multiple problems with trickling filters, one main advantage 
 Downward Hanging Sponge (DHS) Reactors are another form of treating wastewater. They have a similar mechanism as trickling filters. Water is distributed onto sponges and water trickles down through and on the sponges due to gravity. Biofilm grows within and on the sponge and removes organic nutrients from the wastewater as it trickles down. Onodera and co-authors found the advantages of DHS include: high biomass concentration, high sludge residence time, low hydraulic retention time, small footprint. There are six generations of the DHS reactor. The different generations are different sizes and geometries of sponges including sponge cubes, curtain long triangular sponge strips on a plastic sheet, sponge packing unit in net-like plastic, and the most recent generation: a rigid sponge from a mix of polyurethane and epoxy resin. Polyurethane was shown to support microorganism growth and retain water [(Onodera 2013)](https://www.ncbi.nlm.nih.gov/pubmed/24291312). In addition, the high porosity of the sponge enhances diffusion of air into the wastewater, and maintains an dissolved oxygen at level higher than necessary for aerobes. This way, no extra aeration is necessary for the system compared to traditional aerobic treatment systems [(M. Tandukar et al., 2005)](https://www.ncbi.nlm.nih.gov/pubmed/16180445).
 
 DHS reactors are an appealing alternative to traditional trickling filters as they overcome some problems. One problem DHS overcomes is a low sludge residence time. This is because micro-organisms can grow both inside and on the surface of the sponge. This also optimizes the space. The DHS was also shown to have lower excess sludge than the traditional trickling filter. Onodera and co-authors showed that DHS reactors are a viable secondary treatment post USAB and that sponges have much potential in treating wastewater [(Onodera 2013)](https://www.ncbi.nlm.nih.gov/pubmed/24291312).  
-
-[Some similar problems with first draft: Some literature were usually provided at the end of the paragraph. <--*emailed graders about this but didn't get back, the paragraphs cited at the end are bc all of the lit refers to that reference in that paragraph, please elaborate on other problems* ] [**I, Clare, would suspect the previous comments come from the references not being well integrated in the text. There are statements made but then not linked to a source until the end of the paragraph, I think this is acceptable but not the most elegant way to use citations in a technical report. I do not know why nobody got back to you about the previous drafts. Hopefully this is helpful, if it's not I'd be happy to rework some of these paragraphs with you before the final report**]
 
 ### Biofilm
 A component of the string digester that is crucial to its success is the biofilm. "A biofilm is an assemblage of microbial cells that is irreversibly associated (not removed by gentle rinsing) with a surface and enclosed in a matrix of primarily polysaccharide material." [(Donlan 2002).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732559/) Biofilm attachment is a complex process regulated by diverse characteristics of the growth medium, substratum, and cell surface. Biofilm on trickling filters are composed of a variety of organisms and are typically enclosed in a polysaccharide. The biofilm matrix may also contain mineral crystals, corrosion particles, and clay or silt particles. Biofilms in wastewater systems are often highly complex [(Donlan 2002).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732559/)
@@ -75,7 +71,7 @@ Figure 1. Diagram of experimental apparatus set up for measuring mass of water h
 A narrow tube was connected to a peristaltic pump and water was pumped at a known rate. The end of the tube was directed onto the top of the string hanging from the scale, in an attempt to allow water to flow onto and down the hanging string. The scale was zeroed before the experiment started so the scale would just measure the weight of the water on the string. The idea was to get water flowing on the string and then, while continuously pumping water onto the string, measure the weight of the water on the string at a moment in time. From this measurement, the team would be able to quantify how much water a particular string could hold per unit length.
 
 #### 1.1.4 Results and Analysis
-The method of directing the water onto the string did not work. The team tried several angles and techniques to try to get the water from the tube to connect and travel down the string but were unsuccessful. Water spiraled off the string upon immediate contact and was not able to trickle down the hanging string. Therefore, taking weight measurements was not possible or useful, as the expected sheath of water on the string did not form. This experiment was tested with twine and wire, and then abandoned due to lack of success. [**SAD, I was not expecting complete failure in this paragraph and it made me feel sad. This comment is unrelated to your grade**]
+The method of directing the water onto the string did not work. The team tried several angles and techniques to try to get the water from the tube to connect and travel down the string but were unsuccessful. Water spiraled off the string upon immediate contact and was not able to trickle down the hanging string. Therefore, taking weight measurements was not possible or useful, as the expected sheath of water on the string did not form. This experiment was tested with twine and wire, and then abandoned due to lack of success.
 
 The failure of this test prompted the team to question whether the water would flow on the strings at all, as the team in the previous semester (Spring 2018) had been able to observe with yarn/cotton based string. Because of this question of whether the new types of strings would work at all, the team decided to return to the experiment conducted by the Spring 2018 team and see if the current team could recreate the success of the previous semester, where they had seen the string prototype perform well and the strings hold water as expected.
 
@@ -85,7 +81,7 @@ The failure of this test prompted the team to question whether the water would f
 The objective of this experiment was to see if the water would run down the new non-biodegradable strings using the basin distribution system from Spring 2018 or if all the new strings were unable to hold water.
 
 #### 1.2.2 Experimental Apparatus
-The experiment from last semester was recreated using the non-biodegradable strings as media, rather than the cotton yarn. A basin was filled with water and attached at an elevated surface about one meter above the lab bench. Strings were then wrapped tightly around the top of the basin and at a metal rod below the basin. The strings were set up so they were evenly spaced and perpendicular to the ground. The amount of a string wrapped on the apparatus were spaced somewhat uniformly, limited by the length of string available. The team believes spacing is important for maximizing a system's treatment capacity but spacing was not tested in these experiments and therefore keep as consistent as possible.
+The experiment from last semester was recreated using the non-biodegradable strings as media, rather than the cotton yarn. A basin was filled with water and attached at an elevated surface about one meter above the lab bench. As shown in Figures 2 and 3, strings were then wrapped tightly around the top of the basin and at a metal rod below the basin. The strings were set up so they were evenly spaced and perpendicular to the ground. The amount of a string wrapped on the apparatus were spaced somewhat uniformly, limited by the length of string available. The team believes spacing is important for maximizing a system's treatment capacity but spacing was not tested in these experiments and therefore keep as consistent as possible.
 
 <center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/Screen%20Shot%202018-10-24%20at%203.14.20%20PM.png?raw=true" />
@@ -140,7 +136,22 @@ The rest of the setup was the same as in the previous experiment (see section 1.
 This experiment was run in the same way as previous experiment, see section 1.2.3 for more information.
 
 #### 1.3.4 Results and Analysis
-Despite introducing a gradual slope for the water to flow down, the results of this experiment were similar to the results from the previous overflowing basin experiment. The strings were still hydrophobic so the water avoided flowing down the strings even when on the curved plastic. If the water did flow along the string on the plastic, droplets began to fall off the strings once they left the plastic at the top. The water overflowing from the basin was irregular and often flowed over the curved plastic in paths between the strings.
+<center>
+Table 1: Final Results of Experiment 1
+</center>
+
+<center>
+
+|Type of String|Standard Basin|Winged Basin|
+|---|---|---|
+|<center>Twine </center> <center> <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/twine.jpg?raw=true" width = 100/> </center>|<center>YES</center>|<center>FAIL</center> <center>(BOTH RAVELED & UNRAVELED)</center>|   
+|<center>Nylon String </center> <center> <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/nylonstring.jpg?raw=true" width = 100/> </center>|<center>FAIL</center>|<center>FAIL</center>|
+|<center>Cable </center> <center> <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/cable.jpg?raw=true" width = 100/> </center>|<center>FAIL</center>|<center>HAS POTENTIAL (WASHED)</center> <center> FAIL (UNWASHED)</center>|
+|<center>Wire </center> <center> <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/wire.jpg?raw=true" width = 100/> </center>|<center>FAIL</center>|<center>FAIL</center>|
+
+</center>
+
+Despite introducing a gradual slope for the water to flow down, the results of this experiment were similar to the results from the previous overflowing basin experiment. The strings were still hydrophobic so the water avoided flowing down the strings even when on the curved plastic. If the water did flow along the string on the plastic, droplets began to fall off the strings once they left the plastic at the top. The only string to exhibit slight potential was the cable. Water seemed to initially flow down the cable, following the spiral texture. However, the water would lose the flow quickly after contact with the cable. The water overflowing from the basin was irregular for all materials and the minimal flow exhibited was often flowed over the curved material and in paths between the strings.
 
 The lack of consistent or promising results prompted the team to look at new materials to see if different media would be better suited to use in the string digester.
 
@@ -160,44 +171,54 @@ See Chains and Foam sections in the Manual for detailed descriptions and picture
 The team objective on this set of experiments was to further experiment with metal-alloy based chains and foam, and to determine if they could be feasible as a string medium. The team wanted to try lots of materials to see if there were any successes, and so preformed numerous experiments.
 
 #### 2.1.2 Experimental Apparatus
-To get a broad sense of the feasibility of the new materials as string media, this experiment featured each string being put through several tests with slightly different basins. Using a new set of strings, the first test was done with the experimental setup described in the experiment 1.2, the original overflowing basin experiment. The second test was done using the experimental setup described in the modified overflowing basin experiment, 1.3. The third test was newly created, and involved using a newly fabricated basin that was half the size of the original basin used in experiment 1.2; in this case, the basin was 1.5 inches in length.  The remaining setup for these tests were the same as in the previous two experiments, see section 1.2.3 for more information. Not every material was tested in each basin, because some were more well suited to certain basins based on physical parameters like the length or width of the string. The team experimented with different flow rates and observed how water flowed or did not flow down the various <a name="strings"> strings </a>.
+To get a broad sense of the feasibility of the new materials as string media, this experiment featured each string being put through several tests with slightly different basins. Using a new set of strings, the first test was done with the experimental setup described in the experiment 1.2, the original overflowing basin experiment. The second test was done using the experimental setup described in the modified overflowing basin experiment, 1.3. The third test was newly created, and involved using a newly fabricated basin that was half the size of the original basin used in experiment 1.2; in this case, the basin was 1.5 inches in length.  The remaining setup for these tests were the same as in the previous two experiments, see section 1.2.3 for more information. Not every material was tested in each basin, because some were more well suited to certain basins based on physical parameters like the length or width of the string. The team experimented with different flow rates and observed how water flowed or did not flow down the various strings.
 
 #### 2.1.3 Procedure
-The desired strings were wrapped around the dispenser and around a bottom pole in one long strand and pulled taught for each test in the experiment. The basin was filled with water using the peristaltic pump to induce overflow. As the water overflows the basin, the water will find a path down. All eight of the aforementioned materials were tested in this similar fashion for each test differentiating in basin type at varying pumping rates.
+Procedure for these tests were similar to that of the Overflowing Basin Experiment, see section 1.2.3. All eight of the aforementioned materials were tested in this similar fashion for each test differentiating in basin type at varying pumping rates. Size 16 tubing was used to dispense water into three basins of different widths (1.750in, 3.750in, and 4.500in) and the chains were setup with spacing of 5-10mm between each strand. To observe the effects of different flow rates, three different pump speeds (25, 50, and 80 rpm) were tested with each chain and basin combination. The 4.500in winged basin was tested in two ways, with a narrow base and with a widened base, to test the effects of angled strings.
 
-<center>
-<img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/gray%20foam%20strings.jpeg?raw=true" width = 300/>
-
-Figure 8. Grey foam cords on the 3.750-inch basin test apparatus.
-</center>
 
 #### 2.1.4 Results and Analysis
-For the set of tests for the stainless steel chains, the team documented the observations made during each test with the various chains. Size 16 tubing was used to dispense water into three basins of different widths (1.75in, 3.75in, and 4.5in) and the chains were setup with spacing of 5-10mm between each strand. To observe the effects of different flow rates, three different pump speeds (25, 50, and 80 rpm) were tested with each chain and basin combination. The 4.5in winged basin was tested in two ways, with a narrow base and with a widened base, to test the effects of angled strings. Refer to Appendix 1 for the team's observations.
+For the set of tests for the stainless steel chains, the team documented the observations made during each test with the various chains. Refer to Appendix 1 for an extensive table of the team's observations. Table 2 below gives a brief summary of all the tests.
 
+<center>
+Table 2: Final Chain Results of Experiment 2
+</center>
+
+<center>
 
 |Type of Chain|1.500 inch Basin|3.750 inch Basin|4.500 inch Winged Basin|
 |---|---|---|---|
-|<center>Jack Chain <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/jackchain.jpg?raw=true" width = 300/> </center>|<center>HAS POTENTIAL</center>|<center>HAS POTENTIAL</center>|<center>SUCCESS</center>|   
-|<center>Bead Chain <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/beadchain.jpg?raw=true" width = 300/> </center>|<center>N/A</center>|<center>SUCCESS</center>|<center>FAIL</center>|
-|<center>Small Sash Chain <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/smallsashchain.jpg?raw=true" width = 300/> </center>|<center>HAS POTENTIAL</center>|<center>HAS POTENTIAL</center>|<center>FAIL</center>|
-|<center>Big Sash Chain <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/bigsashchain.jpg?raw=true" width = 300/> </center>|<center>FAIL</center>|<center>N/A</center>|<center>FAIL</center>|
+|<center>Jack Chain </center> <center> <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/jackchain.jpg?raw=true" width = 100/> </center>|<center>HAS POTENTIAL</center>|<center>HAS POTENTIAL</center>|<center>SUCCESS</center>|   
+|<center>Bead Chain </center> <center> <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/beadchain.jpg?raw=true" width = 100/> </center>|<center>N/A</center>|<center>SUCCESS</center>|<center>FAIL</center>|
+|<center>Small Sash Chain </center> <center> <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/smallsashchain.jpg?raw=true" width = 100/> </center>|<center>HAS POTENTIAL</center>|<center>HAS POTENTIAL</center>|<center>FAIL</center>|
+|<center>Big Sash Chain </center> <center> <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/bigsashchain.jpg?raw=true" width = 100/> </center>|<center>FAIL</center>|<center>N/A</center>|<center>FAIL</center>|
 
-Based on these initial tests, the bead chain on the the 3.75in basin and the jack chain on the 4.5in winged basin had the most promising results. At multiple speeds, these two setups resulted in the highest number of strands with consistent flow and the team was able to observe water  filling the gaps in the chains; the water filled the holes in the jack chain and filled the gaps between the beads on the bead chain. These results demonstrate the feasibility of using chains as strands in a string digester. Further tests with these chains, possibly varying in thickness, length, and pump speed would be helpful in determining an optimal setup to treat water.
+</center>
+
+Based on these initial tests, the bead chain on the the 3.750 inch basin and the jack chain on the 4.500in winged basin had the most promising results. At multiple speeds, these two setups resulted in the highest number of strands with consistent flow and the team was able to observe water  filling the gaps in the chains; the water filled the holes in the jack chain and filled the gaps between the beads on the bead chain. These results demonstrate the feasibility of using chains as strands in a string digester. Further tests with these chains, possibly varying in thickness, length, and pump speed would be helpful in determining an optimal setup to treat water.
 
 For the polymer-based foams, the foams were not tested on each of the apparatuses in this experiment due to the lack of needed length. Aside from the grey foam, each of the foams had to be physically altered into a string, and upon doing so, it left the team with little length to work with. Thus, the foams were used on the testing apparatus that allowed for a feasible amount of wrapping with good spacing in between so that valid data could be collected.
 
+<center>
+Table 3: Final Foam Results of Experiment 2
+</center>
+
+<center>
+
 |Type of Foam|Basin Used|Result|
 |---|---|---|
-|<center>Teal Foam <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/tealfoam.jpg?raw=true" width = 300/> </center>|<center>3.750 Inch</center>|<center>HAS POTENTIAL</center>|  
-|<center>Blue Foam <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/bluefoam.jpg?raw=true" width = 300/> </center>|<center>N/A</center>|<center>SUCCESS</center>|
-|<center>White Foam <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/whitefoam.jpg?raw=true" width = 300/> </center>|<center>HAS POTENTIAL</center>|<center>HAS POTENTIAL</center>|
-|<center>Grey Foam <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/greyfoam.jpg?raw=true" width = 300/> </center>|<center>FAIL</center>|<center>N/A</center>|
+|<center> Teal Foam </center> <center> <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/tealfoam.jpg?raw=true" width = 100/> </center>|<center>3.750 Inch</center>|<center>HAS POTENTIAL</center>|  
+|<center>Blue Foam </center> <center> <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/bluefoam.jpg?raw=true" width = 100/> </center>|<center>1.500 Inch</center>|<center>SUCCESS</center>|
+|<center>White Foam </center> <center> <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/whitefoam.jpg?raw=true" width = 100/> </center>|<center>3.750 Inch</center>|<center>HAS POTENTIAL</center>|
+|<center>Grey Foam </center> <center> <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/greyfoam.jpg?raw=true" width = 100/> </center>|<center>3.750 Inch</center>|<center>FAIL</center>|
 
-Based on the data collected, it is clear that the blue foam worked best out of the foams purchased. The blue foam required no manipulation such as pre-wetting, and were able to retain a large amount of water. The teal and white foam also worked well, but needed some sort of manipulation to better the water flow. Furthermore, the grey foam did not work at all, as no water was able to flow down the strings. The grey foam is also the only closed-cell constructed foam, thus making the foam moisture resistant. Knowing this beforehand, the results of the grey foam were somewhat expected.
+</center>
+
+Based on the data collected, it is clear that the blue foam worked best out of the foams purchased. The blue foam required no manipulation such as pre-wetting, and were able to retain a large amount of water. The teal and white foam also worked well, but needed some sort of manipulation such as pre-wetting to better the water flow. Furthermore, the grey foam did not work at all, as no water was able to flow down the strings. The grey foam is also the only closed-cell constructed foam, thus making the foam moisture resistant. Knowing this beforehand, the results of the grey foam were somewhat expected.
 
 Looking at the data for foams, it shows that foams could be a feasible media for the string. Besides the grey foam, the foams seemed to retain water easily, and there was little to no water flowing on the outside of the foams. The blue foam seemed to be the most promising, as it was easy to work with after physical altercation into strings. The foam was exhibiting similar results at various pumping speeds, thus minimizing the weight of how pumping speed can affect water flow on the strings.
 
-Furthermore, the open-cell construction foams exhibited better results than the closed-cell construction foam. The closed-cell construction foam built water tension on the basin, and was not able to carry the water as wanted. Based on the data collected, the idea of using closed-cell construction foams as string media could be ruled out, and research on open-cell construction foams should be furthered.
+Furthermore, the open-cell construction foams exhibited better results than the closed-cell construction foam. The closed-cell construction foam built water tension on the basin, and was not able to carry the water as desired. Based on the data collected, the idea of using closed-cell construction foams as string media could be ruled out, and research on open-cell construction foams should be furthered.
 
 
 ## Conclusions
@@ -236,7 +257,7 @@ Tandukar et al. (2005). "A low-cost municipal sewage treatment system with a com
 ## Special Components
 
 ### String
-Because the focus of the experiment was on the properties of string, the team tested several types. The team chose four strings varying in non-biodegradable material, structure, and diameter. For polymer-based materials: a polypropylene, twine string with a diameter of 0.0500 inches and a nylon, monofilament string with a diameter of 0.0220 inches were tested. For metal alloy material: a 304-type stainless steel wire with a diameter of 0.0200 inches and a 304-type stainless steel cable with a diameter of 0.0625 inches were tested. The stainless steel cable was lubricated upon purchase with an oily substance that was not water soluble.
+Because the focus of the experiment was on the properties of string, the team tested several types. The team chose four strings varying in non-biodegradable material, structure, and diameter. For polymer-based materials: a polypropylene, twine string with a diameter of 0.0500 inches and a nylon, monofilament string with a diameter of 0.0220 inches were tested (See Figure 8). For metal alloy material: a 304-type stainless steel wire with a diameter of 0.0200 inches and a 304-type stainless steel cable with a diameter of 0.0625 inches were tested (See Figure 9). The stainless steel cable was lubricated upon purchase with an oily substance that was not water soluble.
 
 Purchasing Links:
 [Twine](https://www.mcmaster.com/2078T34),
@@ -244,22 +265,20 @@ Purchasing Links:
 [Wire](https://www.mcmaster.com/8860K12),
 [Cable](https://www.mcmaster.com/3461t633)
 
-
 <center>
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/polymerstringz.jpg?raw=true" width = 300/>
 
-Figure 9. The polymer-based strings, twine (left) and nylon string (right).
+Figure 8. The polymer-based strings, twine (left) and nylon string (right).
 </center>
 
 <center>
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/wireandcable.jpg?raw=true" width = 300/>
 
-Figure 10. The metal-alloy-based strings, cable (left) and wire (right).
+Figure 9. The metal-alloy-based strings, cable (left) and wire (right).
 </center>
 
 ### Chain
-For metal alloy-based materials, four unfinished stainless steel chains that varied in chain type were purchased: a 50-foot, size-12, sash chain, a 10-foot, size-35, sash chain, a 50-foot, size-18, jack chain, and a 50-foot, size-3, bead chain were purchased.
-
+For metal alloy-based materials, four unfinished stainless steel chains that varied in chain type were purchased: a 50-foot, size-12, sash chain, a 10-foot, size-35, sash chain, a 50-foot, size-18, jack chain, and a 50-foot, size-3, bead chain were purchased (See Figure 10).
 
 Purchasing Links:
 [Big Sash Chain](https://www.mcmaster.com/3607T17),
@@ -270,13 +289,11 @@ Purchasing Links:
 <center>
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/chainzz.jpg?raw=true" width = 300/>
 
-Figure 11. The stainless steel chains from left to right: small sash chain, bead chain, big sash chain, and jack chain.
+Figure 10. The stainless steel chains from left to right: small sash chain, bead chain, big sash chain, and jack chain.
 </center>
 
 ### Foam
-For the polymer-based materials, four polymer foams were purchased: a 20-foot, closed-cell construction, chemical-resistant, grey polyethylene cord with a diameter of 0.500 inches, a 36 by 2 inch, open-cell construction, ultra-conformable, teal polyurethane strip with a thickness of 0.500 inches, a 36 by 2 inch, open-cell construction, super-cushioning, white polyurethane sheet with a thickness of 0.5000 inches, and a 24 by 24 inch, open-cell construction, super-absorbent, blue polyurethane sheet with a thickness of 0.2500 inches.
-
-
+For the polymer-based materials, four polymer foams were purchased: a 20-foot, closed-cell construction, chemical-resistant, grey polyethylene cord with a diameter of 0.500 inches, a 36 by 2 inch, open-cell construction, ultra-conformable, teal polyurethane strip with a thickness of 0.500 inches, a 36 by 2 inch, open-cell construction, super-cushioning, white polyurethane sheet with a thickness of 0.5000 inches, and a 24 by 24 inch, open-cell construction, super-absorbent, blue polyurethane sheet with a thickness of 0.2500 inches (See Figure 11).
 
 Purchasing Links:
 [Grey Foam](https://www.mcmaster.com/93295k33),
@@ -284,26 +301,40 @@ Purchasing Links:
 [White Foam](https://www.mcmaster.com/8643k481),
 [Blue Foam](https://www.mcmaster.com/8884k51),
 
-
-
 <center>
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/foamz.jpg?raw=true" width = 300/>
 
-Figure 12. The polymer-based foams from left to right: white foam, teal foam, blue foam, and grey foam.
+Figure 11. The polymer-based foams from left to right: white foam, teal foam, blue foam, and grey foam.
 </center>
 
 
 # Appendix
 
 ## 1. Chain Testing Observation Table
-|Material|Pump Speed [rpm]|1.5in Basin|3.75in Basin|4.5in Winged Basin|
+
+<center>
+Table 4: Observations of Chains in Experiment 2
+</center>
+
+<center>
+
+|Material|Pump Speed [rpm]|1.500 Inch Basin|3.7500 Inch Basin|4.5 Inch Winged Basin|
 |---|---|---|---|---|
 |Jack Chain|25, 50 80, 100|5 strands on each side of basin<br>25 & 50 rpm: flow down 5/10 chains, flowed down strands closest to wall (basin may not have been level)<br>80 rpm: flow down 5/10 chains<br>100 rpm: flow down 7/10 chains, two chains stuck together|10 strands on each side of basin<br>At each speed only 2-4 chains on each side of the basin had consistent water flow<br>Water bridged gaps in chain|10 strands on each side of basin<br>Narrow Base<br>25 rpm: water flowed down one side of basin (basin may not have been level)<br>50 rpm: flow down 10/10 of strands on one side, only 1/10 on the other side<br>80 rpm: flow down 7-9/10 on one side but 0-2/10 on the other side<br>Widened Base<br>25 & 50 rpm: flow down 4/20 strands<br>80 rpm: flow down 5/20 strands|   
 |Bead Chain|25, 50, 80|Not tested |25 & 50 rpm: 90% of strings hold water and have consistent flow<br>80 rpm: too fast, water starts to jump of strings|Narrow Base: Didn't work well, less strings got wet compared to the wide base or the other setups<br>Wide Base: 50% of strings had flow, didn't work as well as predicted|
 |Small Sash Chain|25, 50, 80|5 strands on each side<br>25 rpm: few strings with flow<br>50 rpm: 50% of chains carrying water, can manipulate with hands to get flow down 90% of strands<br>80 rpm: too fast for this few strings, water drips over edge of basin without adhering to chain|Similar results at each speed, only difference was flowrate down the chains<br>Flow down 20% of strands<br>Once wetted more chains carried water|Little to no flow down strands<br>Water flows to end of wings then drips off|
 |Big Sash Chain|25, 50|2 strands on each side of basin<br>25 rpm: chain is too thick for our setup so water spills over basin sides<br>Flow down strands if water is dispensed directly onto chain<br>50 rpm: water spills over sides of basin|Not tested: Chain is not long enough to have a different setup|Works slightly better than straight sided basin<br>Would need a different distribution method to direct water directly onto the chain|
 
+</center>
+
 ## 2. Foam Testing Observation Table
+
+<center>
+Table 5: Observations of Foams in Experiment 2
+</center>
+
+<center>
+
 |Foam|Results|
 |---|---|
 |Teal Foam|Using the 3.750 inch basin, the foam was cut into 0.7500-inch square cross sections, duct-taped two pieces together at the top, and had tape in middle of basin. Two foam strings were wrapped around (2 strings on each side), water was convex in the dispenser and water flowed over side and on top of sponge. The foam strings worked slightly better when they were pre-wet, but still, a large amount of water was flowing on the outside.|
@@ -311,4 +342,4 @@ Figure 12. The polymer-based foams from left to right: white foam, teal foam, bl
 |White Foam|Using the 3.750 inch basin, the foam was cut into 0.7500-inch square cross sections, taped at top and had two strands on each side similar to the set-up for the teal strings. The water droplets were absorbed to foam strings: water was concave in the dispenser, and water flowed on outside and down in all of the strings. There was no need to pre-wet, but it was difficult to tell if water was only flowing down the outside of the strands or if it was also flowing through the center. Strands were very heavy after testing, which indicated that a lot of water had been absorbed in the center of the strand.|
 |Grey Foam|Using the 3.750 inch basin, the initial tests (without modifying the foam) did not work, as water was not absorbed by foam and did not like flowing down the strands. The cords were then cut in half (inside of strand seemed more absorbent), and were wrapped around, tried with both flat side (inside) and rounded side towards the dispenser. Water formed droplets on material, but did not absorb much. Pre-wetting did not help, and water flowed over edge of dispenser and not onto the gray sponge.|
 
-[here](#foam-testing-observation-table)
+</center>
