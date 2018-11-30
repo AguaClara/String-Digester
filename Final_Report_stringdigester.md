@@ -74,6 +74,8 @@ A narrow tube was connected to a peristaltic pump and water was pumped at a know
 #### 1.1.4 Results and Analysis
 The method of directing the water onto the string did not work. The team tried several angles and techniques to try to get the water from the tube to connect and travel down the string but were unsuccessful. Water spiraled off the string upon immediate contact and was not able to trickle down the hanging string. Therefore, taking weight measurements was not possible or useful, as the expected sheath of water on the string did not form. This experiment was tested with twine and wire, and then abandoned due to lack of success.
 
+[**Was this attempted for all the string types? It's hard to tell**]
+
 The failure of this test prompted the team to question whether the water would flow on the strings at all, as the team in the previous semester (Spring 2018) had been able to observe with yarn/cotton based string. Because of this question of whether the new types of strings would work at all, the team decided to return to the experiment conducted by the Spring 2018 team and see if the current team could recreate the success of the previous semester, where they had seen the string prototype perform well and the strings hold water as expected.
 
 ### 1.2 Overflowing Basin Experiment
