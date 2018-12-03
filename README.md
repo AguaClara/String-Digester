@@ -17,6 +17,10 @@ Determine if ideas about using strings as media for trickling filter based desig
 ### Fall 2018
 [Symposium Presentation](https://docs.google.com/presentation/d/1B0oq8NB6Wiu3eZtoH0XupzLUeAUmPYKxPFIgBA1XBPc/edit#slide=id.g346a079b2f_0_0)
 
+[Final Presentation](https://www.youtube.com/watch?v=FFKMrEEQP3Y&t=8s)
+[slides](https://docs.google.com/presentation/d/1xsbepoceccYuJBs06fG2jxO8pH8J_kACGSAmF875i-I/edit#slide=id.g346a079b2f_0_0)
+
+[Final Report](
 
 ### Spring 2018
 [Symposium Presentation](https://docs.google.com/presentation/d/1XDAWSXDn-Me3OXwePyHjROJxUi_ZhIXyg9vinbaDPxc/edit?usp=sharing)
