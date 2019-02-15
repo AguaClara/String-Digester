@@ -39,6 +39,8 @@ A component of the string digester that is crucial to its success is the biofilm
 
 Some testing has been done of the growth of biofilm in different surfaces. One study compared growth on glossy electro-polished, bright annealed stainless steel to matte stainless steel and to PVC. The paper notes that stainless steel is hydrophilic and PVC is hydrophobic. In the last 45 days of the 167 day experiment, the matte steel had about 1.44 times more microorganisms than the electro-polished steel, and there was no significant difference between the PVC and polished steel. In discussion of why this occurs, Pedersen cites two reasons: "detachment due to shear forces from the flow will be reduced on the rougher surface since cells can be shielded from the bulk flow and more substratum surface area may be available for the biofilm" [(Pedersen 1990).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732559/)
 
+hello
+
 ## Bibliography
 Ali et al. (2017). "Identification and Elucidation of the Designing and Operational Issues of Trickling Filter Systems for Wastewater Treatment." *Polish Journal of Environmental Studies.* 26(6), 2431-2444.
 
