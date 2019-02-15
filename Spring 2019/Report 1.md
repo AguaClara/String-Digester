@@ -3,7 +3,7 @@
 #### February 22, 2019
 
 ## Abstract
-The string digester team’s objective for the Spring 2019 semester is to continue research on revamping a wastewater treatment system to eliminate problems associated with current trickling filters. To improve consistency in wastewater treatment, experiments will be conducted using metallic and plastic chains to optimize surface area. The long-term goal of this team is to create an efficient wastewater treatment system that will perform secondary and tertiary treatment on domestic wastewater. These tests will involve different chain types and materials, chain spacing, and biofilm growth to help define design parameters for the construction of a functioning string digester.
+The objective of String Digester for the Spring 2019 semester is to continue research on revamping a wastewater treatment system to eliminate problems associated with current trickling filters. To improve consistency in wastewater treatment, experiments will be conducted using metallic and plastic chains to optimize surface area. The long-term goal of this team is to create an efficient wastewater treatment system that will perform secondary and tertiary treatment on domestic wastewater. These tests will involve different chain types and materials, chain spacing, and biofilm growth to help define design parameters for the construction of a functioning string digester.
 
 ## Introduction
 Explain how the completion of your challenge will affect AguaClara and the mission of providing safe drinking water (or sustainable wastewater treatment!). If this is a continuing team, how will your contribution build upon previous research? What needs to be further discovered or defined? If this is a new team, what prompted the inclusion of this team?
