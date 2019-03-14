@@ -1,14 +1,14 @@
 # String Digester, Spring 2019
 #### Kiki Lo, Antonio Martinez, Gaby Sibel, Zsofia Szegletes
-#### February 22, 2019
+#### March 15, 2019
 
 ## Abstract
 The objective of String Digester for the Spring 2019 semester is to continue research on revamping a wastewater treatment system to eliminate problems associated with current trickling filters. To improve consistency in wastewater treatment, experiments will be conducted using metallic and plastic chains to optimize surface area. The long-term goal of this team is to create an efficient wastewater treatment system that will perform secondary and tertiary treatment on domestic wastewater. These tests will involve different chain types and materials, chain spacing, and biofilm growth to help define design parameters for the construction of a functioning string digester.
 
 ## Introduction
-The String Digester sub-team was created in response to the remaining need for secondary and tertiary wastewater treatment after treatment from the Upflow Anaerobic Sludge Blanket (UASB) reactor. Looking to improve on the traditional industrial-scale trickling filter design, previous work identified an issue with the process: there is a substantial amount of unused space in almost all treatment units[units of UASB?] due to preferential flow of wastewater. The primary objective of this sub-team is to continue to develop a novel design for a highly efficient trickling filter with a minimized footprint[footprint in terms of space?]. Following the conclusion from Fall 2018, that metal chains would be a viable trickling media due to their retention of water, the team decided to focus this semester's research on trying to determine what material and type of chain would work best in terms of water retention and biofilm growth and from there, determining the best matrix for these chains to be in to maximize water retention on chain media. With this work, the team will work towards assessing the feasibility of a modified trickling filter unit in future AguaClara treatment plants while striving to make significant technological improvements on industry-standard applications for the system. [Why is wastewater treatment  necessary? Why is secondary and tertriary important and what is it?  What is a trickling filter in one sentence? What is preferential flow?]
+The String Digester sub-team was created in response to the remaining need for secondary wastewater treatment after treatment from the Upflow Anaerobic Sludge Blanket (UASB) reactor. A trickling filter is a secondary wastewater treatment system that removes organic matter from the wastewater through biological means, and is crucial for the removal of harmful pathogens. Looking to improve on the traditional industrial-scale trickling filter design, previous work identified an issue with the process: there is a substantial amount of unused space in the treatment unit due to the uneven flow of wastewater across the system (preferential flow). The primary objective of this sub-team is to continue to develop a novel design for a highly efficient trickling filter with a minimized footprint in terms of space. Following the conclusion from Fall 2018, that metal chains would be a viable trickling media due to their retention of water, the team decided to focus this semester's research on trying to determine what material and type of chain would work best in terms of water retention and biofilm growth and from there, determining the best matrix for these chains to be in to maximize water retention on chain media. With this work, the team will work towards assessing the feasibility of a modified trickling filter unit in future AguaClara treatment plants while striving to make significant technological improvements on industry-standard applications for the system.
 
-Research dealing with trickling filter wastewater treatment was ubiquitous in the 1970's and 1980's, however, research involving chain media in this method of treatment is almost nonexistent along with a [unclear what "along with a" means in relation to the decline. Was it caused by the decline in use of trickling filters? If that is the case a stronger conjuction should be used to indicate relationship] decline in general trickling filter wastewater treatment research in following decades. Research on secondary wastewater treatment, performed by trickling filters previously[the trickling filters performed the research? Or the research on secondary WW treatment was done primarily on trickling filters], shifted ~~more~~[redundant] towards processes higher in energy consumption. Because of AguaClara's mission[which is?] and the regions a future wastewater plant would serve, trickling filters are a promising technology due to their low-energy requirements, and with work in reducing unused space in these plants, these treatment systems are ideal. Maintaining will be a priority in the team's future design. With modification, the trickling filter treatment system carries much potential to be implemented in areas of the world in which capital expenditure is a major barrier for employing traditional secondary wastewater treatment (aeration tanks).
+Research dealing with trickling filter wastewater treatment was ubiquitous in the 1970's and 1980's, however, the research has significantly declined in general trickling filter wastewater treatment research in following decades. Moreover, research involving string as a media in this method of treatment is almost nonexistent. Research on secondary wastewater treatment originally focused on performance of trickling filters, but now has shifted towards processes higher in energy consumption. The plant philosophy of AguaClara is to create a plant that is optimized for low cost and a high performance, and looking at the regions a future wastewater plant would serve, trickling filters are a promising technology due to their low-energy requirements. With work in reducing unused space in these plants, these treatment systems are ideal. Maintaining will be a priority in the team's future design. With modification, the trickling filter treatment system carries much potential to be implemented in areas of the world in which capital expenditure is a major barrier for employing traditional secondary wastewater treatment (aeration tanks).
 
 ## Previous Works
 [Would recommend putting this after lit review so that you can introduce concepts/terms unfamiliar to the author before previous work like preferential flow and etc.]
@@ -133,38 +133,38 @@ Tandukar et al. (2005). "A low-cost municipal sewage treatment system with a com
 The goal of this section is to provide all of the guidance that would be necessary for a future team to pick up your work where you left off. Please try to be thorough and put yourselves in the shoes of a newcomer to the project. Below are some recommended sections, but the manual will likely take a slightly different form for each team.
 
 ## Fabrication Details
+###Fabrication of Chain Matrix Basin
 Include any information related to the fabrication of equipment, experimental apparatuses, or technologies. Include the purpose of each step and the fabrication methods used. Reference appropriate safety precautions.
 
 ## Special Components
 If your subteam uses a particular part that is unique and you could foresee a future subteam needing to order it or learn more about it, please include basic information like the vendor where it was purchased, catalog/item number, and a link to any documentation.
 
 ## Experimental Methods
-### Set-up
+### Single Chain Experiments
+#### Set-up
 Step 1.
 * Put tasks in a sequential order.
 * It is okay to have sub-lists.
   - Like this.
 
-### Experiment
+#### Experiment
 Step 1.
 
-### Cleaning Procedure
+#### Cleaning Procedure
 Step 1.
 
-## Experimental Checklist
-Another potential section could include a list of things that you need to check before running an experiment.
+### Chain Matrix Experiments
+#### Set-up
+Step 1.
+* Put tasks in a sequential order.
+* It is okay to have sub-lists.
+  - Like this.
 
-## ProCoDA Method File
-Use this section to explain your method file. This could be broken up into several components as shown below:
+#### Experiment
+Step 1.
 
-### States
-Here, you should describe the function of each state in your method file, both in terms of its overall purpose and also in terms of the details that make it distinct from other states. For example:
-\begin{itemize}
-\item \underline{OFF} - Resting state of ProCoDA. All sensors, relays, and pumps are turned off.
-\end{itemize}
-
-### Set Points
-Here, you should list the set points used in your method file and explain their use as well as how each was calculated.
+#### Cleaning Procedure
+Step 1.
 
 ## Python Code
 
