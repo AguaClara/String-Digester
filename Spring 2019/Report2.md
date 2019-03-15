@@ -10,21 +10,6 @@ The String Digester sub-team was created in response to the remaining need for s
 
 Research dealing with trickling filter wastewater treatment was ubiquitous in the 1970's and 1980's, however, the research has significantly declined in general trickling filter wastewater treatment research in following decades. Moreover, research involving string as a media in this method of treatment is almost nonexistent. Research on secondary wastewater treatment originally focused on performance of trickling filters, but now has shifted towards processes higher in energy consumption. The plant philosophy of AguaClara is to create a plant that is optimized for low cost and a high performance, and looking at the regions a future wastewater plant would serve, trickling filters are a promising technology due to their low-energy requirements. With work in reducing unused space in these plants, these treatment systems are ideal. Maintaining will be a priority in the team's future design. With modification, the trickling filter treatment system carries much potential to be implemented in areas of the world in which capital expenditure is a major barrier for employing traditional secondary wastewater treatment (aeration tanks).
 
-## Previous Works
-[Would recommend putting this after lit review so that you can introduce concepts/terms unfamiliar to the author before previous work like preferential flow and etc.]
-### Spring 2018
-In Spring 2018, the Trickling Filter team spent a substantial amount of time doing research ~~and gathering information~~ [implied in research] on the operational difficulties, the kinetics, and typical design parameters of trickling filters. The team aimed to address many of the issues plant operators encounter with trickling filters, like clogging and ponding, lack of moisture in parts of the filter, and general inefficiency of the filter. The two main areas for improvement the team identified were the filter media itself and the distribution system ([Spring 2018 Final Report](https://github.com/AguaClara/String-Digester/blob/master/Spring%20'18/TricklingFilter_Final_Report.md)).
-
-
-
-The team fabricated a bench top model for flow mapping and conducted several rounds of tests to determine the distribution of flow in trickling filters with small rock and marble media. From these experiments, the team noticed that there were significant portions of the media that never got wet and thus concluded that a substantial volume of the trickling filter was unused due to preferential flow. From these tests the team also showed that a uniform packing material is superior to an irregularly shaped material. In an effort to both maximize the surface area to volume ratio and to minimize the footprint of the system by not wasting space, the team shifted focus towards strings as a possible filter media. This concept led the team to start with very preliminary testing of a system that was essentially an overflowing basin with strings submerged at the top, inside the basin, and draped over the sides to guide water down to a collection bucket below. (See Figure 2 in section 1.2.2 in [Fall 2018 Final Report](https://github.com/AguaClara/String-Digester/blob/master/Fall%20'18/Final_Report_stringdigester.md) [Can include that figure 2 mentioned here too!] for an example of  experimental set-up similar to those conducted in Spring 2018.) In these initial tests, the team members observed that the water did in fact follow the along strings when it overflowed. From these observations, the String Digester team began to design more rigorous tests on the concept and planned to investigate whether using strings in a wastewater treatment system is truly viable.
-
-### Fall 2018
-In Fall 2018, the team continued experimentation with the overflowing basin from the previous semester. The string yarn was abandoned due to its degradability. Nylon, polypropylene, and a stainless steel wire and cable were first tested on the same set-up from Spring 2018 with the overflowing basin. The plastics were chosen for their non-biodegradability; however, the stainless steel wires may be susceptible to corrosion. All of the proceeding[preceding? or aforementioned] materials did not perform well on the basin set-up as the water did not follow the strands due to their hydrophobicity.
-
-
-Two Foams and two stainless steel chains were next[Put next as the first word instead of here] tested on the same basin in addition to a winged basin set up. These materials were able to retain water as it trickled down. The blue foam worked exceptionally well as it absorbed water. The initial testing done on these materials suggests they could work in the proposed system and make the string digester technology possible. Further testing will be done on the chains as the foams are thought to easily clog; therefore, they are not [confirmed to be?] a viable solution at this point. See [Fall 2018 Final Report](https://github.com/AguaClara/String-Digester/blob/master/Fall%20'18/Final_Report_stringdigester.md) for more information.
-
 
 ## Literature Review
 ### Trickling Filters
@@ -50,6 +35,27 @@ In another experiment, three different types of plastic often used in pipe produ
 
 
 Studies have also been conducted about the bacteria that produce the biofilm on the stainless steel. Many of these studies involve curli-producing bacteria. Curli fibers "are the major proteinaceous component of a complex extracellular matrix produced by many Enterobacteriaceae" and "are involved in adhesion to surfaces, cell aggregation, and biofilm formation" [(Barnhart and Chapman).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2838481/) One such study focused on *Escherichia coli* O157:H7 bacteria with 6 individual strains, three of which produced curli and three which did not. The study found that the gene for curli production did not affect the attachment of the bacteria to the stainless steel, but it did affect the formation of biofilms. Only the curli producing strains were able to form biofilms [(Ryu et al. 2004).](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1472-765X.2004.01591.x) However, since *E. coli* are ~~fairly~~ common[ly] [found] in wastewater, it is probable for biofilm to be able to grow on the stainless steel chains as long as some kind of bacteria with the curli-producing gene is present in the wastewater and the flow rate is not too fast. So, assuming that the bacteria will most likely be present and once the biofilm is built up on each of the chains, the main issue then becomes preventing accumulated biofilm from falling off one chain and then dragging it off other chains as well in a domino effect[and then, in a domino effect, dragging it off other chains as well].
+
+## Previous Works
+[Would recommend putting this after lit review so that you can introduce concepts/terms unfamiliar to the author before previous work like preferential flow and etc.]
+### Spring 2018
+In Spring 2018, the Trickling Filter team spent a substantial amount of time doing research on the operational difficulties, the kinetics, and typical design parameters of trickling filters. The team aimed to address many of the issues plant operators encounter with trickling filters, like clogging and ponding, lack of moisture in parts of the filter, and general inefficiency of the filter. The two main areas for improvement the team identified were the filter media itself and the distribution system ([Spring 2018 Final Report](https://github.com/AguaClara/String-Digester/blob/master/Spring%20'18/TricklingFilter_Final_Report.md)).
+
+
+
+The team fabricated a bench top model for flow mapping and conducted several rounds of tests to determine the distribution of flow in trickling filters with small rock and marble media. From these experiments, the team noticed that there were significant portions of the media that never got wet and thus concluded that a substantial volume of the trickling filter was unused due to preferential flow. From these tests the team also showed that a uniform packing material is superior to an irregularly shaped material. In an effort to both maximize the surface area to volume ratio and to minimize the footprint of the system by not wasting space, the team shifted focus towards strings as a possible filter media. This concept led the team to start with very preliminary testing of a system that was essentially an overflowing basin with strings submerged at the top, inside the basin, and draped over the sides to guide water down to a collection bucket below. (See Figure 12 in section 1.2.2 in  [Can include that figure 2 mentioned here too!] for an example of  experimental set-up similar to those conducted in Spring 2018.) In these initial tests, the team members observed that the water did in fact follow the along strings when it overflowed. From these observations, the String Digester team began to design more rigorous tests on the concept and planned to investigate whether using strings in a wastewater treatment system is truly viable.
+
+<center>
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/Screen%20Shot%202018-10-24%20at%203.14.20%20PM.png?raw=true" />
+
+Figure 1. Experimental Set-up with water basin from [Fall 2018 Final Report](https://github.com/AguaClara/String-Digester/blob/master/Fall%20'18/Final_Report_stringdigester.md) Section 1.2.2 Figure 2.
+</center>
+
+### Fall 2018
+In Fall 2018, the team continued experimentation with the overflowing basin from the previous semester. The string yarn was abandoned due to its degradability. Nylon, polypropylene, and a stainless steel wire and cable were first tested on the same set-up from Spring 2018 with the overflowing basin. The plastics were chosen for their non-biodegradability; however, the stainless steel wires may be susceptible to corrosion. All of the preceding [preceding? or aforementioned] materials did not perform well on the basin set-up as the water did not follow the strands due to their hydrophobicity.
+
+
+Next, two foams and two stainless steel chains were tested on the same basin in addition to a winged basin set up. These materials were able to retain water as it trickled down. The blue foam worked exceptionally well as it absorbed water. The initial testing done on these materials suggests they could work in the proposed system and make the string digester technology possible. Further testing will be done on the chains as the foams are thought to easily clog; therefore, they are not confirmed to be a viable solution at this point. See [Fall 2018 Final Report](https://github.com/AguaClara/String-Digester/blob/master/Fall%20'18/Final_Report_stringdigester.md) for more information.
 
 ## Methods
 
@@ -118,6 +124,8 @@ After describing a particular result, within a paragraph, go on to connect your 
 * If the data do not support your hypothesis, is there another hypothesis that describes your new data?
 
 ## Conclusions
+
+
 Explain what you have learned and how that influences your next steps. Why does what you discovered matter to AguaClara?
 
 Make sure that you defend your conclusions with facts and results.
