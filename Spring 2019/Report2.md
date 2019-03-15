@@ -74,6 +74,15 @@ Explain your apparatus setup using enough detail such that future teams can recr
 Discuss your experimental procedure. How did you run your experiment? What were you testing? What were the values of relevant parameters?
 
 ## Results and Analysis
+![FRvsVWC](https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsVWC.png?raw=true)
+Figure 1:
+
+![FRvsHN](https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsHN.png?raw=true)
+Figure 2:
+
+![FRvsRT](https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsRT.png?raw=true)
+Figure 3:
+
 Present an observation (results), then explain what happened (analysis).  Each paragraph should focus on one aspect of your results. In that same paragraph, you should interpret that result.  
 In other words, there should not be two distinct paragraphs, but instead one paragraph containing one result and the interpretation and analysis of this result. Here are some guiding questions for results and analysis:
 
@@ -130,66 +139,89 @@ Spuhler, Dorothee; Eawag (Swiss Federal Institute of Aquatic Science and Technol
 Tandukar et al. (2005). "A low-cost municipal sewage treatment system with a combination of UASB and the "fourth-generation" downflow hanging sponge reactors." *Water Science Technology.* 52(1-2): 323-329.
 
 # Manual
-The goal of this section is to provide all of the guidance that would be necessary for a future team to pick up your work where you left off. Please try to be thorough and put yourselves in the shoes of a newcomer to the project. Below are some recommended sections, but the manual will likely take a slightly different form for each team.
 
 ## Fabrication Details
-###Fabrication of Chain Matrix Basin
-Include any information related to the fabrication of equipment, experimental apparatuses, or technologies. Include the purpose of each step and the fabrication methods used. Reference appropriate safety precautions.
+### Fabrication of Chain Matrix Basin
+Step 1. Obtain sheets of PVC.
+Step 2. Using electrical saw, cut pieces of PVC to desired lengths and widths.
+* For sides of basin, cut the PVC sheet to # inches by # inches.
+* For walls of basin, cut the PVC sheet to # inches by # inches.
+
+Step 3. Construct the basin in the form of a rectangular prism (no top/roof).
+* Use PVC glue and other necessary items to fabricate the shape.
+
+Step 4. Using an electrical drill with drill size #, drill 2 rows of 3 holes (6 holes total).
+Step 5. Cut 6 desired lengths of jack chain for the basin using wire cutter.
+Step 6. Pry open chain link on each chain using plyers and place into a basin hole.
 
 ## Special Components
-If your subteam uses a particular part that is unique and you could foresee a future subteam needing to order it or learn more about it, please include basic information like the vendor where it was purchased, catalog/item number, and a link to any documentation.
+### Chain
+For the chain in the single-chain and chain-matrix experiments, a stainless steel, 50-foot, size-18, jack chain was used.
+
+Purchasing Link: [Jack Chain](https://www.mcmaster.com/3617T2)
+
+<center>
+<img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/jackchain.jpg?raw=true" width = 300/>
+
+Figure #. The stainless steel jack chain used for the single-chain and chain-matrix experiments.
+</center>
 
 ## Experimental Methods
 ### Single Chain Experiments
 #### Set-up
-Step 1.
-* Put tasks in a sequential order.
-* It is okay to have sub-lists.
-  - Like this.
+Step 1. Suspend scale in air using rods for support.
+Step 2. Hook the jack chain to the hook on the bottom of the scale.
+* Record the length of the chain suspended in air.
+
+Step 3. Place large bucket under the chain to catch dripping water.
+Step 4. Balance/Zero the scale
+* Make sure chain is as still as possible when zeroing.
+* Make sure chain is dry.
+
+Step 5. Set up peristaltic pump with tubing (Tubing ID: 16)
+* Set desired pumping speed.
+
+<center>
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/scale%20string%20set%20up.png?raw=true" width = 300/>
+
+Figure #. Diagram of experimental apparatus for single chain experiment.
+
+</center>
 
 #### Experiment
-Step 1.
+Step 1. Start the peristaltic pump.
+Step 2. Raise the tubing to the very top of the chain, just beneath the scale.
+Step 3. Begin observing the scale and wait till scale reading begins to stabilize.
+Step 4. Record the range at which the scale reading fluctuates.
+Step 5. Repeat experiment as needed with desired pumping speed and desired jack chain length.
 
 #### Cleaning Procedure
-Step 1.
+Step 1. Turn peristaltic pump off and let chain air-dry.
+Step 2. Pour any excess water in bucket down the sink.
+Step 3. Remove chain from the scale hook.
+Step 4. Put items away as desired.
 
 ### Chain Matrix Experiments
 #### Set-up
-Step 1.
-* Put tasks in a sequential order.
-* It is okay to have sub-lists.
-  - Like this.
+Step 1. Suspend basin in air using rods for support.
+Step 2. Hook a jack chain through each hole on the bottom of the basin.
+Step 3. Place large bucket under the chain to catch dripping water.
+Step 4. Set up peristaltic pump with tubing (Tubing ID: 16)
+* Set desired pumping speed.
 
 #### Experiment
-Step 1.
+Step 1. Start the peristaltic pump.
+Step 2. Place the tubing into the basin.
+Step 3. Begin observing the chains and their performance in water retention.
+Step 4. Record the observations of the experiment.
+Step 5. Repeat experiment as needed with desired pumping speed and desired jack chain length.
 
 #### Cleaning Procedure
-Step 1.
+Step 1. Turn peristaltic pump off and let chains air-dry.
+Step 2. Pour any excess water in bucket down the sink.
+Step 3. Remove chains from the basin holes.
+Step 4. Put items away as desired.
 
-## Python Code
-
-### Variables
-$g$: gravity
-$\sigma$: dispersion
-$a$: amplitude
-$h$: water depth
-$H$: distance from wave crest to trough (2$a$)
-$T$: wave period
-$\lambda$: wavelength
-$k$: wavenumber
-$c_p$: celerity (wave phase speed)
-$P$: pressure
-$F$: force
-$u$, $w$: x-velocity, z-velocity components
-
-```python
-# Comment
-```
-
-# Add/Delete/Change this Template as you see Fit
-When using this template keep in mind that this serves three purposes. The first is to provide your team feedback on your progress, assumptions, and conclusions. The second is to keep your team focused on what you are learning and doing for AguaClara. Another is to educate future teams on what you've learned and done. This document should be comprehensive, consistent, and well-written. With that in mind, add, subtract, or move sections. Reach out to the RAs and graders for help with figuring out what should or shouldn't include. Focus on how wonderful a reference you are making through this and work hard on communicating amongst yourselves and with future teammates. (Delete this section before submitting)
-
-```python
 # To convert the document from markdown to pdf
 pandoc Name_of_this_file.md -o TeamName_Research_Report.pdf
 ```
