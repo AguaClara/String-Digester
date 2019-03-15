@@ -1,14 +1,14 @@
 # String Digester, Spring 2019
 #### Kiki Lo, Antonio Martinez, Gaby Sibel, Zsofia Szegletes
-#### February 22, 2019
+#### March 15, 2019
 
 ## Abstract
 The objective of String Digester for the Spring 2019 semester is to continue research on revamping a wastewater treatment system to eliminate problems associated with current trickling filters. To improve consistency in wastewater treatment, experiments will be conducted using metallic and plastic chains to optimize surface area. The long-term goal of this team is to create an efficient wastewater treatment system that will perform secondary and tertiary treatment on domestic wastewater. These tests will involve different chain types and materials, chain spacing, and biofilm growth to help define design parameters for the construction of a functioning string digester.
 
 ## Introduction
-The String Digester sub-team was created in response to the remaining need for secondary and tertiary wastewater treatment after treatment from the Upflow Anaerobic Sludge Blanket (UASB) reactor. Looking to improve on the traditional industrial-scale trickling filter design, previous work identified an issue with the process: there is a substantial amount of unused space in almost all treatment units[units of UASB?] due to preferential flow of wastewater. The primary objective of this sub-team is to continue to develop a novel design for a highly efficient trickling filter with a minimized footprint[footprint in terms of space?]. Following the conclusion from Fall 2018, that metal chains would be a viable trickling media due to their retention of water, the team decided to focus this semester's research on trying to determine what material and type of chain would work best in terms of water retention and biofilm growth and from there, determining the best matrix for these chains to be in to maximize water retention on chain media. With this work, the team will work towards assessing the feasibility of a modified trickling filter unit in future AguaClara treatment plants while striving to make significant technological improvements on industry-standard applications for the system. [Why is wastewater treatment  necessary? Why is secondary and tertriary important and what is it?  What is a trickling filter in one sentence? What is preferential flow?]
+The String Digester sub-team was created in response to the remaining need for secondary wastewater treatment after treatment from the Upflow Anaerobic Sludge Blanket (UASB) reactor. A trickling filter is a secondary wastewater treatment system that removes organic matter from the wastewater through biological means, and is crucial for the removal of harmful pathogens. Looking to improve on the traditional industrial-scale trickling filter design, previous work identified an issue with the process: there is a substantial amount of unused space in the treatment unit due to the uneven flow of wastewater across the system (preferential flow). The primary objective of this sub-team is to continue to develop a novel design for a highly efficient trickling filter with a minimized footprint in terms of space. Following the conclusion from Fall 2018, that metal chains would be a viable trickling media due to their retention of water, the team decided to focus this semester's research on trying to determine what material and type of chain would work best in terms of water retention and biofilm growth and from there, determining the best matrix for these chains to be in to maximize water retention on chain media. With this work, the team will work towards assessing the feasibility of a modified trickling filter unit in future AguaClara treatment plants while striving to make significant technological improvements on industry-standard applications for the system.
 
-Research dealing with trickling filter wastewater treatment was ubiquitous in the 1970's and 1980's, however, research involving chain media in this method of treatment is almost nonexistent along with a [unclear what "along with a" means in relation to the decline. Was it caused by the decline in use of trickling filters? If that is the case a stronger conjuction should be used to indicate relationship] decline in general trickling filter wastewater treatment research in following decades. Research on secondary wastewater treatment, performed by trickling filters previously[the trickling filters performed the research? Or the research on secondary WW treatment was done primarily on trickling filters], shifted ~~more~~[redundant] towards processes higher in energy consumption. Because of AguaClara's mission[which is?] and the regions a future wastewater plant would serve, trickling filters are a promising technology due to their low-energy requirements, and with work in reducing unused space in these plants, these treatment systems are ideal. Maintaining will be a priority in the team's future design. With modification, the trickling filter treatment system carries much potential to be implemented in areas of the world in which capital expenditure is a major barrier for employing traditional secondary wastewater treatment (aeration tanks).
+Research dealing with trickling filter wastewater treatment was ubiquitous in the 1970's and 1980's, however, the research has significantly declined in general trickling filter wastewater treatment research in following decades. Moreover, research involving string as a media in this method of treatment is almost nonexistent. Research on secondary wastewater treatment originally focused on performance of trickling filters, but now has shifted towards processes higher in energy consumption. The plant philosophy of AguaClara is to create a plant that is optimized for low cost and a high performance, and looking at the regions a future wastewater plant would serve, trickling filters are a promising technology due to their low-energy requirements. With work in reducing unused space in these plants, these treatment systems are ideal. Maintaining will be a priority in the team's future design. With modification, the trickling filter treatment system carries much potential to be implemented in areas of the world in which capital expenditure is a major barrier for employing traditional secondary wastewater treatment (aeration tanks).
 
 ## Previous Works
 [Would recommend putting this after lit review so that you can introduce concepts/terms unfamiliar to the author before previous work like preferential flow and etc.]
@@ -52,28 +52,47 @@ In another experiment, three different types of plastic often used in pipe produ
 Studies have also been conducted about the bacteria that produce the biofilm on the stainless steel. Many of these studies involve curli-producing bacteria. Curli fibers "are the major proteinaceous component of a complex extracellular matrix produced by many Enterobacteriaceae" and "are involved in adhesion to surfaces, cell aggregation, and biofilm formation" [(Barnhart and Chapman).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2838481/) One such study focused on *Escherichia coli* O157:H7 bacteria with 6 individual strains, three of which produced curli and three which did not. The study found that the gene for curli production did not affect the attachment of the bacteria to the stainless steel, but it did affect the formation of biofilms. Only the curli producing strains were able to form biofilms [(Ryu et al. 2004).](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1472-765X.2004.01591.x) However, since *E. coli* are ~~fairly~~ common[ly] [found] in wastewater, it is probable for biofilm to be able to grow on the stainless steel chains as long as some kind of bacteria with the curli-producing gene is present in the wastewater and the flow rate is not too fast. So, assuming that the bacteria will most likely be present and once the biofilm is built up on each of the chains, the main issue then becomes preventing accumulated biofilm from falling off one chain and then dragging it off other chains as well in a domino effect[and then, in a domino effect, dragging it off other chains as well].
 
 ## Methods
-Explain the techniques you have used to acquire additional data and insights. Reserve fine detail for the Manual at the end of the report, but use this section to give an overview with enough detail for the reader to understand your Results and Analysis. Describe your apparatus, and have a justification for every decision you made and every parameter you chose in the design of the apparatus. Be especially careful to detail the conditions your experiments were conducted under, as this information is especially important for interpreting your results
 
-Below, some example sections are given. Sectioning the report is meant to keep similar information together.  Continue making sections as necessary, or delete sections if you do not need them. Feel free to add subsubsections to further delineate the information. For example, under the Experimental Apparatus section below, the EStaRS team might consider having sections such as "Filter Design" and "Filter Fabrication".
+### Initial experiment
 
-### Experimental Apparatus
-Explain your apparatus setup using enough detail such that future teams can recreate your apparatus. Make sure to explain why you built it this way.
-* Design (calculations, constraints)
+##### Objective of Experiment
+The objective of the initial experiment was to determine the amount of water that could be held on the chain at a single point in time and to figure out how long the residence time was for water on the chain at different flow rates.
 
-  $\frac{-b\pm\sqrt{b^2-4ac}}{2a}$
-* Schematic (label parts)
+####Experimental Apparatus
+A scale was secured approximately one meter above a lab bench resting on supports at each corner so that the bottom of the scale was left accessible. There was a hook on the bottom of the scale that measures the weight that is hung from the hook. A single chain was attached to the hook on the bottom of the scale and was allowed to hang down freely, see Figure 1 below. Reference the Manual section for a detailed explanation of the set-up.
 
-  <img src="https://github.com/jillianwhiting/Jillian-Whiting/blob/master/Images/IMG_0009.jpg?raw=true" height=250 width=200>
+(bvscale.jpg) I'm having trouble getting the pics in
+
 
 * Image (from lab; label parts)
 * Materials (dimensions, materials)
 * Complications in construction
 * If already constructed: write a brief summary of important constraints, include any revisions to apparatus, also reference the prior report where construction is described
 
-### Procedure
-Discuss your experimental procedure. How did you run your experiment? What were you testing? What were the values of relevant parameters?
+#### Procedure
+[Reference the Manual section for detailed procedure]. A narrow tube was connected to a peristaltic pump and water was pumped at a known rate. The end of the tube was directed onto the top of the chain hanging from the scale, in an attempt to allow water to flow onto and down the hanging chain. The scale was zeroed with the chain hanging on the scale so that the scale would only measure the weight of the water on the chain. The idea was to get water flowing on the chain and then, while continuously pumping water onto the chain, measure the weight of the water on the chain at a moment in time. Because the scale reading often fluctuated, the range of weights was recorded. The weight of the water on the chain was found for several different flow rates of water from the peristaltic pump. From these measurements, the team would be able to quantify how much water the chain could hold per unit length. ** add residence time thing**?
+
+### Chain Matrix Experiment
+#####Objective of Experiment
+The objective of this chain matrix experiment was to identify and compare the water retention of multiple chains in the same basin of water.
+
+
+#### Experimental Apparatus
+6 holes were drilled into a basin(see Figure 2). 6 chains were subsequently inserted into these holes and were left to hang freely from the other end(see Figure 3). The basin was placed on top of a rod that rested across from the four supports in the previous experiment(see Figure 4). Reference the Manual section for detailed information on the Experimental Apparatus.
+
+#### Procedure
+Water from a narrow tube was directed into the basin. The peristaltic pump was used to control the amount of water flowing into the basin. The amount of water flowing onto each chain was analyzed and compared for retention.
 
 ## Results and Analysis
+![FRvsVWC](https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsVWC.png?raw=true)
+Figure 1:
+
+![FRvsHN](https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsHN.png?raw=true)
+Figure 2:
+
+![FRvsRT](https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsRT.png?raw=true)
+Figure 3:
+
 Present an observation (results), then explain what happened (analysis).  Each paragraph should focus on one aspect of your results. In that same paragraph, you should interpret that result.  
 In other words, there should not be two distinct paragraphs, but instead one paragraph containing one result and the interpretation and analysis of this result. Here are some guiding questions for results and analysis:
 
@@ -130,66 +149,89 @@ Spuhler, Dorothee; Eawag (Swiss Federal Institute of Aquatic Science and Technol
 Tandukar et al. (2005). "A low-cost municipal sewage treatment system with a combination of UASB and the "fourth-generation" downflow hanging sponge reactors." *Water Science Technology.* 52(1-2): 323-329.
 
 # Manual
-The goal of this section is to provide all of the guidance that would be necessary for a future team to pick up your work where you left off. Please try to be thorough and put yourselves in the shoes of a newcomer to the project. Below are some recommended sections, but the manual will likely take a slightly different form for each team.
 
 ## Fabrication Details
-Include any information related to the fabrication of equipment, experimental apparatuses, or technologies. Include the purpose of each step and the fabrication methods used. Reference appropriate safety precautions.
+### Fabrication of Chain Matrix Basin
+Step 1. Obtain sheets of PVC.
+Step 2. Using electrical saw, cut pieces of PVC to desired lengths and widths.
+* For sides of basin, cut the PVC sheet to # inches by # inches.
+* For walls of basin, cut the PVC sheet to # inches by # inches.
+
+Step 3. Construct the basin in the form of a rectangular prism (no top/roof).
+* Use PVC glue and other necessary items to fabricate the shape.
+
+Step 4. Using an electrical drill with drill size #, drill 2 rows of 3 holes (6 holes total).
+Step 5. Cut 6 desired lengths of jack chain for the basin using wire cutter.
+Step 6. Pry open chain link on each chain using plyers and place into a basin hole.
 
 ## Special Components
-If your subteam uses a particular part that is unique and you could foresee a future subteam needing to order it or learn more about it, please include basic information like the vendor where it was purchased, catalog/item number, and a link to any documentation.
+### Chain
+For the chain in the single-chain and chain-matrix experiments, a stainless steel, 50-foot, size-18, jack chain was used.
+
+Purchasing Link: [Jack Chain](https://www.mcmaster.com/3617T2)
+
+<center>
+<img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/jackchain.jpg?raw=true" width = 300/>
+
+Figure #. The stainless steel jack chain used for the single-chain and chain-matrix experiments.
+</center>
 
 ## Experimental Methods
-### Set-up
-Step 1.
-* Put tasks in a sequential order.
-* It is okay to have sub-lists.
-  - Like this.
+### Single Chain Experiments
+#### Set-up
+Step 1. Suspend scale in air using rods for support.
+Step 2. Hook the jack chain to the hook on the bottom of the scale.
+* Record the length of the chain suspended in air.
 
-### Experiment
-Step 1.
+Step 3. Place large bucket under the chain to catch dripping water.
+Step 4. Balance/Zero the scale
+* Make sure chain is as still as possible when zeroing.
+* Make sure chain is dry.
 
-### Cleaning Procedure
-Step 1.
+Step 5. Set up peristaltic pump with tubing (Tubing ID: 16)
+* Set desired pumping speed.
 
-## Experimental Checklist
-Another potential section could include a list of things that you need to check before running an experiment.
+<center>
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/scale%20string%20set%20up.png?raw=true" width = 300/>
 
-## ProCoDA Method File
-Use this section to explain your method file. This could be broken up into several components as shown below:
+Figure #. Diagram of experimental apparatus for single chain experiment.
 
-### States
-Here, you should describe the function of each state in your method file, both in terms of its overall purpose and also in terms of the details that make it distinct from other states. For example:
-\begin{itemize}
-\item \underline{OFF} - Resting state of ProCoDA. All sensors, relays, and pumps are turned off.
-\end{itemize}
+</center>
 
-### Set Points
-Here, you should list the set points used in your method file and explain their use as well as how each was calculated.
+#### Experiment
+Step 1. Start the peristaltic pump.
+Step 2. Raise the tubing to the very top of the chain, just beneath the scale.
+Step 3. Begin observing the scale and wait till scale reading begins to stabilize.
+Step 4. Record the range at which the scale reading fluctuates.
+Step 5. Repeat experiment as needed with desired pumping speed and desired jack chain length.
 
-## Python Code
+#### Cleaning Procedure
+Step 1. Turn peristaltic pump off and let chain air-dry.
+Step 2. Pour any excess water in bucket down the sink.
+Step 3. Remove chain from the scale hook.
+Step 4. Put items away as desired.
 
-### Variables
-$g$: gravity
-$\sigma$: dispersion
-$a$: amplitude
-$h$: water depth
-$H$: distance from wave crest to trough (2$a$)
-$T$: wave period
-$\lambda$: wavelength
-$k$: wavenumber
-$c_p$: celerity (wave phase speed)
-$P$: pressure
-$F$: force
-$u$, $w$: x-velocity, z-velocity components
+### Chain Matrix Experiments
+#### Set-up
+Step 1. Suspend basin in air using rods for support.
+Step 2. Hook a jack chain through each hole on the bottom of the basin.
+Step 3. Place large bucket under the chain to catch dripping water.
+Step 4. Set up peristaltic pump with tubing (Tubing ID: 16)
+* Set desired pumping speed.
 
-```python
-# Comment
-```
+#### Experiment
+Step 1. Start the peristaltic pump.
+Step 2. Place the tubing into the basin.
+Step 3. Begin observing the chains and their performance in water retention.
+Step 4. Record the observations of the experiment.
+Step 5. Repeat experiment as needed with desired pumping speed and desired jack chain length.
 
-# Add/Delete/Change this Template as you see Fit
-When using this template keep in mind that this serves three purposes. The first is to provide your team feedback on your progress, assumptions, and conclusions. The second is to keep your team focused on what you are learning and doing for AguaClara. Another is to educate future teams on what you've learned and done. This document should be comprehensive, consistent, and well-written. With that in mind, add, subtract, or move sections. Reach out to the RAs and graders for help with figuring out what should or shouldn't include. Focus on how wonderful a reference you are making through this and work hard on communicating amongst yourselves and with future teammates. (Delete this section before submitting)
+#### Cleaning Procedure
+Step 1. Turn peristaltic pump off and let chains air-dry.
+Step 2. Pour any excess water in bucket down the sink.
+Step 3. Remove chains from the basin holes.
+Step 4. Put items away as desired.
 
-```python
 # To convert the document from markdown to pdf
 pandoc Name_of_this_file.md -o TeamName_Research_Report.pdf
 ```
