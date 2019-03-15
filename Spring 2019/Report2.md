@@ -52,26 +52,36 @@ In another experiment, three different types of plastic often used in pipe produ
 Studies have also been conducted about the bacteria that produce the biofilm on the stainless steel. Many of these studies involve curli-producing bacteria. Curli fibers "are the major proteinaceous component of a complex extracellular matrix produced by many Enterobacteriaceae" and "are involved in adhesion to surfaces, cell aggregation, and biofilm formation" [(Barnhart and Chapman).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2838481/) One such study focused on *Escherichia coli* O157:H7 bacteria with 6 individual strains, three of which produced curli and three which did not. The study found that the gene for curli production did not affect the attachment of the bacteria to the stainless steel, but it did affect the formation of biofilms. Only the curli producing strains were able to form biofilms [(Ryu et al. 2004).](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1472-765X.2004.01591.x) However, since *E. coli* are ~~fairly~~ common[ly] [found] in wastewater, it is probable for biofilm to be able to grow on the stainless steel chains as long as some kind of bacteria with the curli-producing gene is present in the wastewater and the flow rate is not too fast. So, assuming that the bacteria will most likely be present and once the biofilm is built up on each of the chains, the main issue then becomes preventing accumulated biofilm from falling off one chain and then dragging it off other chains as well in a domino effect[and then, in a domino effect, dragging it off other chains as well].
 
 ## Methods
-Explain the techniques you have used to acquire additional data and insights. Reserve fine detail for the Manual at the end of the report, but use this section to give an overview with enough detail for the reader to understand your Results and Analysis. Describe your apparatus, and have a justification for every decision you made and every parameter you chose in the design of the apparatus. Be especially careful to detail the conditions your experiments were conducted under, as this information is especially important for interpreting your results
 
-Below, some example sections are given. Sectioning the report is meant to keep similar information together.  Continue making sections as necessary, or delete sections if you do not need them. Feel free to add subsubsections to further delineate the information. For example, under the Experimental Apparatus section below, the EStaRS team might consider having sections such as "Filter Design" and "Filter Fabrication".
+### Initial experiment
 
-### Experimental Apparatus
-Explain your apparatus setup using enough detail such that future teams can recreate your apparatus. Make sure to explain why you built it this way.
-* Design (calculations, constraints)
+##### Objective of Experiment
+The objective of the initial experiment was to determine the amount of water that could be held on the chain at a single point in time and to figure out how long the residence time was for water on the chain at different flow rates.
 
-  $\frac{-b\pm\sqrt{b^2-4ac}}{2a}$
-* Schematic (label parts)
+####Experimental Apparatus
+A scale was secured approximately one meter above a lab bench resting on supports at each corner so that the bottom of the scale was left accessible. There was a hook on the bottom of the scale that measures the weight that is hung from the hook. A single chain was attached to the hook on the bottom of the scale and was allowed to hang down freely, see Figure 1 below. Reference the Manual section for a detailed explanation of the set-up.
 
-  <img src="https://github.com/jillianwhiting/Jillian-Whiting/blob/master/Images/IMG_0009.jpg?raw=true" height=250 width=200>
+(bvscale.jpg) I'm having trouble getting the pics in
+
 
 * Image (from lab; label parts)
 * Materials (dimensions, materials)
 * Complications in construction
 * If already constructed: write a brief summary of important constraints, include any revisions to apparatus, also reference the prior report where construction is described
 
-### Procedure
-Discuss your experimental procedure. How did you run your experiment? What were you testing? What were the values of relevant parameters?
+#### Procedure
+[Reference the Manual section for detailed procedure]. A narrow tube was connected to a peristaltic pump and water was pumped at a known rate. The end of the tube was directed onto the top of the chain hanging from the scale, in an attempt to allow water to flow onto and down the hanging chain. The scale was zeroed with the chain hanging on the scale so that the scale would only measure the weight of the water on the chain. The idea was to get water flowing on the chain and then, while continuously pumping water onto the chain, measure the weight of the water on the chain at a moment in time. Because the scale reading often fluctuated, the range of weights was recorded. The weight of the water on the chain was found for several different flow rates of water from the peristaltic pump. From these measurements, the team would be able to quantify how much water the chain could hold per unit length. ** add residence time thing**?
+
+### Chain Matrix Experiment
+#####Objective of Experiment
+The objective of this chain matrix experiment was to identify and compare the water retention of multiple chains in the same basin of water.
+
+
+#### Experimental Apparatus
+6 holes were drilled into a basin(see Figure 2). 6 chains were subsequently inserted into these holes and were left to hang freely from the other end(see Figure 3). The basin was placed on top of a rod that rested across from the four supports in the previous experiment(see Figure 4). Reference the Manual section for detailed information on the Experimental Apparatus.
+
+#### Procedure
+Water from a narrow tube was directed into the basin. The peristaltic pump was used to control the amount of water flowing into the basin. The amount of water flowing onto each chain was analyzed and compared for retention.
 
 ## Results and Analysis
 ![FRvsVWC](https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsVWC.png?raw=true)
