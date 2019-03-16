@@ -8,7 +8,7 @@ x,y = np.loadtxt('CFRT_FR_vs_VWC.csv',
                  delimiter = ',')
 
 plt.plot(x,y)
-plt.title('Flow Rate vs. Volume of Water on Chain')
+plt.title('Volume of Water on Chain at Different Flow Rates')
 plt.xlabel('Flow Rate (mL/s)')
 plt.ylabel('Volume of Water on Chain (mL)')
 plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/FRvsVWC')
@@ -24,7 +24,7 @@ x,y = np.loadtxt('CFRT_FR_vs_HN.csv',
                 delimiter = ',')
 
 plt.plot(x,y)
-plt.title('Flow Rate vs. Height of Chain Needed')
+plt.title('Height of Chain Needed for a 15 Minute Residence Time')
 plt.xlabel('Flow Rate (mL/s)')
 plt.ylabel('Height of Chain (m)')
 plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/FRvsHN')
@@ -40,7 +40,7 @@ x,y = np.loadtxt('CFRT_FR_vs_RT.csv',
                 delimiter = ',')
 
 plt.plot(x,y)
-plt.title('Flow Rate vs. Residence Time')
+plt.title('Residence Time of Water on Chain at Different Flow Rates')
 plt.xlabel('Flow Rate (mL/s)')
 plt.ylabel('Residence Time (s)')
 plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/FRvsRT')
