@@ -11,7 +11,6 @@ The String Digester sub-team was created in response to the remaining need for s
 Research dealing with trickling filter wastewater treatment was ubiquitous in the 1970's and 1980's, however, the research has significantly declined in general trickling filter wastewater treatment research in following decades. Moreover, research involving string as a media in this method of treatment is almost nonexistent. Research on secondary wastewater treatment originally focused on performance of trickling filters, but now has shifted towards processes higher in energy consumption. The plant philosophy of AguaClara is to create a plant that is optimized for low cost and a high performance, and looking at the regions a future wastewater plant would serve, trickling filters are a promising technology due to their low-energy requirements. With work in reducing unused space in these plants, these treatment systems are ideal. Maintaining will be a priority in the team's future design. With modification, the trickling filter treatment system carries much potential to be implemented in areas of the world in which capital expenditure is a major barrier for employing traditional secondary wastewater treatment (aeration tanks).
 
 
-
 ## Literature Review
 ### Trickling Filters
 The filter media in a conventional trickling filter is usually a material such as rocks, gravel, shredded PVC bottles, or special pre-formed plastic filter media. Because all these materials are not regularly shaped and wastewater is not distributed exactly equally across the top of the media, the water follows the paths of least resistance and preferential flow occurs. Thus, there is wasted space in the filter that remains dry and unused. This leads to a less efficient treatment of organic matter than if all of the space in the filter were utilized. In their paper, Spuhler recommends using specially manufactured plastic media, like corrugated plastic sheets or even hollow plastic cylinders, to optimize surface area for biofilm formation & allow for free movement of air [(Spuhler 2018).](https://www.sswm.info/node/8215)
@@ -40,18 +39,23 @@ Studies have also been conducted about the bacteria that produce the biofilm on 
 ## Previous Works
 [Would recommend putting this after lit review so that you can introduce concepts/terms unfamiliar to the author before previous work like preferential flow and etc.]
 ### Spring 2018
-In Spring 2018, the Trickling Filter team spent a substantial amount of time doing research ~~and gathering information~~ [implied in research] on the operational difficulties, the kinetics, and typical design parameters of trickling filters. The team aimed to address many of the issues plant operators encounter with trickling filters, like clogging and ponding, lack of moisture in parts of the filter, and general inefficiency of the filter. The two main areas for improvement the team identified were the filter media itself and the distribution system ([Spring 2018 Final Report](https://github.com/AguaClara/String-Digester/blob/master/Spring%20'18/TricklingFilter_Final_Report.md)).
+In Spring 2018, the Trickling Filter team spent a substantial amount of time doing research on the operational difficulties, the kinetics, and typical design parameters of trickling filters. The team aimed to address many of the issues plant operators encounter with trickling filters, like clogging and ponding, lack of moisture in parts of the filter, and general inefficiency of the filter. The two main areas for improvement the team identified were the filter media itself and the distribution system ([Spring 2018 Final Report](https://github.com/AguaClara/String-Digester/blob/master/Spring%20'18/TricklingFilter_Final_Report.md)).
 
 
 
-The team fabricated a bench top model for flow mapping and conducted several rounds of tests to determine the distribution of flow in trickling filters with small rock and marble media. From these experiments, the team noticed that there were significant portions of the media that never got wet and thus concluded that a substantial volume of the trickling filter was unused due to preferential flow. From these tests the team also showed that a uniform packing material is superior to an irregularly shaped material. In an effort to both maximize the surface area to volume ratio and to minimize the footprint of the system by not wasting space, the team shifted focus towards strings as a possible filter media. This concept led the team to start with very preliminary testing of a system that was essentially an overflowing basin with strings submerged at the top, inside the basin, and draped over the sides to guide water down to a collection bucket below. (See Figure 2 in section 1.2.2 in [Fall 2018 Final Report](https://github.com/AguaClara/String-Digester/blob/master/Fall%20'18/Final_Report_stringdigester.md) [Can include that figure 2 mentioned here too!] for an example of  experimental set-up similar to those conducted in Spring 2018.) In these initial tests, the team members observed that the water did in fact follow the along strings when it overflowed. From these observations, the String Digester team began to design more rigorous tests on the concept and planned to investigate whether using strings in a wastewater treatment system is truly viable.
+The team fabricated a bench top model for flow mapping and conducted several rounds of tests to determine the distribution of flow in trickling filters with small rock and marble media. From these experiments, the team noticed that there were significant portions of the media that never got wet and thus concluded that a substantial volume of the trickling filter was unused due to preferential flow. From these tests the team also showed that a uniform packing material is superior to an irregularly shaped material. In an effort to both maximize the surface area to volume ratio and to minimize the footprint of the system by not wasting space, the team shifted focus towards strings as a possible filter media. This concept led the team to start with very preliminary testing of a system that was essentially an overflowing basin with strings submerged at the top, inside the basin, and draped over the sides to guide water down to a collection bucket below. (See Figure 12 in section 1.2.2 in  [Can include that figure 2 mentioned here too!] for an example of  experimental set-up similar to those conducted in Spring 2018.) In these initial tests, the team members observed that the water did in fact follow the along strings when it overflowed. From these observations, the String Digester team began to design more rigorous tests on the concept and planned to investigate whether using strings in a wastewater treatment system is truly viable.
+
+<center>
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/Screen%20Shot%202018-10-24%20at%203.14.20%20PM.png?raw=true" />
+
+Figure 1. Experimental Set-up with water basin from [Fall 2018 Final Report](https://github.com/AguaClara/String-Digester/blob/master/Fall%20'18/Final_Report_stringdigester.md) Section 1.2.2 Figure 2.
+</center>
 
 ### Fall 2018
-In Fall 2018, the team continued experimentation with the overflowing basin from the previous semester. The string yarn was abandoned due to its degradability. Nylon, polypropylene, and a stainless steel wire and cable were first tested on the same set-up from Spring 2018 with the overflowing basin. The plastics were chosen for their non-biodegradability; however, the stainless steel wires may be susceptible to corrosion. All of the proceeding[preceding? or aforementioned] materials did not perform well on the basin set-up as the water did not follow the strands due to their hydrophobicity.
+In Fall 2018, the team continued experimentation with the overflowing basin from the previous semester. The string yarn was abandoned due to its degradability. Nylon, polypropylene, and a stainless steel wire and cable were first tested on the same set-up from Spring 2018 with the overflowing basin. The plastics were chosen for their non-biodegradability; however, the stainless steel wires may be susceptible to corrosion. All of the preceding [preceding? or aforementioned] materials did not perform well on the basin set-up as the water did not follow the strands due to their hydrophobicity.
 
 
-Two Foams and two stainless steel chains were next[Put next as the first word instead of here] tested on the same basin in addition to a winged basin set up. These materials were able to retain water as it trickled down. The blue foam worked exceptionally well as it absorbed water. The initial testing done on these materials suggests they could work in the proposed system and make the string digester technology possible. Further testing will be done on the chains as the foams are thought to easily clog; therefore, they are not [confirmed to be?] a viable solution at this point. See [Fall 2018 Final Report](https://github.com/AguaClara/String-Digester/blob/master/Fall%20'18/Final_Report_stringdigester.md) for more information.
-
+Next, two foams and two stainless steel chains were tested on the same basin in addition to a winged basin set up. These materials were able to retain water as it trickled down. The blue foam worked exceptionally well as it absorbed water. The initial testing done on these materials suggests they could work in the proposed system and make the string digester technology possible. Further testing will be done on the chains as the foams are thought to easily clog; therefore, they are not confirmed to be a viable solution at this point. See [Fall 2018 Final Report](https://github.com/AguaClara/String-Digester/blob/master/Fall%20'18/Final_Report_stringdigester.md) for more information.
 
 ## Methods
 
@@ -63,7 +67,7 @@ The objective of the initial experiment was to determine the amount of water tha
 ####Experimental Apparatus
 A scale was secured approximately one meter above a lab bench resting on supports at each corner so that the bottom of the scale was left accessible. There was a hook on the bottom of the scale that measures the weight that is hung from the hook. A single chain was attached to the hook on the bottom of the scale and was allowed to hang down freely, see Figure 1 below. Reference the Manual section for a detailed explanation of the set-up.
 
-![If you save it to the images folder in String-Digester/Spring 2019/Images its easier to put in markdown](bvscale.jpg) I'm having trouble getting the pics in
+(bvscale.jpg) I'm having trouble getting the pics in
 
 
 * Image (from lab; label parts)
@@ -86,21 +90,21 @@ The objective of this chain matrix experiment was to identify and compare the wa
 Water from a narrow tube was directed into the basin. The peristaltic pump was used to control the amount of water flowing into the basin. The amount of water flowing onto each chain was analyzed and compared for retention.
 
 ## Results and Analysis
-The single chain experiment yielded many results by simply measuring the mass and length of the chain at a controlled flow rate. By dividing the mass on the chain by the density of water, which is 1 g/ml, we were able to obtain the volume of water on the chain. When graphed against flow rate this calculation yielded a curve best fit by a power series with an R<sup>2</sup> of .991. This is an appropriate result because power series are most often used for data that compares measurements that increase at a specific rate. The flow rate was increased in small increments and it makes sense that the volume of water on the chain would also increase at a specific rate until it reached a certain threshold, which can be seen towards the end of the line graph where the volume of water on the chain starts leveling out.
-
 ![FRvsVWC](https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsVWC.png?raw=true)
-Figure 1: The volume of water on the chain as the flow rate is incremented increasingly.
-
-Furthermore, residence time was calculated by dividing the volume of water on the chain (ml) by the flow rate(ml/min) and then multiplying by 60 sec/min to get the value in a more feasible and understandable unit. Understanding the residence time of water at different flow rates is important because optimally the residence time desired is 15 minutes. The line of best fit for this graph is also power series since the flow rate is increasing in increments and has an R<sup>2</sup> value of .996. Since the residence time drastically decreases as the flow rate increases it is understood that an actual string digester system made with chains would have to run at low flow rates with really long chains. For example, if it were run at 1.5 ml/min at least a 13.716-meter chain would be needed for the optimal 15-minute residence time, which might be unattainable in some circumstances and the issue of clogging of pipes and tubes comes into play because the flow rate is so low. Thus, other materials may be worth looking into as possible strings in the system that will have better residence time.
-
-![FRvsRT](https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsRT.png?raw=true)
-Figure 2: The residence time of any given droplet of water on the chain at different increasingly incremented flow rates.
-
-Another result the experiment supplied was the height of the chain that would be needed for a 15 min residence time at each flow rate. The height needed was calculated by dividing 900 seconds (15 mins) by the residence time(s) by the length of the chain, in this case .9144 meters. Then in graphing this value against the flow rate another set of data with a power series line of best fit is yielded this time with a R<sup>2</sup> value of .996. Again, since the flow rate was increased at specific increments and the residence time greatly decreased as the flow rate increased initially and then leveled out it follows that the line of best fit for the height needed for a residence time of 15 minutes should start off with a steeper slope and eventually start to become less steep. By running this experiment and calculating the values needed for residence time and height needed we were able to determine that chains may not be the best material to optimize the parameters we want.
+Figure 1:
 
 ![FRvsHN](https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsHN.png?raw=true)
-Figure 3: The height of the chain needed for a 15 minute residence time at different flow rates. 
+Figure 2:
 
+![FRvsRT](https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsRT.png?raw=true)
+Figure 3:
+
+Present an observation (results), then explain what happened (analysis).  Each paragraph should focus on one aspect of your results. In that same paragraph, you should interpret that result.  
+In other words, there should not be two distinct paragraphs, but instead one paragraph containing one result and the interpretation and analysis of this result. Here are some guiding questions for results and analysis:
+
+When describing your results, present your data, using the guidelines below:
+* What happened? What did you find?
+* Show your experimental data in a professional way.
 ```python
 from aide_design.play import*
 x = np.array([1,2,3,4,5])
@@ -110,14 +114,26 @@ plt.plot(x,y,'*')
 plt.savefig('/Users/jillianwhiting/github/Jillian-Whiting/Images/linear')
 plt.show()
 ```
+![linear](https://github.com/jillianwhiting/Jillian-Whiting/blob/master/Images/linear.png?raw=true)
+Figure 1: Captions are very important for figures. Captions go below figures.
+
+After describing a particular result, within a paragraph, go on to connect your work to fundamental physics/chemistry/statics/fluid mechanics, or whatever field is appropriate. Analyze your results and compare with theoretical expectations; or, if you have not yet done the experiments, describe your expectations based on established knowledge. Include implications of your results. How will your results influence the design of AguaClara plants? If possible provide clear recommendations for design changes that should be adopted. Show your experimental data in a professional way using the following guidelines:
+* Why did you get those results/data?
+* Did these results line up with expectations?
+* What went wrong?
+* If the data do not support your hypothesis, is there another hypothesis that describes your new data?
 
 ## Conclusions
-Explain what you have learned and how that influences your next steps. Why does what you discovered matter to AguaClara?
 
-Make sure that you defend your conclusions with facts and results.
+The team tested the tested the weight of water on the jack chain at different flow rates using a single chain set-up. From these results, the team was able to determine the amount of water on the chain, the residence time on the chain, and the height needed for a 15 minute residence time. As flow rate increased, the volume of water on the chain and height of chain needed for a 15 minute residence time also increased. The residence time versus flow rate showed a negative correlation. These chains do not show a viable option for an AguaClara wastewater treatment plant at this point. At the lowest flow rate tested of 1.5 ml/min onto one single chain, the height needed for a 15 min residence time would be 13.7 m. This is about 4.5 stories. Since the goal of AguaClara is to be gravity powered, it would be quite difficult to get water 13.7 m high in addition to the difficulty the operators would face should they need to fix something in a string digester this high. In addition, this chain is also not feasible for an ideal string digester as the water flowing down it did not form a uniform sheath but instead flowed down in distinct droplets. This irregular ebb and flow along with a non-uniform sheath make for a system that does not use the entirety of the surface area of the chain. Since the goal of the string digester is to maximize surface area and therefore digestion efficiency, the inefficient spacial chain digester system is not a feasible option at this time.
+
+Creating a rapid but efficient string digester would be impactful for the future of AguaClara's involvement in wastewater treatment. String digesters have the potential to greatly decrease the wastewater processing time and also decrease the organic solutes in the effluent. By maximizing potential surface area for the microbes to grow on using strings and sponges, thereby allowing for more microbial digestion of the water, some traditional trickling filter problems would be solved or minimized. Effluent from the UASB will require further treatment and the team believes that a string digester could provide the necessary treatment with minimal energy requirements.
 
 ## Future Work
-Describe your plan of action for the next several weeks of research. Detail the next steps for this team. How can AguaClara use what you discovered for future projects? Your suggestions for challenges for future teams are most welcome. Should research in this area continue?
+In the following weeks, the team will test a 0.3mm Dacron string. The team will use micro-tubing with the peristaltic pump to test the same parameters as was tested for the chains. The micro-tubing will allow a much smaller flow rate necessary for the thinner string. In addition, the team will purchase several more strings that are synthetic hydrophilic materials. The team may also test the capillary action abilities of the strings to draw water up at an even slower rate. Further, the rate of oxygen diffusion into the string will be calculated to assure that enough can diffuse into the surface of the string to reach the necessary biological oxygen demand (BOD). This BOD is necessary to perform as a successful alternative to a trickling filter and remove organic compounds. The future of this team primary relies on finding an appropriate material that will allow for biofilm growth and not be susceptible to degrading.
+
+The team is also looking into using synthetic waste water inoculated with an aerobic bacteria. The team would need to set-up a system of measuring how much organic nutrients the bacteria could remove over the length of the string digester and even just how feasible biofilm growth is on the strings.
+
 
 ## Bibliography
 Ali et al. (2017). "Identification and Elucidation of the Designing and Operational Issues of Trickling Filter Systems for Wastewater Treatment." *Polish Journal of Environmental Studies.* 26(6), 2431-2444.
