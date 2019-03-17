@@ -50,7 +50,7 @@ The team fabricated a bench top model for flow mapping and conducted several rou
 <center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/Screen%20Shot%202018-10-24%20at%203.14.20%20PM.png?raw=true" />
 
-Figure 1. Experimental Set-up with water basin from [Fall 2018 Final Report](https://github.com/AguaClara/String-Digester/blob/master/Fall%20'18/Final_Report_stringdigester.md) Section 1.2.2 Figure 2.
+**Figure 1**. Experimental Set-up with water basin from [Fall 2018 Final Report](https://github.com/AguaClara/String-Digester/blob/master/Fall%20'18/Final_Report_stringdigester.md) Section 1.2.2 Figure 2.
 </center>
 
 ### Fall 2018
@@ -61,50 +61,78 @@ Next, two foams and two stainless steel chains were tested on the same basin in 
 
 ## Methods
 
-### Initial experiment
+### Single Chain Experiment
 
 ##### Objective of Experiment
-The objective of the initial experiment was to determine the amount of water that could be held on the chain at a single point in time and to figure out how long the residence time was for water on the chain at different flow rates.
+The objective of the initial experiment was to determine the peak amount of water that the chain could hold at a single point in time, the residence time for water on the chain at different flow rates, and the height needed for a 15 minute residence time at different flow rates.
 
 ####Experimental Apparatus
-A scale was secured approximately one meter above a lab bench resting on supports at each corner so that the bottom of the scale was left accessible. There was a hook on the bottom of the scale that measures the weight that is hung from the hook. A single chain was attached to the hook on the bottom of the scale and was allowed to hang down freely, see Figure 1 below. Reference the Manual section for a detailed explanation of the set-up.
+A scale was secured approximately one meter above a lab bench resting on supports at each corner so that the bottom of the scale was left accessible. A single chain was attached to the hook on the bottom of the scale and was allowed to hang down freely(see Figure 2 below). The hook on the scale measured the weight of the chain. Reference the Manual section for a detailed explanation of the set-up.
 
-(bvscale.jpg) I'm having trouble getting the pics in
+<center>
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/bvchain.jpg.jpg?raw=true" height=400>
 
+**Figure 2.** Bottom view of scale resting on supports with chain hooked onto bottom.
 
-* Image (from lab; label parts)
-* Materials (dimensions, materials)
-* Complications in construction
-* If already constructed: write a brief summary of important constraints, include any revisions to apparatus, also reference the prior report where construction is described
+</center>
 
 #### Procedure
-[Reference the Manual section for detailed procedure]. A narrow tube was connected to a peristaltic pump and water was pumped at a known rate. The end of the tube was directed onto the top of the chain hanging from the scale, in an attempt to allow water to flow onto and down the hanging chain. The scale was zeroed with the chain hanging on the scale so that the scale would only measure the weight of the water on the chain. The idea was to get water flowing on the chain and then, while continuously pumping water onto the chain, measure the weight of the water on the chain at a moment in time. Because the scale reading often fluctuated, the range of weights was recorded. The weight of the water on the chain was found for several different flow rates of water from the peristaltic pump. From these measurements, the team would be able to quantify how much water the chain could hold per unit length. ** add residence time thing**?
+Reference the Manual section for a detailed procedure. The scale was zeroed with the chain hanging on the scale so that the scale would only measure the weight of the water on the chain. A narrow tube was connected to a peristaltic pump and water was pumped at a known rate. The end of the tube was directed onto the top of the chain hanging from the scale, in an attempt to allow water to flow onto and down the hanging chain. The idea was to get water flowing on the chain and then, while continuously pumping water onto the chain, measure the weight of the water on the chain at a moment in time. Because the scale reading often fluctuated, the range of weights was recorded. The weight of the water on the chain was found for several different flow rates of water from the peristaltic pump. From these measurements, the team would be able to quantify how much water the chain could hold per unit length. After, the team  ** add residence time thing**?
 
 ### Chain Matrix Experiment
 #####Objective of Experiment
 The objective of this chain matrix experiment was to identify and compare the water retention of multiple chains in the same basin of water.
 
-
 #### Experimental Apparatus
-6 holes were drilled into a basin(see Figure 2). 6 chains were subsequently inserted into these holes and were left to hang freely from the other end(see Figure 3). The basin was placed on top of a rod that rested across from the four supports in the previous experiment(see Figure 4). Reference the Manual section for detailed information on the Experimental Apparatus.
+6 holes were drilled into a basin. 6 chains were subsequently inserted into these holes and were left to hang freely from the other end(see Figure 2). The basin was placed on top of a rod that rested across from the four supports in the previous experiment(see Figure 3). Reference the Manual section for detailed information on the Experimental Apparatus.
+
+<center>
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/bvchainmatrix.jpg.jpg?raw=true" height=400>
+
+**Figure 3.** Bottom view of chains inserted in basin.
+</center>
+
+<center>
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/betterbvpicc.jpg?raw=true" height=400>
+
+**Figure 4.** Change this Pic!! Bottom view of basin with chain matrix resting on rod.
+</center>
+
+<center>
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/zoomedout.jpg.jpg?raw=true" height=400>
+
+**Figure 5.** View of entire set up, with basin, supports, and chain matrix.
+</center>
 
 #### Procedure
 Water from a narrow tube was directed into the basin. The peristaltic pump was used to control the amount of water flowing into the basin. The amount of water flowing onto each chain was analyzed and compared for retention.
 
 ## Results and Analysis
 The single chain experiment yielded many results by simply measuring the mass and length of the chain at a controlled flow rate. By dividing the mass on the chain by the density of water, which is 1 g/ml, we were able to obtain the volume of water on the chain. When graphed against flow rate this calculation yielded a curve best fit by a power series with an R<sup>2</sup> of .991. This is an appropriate result because power series are most often used for data that compares measurements that increase at a specific rate. The flow rate was increased in small increments and it makes sense that the volume of water on the chain would also increase at a specific rate until it reached a certain threshold, which can be seen towards the end of the line graph where the volume of water on the chain starts leveling out.
-![FRvsVWC](https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsVWC.png?raw=true)
-Figure 2: The volume of water on the chain when the pump is running at different flow rates
+
+<center>
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsVWC.png" width = 300/>
+
+**Figure 6.** The volume of water on the chain when the pump is running at different flow rates
+</center>
 
 Furthermore, residence time was calculated by dividing the volume of water on the chain (ml) by the flow rate(ml/min) and then multiplying by 60 sec/min to get the value in a more feasible and understandable unit. Understanding the residence time of water at different flow rates is important because optimally the residence time desired is 15 minutes. Again, since the flow rate is increasing in small increments a power series is used for a line of best fir curve, this time with an R<sup>2</sup> value of .996. Since the residence time drastically decreases as the flow rate increases it is understood that an actual string digester system made with chains would have to run at low flow rates with really long chains. For example, if it were run at 1.5 ml/min at least a 13.716-meter chain would be needed for the optimal 15-minute residence time, which might be unattainable in some circumstances and the issue of clogging of pipes and tubes comes into play because the flow rate is so low. Thus, other materials may be worth looking into as possible strings in the system that will have better residence time.
 
+<center>
 ![FRvsRT](https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsRT.png?raw=true)
-Figure 3: The residence time of water on the chain when the pump is running at different flow rates
+
+**Figure 7.** The residence time of water on the chain when the pump is running at different flow rates
+</center>
 
 Another result the experiment supplied was the height of the chain that would be needed for a 15 min residence time at each flow rate. The height needed was calculated by dividing 900 seconds (15 mins) by the residence time(s) by the length of the chain, in this case .9144 meters. Then in graphing this value against the flow rate another set of data with a power series line of best fit is yielded this time with a R<sup>2</sup> value of .996. Again, since the flow rate was increased at specific increments and the residence time greatly decreased as the flow rate increased initially and then leveled out it follows that the line of best fit for the height needed for a residence time of 15 minutes should start off with a steeper slope and eventually start to become less steep. By running this experiment and calculating the values needed for residence time and height needed we were able to determine that chains may not be the best material to optimize the parameters we want.
 
-![FRvsHN](https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsHN.png?raw=true)
-Figure 4:The height needed for the chain so that the residence time would be 15 minutes for each different flow rate
+<center>
+<img src ="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsHN.png" width=300>
+
+**Figure 8.** The height needed for the chain so that the residence time would be 15 minutes for each different flow rate
+</center>
+
+The chain matrix experiment focused more on qualitative results rather than quantitative ones. As the experiment ran it was observed that not all of the chains hanging out of the basin in the matrix contained the same amount and flow rate of water. For this reason it was decided to design a different system to distribute water onto the string material.  
 
 ## Conclusions
 
@@ -168,7 +196,7 @@ Purchasing Link: [Jack Chain](https://www.mcmaster.com/3617T2)
 <center>
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/jackchain.jpg?raw=true" width = 300/>
 
-Figure #. The stainless steel jack chain used for the single-chain and chain-matrix experiments.
+**Figure 9.** The stainless steel jack chain used for the single-chain and chain-matrix experiments.
 </center>
 
 ## Experimental Methods
@@ -189,7 +217,7 @@ Step 5. Set up peristaltic pump with tubing (Tubing ID: 16)
 <center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/scale%20string%20set%20up.png?raw=true" width = 300/>
 
-Figure #. Diagram of experimental apparatus for single chain experiment.
+**Figure 10.** Diagram of experimental apparatus for single chain experiment.
 
 </center>
 
@@ -213,6 +241,13 @@ Step 2. Hook a jack chain through each hole on the bottom of the basin.
 Step 3. Place large bucket under the chain to catch dripping water.
 Step 4. Set up peristaltic pump with tubing (Tubing ID: 16)
 * Set desired pumping speed.
+
+<center>
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/diagram%20for%20chain%20matrix.jpeg?raw=true" width = 300/>
+
+**Figure 11.** Diagram of experimental apparatus for chain matrix experiment.
+
+</center>
 
 #### Experiment
 Step 1. Start the peristaltic pump.
