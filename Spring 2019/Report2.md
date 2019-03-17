@@ -69,7 +69,14 @@ The objective of the initial experiment was to determine the amount of water tha
 ####Experimental Apparatus
 A scale was secured approximately one meter above a lab bench resting on supports at each corner so that the bottom of the scale was left accessible. There was a hook on the bottom of the scale that measures the weight that is hung from the hook. A single chain was attached to the hook on the bottom of the scale and was allowed to hang down freely, see Figure 1 below. Reference the Manual section for a detailed explanation of the set-up.
 
-(bvscale.jpg) I'm having trouble getting the pics in
+hello ching do u see this
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/bvscale.jpg" />
+height= 400>
+
+
+
+       String-Digester/Photos/bvscale.jpg
+
 
 
 * Image (from lab; label parts)
