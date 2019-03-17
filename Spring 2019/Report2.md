@@ -92,14 +92,19 @@ The objective of this chain matrix experiment was to identify and compare the wa
 Water from a narrow tube was directed into the basin. The peristaltic pump was used to control the amount of water flowing into the basin. The amount of water flowing onto each chain was analyzed and compared for retention.
 
 ## Results and Analysis
+The single chain experiment yielded many results by simply measuring the mass and length of the chain at a controlled flow rate. By dividing the mass on the chain by the density of water, which is 1 g/ml, we were able to obtain the volume of water on the chain. When graphed against flow rate this calculation yielded a curve best fit by a power series with an R<sup>2</sup> of .991. This is an appropriate result because power series are most often used for data that compares measurements that increase at a specific rate. The flow rate was increased in small increments and it makes sense that the volume of water on the chain would also increase at a specific rate until it reached a certain threshold, which can be seen towards the end of the line graph where the volume of water on the chain starts leveling out.
 ![FRvsVWC](https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsVWC.png?raw=true)
-Figure 1:
+Figure 2: The volume of water on the chain when the pump is running at different flow rates
+
+Furthermore, residence time was calculated by dividing the volume of water on the chain (ml) by the flow rate(ml/min) and then multiplying by 60 sec/min to get the value in a more feasible and understandable unit. Understanding the residence time of water at different flow rates is important because optimally the residence time desired is 15 minutes. Again, since the flow rate is increasing in small increments a power series is used for a line of best fir curve, this time with an R<sup>2</sup> value of .996. Since the residence time drastically decreases as the flow rate increases it is understood that an actual string digester system made with chains would have to run at low flow rates with really long chains. For example, if it were run at 1.5 ml/min at least a 13.716-meter chain would be needed for the optimal 15-minute residence time, which might be unattainable in some circumstances and the issue of clogging of pipes and tubes comes into play because the flow rate is so low. Thus, other materials may be worth looking into as possible strings in the system that will have better residence time.
 
 ![FRvsRT](https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsRT.png?raw=true)
-Figure 3:
+Figure 3: The residence time of water on the chain when the pump is running at different flow rates
+
+Another result the experiment supplied was the height of the chain that would be needed for a 15 min residence time at each flow rate. The height needed was calculated by dividing 900 seconds (15 mins) by the residence time(s) by the length of the chain, in this case .9144 meters. Then in graphing this value against the flow rate another set of data with a power series line of best fit is yielded this time with a R<sup>2</sup> value of .996. Again, since the flow rate was increased at specific increments and the residence time greatly decreased as the flow rate increased initially and then leveled out it follows that the line of best fit for the height needed for a residence time of 15 minutes should start off with a steeper slope and eventually start to become less steep. By running this experiment and calculating the values needed for residence time and height needed we were able to determine that chains may not be the best material to optimize the parameters we want.
 
 ![FRvsHN](https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsHN.png?raw=true)
-Figure 2:
+Figure 4:The height needed for the chain so that the residence time would be 15 minutes for each different flow rate
 
 Present an observation (results), then explain what happened (analysis).  Each paragraph should focus on one aspect of your results. In that same paragraph, you should interpret that result.  
 In other words, there should not be two distinct paragraphs, but instead one paragraph containing one result and the interpretation and analysis of this result. Here are some guiding questions for results and analysis:
