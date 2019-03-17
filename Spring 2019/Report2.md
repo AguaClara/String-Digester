@@ -8,7 +8,7 @@ The objective of String Digester for the Spring 2019 semester is to continue res
 ## Introduction
 The String Digester sub-team was created in response to the remaining need for secondary wastewater treatment after treatment from the Upflow Anaerobic Sludge Blanket (UASB) reactor. A trickling filter is a secondary wastewater treatment system that removes organic matter from the wastewater through biological means, and is crucial for the removal of harmful pathogens. Looking to improve on the traditional industrial-scale trickling filter design, previous work identified an issue with the process: there is a substantial amount of unused space in the trickling treatment unit due to the uneven flow of wastewater across the system (preferential flow). The primary objective of this sub-team is to continue to develop a novel design for a highly efficient trickling filter with a minimized footprint in terms of space. Following the conclusion from Fall 2018, that metal chains would be a viable trickling media due to their retention of water, the team decided to focus this semester's research on trying to determine what material and type of chain would work best in terms of water retention and biofilm growth and from there, determining the best matrix for these chains to be in to maximize water retention on chain media. With this work, the team will work towards assessing the feasibility of a modified trickling filter unit in future AguaClara treatment plants while striving to make significant technological improvements on industry-standard applications for the system.
 
-Research dealing with trickling filter wastewater treatment was ubiquitous in the 1970's and 1980's, however, the research has significantly declined in general trickling filter wastewater treatment research in following decades. Moreover, research involving string as a media in this method of treatment is almost nonexistent. Research on secondary wastewater treatment originally focused on performance of trickling filters, but now has shifted towards processes higher in energy consumption. The plant philosophy of AguaClara is to create a plant that is optimized for low cost and a high performance, and looking at the regions a future wastewater plant would serve, trickling filters are a promising technology due to their low-energy requirements. With work in reducing unused space in these plants, these treatment systems are ideal. Maintaining will be a priority in the team's future design. With modification, the trickling filter treatment system carries much potential to be implemented in areas of the world in which capital expenditure is a major barrier for employing traditional secondary wastewater treatment (aeration tanks).
+Research dealing with trickling filter wastewater treatment was ubiquitous in the 1970's and 1980's, however, the research in this field has significantly declined in the following decades. Moreover, research involving string as a media in this method of treatment is almost nonexistent. Research on secondary wastewater treatment originally focused on performance of trickling filters, but now has shifted towards processes higher in energy consumption. The philosophy for plants of AguaClara is to create a plant that is optimized for low cost and a high performance, and looking at the regions a future wastewater plant would serve, trickling filters are a promising technology due to their low-energy requirements. With work in reducing unused space in these plants, these treatment systems are ideal. Maintaining these ideals will be a priority in the team's future design. With modification, the trickling filter treatment system carries much potential to be implemented in areas of the world in which capital expenditure is a major barrier for employing traditional secondary wastewater treatment (aeration tanks).
 
 
 ## Literature Review
@@ -23,8 +23,8 @@ The less common method of distribution, the fixed distribution system as seen be
 
 <center>
 
-![Fixed Distribution System](https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/Fixed%20Trickling%20Filter.gif?raw=true)
-**Figure 2.** Trickling filter with a fixed distribution system.
+![Fixed Distribution System](https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/Fixed%20Distribution%20Trickling%20Filter.gif?raw=true)
+**Figure 1.** Trickling filter with a fixed distribution system.
 
 </center>
 
@@ -47,14 +47,12 @@ Studies have also been conducted about the bacteria that produce the biofilm on 
 ### Spring 2018
 In Spring 2018, the Trickling Filter team spent a substantial amount of time doing research on the operational difficulties, the kinetics, and typical design parameters of trickling filters. The team aimed to address many of the issues plant operators encounter with trickling filters, like clogging and ponding, lack of moisture in parts of the filter, and general inefficiency of the filter. The two main areas for improvement the team identified were the filter media itself and the distribution system ([Spring 2018 Final Report](https://github.com/AguaClara/String-Digester/blob/master/Spring%20'18/TricklingFilter_Final_Report.md)).
 
-
-
 The team fabricated a bench top model for flow mapping and conducted several rounds of tests to determine the distribution of flow in trickling filters with small rock and marble media. From these experiments, the team noticed that there were significant portions of the media that never got wet and thus concluded that a substantial volume of the trickling filter was unused due to preferential flow. From these tests the team also showed that a uniform packing material is superior to an irregularly shaped material. In an effort to both maximize the surface area to volume ratio and to minimize the footprint of the system by not wasting space, the team shifted focus towards strings as a possible filter media. This concept led the team to start with very preliminary testing of a system that was essentially an overflowing basin with strings submerged at the top, inside the basin, and draped over the sides to guide water down to a collection bucket below. (See Figure 12 in section 1.2.2 in  [Can include that figure 2 mentioned here too!] for an example of  experimental set-up similar to those conducted in Spring 2018.) In these initial tests, the team members observed that the water did in fact follow the along strings when it overflowed. From these observations, the String Digester team began to design more rigorous tests on the concept and planned to investigate whether using strings in a wastewater treatment system is truly viable.
 
 <center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/Screen%20Shot%202018-10-24%20at%203.14.20%20PM.png?raw=true" />
 
-**Figure 1**. Experimental Set-up with water basin from [Fall 2018 Final Report](https://github.com/AguaClara/String-Digester/blob/master/Fall%20'18/Final_Report_stringdigester.md) Section 1.2.2 Figure 2.
+**Figure 2**. Experimental Set-up with water basin from [Fall 2018 Final Report](https://github.com/AguaClara/String-Digester/blob/master/Fall%20'18/Final_Report_stringdigester.md) Section 1.2.2 Figure 2.
 </center>
 
 ### Fall 2018
@@ -65,101 +63,49 @@ Next, two foams and two stainless steel chains were tested on the same basin in 
 
 ## Methods
 
-### Single Chain Experiment
+### Single Chain Experiments
 
-##### Objective of Experiment
+##### Objectives of Experiments
 The objective of the initial experiment was to determine the peak amount of water that the chain could hold at a single point in time, the residence time for water on the chain at different flow rates, and the height needed for a 15 minute residence time at different flow rates.
 
 ####Experimental Apparatus
-A scale was secured approximately one meter above a lab bench resting on supports at each corner so that the bottom of the scale was left accessible. A single chain was attached to the hook on the bottom of the scale and was allowed to hang down freely(see Figure 2 below). The hook on the scale measured the weight of the chain. Reference the Manual section for a detailed explanation of the set-up.
+A scale was secured approximately one meter above a lab bench resting on supports at each corner so that the bottom of the scale was left accessible. A 3-foot single chain was attached to the hook on the bottom of the scale and was allowed to hang down freely (see Figure 3 below). The hook on the scale measured the weight of the chain. Reference the Single Chain Experiments Manual section for a detailed explanation of the set-up.
 
-<<<<<<< HEAD
-<p align = "center">
-<img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/bvchain.jpg.jpg?raw=true" height=300>
-</p>
-=======
 <center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/bvchain.jpg.jpg?raw=true" height=400>
->>>>>>> 3a0a0a8644dceb79baf3cc9eab0451aa34bf9492
 
-**Figure 2.** Bottom view of scale resting on supports with chain hooked onto bottom.
+**Figure 3.** Bottom view of scale resting on supports with chain hooked onto bottom.
 
-<<<<<<< HEAD
-->**Figure 1.** Bottom view of scale resting on supports with chain hooked onto bottom.<-
-
-
-</p>
-* Image (from lab; label parts)
-* Materials (dimensions, materials)
-* Complications in construction
-* If already constructed: write a brief summary of important constraints, include any revisions to apparatus, also reference the prior report where construction is described
-=======
 </center>
->>>>>>> 3a0a0a8644dceb79baf3cc9eab0451aa34bf9492
 
 #### Procedure
-Reference the Manual section for a detailed procedure. The scale was zeroed with the chain hanging on the scale so that the scale would only measure the weight of the water on the chain. A narrow tube was connected to a peristaltic pump and water was pumped at a known rate. The end of the tube was directed onto the top of the chain hanging from the scale, in an attempt to allow water to flow onto and down the hanging chain. The idea was to get water flowing on the chain and then, while continuously pumping water onto the chain, measure the weight of the water on the chain at a moment in time. Because the scale reading often fluctuated, the range of weights was recorded. The weight of the water on the chain was found for several different flow rates of water from the peristaltic pump. From these measurements, the team would be able to quantify how much water the chain could hold per unit length. After, the team  ** add residence time thing**?
+Reference the Single Chain Experiments Manual section for a detailed procedure. The scale was zeroed with the chain hanging on the scale so that the scale would only measure the weight of the water on the chain. Narrow tubing (ID: 16) was connected to a peristaltic pump and water was pumped at a known rate. The end of the tube was directed onto the top of the chain hanging from the scale, in an attempt to allow water to flow onto and down the hanging chain. The idea was to get water flowing onto the chain and then, while continuously pumping water onto the chain, measure the weight of the water on the chain at a moment in time. Because the scale reading often fluctuated, the range of weights was recorded. The weight of the water (in grams) on the chain was recorded for several different flow rates of water. The first two flow rates used were 1.5 mL/s and 3 mL/s and then every multiple of 5 from 5-80 mL/s was used after the initial two. From these measurements, the team was able to quantify how much water the chain could hold per unit length. After, the team calculated the residence time by dividing the volume of water on the chain by flow rate. From this information, the team calculated the height of the chain needed for a residence time of 15 minutes.
 
 ### Chain Matrix Experiment
 #####Objective of Experiment
 The objective of this chain matrix experiment was to identify and compare the water retention of multiple chains in the same basin of water.
 
 #### Experimental Apparatus
-6 holes were drilled into a basin. 6 chains were subsequently inserted into these holes and were left to hang freely from the other end(see Figure 2). The basin was placed on top of a rod that rested across from the four supports in the previous experiment(see Figure 3). Reference the Manual section for detailed information on the Experimental Apparatus.
-
-<<<<<<< HEAD
-<p align = "center">
-<img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/bvchainmatrix.jpg.jpg?raw=true" height=400>
-</p>
-
-<p align = "center">
-
-**Figure** 2. Bottom view of chains inserted in basin.
-</p>
-
-<p align = "center">
-<img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/rod.jpg.jpg?raw=true" height=400>
-</p>
-<p align = "center">
-
-**Figure 3.** Bottom view of basin with chain matrix resting on rod.
-</p>
-
-<p align = "center">
-<img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/zoomedout.jpg.jpg?raw=true" height=400>
-</p>
-
-<p align = "center">
-
-**Figure 4.** View of entire set up, with basin, supports, and chain matrix.
-</p>
-
-
-
-
-
-=======
-<center>
-<img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/bvchainmatrix.jpg.jpg?raw=true" height=400>
-
-**Figure 3.** Bottom view of chains inserted in basin.
-</center>
+Six evenly spaced holes were drilled into a basin. Six 3-foot chains were subsequently inserted into these holes and were left to hang freely from the other end (see Figure 4). The basin was placed on top of a rod that rested across from the four supports in the previous experiment (see Figure 5). Reference the Chain Matrix Experiemnt Manual section for detailed information on the Experimental Apparatus.
 
 <center>
+
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/bvchainmatrix.jpg.jpg?raw=true" height=400>
+
+**Figure 4.** Bottom view of chains inserted in basin.
+
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/betterbvpicc.jpg?raw=true" height=400>
 
-**Figure 4.** Change this Pic!! Bottom view of basin with chain matrix resting on rod.
-</center>
+**Figure 5.** Bottom view of basin with chain matrix resting on rod.
 
-<center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/zoomedout.jpg.jpg?raw=true" height=400>
 
-**Figure 5.** View of entire set up, with basin, supports, and chain matrix.
+**Figure 6.** View of entire set up, with basin, supports, and chain matrix.
+
 </center>
->>>>>>> 3a0a0a8644dceb79baf3cc9eab0451aa34bf9492
 
 #### Procedure
-Water from a narrow tube was directed into the basin. The peristaltic pump was used to control the amount of water flowing into the basin. The amount of water flowing onto each chain was analyzed and compared for retention.
+The narrow tubing (ID: 16) was connected to a peristaltic pump and was directed into the basin. The peristaltic pump was used to control the amount of water that flowed into the basin. The amount of water flowing onto each chain was analyzed and compared for retention.
 
 ## Results and Analysis
 The single chain experiment yielded many results by simply measuring the mass and length of the chain at a controlled flow rate. By dividing the mass on the chain by the density of water, which is 1 g/ml, we were able to obtain the volume of water on the chain. When graphed against flow rate this calculation yielded a curve best fit by a power series with an R<sup>2</sup> of .991. This is an appropriate result because power series are most often used for data that compares measurements that increase at a specific rate. The flow rate was increased in small increments and it makes sense that the volume of water on the chain would also increase at a specific rate until it reached a certain threshold, which can be seen towards the end of the line graph where the volume of water on the chain starts leveling out.
@@ -167,15 +113,15 @@ The single chain experiment yielded many results by simply measuring the mass an
 <center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsVWC.png?raw=true" width = 300/>
 
-**Figure 6.** The volume of water on the chain when the pump is running at different flow rates
+**Figure 7.** The volume of water on the chain when the pump is running at different flow rates (reference manual for code).
 </center>
 
-Furthermore, residence time was calculated by dividing the volume of water on the chain (ml) by the flow rate(ml/min) and then multiplying by 60 sec/min to get the value in a more feasible and understandable unit. Understanding the residence time of water at different flow rates is important because optimally the residence time desired is 15 minutes. Again, since the flow rate is increasing in small increments a power series is used for a line of best fir curve, this time with an R<sup>2</sup> value of .996. Since the residence time drastically decreases as the flow rate increases it is understood that an actual string digester system made with chains would have to run at low flow rates with really long chains. For example, if it were run at 1.5 ml/min at least a 13.716-meter chain would be needed for the optimal 15-minute residence time, which might be unattainable in some circumstances and the issue of clogging of pipes and tubes comes into play because the flow rate is so low. Thus, other materials may be worth looking into as possible strings in the system that will have better residence time.
+Furthermore, residence time was calculated by dividing the volume of water on the chain (ml) by the flow rate(ml/min) and then converting to seconds, which is a more understandable unit. Understanding the residence time of water at different flow rates is important because optimally the residence time desired is 15 minutes. Again, since the flow rate is increasing in small increments a power series is used for a line of best fir curve, this time with an R<sup>2</sup> value of .996. Since the residence time drastically decreases as the flow rate increases it is understood that an actual string digester system made with chains would have to run at low flow rates with really long chains. For example, if it were run at 1.5 ml/min at least a 13.716-meter chain would be needed for the optimal 15-minute residence time, which might be unattainable in some circumstances and the issue of clogging of pipes and tubes comes into play because the flow rate is so low. Thus, other materials may be worth looking into as possible strings in the system that will have better residence time.
 
 <center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsRT.png?raw=true" width = 300/>
 
-**Figure 7.** The residence time of water on the chain when the pump is running at different flow rates
+**Figure 8.** The residence time of water on the chain when the pump is running at different flow rates (reference manual for code)
 </center>
 
 Another result the experiment supplied was the height of the chain that would be needed for a 15 min residence time at each flow rate. The height needed was calculated by dividing 900 seconds (15 mins) by the residence time(s) by the length of the chain, in this case .9144 meters. Then in graphing this value against the flow rate another set of data with a power series line of best fit is yielded this time with a R<sup>2</sup> value of .996. Again, since the flow rate was increased at specific increments and the residence time greatly decreased as the flow rate increased initially and then leveled out it follows that the line of best fit for the height needed for a residence time of 15 minutes should start off with a steeper slope and eventually start to become less steep. By running this experiment and calculating the values needed for residence time and height needed we were able to determine that chains may not be the best material to optimize the parameters we want.
@@ -183,7 +129,7 @@ Another result the experiment supplied was the height of the chain that would be
 <center>
 <img src ="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsHN.png?raw=true" width=300>
 
-**Figure 8.** The height needed for the chain so that the residence time would be 15 minutes for each different flow rate
+**Figure 9.** The height needed for the chain so that the residence time would be 15 minutes for each different flow rate (reference manual for code)
 </center>
 
 The chain matrix experiment focused more on qualitative results rather than quantitative ones. As the experiment ran it was observed that not all of the chains hanging out of the basin in the matrix contained the same amount and flow rate of water. For this reason it was decided to design a different system to distribute water onto the string material.  
@@ -198,7 +144,6 @@ Creating a rapid but efficient string digester would be impactful for the future
 In the following weeks, the team will test a 0.3mm Dacron string. The team will use micro-tubing with the peristaltic pump to test the same parameters as was tested for the chains. The micro-tubing will allow a much smaller flow rate necessary for the thinner string. In addition, the team will purchase several more strings that are synthetic hydrophilic materials. The team may also test the capillary action abilities of the strings to draw water up at an even slower rate. Further, the rate of oxygen diffusion into the string will be calculated to assure that enough can diffuse into the surface of the string to reach the necessary biological oxygen demand (BOD). This BOD is necessary to perform as a successful alternative to a trickling filter and remove organic compounds. The future of this team primary relies on finding an appropriate material that will allow for biofilm growth and not be susceptible to degrading.
 
 The team is also looking into using synthetic waste water inoculated with an aerobic bacteria. The team would need to set-up a system of measuring how much organic nutrients the bacteria could remove over the length of the string digester and even just how feasible biofilm growth is on the strings.
-
 
 ## Bibliography
 Ali et al. (2017). "Identification and Elucidation of the Designing and Operational Issues of Trickling Filter Systems for Wastewater Treatment." *Polish Journal of Environmental Studies.* 26(6), 2431-2444.
@@ -231,13 +176,13 @@ Tandukar et al. (2005). "A low-cost municipal sewage treatment system with a com
 ### Fabrication of Chain Matrix Basin
 Step 1. Obtain sheets of PVC.
 Step 2. Using electrical saw, cut pieces of PVC to desired lengths and widths.
-* For sides of basin, cut the PVC sheet to # inches by # inches.
-* For walls of basin, cut the PVC sheet to # inches by # inches.
+* For longer sides of basin, cut the PVC sheet to 2.5 inches by 2.5 inches.
+* For shorter sides of basin, cut the PVC sheet to 1.75 inches by 1.5 inches.
 
 Step 3. Construct the basin in the form of a rectangular prism (no top/roof).
 * Use PVC glue and other necessary items to fabricate the shape.
 
-Step 4. Using an electrical drill with drill size #, drill 2 rows of 3 holes (6 holes total).
+Step 4. Using an electrical drill with drill size 1/16th of an inch, drill 2 rows of 3 holes (6 holes total).
 Step 5. Cut 6 desired lengths of jack chain for the basin using wire cutter.
 Step 6. Pry open chain link on each chain using plyers and place into a basin hole.
 
@@ -250,7 +195,7 @@ Purchasing Link: [Jack Chain](https://www.mcmaster.com/3617T2)
 <center>
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/jackchain.jpg?raw=true" width = 300/>
 
-**Figure 9.** The stainless steel jack chain used for the single-chain and chain-matrix experiments.
+**Figure 10.** The stainless steel jack chain used for the single-chain and chain-matrix experiments.
 </center>
 
 ## Experimental Methods
@@ -271,7 +216,7 @@ Step 5. Set up peristaltic pump with tubing (Tubing ID: 16)
 <center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/scale%20string%20set%20up.png?raw=true" width = 300/>
 
-**Figure 10.** Diagram of experimental apparatus for single chain experiment.
+**Figure 11.** Diagram of experimental apparatus for single chain experiment.
 
 </center>
 
@@ -288,7 +233,7 @@ Step 2. Pour any excess water in bucket down the sink.
 Step 3. Remove chain from the scale hook.
 Step 4. Put items away as desired.
 
-### Chain Matrix Experiments
+### Chain Matrix Experiment
 #### Set-up
 Step 1. Suspend basin in air using rods for support.
 Step 2. Hook a jack chain through each hole on the bottom of the basin.
@@ -297,9 +242,10 @@ Step 4. Set up peristaltic pump with tubing (Tubing ID: 16)
 * Set desired pumping speed.
 
 <center>
+
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/diagram%20for%20chain%20matrix.jpeg?raw=true" width = 300/>
 
-**Figure 11.** Diagram of experimental apparatus for chain matrix experiment.
+**Figure 12.** Diagram of experimental apparatus for chain matrix experiment.
 
 </center>
 
@@ -318,6 +264,7 @@ Step 4. Put items away as desired.
 
 ## Python Code for Graphs
 
+###Code for Figure 7
 ```python
 from aguaclara.play import*
 from matplotlib import style
@@ -335,7 +282,7 @@ plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/im
 plt.show()
 ```
 
-
+###Code for Figure 8
 ```python
 from aguaclara.play import*
 from matplotlib import style
@@ -353,7 +300,7 @@ plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/im
 plt.show()
 ```
 
-
+###Code for Figure 9
 ```python
 from aguaclara.play import*
 from matplotlib import style
@@ -369,8 +316,4 @@ plt.xlabel('Flow Rate (mL/s)')
 plt.ylabel('Height of Chain (m)')
 plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/FRvsHN')
 plt.show()
-```
-
-# To convert the document from markdown to pdf
-pandoc Name_of_this_file.md -o TeamName_Research_Report.pdf
 ```
