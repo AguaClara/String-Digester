@@ -69,16 +69,15 @@ The objective of the initial experiment was to determine the amount of water tha
 ####Experimental Apparatus
 A scale was secured approximately one meter above a lab bench resting on supports at each corner so that the bottom of the scale was left accessible. There was a hook on the bottom of the scale that measures the weight that is hung from the hook. A single chain was attached to the hook on the bottom of the scale and was allowed to hang down freely, see Figure 1 below. Reference the Manual section for a detailed explanation of the set-up.
 
-hello ching do u see this
-<img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/bvscale.jpg" />
-height= 400>
+<p align = "center">
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/bvchain.jpg.jpg?raw=true" height=300>
+</p>
 
 
-
-       String-Digester/Photos/bvscale.jpg
-
+->**Figure 1.** Bottom view of scale resting on supports with chain hooked onto bottom.<-
 
 
+</p>
 * Image (from lab; label parts)
 * Materials (dimensions, materials)
 * Complications in construction
@@ -93,7 +92,38 @@ The objective of this chain matrix experiment was to identify and compare the wa
 
 
 #### Experimental Apparatus
-6 holes were drilled into a basin(see Figure 2). 6 chains were subsequently inserted into these holes and were left to hang freely from the other end(see Figure 3). The basin was placed on top of a rod that rested across from the four supports in the previous experiment(see Figure 4). Reference the Manual section for detailed information on the Experimental Apparatus.
+6 holes were drilled into a basin. 6 chains were subsequently inserted into these holes and were left to hang freely from the other end(see Figure 2). The basin was placed on top of a rod that rested across from the four supports in the previous experiment(see Figure 3). Reference the Manual section for detailed information on the Experimental Apparatus.
+
+<p align = "center">
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/bvchainmatrix.jpg.jpg?raw=true" height=400>
+</p>
+
+<p align = "center">
+
+**Figure** 2. Bottom view of chains inserted in basin.
+</p>
+
+<p align = "center">
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/rod.jpg.jpg?raw=true" height=400>
+</p>
+<p align = "center">
+
+**Figure 3.** Bottom view of basin with chain matrix resting on rod.
+</p>
+
+<p align = "center">
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/zoomedout.jpg.jpg?raw=true" height=400>
+</p>
+
+<p align = "center">
+
+**Figure 4.** View of entire set up, with basin, supports, and chain matrix.
+</p>
+
+
+
+
+
 
 #### Procedure
 Water from a narrow tube was directed into the basin. The peristaltic pump was used to control the amount of water flowing into the basin. The amount of water flowing onto each chain was analyzed and compared for retention.
