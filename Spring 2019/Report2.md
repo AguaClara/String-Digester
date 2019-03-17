@@ -36,7 +36,7 @@ Some testing has been done of the growth of biofilm in different surfaces. One s
 In another experiment, three different types of plastic often used in pipe production were investigated for biofilm formation. These materials were PVC, PEX, and HDPE. After two years of system operation, which included weekly pipeline flushing, biofilm analyses were taken. It was found that the PEX pipe had the highest number of bacteria growing (1.15*10<sup>3</sup> $\frac{CFU}{cm^2}$; CFU: colony-forming unit), HDPE pipes had two times less the amount of bacteria (451 $\frac{CFU}{cm^2}$), and PVC surfaces had a significantly lower bacteria count (193 $\frac{CFU}{cm^2}$). [Maybe a table for these values would make this easier to read]However, the number of microorganisms found in the pipes was not related to the number of mineral deposits found, as HDPE pipes had the thickest biofilms with bacteria attached to mineral deposits or immersed in exopolymers. Bacteria did not form large aggregates on PEX surfaces, and PVC biofilm was only made of single cells and did not have any mineral deposits. It was concluded that the ranking of susceptibility to biofilm growth and colonization was HDPE, PEX, and PVC respectively. [(A. Rożej et al., 2015)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4282696/)
 
 
-Studies have also been conducted about the bacteria that produce the biofilm on the stainless steel. Many of these studies involve curli-producing bacteria. Curli fibers "are the major proteinaceous component of a complex extracellular matrix produced by many Enterobacteriaceae" and "are involved in adhesion to surfaces, cell aggregation, and biofilm formation" [(Barnhart and Chapman).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2838481/) One such study focused on *Escherichia coli* O157:H7 bacteria with 6 individual strains, three of which produced curli and three which did not. The study found that the gene for curli production did not affect the attachment of the bacteria to the stainless steel, but it did affect the formation of biofilms. Only the curli producing strains were able to form biofilms [(Ryu et al. 2004).](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1472-765X.2004.01591.x) However, since *E. coli* are ~~fairly~~ common[ly] [found] in wastewater, it is probable for biofilm to be able to grow on the stainless steel chains as long as some kind of bacteria with the curli-producing gene is present in the wastewater and the flow rate is not too fast. So, assuming that the bacteria will most likely be present and once the biofilm is built up on each of the chains, the main issue then becomes preventing accumulated biofilm from falling off one chain and then dragging it off other chains as well in a domino effect[and then, in a domino effect, dragging it off other chains as well].
+Studies have also been conducted about the bacteria that produce the biofilm on the stainless steel. Many of these studies involve curli-producing bacteria. Curli fibers "are the major proteinaceous component of a complex extracellular matrix produced by many Enterobacteriaceae" and "are involved in adhesion to surfaces, cell aggregation, and biofilm formation" [(Barnhart and Chapman).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2838481/) One such study focused on *Escherichia coli* O157:H7 bacteria with 6 individual strains, three of which produced curli and three which did not. The study found that the gene for curli production did not affect the attachment of the bacteria to the stainless steel, but it did affect the formation of biofilms. Only the curli producing strains were able to form biofilms [(Ryu et al. 2004).](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1472-765X.2004.01591.x) However, since *E. coli* are commonly found in wastewater, it is probable for biofilm to be able to grow on the stainless steel chains as long as some kind of bacteria with the curli-producing gene is present in the wastewater and the flow rate is not too fast. So, assuming that the bacteria will most likely be present and once the biofilm is built up on each of the chains, the main issue then becomes preventing accumulated biofilm from falling off one chain and then, in a domino effect, dragging it off other chains as well.
 
 ## Previous Works
 [Would recommend putting this after lit review so that you can introduce concepts/terms unfamiliar to the author before previous work like preferential flow and etc.]
@@ -105,30 +105,6 @@ Another result the experiment supplied was the height of the chain that would be
 
 ![FRvsHN](https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsHN.png?raw=true)
 Figure 4:The height needed for the chain so that the residence time would be 15 minutes for each different flow rate
-
-Present an observation (results), then explain what happened (analysis).  Each paragraph should focus on one aspect of your results. In that same paragraph, you should interpret that result.  
-In other words, there should not be two distinct paragraphs, but instead one paragraph containing one result and the interpretation and analysis of this result. Here are some guiding questions for results and analysis:
-
-When describing your results, present your data, using the guidelines below:
-* What happened? What did you find?
-* Show your experimental data in a professional way.
-```python
-from aide_design.play import*
-x = np.array([1,2,3,4,5])
-y = np.array([1,2,3,4,5])
-plt.figure('ax',(10,8))
-plt.plot(x,y,'*')
-plt.savefig('/Users/jillianwhiting/github/Jillian-Whiting/Images/linear')
-plt.show()
-```
-![linear](https://github.com/jillianwhiting/Jillian-Whiting/blob/master/Images/linear.png?raw=true)
-Figure 1: Captions are very important for figures. Captions go below figures.
-
-After describing a particular result, within a paragraph, go on to connect your work to fundamental physics/chemistry/statics/fluid mechanics, or whatever field is appropriate. Analyze your results and compare with theoretical expectations; or, if you have not yet done the experiments, describe your expectations based on established knowledge. Include implications of your results. How will your results influence the design of AguaClara plants? If possible provide clear recommendations for design changes that should be adopted. Show your experimental data in a professional way using the following guidelines:
-* Why did you get those results/data?
-* Did these results line up with expectations?
-* What went wrong?
-* If the data do not support your hypothesis, is there another hypothesis that describes your new data?
 
 ## Conclusions
 
@@ -250,6 +226,61 @@ Step 1. Turn peristaltic pump off and let chains air-dry.
 Step 2. Pour any excess water in bucket down the sink.
 Step 3. Remove chains from the basin holes.
 Step 4. Put items away as desired.
+
+## Python Code for Graphs
+
+```python
+from aguaclara.play import*
+from matplotlib import style
+style.use('ggplot')
+
+x,y = np.loadtxt('CFRT_FR_vs_VWC.csv',
+                unpack = True,
+                delimiter = ',')
+
+plt.plot(x,y)
+plt.title('Volume of Water on Chain at \nDifferent Flow Rates')
+plt.xlabel('Flow Rate (mL/s)')
+plt.ylabel('Volume of Water on Chain (mL)')
+plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/FRvsVWC')
+plt.show()
+```
+
+
+```python
+from aguaclara.play import*
+from matplotlib import style
+style.use('ggplot')
+
+x,y = np.loadtxt('CFRT_FR_vs_RT.csv',
+               unpack = True,
+               delimiter = ',')
+
+plt.plot(x,y)
+plt.title('Residence Time of Water on Chain \nat Different Flow Rates')
+plt.xlabel('Flow Rate (mL/s)')
+plt.ylabel('Residence Time (s)')
+plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/FRvsRT')
+plt.show()
+```
+
+
+```python
+from aguaclara.play import*
+from matplotlib import style
+style.use('ggplot')
+
+x,y = np.loadtxt('CFRT_FR_vs_HN.csv',
+               unpack = True,
+               delimiter = ',')
+
+plt.plot(x,y)
+plt.title('Height of Chain Needed for a \n15 Minute Residence Time')
+plt.xlabel('Flow Rate (mL/s)')
+plt.ylabel('Height of Chain (m)')
+plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/FRvsHN')
+plt.show()
+```
 
 # To convert the document from markdown to pdf
 pandoc Name_of_this_file.md -o TeamName_Research_Report.pdf
