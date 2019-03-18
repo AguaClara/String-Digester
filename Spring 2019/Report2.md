@@ -66,7 +66,7 @@ Next, two foams and two stainless steel chains were tested on the same basin in 
 
 ### Single Chain Experiments
 
-##### Objectives of Experiments
+#### Objectives of Experiments
 The objective of the initial experiment was to determine the peak amount of water that the chain could hold at a single point in time, the residence time for water on the chain at different flow rates, and the height needed for a 15 minute residence time at different flow rates.
 
 ####Experimental Apparatus
