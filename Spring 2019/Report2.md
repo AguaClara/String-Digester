@@ -69,7 +69,7 @@ Next, two foams and two stainless steel chains were tested on the same basin in 
 #### Objectives of Experiments
 The objective of the initial experiment was to determine the peak amount of water that the chain could hold at a single point in time, the residence time for water on the chain at different flow rates, and the height needed for a 15 minute residence time at different flow rates.
 
-####Experimental Apparatus
+#### Experimental Apparatus
 A scale was secured approximately one meter above a lab bench resting on supports at each corner so that the bottom of the scale was left accessible. A 3-foot single chain was attached to the hook on the bottom of the scale and was allowed to hang down freely (see Figure 3 below). The hook on the scale measured the weight of the chain. Reference the Single Chain Experiments Manual section for a detailed explanation of the set-up.
 
 <center>
@@ -83,7 +83,7 @@ A scale was secured approximately one meter above a lab bench resting on support
 Reference the Single Chain Experiments Manual section for a detailed procedure. The scale was zeroed with the chain hanging on the scale so that the scale would only measure the weight of the water on the chain. Narrow tubing (ID: 16) was connected to a peristaltic pump and water was pumped at a known rate. The end of the tube was directed onto the top of the chain hanging from the scale, in an attempt to allow water to flow onto and down the hanging chain. The idea was to get water flowing onto the chain and then, while continuously pumping water onto the chain, measure the weight of the water on the chain at a moment in time. Because the scale reading often fluctuated, a range of weights was recorded. The weight of the water (in grams) on the chain was recorded for several different flow rates of water. The first two flow rates used were 1.5 mL/s and 3 mL/s and then every multiple of 5 from 5-80 mL/s was used after the initial two. From these measurements, the team was able to quantify how much water the chain could hold per unit length. After, the team calculated the residence time by dividing the volume of water on the chain by flow rate. From this information, the team calculated the height of the chain needed for a residence time of 15 minutes.
 
 ### Chain Matrix Experiment
-#####Objective of Experiment
+#### Objective of Experiment
 The objective of this chain matrix experiment was to identify and compare the water retention of multiple chains in the same basin of water.
 
 #### Experimental Apparatus
@@ -265,7 +265,7 @@ Step 4. Put items away as desired.
 
 ## Python Code for Graphs
 
-###Code for Figure 7
+### Code for Figure 7
 ```python
 from aguaclara.play import*
 from matplotlib import style
@@ -283,7 +283,7 @@ plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/im
 plt.show()
 ```
 
-###Code for Figure 8
+### Code for Figure 8
 ```python
 from aguaclara.play import*
 from matplotlib import style
@@ -301,7 +301,7 @@ plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/im
 plt.show()
 ```
 
-###Code for Figure 9
+### Code for Figure 9
 ```python
 from aguaclara.play import*
 from matplotlib import style
