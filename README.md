@@ -1,18 +1,20 @@
 # String Digester
 ## Team Members:
-Rosie Krasnoff (rkk57)   (607)351-5441
-
 Zsofia Szegletes (zms28)
 
 Tony Martinez (apm234)
 
-Madeline Garell (mpg95)
+Kiki Lo (jkl223)
 
+Gabi Sibel (gvs27)
 
 ## Semester Goals
 Determine if ideas about using strings as media for trickling filter based design are a feasible component of a future AguaClara wastewater plant.
 
 ## Links to Reports and Presentations
+
+### Spring 2019
+[Symposium Presentation](https://docs.google.com/presentation/d/1RNtv8RENQgUulZFASfJts5v38JhO5-mNMnPYy_5OBYM/edit?usp=sharing)
 
 ### Fall 2018
 [Symposium Presentation](https://docs.google.com/presentation/d/1B0oq8NB6Wiu3eZtoH0XupzLUeAUmPYKxPFIgBA1XBPc/edit#slide=id.g346a079b2f_0_0)
