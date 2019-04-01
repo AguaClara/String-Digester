@@ -77,7 +77,7 @@ Next, two foams and two stainless steel chains were tested on the same basin in 
 The objective of the initial experiment was to determine the peak amount of water that the chain could hold at a single point in time, the residence time for water on the chain at different flow rates, and the height needed for a 15 minute residence time at different flow rates.
 
 #### Experimental Apparatus
-A scale was secured approximately one meter above a lab bench resting on supports at each corner so that the bottom of the scale was left accessible. A 3-foot single chain was attached to the hook on the bottom of the scale and was allowed to hang down freely (see Figure 3 below). The hook on the scale measured the weight of the chain. Reference the Single Chain Experiments Manual section for a detailed explanation of the set-up.
+A scale was secured approximately one meter above a lab bench resting on supports at each corner so that the bottom of the scale was left accessible. A 3-foot single chain was attached to the hook on the bottom of the scale and was allowed to hang down freely (see Figure 3 below). The hook on the scale measured the weight of the chain. Reference the Single Chain Experiments Manual **[You can actually link to the section like you would for a normal website by referring to the section name (i.e. [Single Chain Experiments Manual](#Single-Chain-Experiments))]** section for a detailed explanation of the set-up.
 
 <center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/bvchain.jpg.jpg?raw=true" height=400>
