@@ -1,4 +1,4 @@
-```python
+
 from aguaclara.play import*
 from matplotlib import style
 style.use('ggplot')
@@ -13,10 +13,9 @@ plt.xlabel('Flow Rate (mL/s)')
 plt.ylabel('Volume of Water on Chain (mL)')
 plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/CFRvsVWC')
 plt.show()
-```
 
 
-```python
+
 from aguaclara.play import*
 from matplotlib import style
 style.use('ggplot')
@@ -31,10 +30,9 @@ plt.xlabel('Flow Rate (mL/s)')
 plt.ylabel('Residence Time (s)')
 plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/CFRvsRT')
 plt.show()
-```
 
 
-```python
+
 from aguaclara.play import*
 from matplotlib import style
 style.use('ggplot')
@@ -49,9 +47,8 @@ plt.xlabel('Flow Rate (mL/s)')
 plt.ylabel('Height of Chain (m)')
 plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/CFRvsHN')
 plt.show()
-```
 
-```python
+
 from aguaclara.play import*
 from matplotlib import style
 style.use('ggplot')
@@ -66,9 +63,9 @@ plt.xlabel('Flow Rate (mL/s)')
 plt.ylabel('Volume of Water on Dacron String (mL)')
 plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/DFRvsVWC')
 plt.show()
-```
 
-```python
+
+
 from aguaclara.play import*
 from matplotlib import style
 style.use('ggplot')
@@ -83,9 +80,8 @@ plt.xlabel('Flow Rate (mL/s)')
 plt.ylabel('Residence Time (s)')
 plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/DFRvsRT')
 plt.show()
-```
 
-```python
+
 from aguaclara.play import*
 from matplotlib import style
 style.use('ggplot')
@@ -100,4 +96,3 @@ plt.xlabel('Flow Rate (mL/s)')
 plt.ylabel('Height of Chain (m)')
 plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/DFRvsHN')
 plt.show()
-```
