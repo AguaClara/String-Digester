@@ -77,7 +77,7 @@ Next, two foams and two stainless steel chains were tested on the same basin in 
 The objective of the initial experiment was to determine the peak amount of water that the chain could hold at a single point in time, the residence time for water on the chain at different flow rates, and the height needed for a 15 minute residence time at different flow rates.
 
 #### Experimental Apparatus
-A scale was secured approximately one meter above a lab bench resting on supports at each corner so that the bottom of the scale was left accessible. A 3-foot single chain was attached to the hook on the bottom of the scale and was allowed to hang down freely (see Figure 3 below). The hook on the scale measured the weight of the chain. Reference the Single Chain Experiments Manual **[You can actually link to the section like you would for a normal website by referring to the section name (i.e. [Single Chain Experiments Manual](#Single-Chain-Experiments))]** section for a detailed explanation of the set-up.
+A scale was secured approximately one meter above a lab bench resting on supports at each corner so that the bottom of the scale was left accessible. A 3-foot single chain was attached to the hook on the bottom of the scale and was allowed to hang down freely (see Figure 3 below). The hook on the scale measured the weight of the chain. Reference the [Single Chain Experiments Manual](#Single-Chain-Experiments) **[You can actually link to the section like you would for a normal website by referring to the section name (i.e. [Single Chain Experiments Manual](#Single-Chain-Experiments))]** section for a detailed explanation of the set-up.
 
 <center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/bvchain.jpg.jpg?raw=true" height=400>
@@ -118,7 +118,7 @@ Six evenly spaced holes were drilled into a basin. Six 3-foot chains were subseq
 The narrow tubing (ID: 16) was connected to a peristaltic pump and was directed into the basin. The peristaltic pump was used to control the amount of water that flowed into the basin. The amount of water flowing onto each chain was analyzed and compared for retention.
 
 ## Results and Analysis
-The single chain experiment yielded many results **[What results? Don't write fluffy sentences like these. Instead, tell us directly what results you got.]** by simply measuring the mass and length of the chain at a controlled flow rate. By dividing the mass on the chain by the density of water, which is 1 g/ml, the volume of water on the chain was obtained. When graphed against flow rate, this calculation yielded a curve best fit by a power series with an R<sup>2</sup> of .991. This is an appropriate result because power series are most often used for data that compares measurements that increase at a specific rate. The flow rate was increased in small increments and it makes sense **[no need to write that it makes sense]** that the volume of water on the chain would also increase at a specific rate until it reached a certain threshold, which can be seen towards the end of the line graph where the volume of water on the chain starts leveling out as expected.
+The single chain experiment yielded  results **[What results? Don't write fluffy sentences like these. Instead, tell us directly what results you got.]** of volume of water on the chain, residence time, and height needed for a 15 minute residence time, by simply measuring the mass and length of the chain at a controlled flow rate. By dividing the mass on the chain by the density of water, which is 1 g/ml, the volume of water on the chain was obtained. When graphed against flow rate, this calculation yielded a curve best fit by a power series with an R<sup>2</sup> of .991. This is an appropriate result because power series are most often used for data that compares measurements that increase at a specific rate. The flow rate was increased in small increments and **[no need to write that it makes sense]** the volume of water on the chain would also increase at a specific rate until it reached a certain threshold, which can be seen towards the end of the line graph where the volume of water on the chain starts leveling out as expected.
 
 <center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsVWC.png?raw=true" width = 300/>
@@ -126,7 +126,7 @@ The single chain experiment yielded many results **[What results? Don't write fl
 **Figure 7.** The volume of water on the chain when the pump is running at different flow rates (reference manual for code).
 </center>
 
-Furthermore, residence time was calculated by dividing the volume of water on the chain (ml) by the flow rate (ml/min) and then converting to seconds, which is a more understandable unit **[You don't need to say that it is more understandable.]**. Understanding the residence time of water at different flow rates is important because the optimal residence time is 15 minutes. Again, since the flow rate is increasing in small increments a power series is used for the line of best fit, this time with an R<sup>2</sup> value of .996. Since the residence time drastically decreases as the flow rate increases **[,]** it is understood that an actual string digester system made with chains would have to run at low flow rates with really long chains. For example, if it were run at 1.5 ml/min at least a 13.716-meter chain would be needed for the optimal 15-minute residence time, which might be unattainable in some circumstances and the issue of clogging of pipes and tubes comes into play because the flow rate is so low. Thus, other materials may be worth looking into as possible strings in the system that will have better residence time.
+Furthermore, residence time was calculated by dividing the volume of water on the chain (ml) by the flow rate (ml/min) and then converting to seconds. **[You don't need to say that it is more understandable.]** Understanding the residence time of water at different flow rates is important because the optimal residence time is 15 minutes. Again, since the flow rate is increasing in small increments a power series is used for the line of best fit, this time with an R<sup>2</sup> value of .996. Since the residence time drastically decreases as the flow rate increases, **[,]** it is understood that an actual string digester system made with chains would have to run at low flow rates with really long chains. For example, if it were run at 1.5 ml/min at least a 13.716-meter chain would be needed for the optimal 15-minute residence time, which might be unattainable in some circumstances and the issue of clogging of pipes and tubes comes into play because the flow rate is so low. Thus, other materials may be worth looking into as possible strings in the system that will have better residence time.
 
 <center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsRT.png?raw=true" width = 300/>
@@ -134,7 +134,7 @@ Furthermore, residence time was calculated by dividing the volume of water on th
 **Figure 8.** The residence time of water on the chain when the pump is running at different flow rates (reference manual for code)
 </center>
 
-Another result the experiment supplied was the height of the chain that would be needed for a 15 min residence time at each flow rate. The height needed was calculated by dividing 900 seconds (15 mins) by the residence time(s) by the length of the chain, in this case .9144 meters. Then in graphing this value against the flow rate another set of data with a power series line of best fit is yielded this time with a R<sup>2</sup> value of .996. **[Refer to your figure!]** Again, since the flow rate was increased at specific increments and the residence time greatly decreased as the flow rate increased initially and then leveled out it follows that the line of best fit for the height needed for a residence time of 15 minutes should start off with a steeper slope and eventually start to become less steep. By running this experiment and calculating the values needed for residence time and height needed we were able to determine that chains may not be the best material to optimize the parameters we want.
+Another result the experiment supplied was the height of the chain that would be needed for a 15 min residence time at each flow rate. The height needed was calculated by dividing 900 seconds (15 mins) by the residence time(s) by the length of the chain, in this case .9144 meters. Then as seen in Figure 9. another line with a power series best fit is yielded this time with a R<sup>2</sup> value of .996. **[Refer to your figure!]** Again, since the flow rate was increased at specific increments and the residence time greatly decreased as the flow rate increased initially and then leveled out it follows that the line of best fit for the height needed for a residence time of 15 minutes should start off with a steeper slope and eventually start to become less steep. By running this experiment and calculating the values needed for residence time and height needed we were able to determine that chains may not be the best material to optimize the parameters we want.
 
 <center>
 <img src ="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsHN.png?raw=true" width=300>
@@ -325,5 +325,58 @@ plt.title('Height of Chain Needed for a \n15 Minute Residence Time')
 plt.xlabel('Flow Rate (mL/s)')
 plt.ylabel('Height of Chain (m)')
 plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/FRvsHN')
+plt.show()
+```
+###CODE FOR _____
+``` python
+from aguaclara.play import*
+from matplotlib import style
+style.use('ggplot')
+
+x,y = np.loadtxt('DFRT_FR_vs_VWS.csv',
+                unpack = True,
+                delimiter = ',')
+
+plt.plot(x,y)
+plt.title('Volume of Water on Dacron String at \nDifferent Flow Rates')
+plt.xlabel('Flow Rate (mL/s)')
+plt.ylabel('Volume of Water on Dacron String (mL)')
+plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/DFRvsVWC')
+plt.show()
+```
+
+###CODE FOR _________
+```python
+from aguaclara.play import*
+from matplotlib import style
+style.use('ggplot')
+
+x,y = np.loadtxt('DFRT_FR_vs_RT.csv',
+               unpack = True,
+               delimiter = ',')
+
+plt.plot(x,y)
+plt.title('Residence Time of Water on Dacron String \nat Different Flow Rates')
+plt.xlabel('Flow Rate (mL/s)')
+plt.ylabel('Residence Time (s)')
+plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/DFRvsRT')
+plt.show()
+```
+
+###CODE FOR _________
+```python
+from aguaclara.play import*
+from matplotlib import style
+style.use('ggplot')
+
+x,y = np.loadtxt('DFRT_FR_vs_HN.csv',
+               unpack = True,
+               delimiter = ',')
+
+plt.plot(x,y)
+plt.title('Height of Dacron String Needed for a \n15 Minute Residence Time')
+plt.xlabel('Flow Rate (mL/s)')
+plt.ylabel('Height of Chain (m)')
+plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/DFRvsHN')
 plt.show()
 ```
