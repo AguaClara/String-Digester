@@ -136,6 +136,7 @@ The string was dipped in water prior to hanging on the scale in order to allow w
 
 
 ## Results and Analysis
+###Single Chain
 The single chain experiment yielded  results **[What results? Don't write fluffy sentences like these. Instead, tell us directly what results you got.]** of volume of water on the chain, residence time, and height needed for a 15 minute residence time, by simply measuring the mass and length of the chain at a controlled flow rate. By dividing the mass on the chain by the density of water, which is 1 g/ml, the volume of water on the chain was obtained. When graphed against flow rate, this calculation yielded a curve best fit by a power series with an R<sup>2</sup> of .991. This is an appropriate result because power series are most often used for data that compares measurements that increase at a specific rate. The flow rate was increased in small increments and **[no need to write that it makes sense]** the volume of water on the chain would also increase at a specific rate until it reached a certain threshold, which can be seen towards the end of the line graph where the volume of water on the chain starts leveling out as expected.
 
 <center>
@@ -152,7 +153,7 @@ Furthermore, residence time was calculated by dividing the volume of water on th
 **Figure 8.** The residence time of water on the chain when the pump is running at different flow rates (reference manual for code)
 </center>
 
-Another result the experiment supplied was the height of the chain that would be needed for a 15 min residence time at each flow rate. The height needed was calculated by dividing 900 seconds (15 mins) by the residence time(s) by the length of the chain, in this case .9144 meters. Then as seen in Figure 9. another line with a power series best fit is yielded this time with a R<sup>2</sup> value of .996. **[Refer to your figure!]** Again, since the flow rate was increased at specific increments and the residence time greatly decreased as the flow rate increased initially and then leveled out it follows that the line of best fit for the height needed for a residence time of 15 minutes should start off with a steeper slope and eventually start to become less steep. By running this experiment and calculating the values needed for residence time and height needed we were able to determine that chains may not be the best material to optimize the parameters we want.
+Another result the experiment supplied was the height of the chain that would be needed for a 15 min residence time at each flow rate. The height needed was calculated by dividing 900 seconds (15 mins) by the residence time(s) by the length of the chain, in this case .9144 meters. Then as seen in **Figure 9.** another line with a power series best fit is yielded this time with a R<sup>2</sup> value of .996. **[Refer to your figure!]** Again, since the flow rate was increased at specific increments and the residence time greatly decreased as the flow rate increased initially and then leveled out it follows that the line of best fit for the height needed for a residence time of 15 minutes should start off with a steeper slope and eventually start to become less steep. By running this experiment and calculating the values needed for residence time and height needed we were able to determine that chains may not be the best material to optimize the parameters we want.
 
 <center>
 <img src ="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsHN.png?raw=true" width=300>
@@ -160,7 +161,32 @@ Another result the experiment supplied was the height of the chain that would be
 **Figure 9.** The height needed for the chain so that the residence time would be 15 minutes for each different flow rate (reference manual for code)
 </center>
 
-The chain matrix experiment focused more on qualitative results rather than quantitative ones. As the experiment ran it was observed that not all of the chains hanging out of the basin in the matrix contained the same amount and flow rate of water. For this reason it was decided to design a different system to distribute water onto the string material.  
+###Chain Matrix
+The chain matrix experiment focused more on qualitative results rather than quantitative ones. As the experiment ran it was observed that not all of the chains hanging out of the basin in the matrix contained the same amount and flow rate of water. For this reason it was decided to design a different system to distribute water onto the string material.
+
+###Single Dacron String
+The single dacron string experiment yielded the volume of water on the string, the residence time of that volume of water on the string, and the height needed for a 15 minute residence time.
+
+By dividing the mass on the string by the density of water, which is 1 g/ml, the volume of water on the string was obtained. The flow rate was increased in small increments and the volume of water on the string also increased at a specific rate until it reached a certain threshold. This can be seen on the graph in **Figure 10.** as the curve starts to level out as the change in the volume of water on the string decreases as the flow rate increases.
+<center>
+<img src ="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/DFRvsVWC.png?raw=true" width=300>
+
+**Figure 10.** The volume of water on the string graphed against the different flow rates (reference manual for code)
+</center>
+
+Residence time was calculated by dividing the volume of water on the string (ml) by the flow rate (ml/min) and then converting to seconds. Understanding the residence time of the water on the string at different flow rates is important because time is a constraint in trickling filters. A string digester cannot take too long because it slows the rate of flow the water can come out of the plant at which affects how much wastewater the plant can take in. But, it also cannot run too fast because the bacteria on the string need the right amount of time to actually extract most of the nutrients out of the water. The residence time drastically decreases as the flow rate increases as seen in **Figure 11.**. Thus, it is understood that a string digester would have to run at low flow rates.
+<center>
+<img src ="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/DFRvsRT.png?raw=true" width=300>
+
+**Figure 11.** The residence time graphed against the different flow rates (reference manual for code)
+</center>
+
+The last result the experiment supplied was the height of the string that would be needed for a 15 min residence time at each flow rate. The height needed was calculated by dividing the "optimal" residence time of 15 minutes by the residence time(s)and then  by the length of the chain, in this case .78 meters. The flow rate was increased at specific increments and the residence time greatly decreased as the flow rate increased initially and then leveled out, however the height needed for a 15 minute residence time is almost exactly linear (see **Figure 12.**). The length of string needed for a 15 minute residence time at the lowest flow rate of about .0005 mL/s would only be about 1.97 m. By running this experiment and calculating the values needed for residence time and height needed we were able to determine that strings may be a viable option to optimize the parameters we want. The next step would be to design a dispensing system that could actually deliver water onto the strings at such low flow rates.
+<center>
+<img src ="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/DFRvsHN.png?raw=true" width=300>
+
+**Figure 12.** The height needed for a 15 minute residence time graphed against the different flow rates (reference manual for code)
+</center>
 
 ## Conclusions
 
@@ -223,7 +249,7 @@ Purchasing Link: [Jack Chain](https://www.mcmaster.com/3617T2)
 <center>
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/jackchain.jpg?raw=true" width = 300/>
 
-**Figure 10.** The stainless steel jack chain used for the single-chain and chain-matrix experiments.
+**Figure 13.** The stainless steel jack chain used for the single-chain and chain-matrix experiments.
 </center>
 
 ## Experimental Methods
@@ -345,7 +371,7 @@ plt.ylabel('Height of Chain (m)')
 plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/FRvsHN')
 plt.show()
 ```
-###CODE FOR _____
+### Code for Figure 10
 ``` python
 from aguaclara.play import*
 from matplotlib import style
@@ -363,7 +389,7 @@ plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/im
 plt.show()
 ```
 
-###CODE FOR _________
+### Code for Figure 11
 ```python
 from aguaclara.play import*
 from matplotlib import style
@@ -381,7 +407,7 @@ plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/im
 plt.show()
 ```
 
-###CODE FOR _________
+### Code for Figure 12
 ```python
 from aguaclara.play import*
 from matplotlib import style
