@@ -117,6 +117,24 @@ Six evenly spaced holes were drilled into a basin. Six 3-foot chains were subseq
 #### Procedure
 The narrow tubing (ID: 16) was connected to a peristaltic pump and was directed into the basin. The peristaltic pump was used to control the amount of water that flowed into the basin. The amount of water flowing onto each chain was analyzed and compared for retention.
 
+### Single Dacron String Experiment
+#### Objectives of Experiment
+The objectives of the single Dacron string experiment were to determine how uniformly water flowed down the string and the length of a string needed for the  water to have a 15-minute residence time on the string.
+
+#### Experimental Apparatus
+A 30-inch Dacron string was hooked onto the bottom of a scale and allowed to hang freely from the scale. The scale, which measured the weight of the string, was placed on top of two support beams above the lab bench. Orange yellow microtubing connected to the peristaltic pump was draped over the support beam and taped onto a flat rod between the two beams so that the tubing was allowed to just barely touch the top of the string.
+
+<center>
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/bvchain.jpg.jpg?raw=true" height=400>
+ this pic is gonna change. just a place holder
+
+</center>
+
+#### Procedure
+The string was dipped in water prior to hanging on the scale in order to allow water to stay on the string more effectively. The scale was zeroed with the string hanging on the scale so that the scale would only measure the weight of the water on the string. Water was pumped at a controlled flow rate into the tubing and onto the string. The idea was to allow the tubing to just barely touch the string so that it could release water directly onto the string without putting the string at an angle. Once the scale began reading steady weights, these ranges of weights were recorded for RPMs starting at 77.8, then 70, followed by every 10 RPM after that (60, 50, 40, etc) until 1.6 RPM, which correlated to flow rates starting at 0.0246 mL/s to .0005 mL/s. Then, residence times on the string were calculated by dividing the total weight on the string by flow rate (in mL/s) for each of the RPMs tested. Finally, the length of the string needed for the water to have a retention time of 15 minutes was calculated using the retention time per meter of string.
+
+
+
 ## Results and Analysis
 The single chain experiment yielded  results **[What results? Don't write fluffy sentences like these. Instead, tell us directly what results you got.]** of volume of water on the chain, residence time, and height needed for a 15 minute residence time, by simply measuring the mass and length of the chain at a controlled flow rate. By dividing the mass on the chain by the density of water, which is 1 g/ml, the volume of water on the chain was obtained. When graphed against flow rate, this calculation yielded a curve best fit by a power series with an R<sup>2</sup> of .991. This is an appropriate result because power series are most often used for data that compares measurements that increase at a specific rate. The flow rate was increased in small increments and **[no need to write that it makes sense]** the volume of water on the chain would also increase at a specific rate until it reached a certain threshold, which can be seen towards the end of the line graph where the volume of water on the chain starts leveling out as expected.
 
