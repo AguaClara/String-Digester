@@ -133,7 +133,12 @@ A 30-inch Dacron string was hooked onto the bottom of a scale and allowed to han
 #### Procedure
 The string was dipped in water prior to hanging on the scale in order to allow water to stay on the string more effectively. The scale was zeroed with the string hanging on the scale so that the scale would only measure the weight of the water on the string. Water was pumped at a controlled flow rate into the tubing and onto the string. The idea was to allow the tubing to just barely touch the string so that it could release water directly onto the string without putting the string at an angle. Once the scale began reading steady weights, these ranges of weights were recorded for RPMs starting at 77.8, then 70, followed by every 10 RPM after that (60, 50, 40, etc) until 1.6 RPM, which correlated to flow rates starting at 0.0246 mL/s to .0005 mL/s. Then, residence times on the string were calculated by dividing the total weight on the string by flow rate (in mL/s) for each of the RPMs tested. Finally, the length of the string needed for the water to have a retention time of 15 minutes was calculated using the retention time per meter of string.
 
-
+###Capillary Action Testing
+####Objective of Experiments
+The goal of this experiment was to determine if capillary action is possible using the 0.3 mm Dacron string.
+####Experimental Apparatus
+**Add photos here**
+####Procedure
 
 ## Results and Analysis
 ###Single Chain
