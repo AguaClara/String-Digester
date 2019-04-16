@@ -9,7 +9,7 @@
 **[Overall: Good job! I would like to see you guys work on eliminating fluffy sentences hidden in your report. Get to the point. Don't leave grader comments hanging and address all of them!]**
 
 ## Abstract
-The objective of String Digester for the Spring 2019 semester is to continue research on revamping a wastewater treatment system to eliminate problems associated with current trickling filters. To improve consistency in wastewater treatment, experiments will be conducted using metallic and plastic chains to optimize surface area. The long-term goal of this team is to create an efficient wastewater treatment system that will perform secondary and tertiary treatment on domestic wastewater. These tests will involve different chain types and materials, chain spacing, and biofilm growth to help define design parameters for the construction of a functioning string digester.
+The objective of String Digester for the Spring 2019 semester was to continue research on revamping a wastewater treatment system to eliminate problems associated with current trickling filters. To improve consistency in wastewater treatment, experiments were conducted using metallic and plastic chains to optimize surface area. The long-term goal of this team is to create an efficient wastewater treatment system that will perform secondary and tertiary treatment on domestic wastewater. These tests will involve different chain types and materials, chain spacing, and biofilm growth to help define design parameters for the construction of a functioning string digester.
 
 **[Write in past tense throughout report when talking about current semester or prior semester work.]**
 
@@ -27,7 +27,7 @@ In addition to non-homogenous distribution of wastewater throughout the filter, 
 
 Ali also states that the aforementioned sloughing and clogging is often caused by uneven hydraulic loading rates (HLR). Hydraulic loading rate is the amount of flow arriving at the treatment plant and going entering the treatment process at any given time. Uneven HLR is caused by clogging of the distribution arm and an uneven distribution of influent. Therefore, proper distribution of wastewater onto the filter media is crucial for optimizing efficiency of treatment. The most common method of influent distribution is rotating distributors. Rotating distributors consist of moving parts that require more maintenance and may be a burden in a plant to operators. Additionally, this system will not serve the chain-focused design.
 
-The less common method of distribution, the fixed distribution system as seen below, utilizes lateral and main distribution pipes, which are placed just above the medium and spaced to give uniform distribution of water. The pipes generally have nozzles with a circular hole and a deflector[diagram to help visualize would be helpful] **[Any thoughts on addressing this comment Felix made in your first submission?]**. This method is commonly used with intermittent dosing, meaning flow from the system varies; it starts at a maximum and lowers as the tank empties. Currently, fixed distribution systems are mostly used in deep filter and biotowers (i.e. very tall filters). Since this method is non-rotating, it may be more applicable for the proposed use of a chain media. However, Sperling and colleagues showed that both the fixed and rotating distribution systems have an inconsistent hydraulic load of the influent [(Sperling 2007)](https://www.iwapublishing.com/sites/default/files/ebooks/9781780402123.pdf). Therefore, the distribution system is another area where there is huge potential for the team to increase the productivity of trickling filters.
+The less common method of distribution, the fixed distribution system as seen below (**Figure 1.**), utilizes lateral and main distribution pipes, which are placed just above the medium and spaced to give uniform distribution of water. The pipes generally have nozzles with a circular hole and a deflector[diagram to help visualize would be helpful] **[Any thoughts on addressing this comment Felix made in your first submission?]** *<-- We have this below*. This method is commonly used with intermittent dosing, meaning flow from the system varies; it starts at a maximum and lowers as the tank empties. Currently, fixed distribution systems are mostly used in deep filter and biotowers (i.e. very tall filters). Since this method is non-rotating, it may be more applicable for the proposed use of a chain media. However, Sperling and colleagues showed that both the fixed and rotating distribution systems have an inconsistent hydraulic load of the influent [(Sperling 2007)](https://www.iwapublishing.com/sites/default/files/ebooks/9781780402123.pdf). Therefore, the distribution system is another area where there is huge potential for the team to increase the productivity of trickling filters.
 
 <center>
 
@@ -55,7 +55,7 @@ Studies have also been conducted about the bacteria that produce the biofilm on 
 ### Spring 2018
 In Spring 2018, the Trickling Filter team spent a substantial amount of time doing research on the operational difficulties, the kinetics, and typical design parameters of trickling filters. The team aimed to address many of the issues plant operators encounter with trickling filters, like clogging and ponding, lack of moisture in parts of the filter, and general inefficiency of the filter. The two main areas for improvement the team identified were the filter media itself and the distribution system ([Spring 2018 Final Report](https://github.com/AguaClara/String-Digester/blob/master/Spring%20'18/TricklingFilter_Final_Report.md)).
 
-The team fabricated a bench top model for flow mapping and conducted several rounds of tests to determine the distribution of flow in trickling filters with small rock and marble media. From these experiments, the team noticed that there were significant portions of the media that never got wet and thus concluded that a substantial volume of the trickling filter was unused due to preferential flow. From these tests the team also showed that a uniform packing material is superior to an irregularly shaped material. In an effort to both maximize the surface area to volume ratio and to minimize the footprint of the system by not wasting space, the team shifted focus towards strings as a possible filter media. This concept led the team to start with very preliminary testing of a system that was essentially an overflowing basin with strings submerged at the top, inside the basin, and draped over the sides to guide water down to a collection bucket below. (See Figure 12 in section 1.2.2 in  [Can include that figure 2 mentioned here too!] **[Seems like you addressed this comment and forgot to go back and incorporate into your text.]** for an example of  experimental set-up similar to those conducted in Spring 2018.) In these initial tests, the team members observed that the water did in fact follow the along strings when it overflowed. From these observations, the String Digester team began to design more rigorous tests on the concept and planned to investigate whether using strings in a wastewater treatment system is truly viable.
+The team fabricated a bench top model for flow mapping and conducted several rounds of tests to determine the distribution of flow in trickling filters with small rock and marble media. From these experiments, the team noticed that there were significant portions of the media that never got wet and thus concluded that a substantial volume of the trickling filter was unused due to preferential flow. From these tests the team also showed that a uniform packing material is superior to an irregularly shaped material. In an effort to both maximize the surface area to volume ratio and to minimize the footprint of the system by not wasting space, the team shifted focus towards strings as a possible filter media. This concept led the team to start with very preliminary testing of a system that was essentially an overflowing basin with strings submerged at the top, inside the basin, and draped over the sides to guide water down to a collection bucket below (See Figure 2, the same experimental set-up used in Spring 2018). [Can include that figure 2 mentioned here too!] **[Seems like you addressed this comment and forgot to go back and incorporate into your text.]** In these initial tests, the team members observed that the water did in fact follow the along strings when it overflowed. From these observations, the String Digester team began to design more rigorous tests on the concept and planned to investigate whether using strings in a wastewater treatment system is truly viable.
 
 <center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/Screen%20Shot%202018-10-24%20at%203.14.20%20PM.png?raw=true" />
@@ -77,7 +77,7 @@ Next, two foams and two stainless steel chains were tested on the same basin in 
 The objective of the initial experiment was to determine the peak amount of water that the chain could hold at a single point in time, the residence time for water on the chain at different flow rates, and the height needed for a 15 minute residence time at different flow rates.
 
 #### Experimental Apparatus
-A scale was secured approximately one meter above a lab bench resting on supports at each corner so that the bottom of the scale was left accessible. A 3-foot single chain was attached to the hook on the bottom of the scale and was allowed to hang down freely (see Figure 3 below). The hook on the scale measured the weight of the chain. Reference the [Single Chain Experiments Manual](#Single-Chain-Experiments) **[You can actually link to the section like you would for a normal website by referring to the section name (i.e. [Single Chain Experiments Manual](#Single-Chain-Experiments))]** section for a detailed explanation of the set-up.
+A scale was secured approximately one meter above a lab bench resting on supports at each corner so that the bottom of the scale was left accessible. A 3-foot single chain was attached to the hook on the bottom of the scale and was allowed to hang down freely (see Figure 3 below). The hook on the scale measured the weight of the chain. Reference the [Single Chain Experiment Manual](#Single-Chain-Experiment) **[You can actually link to the section like you would for a normal website by referring to the section name (i.e. [Single Chain Experiments Manual](#Single-Chain-Experiments))]** section for a detailed explanation of the set-up.
 
 <center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/bvchain.jpg.jpg?raw=true" height=400>
@@ -87,7 +87,11 @@ A scale was secured approximately one meter above a lab bench resting on support
 </center>
 
 #### Procedure
-Reference the Single Chain Experiments Manual section for a detailed procedure. The scale was zeroed with the chain hanging on the scale so that the scale would only measure the weight of the water on the chain. Narrow tubing (ID: 16) was connected to a peristaltic pump and water was pumped at a known rate. The end of the tube was directed onto the top of the chain hanging from the scale, in an attempt to allow water to flow onto and down the hanging chain. The idea was to get water flowing onto the chain and then, while continuously pumping water onto the chain, measure the weight of the water on the chain at a moment in time. Because the scale reading often fluctuated, a range of weights was recorded. The weight of the water (in grams) on the chain was recorded for several different flow rates of water. The first two flow rates used were 1.5 mL/s and 3 mL/s and then every multiple of 5 from 5-80 mL/s was used after the initial two. From these measurements, the team was able to quantify how much water the chain could hold per unit length. After, the team calculated the residence time by dividing the volume of water on the chain by flow rate. From this information, the team calculated the height of the chain needed for a residence time of 15 minutes.
+Reference the [Single Chain Experiments Manual](#Single-Chain-Experiment) section for a detailed procedure. The scale was zeroed with the chain hanging on the scale so that the scale would only measure the weight of the water on the chain. Narrow tubing (ID: 16) was connected to a peristaltic pump and water was pumped at a known rate. The end of the tube was directed onto the top of the chain hanging from the scale, in an attempt to allow water to flow onto and down the hanging chain.
+
+The idea was to get water flowing onto the chain and then, while continuously pumping water onto the chain, measure the weight of the water on the chain at a moment in time. Because the scale reading often fluctuated, a range of weights was recorded. The weight of the water (in grams) on the chain was recorded for several different flow rates of water. The first two flow rates used were 1.5 mL/s and 3 mL/s and then every multiple of 5 from 5-80 mL/s was used after the initial two.
+
+From these measurements, the team was able to quantify how much water the chain could hold per unit length. After, the team calculated the residence time by dividing the volume of water on the chain by flow rate. From this information, the team calculated the height of the chain needed for a residence time of 15 minutes.
 
 **[It's really hard to read this huge block of text. Consider separating into two or more paragraphs.]**
 
@@ -96,7 +100,7 @@ Reference the Single Chain Experiments Manual section for a detailed procedure. 
 The objective of this chain matrix experiment was to identify and compare the water retention of multiple chains in the same basin of water.
 
 #### Experimental Apparatus
-Six evenly spaced holes were drilled into a basin. Six 3-foot chains were subsequently inserted into these holes and were left to hang freely from the other end (see Figure 4). The basin was placed on top of a rod that rested across from the four supports in the previous experiment (see Figure 5). Reference the Chain Matrix Experiemnt **[Experiment]** Manual section for detailed information on the Experimental Apparatus.
+Six evenly spaced holes were drilled into a basin. Six 3-foot chains were subsequently inserted into these holes and were left to hang freely from the other end (see Figure 4). The basin was placed on top of a rod that rested across from the four supports in the previous experiment (see Figure 5). Reference the [Chain Matrix Experiment](#Chain-Matrix-Experiment) **[Experiment]** Manual section for detailed information on the Experimental Apparatus.
 
 <center>
 
@@ -122,26 +126,51 @@ The narrow tubing (ID: 16) was connected to a peristaltic pump and was directed 
 The objectives of the single Dacron string experiment were to determine how uniformly water flowed down the string and the length of a string needed for the  water to have a 15-minute residence time on the string.
 
 #### Experimental Apparatus
-A 30-inch Dacron string was hooked onto the bottom of a scale and allowed to hang freely from the scale. The scale, which measured the weight of the string, was placed on top of two support beams above the lab bench. Orange yellow microtubing connected to the peristaltic pump was draped over the support beam and taped onto a flat rod between the two beams so that the tubing was allowed to just barely touch the top of the string.
+A 30-inch wetted Dacron string was hooked onto the bottom of a scale and allowed to hang freely from the scale. The scale, which measured the weight of the string, was placed on top of two support beams above the lab bench. Orange yellow microtubing(ID: 0.05) connected to the peristaltic pump was draped over the support beam and taped onto a flat rod between the two beams so that the tubing was allowed to just barely touch the side of the top part of the string. Reference the [Single Dacron String Experiment Manual](#Single-Dacron-Experiment-Manual)for a detailed explanation of the set-up.
 
 <center>
-<img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/bvchain.jpg.jpg?raw=true" height=400>
- this pic is gonna change. just a place holder
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/zoomedoutdacron.jpeg?raw=true" height=400>
+
+**Figure 7.** Zoomed out view of Dacron string, scale, and microtubing.
+
+</center>
+
+<center>
+
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/topview%20single%20dacron.jpeg?raw=true" height=400>
+
+**Figure 8.** Bird's eye view of microtubing mounted on flat rod and directed under scale.
+
+</center>
+
+<center>
+
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/close%20up%20microtubing.jpeg?raw=true" height=400>
+
+**Figure 9.** Zoomed in photo of the microtubing placement just next to the string, with water being released onto the string.
 
 </center>
 
 #### Procedure
-The string was dipped in water prior to hanging on the scale in order to allow water to stay on the string more effectively. The scale was zeroed with the string hanging on the scale so that the scale would only measure the weight of the water on the string. Water was pumped at a controlled flow rate into the tubing and onto the string. The idea was to allow the tubing to just barely touch the string so that it could release water directly onto the string without putting the string at an angle. Once the scale began reading steady weights, these ranges of weights were recorded for RPMs starting at 77.8, then 70, followed by every 10 RPM after that (60, 50, 40, etc) until 1.6 RPM, which correlated to flow rates starting at 0.0246 mL/s to .0005 mL/s. Then, residence times on the string were calculated by dividing the total weight on the string by flow rate (in mL/s) for each of the RPMs tested. Finally, the length of the string needed for the water to have a retention time of 15 minutes was calculated using the retention time per meter of string.
+Reference the [Single Dacron String Experiment Manual](#Single-Dacron-Experiment-Manual)for a detailed explanation of the procedure.The string was dipped in water prior to hanging on the scale in order to allow water to stay on the string more effectively. The scale was zeroed with the string hanging on the scale so that the scale would only measure the weight of the water flowing on the string. Water was pumped at a controlled flow rate through the tubing and onto the string. The idea was to allow the tubing to just barely touch the string so that it could release water directly onto the string without putting the string at an angle.
+
+Once the scale began reading steady weights, a range of weights was recorded for an RPM(revolution/minute) starting at 77.8, then 70, followed by every 10 RPM after that (60, 50,...,10 RPM) and finally at 1.6 RPM(the smallest possible RPM), which correlated to flow rates starting at 0.0246 mL/s down to .0005 mL/s. Then, residence times on the string were calculated by dividing the total weight on the string by flow rate (in mL/s) for each RPM tested. Finally, the length of the string needed for the water to have a retention time of 15 minutes was calculated using the retention time per meter of string.
 
 ###Capillary Action Testing
 ####Objective of Experiments
 The goal of this experiment was to determine if capillary action is possible using the 0.3 mm Dacron string.
 ####Experimental Apparatus
-**Add photos here**
+Ten 80 inch Dacron strings were used and were double backed so that each strand was 40 inches. The strands were wrapped around a tube in the bottom of the basin and emerged in a water and dye solution. The strings were then draped over a pipe about 5 cm above the surface of the solution and left to hang down over the other side. See Figure xx for the set-up.
+<center>
+<img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/CapAct2.JPG?raw=true" height = 200>
+<img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/CapAct.jpg?raw=true" height = 200>
+</center>
+Figure xx. (Left) Bird's eye view of the set-up. (Right) X-Y plane view of set-up
 ####Procedure
+The set-up described in the experimental apparatus was used. A basin was placed on a scale at the bottom of the strings. A timer was started when the dye solution was added into the input basin. Results were noted qualitatively and quantitatively. The migration of the dye was assed with time and weight was to be recorded at the 20 min, 1 hour, and 2 hours marks in the lower basin where water was expected to flow to.
 
 ## Results and Analysis
-###Single Chain
+### Single Chain Experiment
 The single chain experiment yielded  results **[What results? Don't write fluffy sentences like these. Instead, tell us directly what results you got.]** of volume of water on the chain, residence time, and height needed for a 15 minute residence time, by simply measuring the mass and length of the chain at a controlled flow rate. By dividing the mass on the chain by the density of water, which is 1 g/ml, the volume of water on the chain was obtained. When graphed against flow rate, this calculation yielded a curve best fit by a power series with an R<sup>2</sup> of .991. This is an appropriate result because power series are most often used for data that compares measurements that increase at a specific rate. The flow rate was increased in small increments and **[no need to write that it makes sense]** the volume of water on the chain would also increase at a specific rate until it reached a certain threshold, which can be seen towards the end of the line graph where the volume of water on the chain starts leveling out as expected.
 
 <center>
@@ -166,10 +195,10 @@ Another result the experiment supplied was the height of the chain that would be
 **Figure 9.** The height needed for the chain so that the residence time would be 15 minutes for each different flow rate (reference manual for code)
 </center>
 
-###Chain Matrix
+### Chain Matrix Experiment
 The chain matrix experiment focused more on qualitative results rather than quantitative ones. As the experiment ran it was observed that not all of the chains hanging out of the basin in the matrix contained the same amount and flow rate of water. For this reason it was decided to design a different system to distribute water onto the string material.
 
-###Single Dacron String
+### Single Dacron String Experiment
 The single dacron string experiment yielded the volume of water on the string, the residence time of that volume of water on the string, and the height needed for a 15 minute residence time.
 
 By dividing the mass on the string by the density of water, which is 1 g/ml, the volume of water on the string was obtained. The flow rate was increased in small increments and the volume of water on the string also increased at a specific rate until it reached a certain threshold. This can be seen on the graph in **Figure 10.** as the curve starts to level out as the change in the volume of water on the string decreases as the flow rate increases.
@@ -192,6 +221,13 @@ The last result the experiment supplied was the height of the string that would 
 
 **Figure 12.** The height needed for a 15 minute residence time graphed against the different flow rates (reference manual for code)
 </center>
+
+### Capillary Action with Dacron String
+This experiment did not go as expected. The red dye only traveled part of the way down the strings (Figure 13). No water made it to the end of the strings; therefore, the weight measurements were not useful as they were all constant. The team hypothesizes that this is because the solution of red dye and water had to travel too far and thus dried up too quickly.
+<center>
+<img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/capillary2.png?raw=true" height = 200>
+</center>
+Figure 13. Red dye on the strings after the test ran for a couple days.
 
 ## Conclusions
 
@@ -245,6 +281,21 @@ Step 4. Using an electrical drill with drill size 1/16th of an inch, drill 2 row
 Step 5. Cut 6 desired lengths of jack chain for the basin using wire cutter.
 Step 6. Pry open chain link on each chain using plyers and place into a basin hole.
 
+###Fabrication of Capillary Action Basin
+Step 1. Obtain sheets of PVC.
+Step 2. Using electrical saw, cut pieces of PVC to desired lengths and widths.
+* For longer sides of basin, cut the PVC sheet to 2.5 inches by 2.5 inches.
+* For shorter sides of basin, cut the PVC sheet to 1.75 inches by 1.5 inches.
+
+Step 3. Construct the basin in the form of a rectangular prism (no top/roof).
+* Use PVC glue and other necessary items to fabricate the shape.
+
+Step 4. Glue a PVC bar in the bottom of the center of the basin.
+* Make sure it is well within the basin, but not touching the bottom of the basin.
+
+Step 5. Cut 5 lengths of the Dacron string.
+Step 6. Fold the lengths in half and then loop around the bar in basin.
+
 ## Special Components
 ### Chain
 For the chain in the single-chain and chain-matrix experiments, a stainless steel, 50-foot, size-18, jack chain was used.
@@ -257,8 +308,19 @@ Purchasing Link: [Jack Chain](https://www.mcmaster.com/3617T2)
 **Figure 13.** The stainless steel jack chain used for the single-chain and chain-matrix experiments.
 </center>
 
+### Dacron
+For the string used in the single string and capillary action experiments, a synthetic, braided 600-yard Dacron (polyethylene terephthalate) string was used.
+
+Purchasing Link: [Dacron String](https://www.amazon.com/Tuf-Line-Dacron-600-Fishing/dp/B000ALCARK/ref=sr_1_5?keywords=fishing+line+dacron&qid=1555437543&s=gateway&sr=8-5)
+
+<center>
+<img src = "insert link here" width = 300/>
+
+**Figure #.** The braided Dacron string used for the single-string and capillary action experiments.
+</center>
+
 ## Experimental Methods
-### Single Chain Experiments
+### Single Chain Experiment
 #### Set-up
 Step 1. Suspend scale in air using rods for support.
 Step 2. Hook the jack chain to the hook on the bottom of the scale.
@@ -269,10 +331,11 @@ Step 4. Balance/Zero the scale
 * Make sure chain is as still as possible when zeroing.
 * Make sure chain is dry.
 
-Step 5. Set up peristaltic pump with tubing (Tubing ID: 16)
+Step 5. Set up peristaltic pump with orange/yellow tubing (Tubing ID: 0.05)
 * Set desired pumping speed.
 
 <center>
+
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/scale%20string%20set%20up.png?raw=true" width = 300/>
 
 **Figure 11.** Diagram of experimental apparatus for single chain experiment.
@@ -304,7 +367,7 @@ Step 4. Set up peristaltic pump with tubing (Tubing ID: 16)
 
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/diagram%20for%20chain%20matrix.jpeg?raw=true" width = 300/>
 
-**Figure 12.** Diagram of experimental apparatus for chain matrix experiment.
+**Figure #.** Diagram of experimental apparatus for chain matrix experiment.
 
 </center>
 
@@ -320,6 +383,74 @@ Step 1. Turn peristaltic pump off and let chains air-dry.
 Step 2. Pour any excess water in bucket down the sink.
 Step 3. Remove chains from the basin holes.
 Step 4. Put items away as desired.
+
+### Single Dacron String Experiment
+#### Set-up
+Step 1. Suspend scale in air using rods for support.
+Step 2. Cut a length of the Dacron string.
+Step 3. Form a loop on one end of the string through a knot.
+Step 4. Submerge the string in water to pre-wet.
+Step 5. Hook the Dacron string loop to the hook on the bottom of the scale.
+
+* Record the length of the string suspended in air.
+
+Step 6. Place large bucket under the chain to catch dripping water.
+Step 7. Set up peristaltic pump with micro-tubing (Tubing: Orange/Yellow)
+* Set desired pumping speed.
+* Secure the tubing to set-up.
+
+Step 8. Balance/Zero the scale.
+
+* Make sure Dacron string is as still as possible when zeroing.
+* Make sure string is pre-wet.
+
+<center>
+
+Refer to Diagram # for experimental apparatus diagram.
+
+</center>
+
+#### Experiment
+Step 1. Start the peristaltic pump.
+Step 2. Begin observing the scale and wait till scale reading begins to stabilize.
+Step 3. Record the range at which the scale reading fluctuates.
+Step 4. Repeat experiment as needed with desired pumping speed and desired Dacron string length.
+
+#### Cleaning Procedure
+Step 1. Turn peristaltic pump off and let string air-dry.
+Step 2. Pour any excess water in bucket down the sink.
+Step 3. Remove string from the scale hook.
+Step 4. Put items away as desired.
+
+### Capillary Action Experiment
+#### Set-up
+Step 1. Suspend capillary action basin in air using rods for support.
+Step 2. Saturate the Dacron Strings with water, and remove of any excess.
+Step 3. Place a PVC pipe 5-10 centimeters to the left or right of the basin and 5-10 centimeters above.
+Step 4. Place the strings of the basin over the PVC pipe.
+Step 5. Place scale under the strings and zero the scale.
+Step 6. Place a measuring cup under the strings and on top of the scale.
+* Make sure Dacron string is as still as possible when zeroing.
+* Make sure string is pre-wet.
+
+<center>
+
+<img src="insert link here" width = 300/>
+
+**Figure #.** Diagram of experimental apparatus for capillary action experiment.
+
+</center>
+
+#### Experiment
+Step 1. Record the weight on the scale with measuring cup.
+Step 2. Place desired amount of water as well as desired amount of dye into the basin.
+Step 3. Start a timer with desired unit of time.
+Step 4. Monitor experiment as desired and record scale readings at specific times.
+
+#### Cleaning Procedure
+Step 1. Remove basin liquid and let strings air-dry.
+Step 2. Pour basin liquid in bucket and basin down the sink.
+Step 3. Put items away as desired.
 
 ## Python Code for Graphs
 
