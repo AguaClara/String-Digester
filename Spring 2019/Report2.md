@@ -1,6 +1,6 @@
 # String Digester, Spring 2019
 #### Kiki Lo, Antonio Martinez, Gaby Sibel, Zsofia Szegletes
-#### March 15, 2019
+#### April 16, 2019
 
 **[Sidney: Hello! I will be making comments in these bolded square brackets.]**
 
@@ -16,7 +16,7 @@ The objective of String Digester for the Spring 2019 semester was to continue re
 ## Introduction
 The String Digester sub-team was created in response to the remaining need for secondary wastewater treatment after treatment from the Upflow Anaerobic Sludge Blanket (UASB) reactor. A trickling filter is a secondary wastewater treatment system that removes organic matter from the wastewater through biological means, and is crucial for the removal of harmful pathogens. Looking to improve on the traditional industrial-scale trickling filter design, previous work identified an issue with the process: there is a substantial amount of unused space in the trickling treatment unit due to the uneven flow of wastewater across the system (preferential flow). The primary objective of this sub-team is to continue to develop a novel design for a highly efficient trickling filter with a minimized footprint in terms of space. Following the conclusion from Fall 2018, that metal chains would be a viable trickling media due to their retention of water, the team decided to focus this semester's research on trying to determine what material and type of chain would work best in terms of water retention and biofilm growth and from there, determining the best matrix for these chains to be in to maximize water retention on chain media. With this work, the team will work towards assessing the feasibility of a modified trickling filter unit in future AguaClara treatment plants while striving to make significant technological improvements on industry-standard applications for the system.
 
-Research dealing with trickling filter wastewater treatment was ubiquitous in the 1970's and 1980's, however, the research in this field has significantly declined in the following decades. Moreover, research involving string as a media in this method of treatment is almost nonexistent. Research on secondary wastewater treatment originally focused on performance of trickling filters, but now has shifted towards processes higher in energy consumption. The philosophy for plants of AguaClara **[just say AguaClara plants]** is to create a plant that is optimized for low cost and a high performance, and looking at the regions a future wastewater plant would serve, trickling filters are a promising technology due to their low-energy requirements. With work in reducing unused space in these plants, these treatment systems are ideal. Maintaining these ideals will be a priority in the team's future design. With modification, the trickling filter treatment system carries much potential to be implemented in areas of the world in which capital expenditure is a major barrier for employing traditional secondary wastewater treatment (aeration tanks).
+Research dealing with trickling filter wastewater treatment was ubiquitous in the 1970's and 1980's, however, the research in this field has significantly declined in the following decades. Moreover, research involving string as a media in this method of treatment is almost nonexistent. Research on secondary wastewater treatment originally focused on performance of trickling filters, but now has shifted towards processes higher in energy consumption. The philosophy for AguaClara plants **[just say AguaClara plants]** is to create a plant that is optimized for low cost and a high performance, and looking at the regions a future wastewater plant would serve, trickling filters are a promising technology due to their low-energy requirements. With work in reducing unused space in these plants, these treatment systems are ideal. Maintaining these ideals will be a priority in the team's future design. With modification, the trickling filter treatment system carries much potential to be implemented in areas of the world in which capital expenditure is a major barrier for employing traditional secondary wastewater treatment (aeration tanks).
 
 
 ## Literature Review
@@ -70,9 +70,7 @@ In Fall 2018, the team continued experimentation with the overflowing basin from
 Next, two foams and two stainless steel chains were tested on the same basin in addition to a winged basin set up. These materials were able to retain water as it trickled down. The blue foam worked exceptionally well as it absorbed water. The initial testing done on these materials suggests they could work in the proposed system and make the string digester technology possible. Further testing will be done on the chains as the foams are thought to easily clog; therefore, they are not confirmed to be a viable solution at this point. See [Fall 2018 Final Report](https://github.com/AguaClara/String-Digester/blob/master/Fall%20'18/Final_Report_stringdigester.md) for more information.
 
 ## Methods
-
 ### Single Chain Experiments
-
 #### Objectives of Experiments
 The objective of the initial experiment was to determine the peak amount of water that the chain could hold at a single point in time, the residence time for water on the chain at different flow rates, and the height needed for a 15 minute residence time at different flow rates.
 
@@ -126,7 +124,7 @@ The narrow tubing (ID: 16) was connected to a peristaltic pump and was directed 
 The objectives of the single Dacron string experiment were to determine how uniformly water flowed down the string and the length of a string needed for the  water to have a 15-minute residence time on the string.
 
 #### Experimental Apparatus
-A 30-inch wetted Dacron string was hooked onto the bottom of a scale and allowed to hang freely from the scale. The scale, which measured the weight of the string, was placed on top of two support beams above the lab bench. Orange yellow microtubing(ID: 0.05) connected to the peristaltic pump was draped over the support beam and taped onto a flat rod between the two beams so that the tubing was allowed to just barely touch the side of the top part of the string. Reference the [Single Dacron String Experiment Manual](#Single-Dacron-Experiment-Manual)for a detailed explanation of the set-up.
+A 30-inch wetted Dacron string was hooked onto the bottom of a scale and allowed to hang freely from the scale. The scale, which measured the weight of the string, was placed on top of two support beams above the lab bench. Orange-yellow color-coded micro-tubing (ID: 0.05) connected to the peristaltic pump was draped over the support beam and taped onto a flat rod between the two beams so that the tubing was allowed to just barely touch the side of the top part of the string. Reference the [Single Dacron String Experiment Manual](#Single-Dacron-Experiment-Manual)for a detailed explanation of the set-up.
 
 <center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/zoomedoutdacron.jpeg?raw=true" height=400>
@@ -166,6 +164,7 @@ Ten 80 inch Dacron strings were used and were double backed so that each strand 
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/CapAct.jpg?raw=true" height = 200>
 </center>
 **Figure 11.** (Left) Bird's eye view of the set-up. (Right) X-Y plane view of set-up
+
 ####Procedure
 The set-up described in the experimental apparatus was used. A basin was placed on a scale at the bottom of the strings. A timer was started when the dye solution was added into the input basin. Results were noted qualitatively and quantitatively. The migration of the dye was assed with time and weight was to be recorded at the 20 min, 1 hour, and 2 hours marks in the lower basin where water was expected to flow to.
 
@@ -314,7 +313,7 @@ For the string used in the single string and capillary action experiments, a syn
 Purchasing Link: [Dacron String](https://www.amazon.com/Tuf-Line-Dacron-600-Fishing/dp/B000ALCARK/ref=sr_1_5?keywords=fishing+line+dacron&qid=1555437543&s=gateway&sr=8-5)
 
 <center>
-<img src = "insert link here" width = 300/>
+<img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/Dacron_String_Closeup.jpeg?raw=true" width = 300/>
 
 **Figure 20.** The braided Dacron string used for the single-string and capillary action experiments.
 </center>
@@ -406,7 +405,7 @@ Step 8. Balance/Zero the scale.
 
 <center>
 
-Refer to Diagram # for experimental apparatus diagram.
+Refer to Diagram 21 for experimental apparatus diagram.
 
 </center>
 
@@ -435,7 +434,7 @@ Step 6. Place a measuring cup under the strings and on top of the scale.
 
 <center>
 
-<img src="insert link here" width = 300/>
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/Capillary_Action_Diagram.jpeg?raw=true" width = 300/>
 
 **Figure 23.** Diagram of experimental apparatus for capillary action experiment.
 
