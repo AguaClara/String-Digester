@@ -32,7 +32,7 @@ The less common method of distribution, the fixed distribution system as seen be
 <center>
 
 ![Fixed Distribution System](https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/Fixed%20Distribution%20Trickling%20Filter.gif?raw=true)
-</center> <center>
+
 **Figure 2.** Trickling filter with a fixed distribution system.
 
 </center>
