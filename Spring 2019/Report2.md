@@ -225,8 +225,9 @@ The last result the experiment supplied was the height of the string that would 
 This experiment did not go as expected. The red dye only traveled part of the way down the strings (**Figure 18**). No water made it to the end of the strings; therefore, the weight measurements were not useful as they were all constant. The team hypothesizes that this is because the solution of red dye and water had to travel too far and thus dried up too quickly.
 <center>
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/capillary2.png?raw=true" height = 200>
-</center>
+
 **Figure 18.** Red dye on the strings after the test ran for a couple days.
+</center>
 
 ## Conclusions
 
@@ -405,7 +406,7 @@ Step 8. Balance/Zero the scale.
 
 <center>
 
-Refer to Diagram 21 for experimental apparatus diagram.
+Refer to **Diagram 21** for experimental apparatus diagram.
 
 </center>
 
