@@ -33,7 +33,7 @@ The less common method of distribution, the fixed distribution system as seen be
 
 ![Fixed Distribution System](https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/Fixed%20Distribution%20Trickling%20Filter.gif?raw=true)
 
-**Figure 1.** Trickling filter with a fixed distribution system.
+**Figure 2.** Trickling filter with a fixed distribution system.
 
 </center>
 
@@ -55,12 +55,12 @@ Studies have also been conducted about the bacteria that produce the biofilm on 
 ### Spring 2018
 In Spring 2018, the Trickling Filter team spent a substantial amount of time doing research on the operational difficulties, the kinetics, and typical design parameters of trickling filters. The team aimed to address many of the issues plant operators encounter with trickling filters, like clogging and ponding, lack of moisture in parts of the filter, and general inefficiency of the filter. The two main areas for improvement the team identified were the filter media itself and the distribution system ([Spring 2018 Final Report](https://github.com/AguaClara/String-Digester/blob/master/Spring%20'18/TricklingFilter_Final_Report.md)).
 
-The team fabricated a bench top model for flow mapping and conducted several rounds of tests to determine the distribution of flow in trickling filters with small rock and marble media. From these experiments, the team noticed that there were significant portions of the media that never got wet and thus concluded that a substantial volume of the trickling filter was unused due to preferential flow. From these tests the team also showed that a uniform packing material is superior to an irregularly shaped material. In an effort to both maximize the surface area to volume ratio and to minimize the footprint of the system by not wasting space, the team shifted focus towards strings as a possible filter media. This concept led the team to start with very preliminary testing of a system that was essentially an overflowing basin with strings submerged at the top, inside the basin, and draped over the sides to guide water down to a collection bucket below (See Figure 2, the same experimental set-up used in Spring 2018). [Can include that figure 2 mentioned here too!] **[Seems like you addressed this comment and forgot to go back and incorporate into your text.]** In these initial tests, the team members observed that the water did in fact follow the along strings when it overflowed. From these observations, the String Digester team began to design more rigorous tests on the concept and planned to investigate whether using strings in a wastewater treatment system is truly viable.
+The team fabricated a bench top model for flow mapping and conducted several rounds of tests to determine the distribution of flow in trickling filters with small rock and marble media. From these experiments, the team noticed that there were significant portions of the media that never got wet and thus concluded that a substantial volume of the trickling filter was unused due to preferential flow. From these tests the team also showed that a uniform packing material is superior to an irregularly shaped material. In an effort to both maximize the surface area to volume ratio and to minimize the footprint of the system by not wasting space, the team shifted focus towards strings as a possible filter media. This concept led the team to start with very preliminary testing of a system that was essentially an overflowing basin with strings submerged at the top, inside the basin, and draped over the sides to guide water down to a collection bucket below (See **Figure 3.**, the same experimental set-up used in Spring 2018). [Can include that **Figure 3.** mentioned here too!] **[Seems like you addressed this comment and forgot to go back and incorporate into your text.]** In these initial tests, the team members observed that the water did in fact follow the along strings when it overflowed. From these observations, the String Digester team began to design more rigorous tests on the concept and planned to investigate whether using strings in a wastewater treatment system is truly viable.
 
 <center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/Screen%20Shot%202018-10-24%20at%203.14.20%20PM.png?raw=true" />
 
-**Figure 2**. Experimental Set-up with water basin from [Fall 2018 Final Report](https://github.com/AguaClara/String-Digester/blob/master/Fall%20'18/Final_Report_stringdigester.md) Section 1.2.2 Figure 2.
+**Figure 3**. Experimental Set-up with water basin from [Fall 2018 Final Report](https://github.com/AguaClara/String-Digester/blob/master/Fall%20'18/Final_Report_stringdigester.md) Section 1.2.2 Figure 2.
 </center>
 
 ### Fall 2018
@@ -77,12 +77,12 @@ Next, two foams and two stainless steel chains were tested on the same basin in 
 The objective of the initial experiment was to determine the peak amount of water that the chain could hold at a single point in time, the residence time for water on the chain at different flow rates, and the height needed for a 15 minute residence time at different flow rates.
 
 #### Experimental Apparatus
-A scale was secured approximately one meter above a lab bench resting on supports at each corner so that the bottom of the scale was left accessible. A 3-foot single chain was attached to the hook on the bottom of the scale and was allowed to hang down freely (see Figure 3 below). The hook on the scale measured the weight of the chain. Reference the [Single Chain Experiment Manual](#Single-Chain-Experiment) **[You can actually link to the section like you would for a normal website by referring to the section name (i.e. [Single Chain Experiments Manual](#Single-Chain-Experiments))]** section for a detailed explanation of the set-up.
+A scale was secured approximately one meter above a lab bench resting on supports at each corner so that the bottom of the scale was left accessible. A 3-foot single chain was attached to the hook on the bottom of the scale and was allowed to hang down freely (see **Figure 4** below). The hook on the scale measured the weight of the chain. Reference the [Single Chain Experiment Manual](#Single-Chain-Experiment) **[You can actually link to the section like you would for a normal website by referring to the section name (i.e. [Single Chain Experiments Manual](#Single-Chain-Experiments))]** section for a detailed explanation of the set-up.
 
 <center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/bvchain.jpg.jpg?raw=true" height=400>
 
-**Figure 3.** Bottom view of scale resting on supports with chain hooked onto bottom.
+**Figure 4.** Bottom view of scale resting on supports with chain hooked onto bottom.
 
 </center>
 
@@ -100,21 +100,21 @@ From these measurements, the team was able to quantify how much water the chain 
 The objective of this chain matrix experiment was to identify and compare the water retention of multiple chains in the same basin of water.
 
 #### Experimental Apparatus
-Six evenly spaced holes were drilled into a basin. Six 3-foot chains were subsequently inserted into these holes and were left to hang freely from the other end (see Figure 4). The basin was placed on top of a rod that rested across from the four supports in the previous experiment (see Figure 5). Reference the [Chain Matrix Experiment](#Chain-Matrix-Experiment) **[Experiment]** Manual section for detailed information on the Experimental Apparatus.
+Six evenly spaced holes were drilled into a basin. Six 3-foot chains were subsequently inserted into these holes and were left to hang freely from the other end (see **Figure 5**). The basin was placed on top of a rod that rested across from the four supports in the previous experiment (see **Figure 5.**). Reference the [Chain Matrix Experiment](#Chain-Matrix-Experiment) **[Experiment]** Manual section for detailed information on the Experimental Apparatus.
 
 <center>
 
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/bvchainmatrix.jpg.jpg?raw=true" height=400>
 
-**Figure 4.** Bottom view of chains inserted in basin.
+**Figure 5.** Bottom view of chains inserted in basin.
 
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/betterbvpicc.jpg?raw=true" height=400>
 
-**Figure 5.** Bottom view of basin with chain matrix resting on rod.
+**Figure 6.** Bottom view of basin with chain matrix resting on rod.
 
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/zoomedout.jpg.jpg?raw=true" height=400>
 
-**Figure 6.** View of entire set up, with basin, supports, and chain matrix.
+**Figure 7.** View of entire set up, with basin, supports, and chain matrix.
 
 </center>
 
@@ -131,7 +131,7 @@ A 30-inch wetted Dacron string was hooked onto the bottom of a scale and allowed
 <center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/zoomedoutdacron.jpeg?raw=true" height=400>
 
-**Figure 7.** Zoomed out view of Dacron string, scale, and microtubing.
+**Figure 8.** Zoomed out view of Dacron string, scale, and microtubing.
 
 </center>
 
@@ -139,7 +139,7 @@ A 30-inch wetted Dacron string was hooked onto the bottom of a scale and allowed
 
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/topview%20single%20dacron.jpeg?raw=true" height=400>
 
-**Figure 8.** Bird's eye view of microtubing mounted on flat rod and directed under scale.
+**Figure 9.** Bird's eye view of microtubing mounted on flat rod and directed under scale.
 
 </center>
 
@@ -147,7 +147,7 @@ A 30-inch wetted Dacron string was hooked onto the bottom of a scale and allowed
 
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/close%20up%20microtubing.jpeg?raw=true" height=400>
 
-**Figure 9.** Zoomed in photo of the microtubing placement just next to the string, with water being released onto the string.
+**Figure 10.** Zoomed in photo of the microtubing placement just next to the string, with water being released onto the string.
 
 </center>
 
@@ -160,12 +160,12 @@ Once the scale began reading steady weights, a range of weights was recorded for
 ####Objective of Experiments
 The goal of this experiment was to determine if capillary action is possible using the 0.3 mm Dacron string.
 ####Experimental Apparatus
-Ten 80 inch Dacron strings were used and were double backed so that each strand was 40 inches. The strands were wrapped around a tube in the bottom of the basin and emerged in a water and dye solution. The strings were then draped over a pipe about 5 cm above the surface of the solution and left to hang down over the other side. See Figure xx for the set-up.
+Ten 80 inch Dacron strings were used and were double backed so that each strand was 40 inches. The strands were wrapped around a tube in the bottom of the basin and emerged in a water and dye solution. The strings were then draped over a pipe about 5 cm above the surface of the solution and left to hang down over the other side. See **Figure 11.** for the set-up.
 <center>
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/CapAct2.JPG?raw=true" height = 200>
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/CapAct.jpg?raw=true" height = 200>
 </center>
-Figure xx. (Left) Bird's eye view of the set-up. (Right) X-Y plane view of set-up
+**Figure 11.** (Left) Bird's eye view of the set-up. (Right) X-Y plane view of set-up
 ####Procedure
 The set-up described in the experimental apparatus was used. A basin was placed on a scale at the bottom of the strings. A timer was started when the dye solution was added into the input basin. Results were noted qualitatively and quantitatively. The migration of the dye was assed with time and weight was to be recorded at the 20 min, 1 hour, and 2 hours marks in the lower basin where water was expected to flow to.
 
@@ -176,7 +176,7 @@ The single chain experiment yielded  results **[What results? Don't write fluffy
 <center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsVWC.png?raw=true" width = 300/>
 
-**Figure 7.** The volume of water on the chain when the pump is running at different flow rates (reference manual for code).
+**Figure 12.** The volume of water on the chain when the pump is running at different flow rates (reference manual for code).
 </center>
 
 Furthermore, residence time was calculated by dividing the volume of water on the chain (ml) by the flow rate (ml/min) and then converting to seconds. **[You don't need to say that it is more understandable.]** Understanding the residence time of water at different flow rates is important because the optimal residence time is 15 minutes. Again, since the flow rate is increasing in small increments a power series is used for the line of best fit, this time with an R<sup>2</sup> value of .996. Since the residence time drastically decreases as the flow rate increases, **[,]** it is understood that an actual string digester system made with chains would have to run at low flow rates with really long chains. For example, if it were run at 1.5 ml/min at least a 13.716-meter chain would be needed for the optimal 15-minute residence time, which might be unattainable in some circumstances and the issue of clogging of pipes and tubes comes into play because the flow rate is so low. Thus, other materials may be worth looking into as possible strings in the system that will have better residence time.
@@ -184,15 +184,15 @@ Furthermore, residence time was calculated by dividing the volume of water on th
 <center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsRT.png?raw=true" width = 300/>
 
-**Figure 8.** The residence time of water on the chain when the pump is running at different flow rates (reference manual for code)
+**Figure 13.** The residence time of water on the chain when the pump is running at different flow rates (reference manual for code)
 </center>
 
-Another result the experiment supplied was the height of the chain that would be needed for a 15 min residence time at each flow rate. The height needed was calculated by dividing 900 seconds (15 mins) by the residence time(s) by the length of the chain, in this case .9144 meters. Then as seen in **Figure 9.** another line with a power series best fit is yielded this time with a R<sup>2</sup> value of .996. **[Refer to your figure!]** Again, since the flow rate was increased at specific increments and the residence time greatly decreased as the flow rate increased initially and then leveled out it follows that the line of best fit for the height needed for a residence time of 15 minutes should start off with a steeper slope and eventually start to become less steep. By running this experiment and calculating the values needed for residence time and height needed we were able to determine that chains may not be the best material to optimize the parameters we want.
+Another result the experiment supplied was the height of the chain that would be needed for a 15 min residence time at each flow rate. The height needed was calculated by dividing 900 seconds (15 mins) by the residence time(s) by the length of the chain, in this case .9144 meters. Then as seen in **Figure 14.** another line with a power series best fit is yielded this time with a R<sup>2</sup> value of .996. **[Refer to your figure!]** Again, since the flow rate was increased at specific increments and the residence time greatly decreased as the flow rate increased initially and then leveled out it follows that the line of best fit for the height needed for a residence time of 15 minutes should start off with a steeper slope and eventually start to become less steep. By running this experiment and calculating the values needed for residence time and height needed we were able to determine that chains may not be the best material to optimize the parameters we want.
 
 <center>
 <img src ="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsHN.png?raw=true" width=300>
 
-**Figure 9.** The height needed for the chain so that the residence time would be 15 minutes for each different flow rate (reference manual for code)
+**Figure 14.** The height needed for the chain so that the residence time would be 15 minutes for each different flow rate (reference manual for code)
 </center>
 
 ### Chain Matrix Experiment
@@ -201,33 +201,33 @@ The chain matrix experiment focused more on qualitative results rather than quan
 ### Single Dacron String Experiment
 The single dacron string experiment yielded the volume of water on the string, the residence time of that volume of water on the string, and the height needed for a 15 minute residence time.
 
-By dividing the mass on the string by the density of water, which is 1 g/ml, the volume of water on the string was obtained. The flow rate was increased in small increments and the volume of water on the string also increased at a specific rate until it reached a certain threshold. This can be seen on the graph in **Figure 10.** as the curve starts to level out as the change in the volume of water on the string decreases as the flow rate increases.
+By dividing the mass on the string by the density of water, which is 1 g/ml, the volume of water on the string was obtained. The flow rate was increased in small increments and the volume of water on the string also increased at a specific rate until it reached a certain threshold. This can be seen on the graph in **Figure 15.** as the curve starts to level out as the change in the volume of water on the string decreases as the flow rate increases.
 <center>
 <img src ="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/DFRvsVWC.png?raw=true" width=300>
 
-**Figure 10.** The volume of water on the string graphed against the different flow rates (reference manual for code)
+**Figure 15.** The volume of water on the string graphed against the different flow rates (reference manual for code)
 </center>
 
-Residence time was calculated by dividing the volume of water on the string (ml) by the flow rate (ml/min) and then converting to seconds. Understanding the residence time of the water on the string at different flow rates is important because time is a constraint in trickling filters. A string digester cannot take too long because it slows the rate of flow the water can come out of the plant at which affects how much wastewater the plant can take in. But, it also cannot run too fast because the bacteria on the string need the right amount of time to actually extract most of the nutrients out of the water. The residence time drastically decreases as the flow rate increases as seen in **Figure 11.**. Thus, it is understood that a string digester would have to run at low flow rates.
+Residence time was calculated by dividing the volume of water on the string (ml) by the flow rate (ml/min) and then converting to seconds. Understanding the residence time of the water on the string at different flow rates is important because time is a constraint in trickling filters. A string digester cannot take too long because it slows the rate of flow the water can come out of the plant at which affects how much wastewater the plant can take in. But, it also cannot run too fast because the bacteria on the string need the right amount of time to actually extract most of the nutrients out of the water. The residence time drastically decreases as the flow rate increases as seen in **Figure 16.**. Thus, it is understood that a string digester would have to run at low flow rates.
 <center>
 <img src ="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/DFRvsRT.png?raw=true" width=300>
 
-**Figure 11.** The residence time graphed against the different flow rates (reference manual for code)
+**Figure 16.** The residence time graphed against the different flow rates (reference manual for code)
 </center>
 
-The last result the experiment supplied was the height of the string that would be needed for a 15 min residence time at each flow rate. The height needed was calculated by dividing the "optimal" residence time of 15 minutes by the residence time(s)and then  by the length of the chain, in this case .78 meters. The flow rate was increased at specific increments and the residence time greatly decreased as the flow rate increased initially and then leveled out, however the height needed for a 15 minute residence time is almost exactly linear (see **Figure 12.**). The length of string needed for a 15 minute residence time at the lowest flow rate of about .0005 mL/s would only be about 1.97 m. By running this experiment and calculating the values needed for residence time and height needed we were able to determine that strings may be a viable option to optimize the parameters we want. The next step would be to design a dispensing system that could actually deliver water onto the strings at such low flow rates.
+The last result the experiment supplied was the height of the string that would be needed for a 15 min residence time at each flow rate. The height needed was calculated by dividing the "optimal" residence time of 15 minutes by the residence time(s)and then  by the length of the chain, in this case .78 meters. The flow rate was increased at specific increments and the residence time greatly decreased as the flow rate increased initially and then leveled out, however the height needed for a 15 minute residence time is almost exactly linear (see **Figure 17.**). The length of string needed for a 15 minute residence time at the lowest flow rate of about .0005 mL/s would only be about 1.97 m. By running this experiment and calculating the values needed for residence time and height needed we were able to determine that strings may be a viable option to optimize the parameters we want. The next step would be to design a dispensing system that could actually deliver water onto the strings at such low flow rates.
 <center>
 <img src ="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/DFRvsHN.png?raw=true" width=300>
 
-**Figure 12.** The height needed for a 15 minute residence time graphed against the different flow rates (reference manual for code)
+**Figure 17.** The height needed for a 15 minute residence time graphed against the different flow rates (reference manual for code)
 </center>
 
 ### Capillary Action with Dacron String
-This experiment did not go as expected. The red dye only traveled part of the way down the strings (Figure 13). No water made it to the end of the strings; therefore, the weight measurements were not useful as they were all constant. The team hypothesizes that this is because the solution of red dye and water had to travel too far and thus dried up too quickly.
+This experiment did not go as expected. The red dye only traveled part of the way down the strings (**Figure 18**). No water made it to the end of the strings; therefore, the weight measurements were not useful as they were all constant. The team hypothesizes that this is because the solution of red dye and water had to travel too far and thus dried up too quickly.
 <center>
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/capillary2.png?raw=true" height = 200>
 </center>
-Figure 13. Red dye on the strings after the test ran for a couple days.
+**Figure 18.** Red dye on the strings after the test ran for a couple days.
 
 ## Conclusions
 
@@ -305,7 +305,7 @@ Purchasing Link: [Jack Chain](https://www.mcmaster.com/3617T2)
 <center>
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Photos/jackchain.jpg?raw=true" width = 300/>
 
-**Figure 13.** The stainless steel jack chain used for the single-chain and chain-matrix experiments.
+**Figure 19.** The stainless steel jack chain used for the single-chain and chain-matrix experiments.
 </center>
 
 ### Dacron
@@ -316,7 +316,7 @@ Purchasing Link: [Dacron String](https://www.amazon.com/Tuf-Line-Dacron-600-Fish
 <center>
 <img src = "insert link here" width = 300/>
 
-**Figure #.** The braided Dacron string used for the single-string and capillary action experiments.
+**Figure 20.** The braided Dacron string used for the single-string and capillary action experiments.
 </center>
 
 ## Experimental Methods
@@ -338,7 +338,7 @@ Step 5. Set up peristaltic pump with orange/yellow tubing (Tubing ID: 0.05)
 
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/scale%20string%20set%20up.png?raw=true" width = 300/>
 
-**Figure 11.** Diagram of experimental apparatus for single chain experiment.
+**Figure 21.** Diagram of experimental apparatus for single chain experiment.
 
 </center>
 
@@ -367,7 +367,7 @@ Step 4. Set up peristaltic pump with tubing (Tubing ID: 16)
 
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Photos/diagram%20for%20chain%20matrix.jpeg?raw=true" width = 300/>
 
-**Figure #.** Diagram of experimental apparatus for chain matrix experiment.
+**Figure 22.** Diagram of experimental apparatus for chain matrix experiment.
 
 </center>
 
@@ -437,7 +437,7 @@ Step 6. Place a measuring cup under the strings and on top of the scale.
 
 <img src="insert link here" width = 300/>
 
-**Figure #.** Diagram of experimental apparatus for capillary action experiment.
+**Figure 23.** Diagram of experimental apparatus for capillary action experiment.
 
 </center>
 
@@ -454,7 +454,7 @@ Step 3. Put items away as desired.
 
 ## Python Code for Graphs
 
-### Code for Figure 7
+### Code for Figure 12
 ```python
 from aguaclara.play import*
 from matplotlib import style
@@ -472,7 +472,7 @@ plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/im
 plt.show()
 ```
 
-### Code for Figure 8
+### Code for Figure 13
 ```python
 from aguaclara.play import*
 from matplotlib import style
@@ -490,7 +490,7 @@ plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/im
 plt.show()
 ```
 
-### Code for Figure 9
+### Code for Figure 14
 ```python
 from aguaclara.play import*
 from matplotlib import style
@@ -507,7 +507,7 @@ plt.ylabel('Height of Chain (m)')
 plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/FRvsHN')
 plt.show()
 ```
-### Code for Figure 10
+### Code for Figure 15
 ``` python
 from aguaclara.play import*
 from matplotlib import style
@@ -525,7 +525,7 @@ plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/im
 plt.show()
 ```
 
-### Code for Figure 11
+### Code for Figure 16
 ```python
 from aguaclara.play import*
 from matplotlib import style
@@ -543,7 +543,7 @@ plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/im
 plt.show()
 ```
 
-### Code for Figure 12
+### Code for Figure 17
 ```python
 from aguaclara.play import*
 from matplotlib import style
