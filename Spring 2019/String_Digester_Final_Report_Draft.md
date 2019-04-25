@@ -7,16 +7,16 @@
 **[After addressing any comments please write within the brackets "-Addressed __" with the individual's initials in the __ space. They will be deleted in the next report.]**
 
 ## Abstract
-The objective of String Digester for the Spring 2019 semester was to continue research on revamping a wastewater treatment system to eliminate problems associated with current trickling filters. To improve consistency in wastewater treatment, experiments were conducted using metallic and plastic chains to optimize surface area. The long-term goal of this team is to create an efficient wastewater treatment system that will perform secondary and tertiary treatment on domestic wastewater. These tests will involve different chain types and materials, chain spacing, and biofilm growth to help define design parameters for the construction of a functioning string digester.
+The objective of String Digester for the Spring 2019 semester was to continue research on revamping a wastewater treatment system to eliminate problems associated with current trickling filters. To improve consistency in wastewater treatment, experiments were conducted using metallic and plastic chains to optimize surface area. The long-term goal of this team is to create an efficient wastewater treatment system that will perform secondary and tertiary treatment on domestic wastewater. These tests involved testing different chain types and synthetic materials for their hydrophillic properties, fabricating and testing reactors for efficiency, and researching biofilm growth to help define design parameters for the construction of a functioning string digester.
 
 **[Write in past tense throughout report when talking about current semester or prior semester work.]**
 
-**[The previous comment was still not addressed as of the April 16th version of this report. So this will be reflected on the style portion of your grade. For example, in the last sentence in the abstract it should be... "These tests involved" instead of "These tests will involve". Generally you should be writing as if someone a year or a couple years from now was reading this, thus everything would be in the past. ]**
+**[The previous comment was still not addressed as of the April 16th version of this report. So this will be reflected on the style portion of your grade. For example, in the last sentence in the abstract it should be... "These tests involved" instead of "These tests will involve". Generally you should be writing as if someone a year or a couple years from now was reading this, thus everything would be in the past. --Addressed ZS ]**
 
 ## Introduction
 The String Digester sub-team was created in response to the remaining need for secondary wastewater treatment after treatment from the Upflow Anaerobic Sludge Blanket (UASB) reactor. A trickling filter is a secondary wastewater treatment system that removes organic matter from the wastewater through biological means, and is crucial for the removal of harmful pathogens. Looking to improve on the traditional industrial-scale trickling filter design, previous work identified an issue with the process: there is a substantial amount of unused space in the trickling treatment unit due to the uneven flow of wastewater across the system (preferential flow). The primary objective of this sub-team is to continue to develop a novel design for a highly efficient trickling filter with a minimized footprint in terms of space. Following the conclusion from Fall 2018, that metal chains would be a viable trickling media due to their retention of water, the team decided to focus this semester's research on trying to determine what material and type of chain would work best in terms of water retention and biofilm growth and from there, determining the best matrix for these chains to be in to maximize water retention on chain media. With this work, the team will work towards assessing the feasibility of a modified trickling filter unit in future AguaClara treatment plants while striving to make significant technological improvements on industry-standard applications for the system.
 
-Research dealing with trickling filter wastewater treatment was ubiquitous in the 1970's and 1980's, however, the research in this field has significantly declined in the following decades. Moreover, research involving string as a media in this method of treatment is almost nonexistent. Research on secondary wastewater treatment originally focused on performance of trickling filters, but now has shifted towards processes higher in energy consumption. The philosophy for AguaClara plants is to create a plant that is optimized for low cost and a high performance, and looking at the regions a future wastewater plant would serve, trickling filters are a promising technology due to their low-energy requirements. With work in reducing unused space in these plants, these treatment systems are ideal **[This sentence is unclear. Don't know what it is saying exactly.. Does it mean that AC does work in reducing unused space, making it ideal?]**. Maintaining these ideals will be a priority in the team's future design. With modification, the trickling filter treatment system carries much potential to be implemented in areas of the world in which capital expenditure is a major barrier for employing traditional secondary wastewater treatment (aeration tanks).
+Research dealing with trickling filter wastewater treatment was ubiquitous in the 1970's and 1980's, however, the research in this field has significantly declined in the following decades. Moreover, research involving string as a media in this method of treatment is almost nonexistent. Research on secondary wastewater treatment originally focused on performance of trickling filters, but now has shifted towards processes higher in energy consumption. The philosophy for AguaClara plants is to create a plant that is optimized for low cost and a high performance, and looking at the regions a future wastewater plant would serve, trickling filters are a promising technology due to their low-energy requirements. By researching methods to increase the efficiency in these plants, these treatment systems could have the potential to fit AguaClara's ideals. **[This sentence is unclear. Don't know what it is saying exactly.. Does it mean that AC does work in reducing unused space, making it ideal? -- Addressed TM (I meant to say that research in increasing efficiency will allow it to be implemented in AguaClara's target locations.)]**. Maintaining these ideals are and will be a priority in the team's work in designing the reactor. With modification, the trickling filter treatment system carries much potential to be implemented in areas of the world in which capital expenditure is a major barrier for employing traditional secondary wastewater treatment (aeration tanks).
 
 
 ## Literature Review
@@ -27,7 +27,7 @@ In addition to non-homogenous distribution of wastewater throughout the filter, 
 
 Ali also states that the aforementioned sloughing and clogging is often caused by uneven hydraulic loading rates (HLR). Hydraulic loading rate is the amount of flow arriving at the treatment plant and going entering the treatment process at any given time. Uneven HLR is caused by clogging of the distribution arm and an uneven distribution of influent. Therefore, proper distribution of wastewater onto the filter media is crucial for optimizing efficiency of treatment. The most common method of influent distribution is rotating distributors. Rotating distributors consist of moving parts that require more maintenance and may be a burden in a plant to operators. Additionally, this system will not serve the chain-focused design.
 
-The less common method of distribution, the fixed distribution system as seen below (**Figure 1.**), utilizes lateral and main distribution pipes, which are placed just above the medium   **[medium up to this point has not been mentioned. Does this refer to growth medium or media? If possible keep consistent]** and spaced to give uniform distribution of water. The pipes generally have nozzles with a circular hole and a deflector. This method is commonly used with intermittent dosing, meaning flow from the system varies; it starts at a maximum and lowers as the tank empties. Currently, fixed distribution systems are mostly used in deep filter and biotowers (i.e. very tall filters). Since this method is non-rotating, it may be more applicable for the proposed use of a chain media. However, Sperling and colleagues showed that both the fixed and rotating distribution systems have an inconsistent hydraulic load of the influent [(Sperling 2007)](https://www.iwapublishing.com/sites/default/files/ebooks/9781780402123.pdf). Therefore, the distribution system is another area where there is huge potential for the team to increase the productivity of trickling filters.
+The less common method of distribution, the fixed distribution system as seen below (**Figure 1.**), utilizes lateral and main distribution pipes, which are placed just above the trickling filter medium   **[medium up to this point has not been mentioned. Does this refer to growth medium or media? If possible keep consistent --Addressed ZS]** and spaced to give uniform distribution of water. The pipes generally have nozzles with a circular hole and a deflector. This method is commonly used with intermittent dosing, meaning flow from the system varies; it starts at a maximum and lowers as the tank empties. Currently, fixed distribution systems are mostly used in deep filter and biotowers (i.e. very tall filters). Since this method is non-rotating, it may be more applicable for the proposed use of a chain media. However, Sperling and colleagues showed that both the fixed and rotating distribution systems have an inconsistent hydraulic load of the influent [(Sperling 2007)](https://www.iwapublishing.com/sites/default/files/ebooks/9781780402123.pdf). Therefore, the distribution system is another area where there is huge potential for the team to increase the productivity of trickling filters.
 
 <center>
 
@@ -37,11 +37,11 @@ The less common method of distribution, the fixed distribution system as seen be
 
 </center>
 
-Although there are multiple problems with trickling filters, one main advantage of trickling filters is that they have a relatively low residence time. This is a consideration which the team should plan to maintain in future designs. Hinton and Stensel measured residence time per unit length of between 30 and 40 sec/m with dye tests. Their predicted residence times, calculated from laminar flow theory, were closer to about 15 sec/m. The authors attributed this discretion **[discretion may not be the right word here.. difference/discrepancy?]** to "dye sorption and desorption by the biofilm." In either case, the residence time for a 5 meter deep trickling filter would be well under 5 minutes [(Hinton and Stensel 1991)](https://ac.els-cdn.com/0043135491901179/1-s2.0-0043135491901179-main.pdf?_tid=e8d2db22-8e0f-4d3c-a421-352ef74e6f5e&acdnat=1540500088_4808114af12660c061fbd139ac0fbd33). This short treatment time makes trickling filters an appealing wastewater treatment option if problems such as uneven HLR and clogging can be minimized.
+Although there are multiple problems with trickling filters, one main advantage of trickling filters is that they have a relatively low residence time. This is a consideration which the team should plan to maintain in future designs. Hinton and Stensel measured residence time per unit length of between 30 and 40 sec/m with dye tests. Their predicted residence times, calculated from laminar flow theory, were closer to about 15 sec/m. The authors attributed this discrepancy **[discretion may not be the right word here.. difference/discrepancy? --Addressed ZS]** to "dye sorption and desorption by the biofilm." In either case, the residence time for a 5 meter deep trickling filter would be well under 5 minutes [(Hinton and Stensel 1991)](https://ac.els-cdn.com/0043135491901179/1-s2.0-0043135491901179-main.pdf?_tid=e8d2db22-8e0f-4d3c-a421-352ef74e6f5e&acdnat=1540500088_4808114af12660c061fbd139ac0fbd33). This short treatment time makes trickling filters an appealing wastewater treatment option if problems such as uneven HLR and clogging can be minimized.
 
 
 ### Biofilm
-A component of the string digester that is crucial to its success is the growth of biofilm on the chains. "A biofilm is an assemblage of microbial cells that is irreversibly associated (not removed by gentle rinsing) with a surface and enclosed in a matrix of primarily polysaccharide material." [(Donlan 2002).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732559/) Biofilm attachment is a complex process regulated by diverse characteristics of the growth medium, substratum, and cell surface. ~~Biofilm~~ on trickling filters ~~are~~ **[, biofilm is]** composed of a variety of organisms and are typically enclosed in a polysaccharide. The biofilm matrix may also contain mineral crystals, corrosion particles, and clay or silt particles. Biofilms in wastewater systems are often highly complex [(Donlan 2002).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732559/) **[Last sentence is kind of just oddly placed. Maybe just start it off with "In conclusion,"]**
+A component of the string digester that is crucial to its success is the growth of biofilm on the chains. "A biofilm is an assemblage of microbial cells that is irreversibly associated (not removed by gentle rinsing) with a surface and enclosed in a matrix of primarily polysaccharide material." [(Donlan 2002).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732559/) Biofilm attachment is a complex process regulated by diverse characteristics of the growth medium, substratum, and cell surface. Biofilm on trickling filters is composed of a variety of organisms and are typically enclosed in a polysaccharide. The biofilm matrix may also contain mineral crystals, corrosion particles, and clay or silt particles. In conclusion, biofilms in wastewater systems are often highly complex [(Donlan 2002).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732559/) **[Last sentence is kind of just oddly placed. Maybe just start it off with "In conclusion," -- Addressed ZS]**
 
 Some testing has been done of the growth of biofilm in different surfaces. One study compared growth on glossy electro-polished, bright annealed stainless steel to matte stainless steel and to PVC. The paper notes that stainless steel is hydrophilic and PVC is hydrophobic. In the last 45 days of the 167 day experiment, the matte steel had about 1.44 times more microorganisms than the electro-polished steel, and there was no significant difference between the PVC and polished steel. In discussion of why this occurs, Pedersen cites two reasons: "detachment due to shear forces from the flow will be reduced on the rougher surface since cells can be shielded from the bulk flow and more substratum surface area may be available for the biofilm" [(Pedersen 1990).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732559/) [Translate pedersen!]
 
@@ -72,7 +72,7 @@ Next, two foams and two stainless steel chains were tested on the same basin in 
 ## Methods
 ### Single Chain Experiments
 #### Objectives of Experiments
-The objective of the initial experiment was to determine the peak amount of water that the chain could hold at a single point in time, the residence time for water on the chain at different flow rates, and the height needed for a 15 minute residence time at different flow rates.
+The objective of the initial experiment was to determine the peak amount of water that the chain could hold at a single point in time, the residence time for water on the chain at different flow rates, and the height needed for a 15 minute residence time at different flow rates. Dr. Weber-Shirk suggested the team aim for the water to have a 15 minute residence time on the string in order to give the bioflim sufficient time to digest the microbes in the water.
 
 #### Experimental Apparatus
 A scale was secured approximately one meter above a lab bench resting on supports at each corner so that the bottom of the scale was left accessible. A 3-foot single chain was attached to the hook on the bottom of the scale and was allowed to hang down freely (see **Figure 4** below). The hook on the scale measured the weight of the chain. Reference the [Single Chain Experiment Manual](#Single-Chain-Experiment) section for a detailed explanation of the set-up.
@@ -98,7 +98,7 @@ From these measurements, the team was able to quantify how much water the chain 
 The objective of this chain matrix experiment was to identify and compare the water retention of multiple chains in the same basin of water.
 
 #### Experimental Apparatus
-Six evenly spaced holes were drilled into a basin. Six 3-foot chains were subsequently inserted into these holes and were left to hang freely from the other end (see **Figure 5**). The basin was placed on top of a rod that rested across from the four supports in the previous experiment (see **Figure 5.**) **[I believe you mean figure 6 here]**. Reference the [Chain Matrix Experiment](#Chain-Matrix-Experiment) Manual section for detailed information on the Experimental Apparatus.
+Six evenly spaced holes were drilled into a basin. Six 3-foot chains were subsequently inserted into these holes and were left to hang freely from the other end (see **Figure 5**). The basin was placed on top of a rod that rested across from the four supports in the previous experiment (see **Figure 6.**) **[I believe you mean figure 6 here]**. Reference the [Chain Matrix Experiment](#Chain-Matrix-Experiment) Manual section for detailed information on the Experimental Apparatus.
 
 <center>
 
@@ -150,7 +150,7 @@ A 30-inch wetted Dacron string was hooked onto the bottom of a scale and allowed
 </center>
 
 #### Procedure
-Reference the [Single Dacron String Experiment Manual](#Single-Dacron-Experiment-Manual)[space]for a detailed explanation of the procedure.[space]The string was dipped in water prior to hanging on the scale in order to allow water to stay on the string more effectively. The scale was zeroed with the string hanging on the scale so that the scale would only measure the weight of the water flowing on the string. Water was pumped at a controlled flow rate through the tubing and onto the string. The idea was to allow the tubing to just barely touch the string so that it could release water directly onto the string without putting the string at an angle.
+Reference the [Single Dacron String Experiment Manual](#Single-Dacron-Experiment-Manual) for a detailed explanation of the procedure.The string was dipped in water prior to hanging on the scale in order to allow water to stay on the string more effectively. The scale was zeroed with the string hanging on the scale so that the scale would only measure the weight of the water flowing on the string. Water was pumped at a controlled flow rate through the tubing and onto the string. The idea was to allow the tubing to just barely touch the string so that it could release water directly onto the string without putting the string at an angle.
 
 Once the scale began reading steady weights, a range of weights was recorded for an RPM(revolution/minute) starting at 77.8, then 70, followed by every 10 RPM after that (60, 50,...,10 RPM) and finally at 1.6 RPM(the smallest possible RPM), which correlated to flow rates starting at 0.0246 mL/s down to .0005 mL/s. Then, residence times on the string were calculated by dividing the total weight on the string by flow rate (in mL/s) for each RPM tested. Finally, the length of the string needed for the water to have a retention time of 15 minutes was calculated using the retention time per meter of string.
 
@@ -162,11 +162,36 @@ Ten 80 inch Dacron strings were used and were double backed so that each strand 
 <center>
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/CapAct2.JPG?raw=true" height = 200>
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/CapAct.jpg?raw=true" height = 200>
+
 </center>
+
 **Figure 11.** (Left) Bird's eye view of the set-up. (Right) X-Y plane view of set-up
 
 ####Procedure
 The set-up described in the experimental apparatus was used. A basin was placed on a scale at the bottom of the strings. A timer was started when the dye solution was added into the input basin. Results were noted qualitatively and quantitatively. The migration of the dye was assed with time and weight was to be recorded at the 20 min, 1 hour, and 2 hours marks in the lower basin where water was expected to flow to.
+
+### Grouped Strings Capillary Action Experiment
+#### Objective of Experiment
+The objectives of the single Dacron string experiment were to determine how uniformly water flowed down the string and the length of a string needed for the  water to have a 15-minute residence time on the string.
+
+#### Experimental Apparatus
+
+####Procedure
+
+
+### Single Aramid String Experiment
+#### Objective of Experiment
+The objectives of the single Dacron string experiment were to determine how uniformly water flowed down the string and the length of a string needed for the  water to have a 15-minute residence time on the string.
+
+#### Experimental Apparatus
+
+####Procedure
+
+
+
+
+
+
 
 ## Results and Analysis
 ### Single Chain Experiment
@@ -231,12 +256,12 @@ This experiment did not go as expected. The red dye only traveled part of the wa
 
 ## Conclusions
 
-The team tested the weight of water on the jack chain at different flow rates using a single chain set-up. From these results, the team was able to determine the amount of water on the chain, the residence time on the chain, and the height needed for a 15 minute residence time. As flow rate increased, the volume of water on the chain and height of chain needed for a 15 minute residence time also increased. The residence time versus flow rate showed a negative correlation. These chains are not a viable option for an AguaClara wastewater treatment plant at this point **[for reasons explained below]**. At the lowest flow rate tested of 1.5 ml/min onto one single chain, the height needed for a 15 min residence time would be 13.7 m. This is about 4.5 stories. Since the goal of AguaClara is to be gravity powered, it would be quite difficult to get water 13.7 m high. In addition, the difficulty the operators would face should they need to fix something in a string digester this high is not realistic. This chain is also not feasible for an ideal string digester as the water flowing down it did not form a uniform sheath but instead flowed down in distinct droplets. This irregular ebb and flow along with a non-uniform sheath make for a system that does not use the entirety of the surface area of the chain. Since the goal of the string digester is to maximize surface area and therefore digestion efficiency, the inefficient spacial chain digester system is not a feasible option at this time.
+The team tested the weight of water on the jack chain at different flow rates using a single chain set-up. From these results, the team was able to determine the amount of water on the chain, the residence time on the chain, and the height needed for a 15 minute residence time. As flow rate increased, the volume of water on the chain and height of chain needed for a 15 minute residence time also increased. The residence time versus flow rate showed a negative correlation. These chains are not a viable option for an AguaClara wastewater treatment plant at this point for reasons explained below **[for reasons explained below -- Addressed ZS]**. At the lowest flow rate tested of 1.5 ml/min onto one single chain, the height needed for a 15 min residence time would be 13.7 m. This is about 4.5 stories. Since the goal of AguaClara is to be gravity powered, it would be quite difficult to get water 13.7 m high. In addition, the difficulty the operators would face should they need to fix something in a string digester this high is not realistic. This chain is also not feasible for an ideal string digester as the water flowing down it did not form a uniform sheath but instead flowed down in distinct droplets. This irregular ebb and flow along with a non-uniform sheath make for a system that does not use the entirety of the surface area of the chain. Since the goal of the string digester is to maximize surface area and therefore digestion efficiency, the inefficient spacial chain digester system is not a feasible option at this time.
 
-  Creating a rapid but efficient string digester would be impactful for the future of AguaClara's involvement in wastewater treatment ~~.~~ **[because]** String digesters have the potential to greatly decrease the wastewater processing time and also decrease the organic solutes in the effluent. By maximizing potential surface area for the microbes to grow on using strings and sponges, thereby allowing for more microbial digestion of the water, some traditional trickling filter problems would be solved or minimized. Effluent from the UASB will require further treatment and the team believes that a string digester could provide the necessary treatment with minimal energy requirements.
+Creating a rapid but efficient string digester would be impactful for the future of AguaClara's involvement in wastewater treatment ~~.~~ **[because]** String digesters have the potential to greatly decrease the wastewater processing time and also decrease the organic solutes in the effluent. By maximizing potential surface area for the microbes to grow on using strings and sponges, thereby allowing for more microbial digestion of the water, some traditional trickling filter problems would be solved or minimized. Effluent from the UASB will require further treatment and the team believes that a string digester could provide the necessary treatment with minimal energy requirements.
 
 ## Future Work
-In the following weeks, the team will test a 0.3mm Dacron string. The team will use micro-tubing with the peristaltic pump to test the same parameters as was tested for the chains. The micro-tubing will allow a much smaller flow rate necessary for the thinner string. In addition, the team will purchase several more strings that are synthetic hydrophilic materials. The team may also test the capillary action abilities of the strings to draw water up at an even slower rate. Further**[more]** , the rate of oxygen diffusion into the string will be calculated to assure that enough can diffuse into the surface of the string to reach the necessary biological oxygen demand (BOD). This BOD is necessary to perform as a successful alternative to a trickling filter and remove organic compounds **[It is necessary to perform BOD? I don't know what this sentence is saying...]** . The future of this team primary relies on finding an appropriate material that will allow for biofilm growth and not be susceptible to degrading.
+In the following weeks, the team will test a 0.3mm Dacron string. The team will use micro-tubing with the peristaltic pump to test the same parameters as was tested for the chains. The micro-tubing will allow a much smaller flow rate necessary for the thinner string. In addition, the team will purchase several more strings that are synthetic hydrophilic materials. The team may also test the capillary action abilities of the strings to draw water up at an even slower rate. Further, the rate of oxygen diffusion into the string will be calculated to assure that enough can diffuse into the surface of the string to reach the necessary biological oxygen demand (BOD). This BOD is necessary to perform as a successful alternative to a trickling filter and remove organic compounds **[It is necessary to perform BOD? I don't know what this sentence is saying...]** . The future of this team primary relies on finding an appropriate material that will allow for biofilm growth and not be susceptible to degrading.
 
 The team is also looking into using synthetic waste water inoculated with an aerobic bacteria. The team would need to set-up a system of measuring how much organic nutrients the bacteria could remove over the length of the string digester and even just how feasible biofilm growth is on the strings.
 
@@ -266,7 +291,23 @@ Spuhler, Dorothee; Eawag (Swiss Federal Institute of Aquatic Science and Technol
 Tandukar et al. (2005). "A low-cost municipal sewage treatment system with a combination of UASB and the "fourth-generation" downflow hanging sponge reactors." *Water Science Technology.* 52(1-2): 323-329.
 
 # Manual
-**[Should include materials list. PVC sheet also needs thickness]
+
+**[Should include materials list. PVC sheet also needs thickness]**
+**
+## Materials
+The materials utilized in the following experiments include:
+* Polyvinyl Chloride (PVC) Sheet (thickness: )
+* Scale
+* Bucket
+* Jack Chains or Dacron String (refer to Special Components for more information)
+* Peristaltic Pump
+* Tubing (Tubing IDs: 0.05 and 16)
+* Electrical Saw
+* Electrical Drill with 1/16th of an inch drill size
+* Plyers
+* PVC Glue
+* PVC Primer
+
 ## Fabrication Details
 ### Fabrication of Chain Matrix Basin
 Step 1. Obtain sheets of PVC.
@@ -395,7 +436,7 @@ Step 5. Hook the Dacron string loop to the hook on the bottom of the scale.
 * Record the length of the string suspended in air.
 
 Step 6. Place large bucket under the chain to catch dripping water.
-Step 7. Set up peristaltic pump with micro-tubing (Tubing: Orange/Yellow)
+Step 7. Set up peristaltic pump with orange/yellow-marked micro-tubing (Tubing ID: 0.05)
 * Set desired pumping speed.
 * Secure the tubing to set-up.
 

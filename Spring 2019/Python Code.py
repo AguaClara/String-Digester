@@ -1,13 +1,15 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
+###############################################################################
 FR,VWC = np.loadtxt('CFRT_FR_vs_VWC.csv',
                 unpack = True,
                 delimiter = ',')
-length = .9144
-optimalrestime = 900 #seconds
 #FR = flow rate
 #VWC = volume of water on the chain
+length = .9144 # length of the chain(can be changed)
+optimalrestime = 900 # optimal residence time in seconds(can be changed)
+##############################################################################
 plt.figure(0)
 plt.plot(FR,VWC, 'ro')
 plt.title('Volume of Water on Chain at \nDifferent Flow Rates')
