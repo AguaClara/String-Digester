@@ -172,25 +172,47 @@ The set-up described in the experimental apparatus was used. A basin was placed 
 
 ### Grouped Strings Capillary Action Experiment
 #### Objective of Experiment
-The objectives of the single Dacron string experiment were to determine how uniformly water flowed down the string and the length of a string needed for the  water to have a 15-minute residence time on the string.
+The initial objective of this experiment was to determine whether grouping several Dacron strings would result in capillary action. From there, the objectives were to determine the amount (weight) of water transferred to the string through capillary action and the flow rate of the water on the string.
 
 #### Experimental Apparatus
+10 80-inch Dacron strings were used and were doubled backed so that there was a total of 20 40-inch strings. The strands were wrapped around a tube in the bottom of the basin. The strands were draped over the side of the basin and were allowed to hang freely in the air. The wrapped strands were then pushed together tightly so that they formed one "clump" of strings. Lastly, 3 roughly evenly spaced rubber bands were wrapped around the clump of strings in order to keep them all together in a uniform manner.
+
+<center>
+<img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/topviewgrouped.jpg?raw=true" height = 400>
+
+**Figure 12.** Bird's eye view of strings grouped together.
+
+<img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/sideviewrubberbands.jpg?raw=true" height = 400>
+
+**Figure 13.** Zoomed out view of the strings hanging freely with rubber bands wrapped around them throughout the length of the string.
+
+</center>
+
 
 ####Procedure
-
+The set-up described in the experimental apparatus was used. A basin was placed on a scale at the bottom of the strings. A timer was started when water was poured into the input basin. First, qualitative results were noted. Then, weight measurements of the basin on the scale were taken at various times for 2 hours. From these measurements, the flow rates of the water on the strings at times throughout the 2 hours were calculated.
 
 ### Single Aramid String Experiment
 #### Objective of Experiment
-The objectives of the single Dacron string experiment were to determine how uniformly water flowed down the string and the length of a string needed for the  water to have a 15-minute residence time on the string.
+The objective of the single Aramid string experiment was to qualitatively examine how the water flowed down the string and to determine whether it could be a potential material for a string digester.
 
 #### Experimental Apparatus
+The top of a 36 inch Aramid string was tied to a Dacron string loop in order to hook it onto the bottom of a scale. The scale, which measured the weight of the string, was placed on top of two support beams above the lab bench. Orange-yellow color-coded micro-tubing (ID: 0.05) connected to a peristaltic pump was draped over the support beam and taped onto a flat rod between the two beams so that the tubing was fixed just above the top of the string. The idea was to allow the tubing to hang just above the string so that it could release water directly on top of the string.
+
+<center>
+<img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/zoomedoutaramid.jpeg?raw=true" height = 400>
+
+**Figure 14.** Zoomed out view of Aramid string hanging from scale.
+
+<img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/zoomedinaramid.jpeg?raw=true" height = 400>
+
+**Figure 15.** Zoomed in view of microtubing propped directly above the top of the Aramid string and the Dacron string loop connecting the Aramid string to the scale. 
+
+</center>
+
 
 ####Procedure
-
-
-
-
-
+A basin was placed directly underneath the string in order to catch the water leaving the string. Because this experiment was mostly for qualitative purposes, quantitative data was not taken. Once water was released from the tubing and flowed on to the string, observations on how uniformly and quickly the water flowed down the string were recorded.
 
 
 ## Results and Analysis
@@ -253,6 +275,14 @@ This experiment did not go as expected. The red dye only traveled part of the wa
 
 **Figure 18.** Red dye on the strings after the test ran for a couple days.
 </center>
+
+
+### Capillary Action with Grouped Strings Experiment
+The grouped strings carried out capillary action. The weight of the water released from the strings at various times were recorded and graph as a function of time. From this information, the flow rates at these times were calculated by adjusting the weight to be only the amount gained at each time interval.
+
+
+### Single Aramid String Experiment
+Water actually flowed down the string pretty uniformly and slowly. add more qualitative results??
 
 ## Conclusions
 
