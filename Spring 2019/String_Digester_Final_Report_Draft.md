@@ -1,6 +1,6 @@
 # String Digester, Spring 2019
 #### Kiki Lo, Antonio Martinez, Gaby Sibel, Zsofia Szegletes
-#### April 16, 2019
+#### April 26, 2019
 
 **[Felix grading here. I liked your report. It was informative, well organized, and it looks like you guys made some solid progress this semester.]
 
@@ -91,14 +91,14 @@ The idea was to get water flowing onto the chain and then, while continuously pu
 
 From these measurements, the team was able to quantify how much water the chain could hold per unit length. After, the team calculated the residence time by dividing the volume of water on the chain by flow rate. From this information, the team calculated the height of the chain needed for a residence time of 15 minutes.
 
-**[Starting in procedure you start using a residence time of 15 minutes but I don't think you have ever justified why you do. Could you do that?]**
+**[Starting in procedure you start using a residence time of 15 minutes but I don't think you have ever justified why you do. Could you do that?] --Addressed KL**
 
 ### Chain Matrix Experiment
 #### Objective of Experiment
 The objective of this chain matrix experiment was to identify and compare the water retention of multiple chains in the same basin of water.
 
 #### Experimental Apparatus
-Six evenly spaced holes were drilled into a basin. Six 3-foot chains were subsequently inserted into these holes and were left to hang freely from the other end (see **Figure 5**). The basin was placed on top of a rod that rested across from the four supports in the previous experiment (see **Figure 6.**) **[I believe you mean figure 6 here]**. Reference the [Chain Matrix Experiment](#Chain-Matrix-Experiment) Manual section for detailed information on the Experimental Apparatus.
+Six evenly spaced holes were drilled into a basin. Six 3-foot chains were subsequently inserted into these holes and were left to hang freely from the other end (see **Figure 5**). The basin was placed on top of a rod that rested across from the four supports in the previous experiment (see **Figure 6.**) **[I believe you mean figure 6 here] --Addressed KL**. Reference the [Chain Matrix Experiment](#Chain-Matrix-Experiment) Manual section for detailed information on the Experimental Apparatus.
 
 <center>
 
@@ -124,7 +124,7 @@ The narrow tubing (ID: 16) was connected to a peristaltic pump and was directed 
 The objectives of the single Dacron string experiment were to determine how uniformly water flowed down the string and the length of a string needed for the  water to have a 15-minute residence time on the string.
 
 #### Experimental Apparatus
-A 30-inch wetted Dacron string was hooked onto the bottom of a scale and allowed to hang freely from the scale. The scale, which measured the weight of the string, was placed on top of two support beams above the lab bench. Orange-yellow color-coded micro-tubing (ID: 0.05) connected to the peristaltic pump was draped over the support beam and taped onto a flat rod between the two beams so that the tubing was allowed to just barely touch the side of the top part of the string. Reference the [Single Dacron String Experiment Manual](#Single-Dacron-Experiment-Manual)[space]for a detailed explanation of the set-up.
+A 30-inch wetted Dacron string was hooked onto the bottom of a scale and allowed to hang freely from the scale. The scale, which measured the weight of the string, was placed on top of two support beams above the lab bench. Orange-yellow color-coded micro-tubing (ID: 0.05) connected to the peristaltic pump was draped over the support beam and taped onto a flat rod between the two beams so that the tubing was allowed to just barely touch the side of the top part of the string. Reference the [Single Dacron String Experiment Manual](#Single-Dacron-Experiment-Manual) for a detailed explanation of the set-up.
 
 <center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/zoomedoutdacron.jpeg?raw=true" height=400>
@@ -154,6 +154,12 @@ Reference the [Single Dacron String Experiment Manual](#Single-Dacron-Experiment
 
 Once the scale began reading steady weights, a range of weights was recorded for an RPM(revolution/minute) starting at 77.8, then 70, followed by every 10 RPM after that (60, 50,...,10 RPM) and finally at 1.6 RPM(the smallest possible RPM), which correlated to flow rates starting at 0.0246 mL/s down to .0005 mL/s. Then, residence times on the string were calculated by dividing the total weight on the string by flow rate (in mL/s) for each RPM tested. Finally, the length of the string needed for the water to have a retention time of 15 minutes was calculated using the retention time per meter of string.
 
+### Theoretical Efficency of String Digester
+####Objective of Experiment
+The goal of this portion was to determine theoretically if a string digester would be more cost and space efficient than current trickling filter technologies.
+####Procedure
+Results from the Single Dacron String experiment were used. The lowest flow rate was picked and strings were assumed to be either 0.5 cm or 0.2 cm apart in all directions. The total flow rate per m <sup>2</sup> and cost was calculated and compared to current trickling filter technologies.
+
 ###Capillary Action Testing
 ####Objective of Experiments
 The goal of this experiment was to determine if capillary action is possible using the 0.3 mm Dacron string.
@@ -175,7 +181,7 @@ The set-up described in the experimental apparatus was used. A basin was placed 
 The initial objective of this experiment was to determine whether grouping several Dacron strings would result in capillary action. From there, the objectives were to determine the amount (weight) of water transferred to the string through capillary action and the flow rate of the water on the string.
 
 #### Experimental Apparatus
-10 80-inch Dacron strings were used and were doubled backed so that there was a total of 20 40-inch strings. The strands were wrapped around a tube in the bottom of the basin. The strands were draped over the side of the basin and were allowed to hang freely in the air. The wrapped strands were then pushed together tightly so that they formed one "clump" of strings. Lastly, 3 roughly evenly spaced rubber bands were wrapped around the clump of strings in order to keep them all together in a uniform manner.
+10 80-inch Dacron strings were used and were doubled backed so that there was a total of 20 40-inch strings. The strands were wrapped around a tube in the bottom of the basin. The strands were draped over the side of the basin and were allowed to hang freely in the air. The wrapped strands were then pushed together tightly so that they formed one "clump" of strings. Lastly, 3 roughly evenly spaced rubber bands were wrapped around the clump of strings in order to keep them all together in a uniform manner. Reference the [Grouped Strings Capillary Action Experiment Manual](#Group-Strings-Capillary-Action-Experiment-Manual) for a detailed explanation of the set-up.
 
 <center>
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/topviewgrouped.jpg?raw=true" height = 400>
@@ -189,30 +195,30 @@ The initial objective of this experiment was to determine whether grouping sever
 </center>
 
 
-####Procedure
-The set-up described in the experimental apparatus was used. A basin was placed on a scale at the bottom of the strings. A timer was started when water was poured into the input basin. First, qualitative results were noted. Then, weight measurements of the basin on the scale were taken at various times for 2 hours. From these measurements, the flow rates of the water on the strings at times throughout the 2 hours were calculated.
+#### Procedure
+The set-up described in the experimental apparatus was used. A basin was placed on a scale at the bottom of the strings. A timer was started when water was poured into the input basin. First, qualitative results were noted. Then, weight measurements of the basin on the scale were taken at various times for 2 hours. From these measurements, the flow rates of the water on the strings at times throughout the 2 hours were calculated. Reference the [Grouped Strings Capillary Action Experiment Manual](#Group-Strings-Capillary-Action-Experiment-Manual) for a detailed explanation of the procedure.
 
-### Single Aramid String Experiment
+### Single Aramid Rope Experiment
 #### Objective of Experiment
-The objective of the single Aramid string experiment was to qualitatively examine how the water flowed down the string and to determine whether it could be a potential material for a string digester.
+The objective of the single Aramid rope experiment was to qualitatively examine how the water flowed down the rope and to determine whether it could be a potential material for a string digester.
 
 #### Experimental Apparatus
-The top of a 36 inch Aramid string was tied to a Dacron string loop in order to hook it onto the bottom of a scale. The scale, which measured the weight of the string, was placed on top of two support beams above the lab bench. Orange-yellow color-coded micro-tubing (ID: 0.05) connected to a peristaltic pump was draped over the support beam and taped onto a flat rod between the two beams so that the tubing was fixed just above the top of the string. The idea was to allow the tubing to hang just above the string so that it could release water directly on top of the string.
+The top of a 36 inch Aramid rope was tied to a Dacron string loop in order to hook it onto the bottom of a scale. The scale, which measured the weight of the rope, was placed on top of two support beams above the lab bench. Orange-yellow color-coded micro-tubing (ID: 0.05) connected to a peristaltic pump was draped over the support beam and taped onto a flat rod between the two beams so that the tubing was fixed just above the top of the rope. The idea was to allow the tubing to hang just above the rope so that it could release water directly on top of the rope. Reference the [Single Aramid Rope Experiment Manual](#Single-Aramid-Rope-Experiment-Manual) for a detailed explanation of the set-up.
 
 <center>
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/zoomedoutaramid.jpeg?raw=true" height = 400>
 
-**Figure 14.** Zoomed out view of Aramid string hanging from scale.
+**Figure 14.** Zoomed out view of Aramid rope hanging from scale.
 
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/zoomedinaramid.jpeg?raw=true" height = 400>
 
-**Figure 15.** Zoomed in view of microtubing propped directly above the top of the Aramid string and the Dacron string loop connecting the Aramid string to the scale.
+**Figure 15.** Zoomed in view of microtubing propped directly above the top of the Aramid rope and the Dacron string loop connecting the Aramid rope to the scale.
 
 </center>
 
 
-####Procedure
-A basin was placed directly underneath the string in order to catch the water leaving the string. Because this experiment was mostly for qualitative purposes, quantitative data was not taken. Once water was released from the tubing and flowed on to the string, observations on how uniformly and quickly the water flowed down the string were recorded.
+#### Procedure
+A basin was placed directly underneath the rope in order to catch the water leaving the rope. Because this experiment was mostly for qualitative purposes, quantitative data was not taken. Once water was released from the tubing and flowed on to the rope, observations on how uniformly and quickly the water flowed down the rope were recorded. Reference the [Single Aramid Rope Experiment Manual](#Single-Aramid-Rope-Experiment-Manual) for a detailed explanation of the procedure.
 
 
 ## Results and Analysis
@@ -356,17 +362,54 @@ plt.xlabel('Flow Rate (mL/s)')
 plt.ylabel('Height of Chain (m)')
 plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/DFRvsHN')
 ```
+
+
+### Efficiency Analysis of String Digester
+``` python
+from aguaclara.play import*
+# This flow rate was picked as the most feasible flow rate from the Single Dacron Tests
+flowRate = 0.0005066666667*u.mL/u.s
+#Assuming spacing of 0.5 cm between strings in all directions for 1 m^2
+strings1D = 1*u.s / 0.005*u.m
+strings2D = strings1D**2
+flowRatePerMeter2 = strings2D*flowRate
+flowRatePerMeter2.to(u.L/(u.min*u.m**2))
+#See Manual for purchase of Dacron Strings, unitCost is in $/100 yard
+unitCost = 0.1/u.yard
+unitCost.to(1/u.m)
+#Height of digester for chosen flow rate, see Single Dacron Experiments
+height = 1.948931507*u.m
+totalStringLength = strings2D*height
+totalCost = totalStringLength*unitCost
+
+#Strings spaced 0.2 cm apart in all directions
+```
+We found the total cost to be about \$7128/m<sup>2</sup> for the strings spaced 0.5 cm apart and treat 1.216 L/(min\*m<sup>2</sup>). For the strings spaced 0.2 cm apart, we found the lost to be \$44552 and treat 7.6 L/(min\*m<sup>2</sup>).
+
+
 ### Capillary Action with Dacron String
 This experiment did not go as expected. The red dye only traveled part of the way down the strings (**Figure 18**). No water made it to the end of the strings; therefore, the weight measurements were not useful as they were all constant. The team hypothesizes that this is because the solution of red dye and water had to travel too far and thus dried up too quickly.
 <center>
-<img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/capillary2.png?raw=true" height = 200>
+<img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/TIMEvsWT.png?raw=true" height = 200>
 
-**Figure 18.** Red dye on the strings after the test ran for a couple days.
+**Figure 18.** Weight of Water Collected from the Grouped Dacron Strings Over Time.
+</center>
+
+<center>
+<img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/TIMEvsFR.png?raw=true" height = 200>
+
+**Figure 18.** Flow Rate of the Grouped Dacron Strings Over Time.
 </center>
 
 
 ### Capillary Action with Grouped Strings Experiment
 The grouped strings carried out capillary action. The weight of the water released from the strings at various times were recorded and graph as a function of time. From this information, the flow rates at these times were calculated by adjusting the weight to be only the amount gained at each time interval.
+
+<center>
+<img src ="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/DFRvsRT.png?raw=true" width=300>
+
+**Figure 16.** The residence time graphed against the different flow rates (reference manual for code)
+</center>
 
 #### Code for Grouped Strings Calculations
 ``` python
@@ -403,17 +446,22 @@ plt.ylabel('Flow Rate (mL/min)')
 plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/TIMEvsFR')
 plt.show()
 ```
-### Single Aramid String Experiment
-Water actually flowed down the string pretty uniformly and slowly. add more qualitative results??
+### Single Aramid Rope Experiment
+Water actually flowed down the string pretty uniformly and slowly. It also appeared that water was being absorbed in the interior of the rope. Because of these results, the team will conduct quantitative tests on this rope.
 
 ## Conclusions
 
 The team tested the weight of water on the jack chain at different flow rates using a single chain set-up. From these results, the team was able to determine the amount of water on the chain, the residence time on the chain, and the height needed for a 15 minute residence time. As flow rate increased, the volume of water on the chain and height of chain needed for a 15 minute residence time also increased. The residence time versus flow rate showed a negative correlation. These chains are not a viable option for an AguaClara wastewater treatment plant at this point for reasons explained below **[for reasons explained below -- Addressed ZS]**. At the lowest flow rate tested of 1.5 ml/min onto one single chain, the height needed for a 15 min residence time would be 13.7 m. This is about 4.5 stories. Since the goal of AguaClara is to be gravity powered, it would be quite difficult to get water 13.7 m high. In addition, the difficulty the operators would face should they need to fix something in a string digester this high is not realistic. This chain is also not feasible for an ideal string digester as the water flowing down it did not form a uniform sheath but instead flowed down in distinct droplets. This irregular ebb and flow along with a non-uniform sheath make for a system that does not use the entirety of the surface area of the chain. Since the goal of the string digester is to maximize surface area and therefore digestion efficiency, the inefficient spacial chain digester system is not a feasible option at this time.
 
+The Dacron string seems to have potential as a material for a string digester. In the Single Dacron String Experiment, it was found that for a 15 minute residence time at the lowest flow rate of about .0005 mL/s, the length of the string would need to be 1.97 m. This appears to be much more feasible than the 13.7m jack chain that would be needed for a 15 minute residence time. In addition, the water flowed down the Dacron string more uniformly than the jack chain, making it a promising option. Capillary action with the group of Dacron strings worked well, but there is concern that preferential flow occurred during this experiment. When water droplets were released from the string and into the basin, water was only coming off of a few strings, rather than all of them. This concern will need to be analyzed further in order to determine whether it is a viable option or not.
+
+
 Creating a rapid but efficient string digester would be impactful for the future of AguaClara's involvement in wastewater treatment ~~.~~ **[because]** String digesters have the potential to greatly decrease the wastewater processing time and also decrease the organic solutes in the effluent. By maximizing potential surface area for the microbes to grow on using strings and sponges, thereby allowing for more microbial digestion of the water, some traditional trickling filter problems would be solved or minimized. Effluent from the UASB will require further treatment and the team believes that a string digester could provide the necessary treatment with minimal energy requirements.
 
+
+
 ## Future Work
-In the following weeks, the team will test a 0.3mm Dacron string. The team will use micro-tubing with the peristaltic pump to test the same parameters as was tested for the chains. The micro-tubing will allow a much smaller flow rate necessary for the thinner string. In addition, the team will purchase several more strings that are synthetic hydrophilic materials. The team may also test the capillary action abilities of the strings to draw water up at an even slower rate. Further, the rate of oxygen diffusion into the string will be calculated to assure that enough can diffuse into the surface of the string to reach the necessary biological oxygen demand (BOD). This BOD is necessary to perform as a successful alternative to a trickling filter and remove organic compounds **[It is necessary to perform BOD? I don't know what this sentence is saying...]** . The future of this team primary relies on finding an appropriate material that will allow for biofilm growth and not be susceptible to degrading.
+Next semester, the team will continue to run tests with  0.3mm Dacron strings. Capillary action tests will be run with synthetic wastewater to test for biofilm growth and preferential pathways. The team will also begin testing Aramid ropes. Micro-tubing with the peristaltic pump will be used to test the same parameters as was tested for the single chains and single strings. The micro-tubing will allow a much smaller flow rate necessary for the thinner string. In addition, the team will purchase several more strings that are synthetic hydrophilic materials. Further, the rate of oxygen diffusion into the string will be calculated to assure that enough can diffuse into the surface of the string to reach the necessary biological oxygen demand (BOD). **[It is necessary to perform BOD? I don't know what this sentence is saying...--Addressed GS]** . The future of this team primary relies on finding an appropriate material that will allow for biofilm growth and not be susceptible to degrading.
 
 The team is also looking into using synthetic waste water inoculated with an aerobic bacteria. The team would need to set-up a system of measuring how much organic nutrients the bacteria could remove over the length of the string digester and even just how feasible biofilm growth is on the strings.
 
@@ -444,14 +492,14 @@ Tandukar et al. (2005). "A low-cost municipal sewage treatment system with a com
 
 # Manual
 
-**[Should include materials list. PVC sheet also needs thickness]**
-**
+**[Should include materials list. PVC sheet also needs thickness -- Addressed TM]**
+
 ## Materials
 The materials utilized in the following experiments include:
-* Polyvinyl Chloride (PVC) Sheet (thickness: )
+* Polyvinyl Chloride (PVC) Sheet (thickness: 0.3 millimeters)
 * Scale
 * Bucket
-* Jack Chains or Dacron String (refer to Special Components for more information)
+* Jack Chains, Dacron String, or Aramid Rope (refer to Special Components for more information)
 * Peristaltic Pump
 * Tubing (Tubing IDs: 0.05 and 16)
 * Electrical Saw
@@ -459,6 +507,7 @@ The materials utilized in the following experiments include:
 * Plyers
 * PVC Glue
 * PVC Primer
+* Latex Rubber Bands
 
 ## Fabrication Details
 ### Fabrication of Chain Matrix Basin
@@ -510,6 +559,17 @@ Purchasing Link: [Dacron String](https://www.amazon.com/Tuf-Line-Dacron-600-Fish
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/Dacron_String_Closeup.jpeg?raw=true" width = 300/>
 
 **Figure 20.** The braided Dacron string used for the single-string and capillary action experiments.
+</center>
+
+### Aramid
+For the rope used in the single Aramid rope experiments, a synthetic, braided 25-foot Aramid (diaminodiphenylether-para-phenylenediamine- terephthaloyldichloride) rope was used.
+
+Purchasing Link: [Aramid Rope](https://www.mcmaster.com/3790t11)
+
+<center>
+<img src = "insert aramid pic here" width = 300/>
+
+**Figure #.** The braided Aramid rope used for the single Aramid rope experiment.
 </center>
 
 ## Experimental Methods
@@ -587,7 +647,7 @@ Step 5. Hook the Dacron string loop to the hook on the bottom of the scale.
 
 * Record the length of the string suspended in air.
 
-Step 6. Place large bucket under the chain to catch dripping water.
+Step 6. Place large bucket under the string to catch dripping water.
 Step 7. Set up peristaltic pump with orange/yellow-marked micro-tubing (Tubing ID: 0.05)
 * Set desired pumping speed.
 * Secure the tubing to set-up.
@@ -644,6 +704,70 @@ Step 4. Monitor experiment as desired and record scale readings at specific time
 Step 1. Remove basin liquid and let strings air-dry.
 Step 2. Pour basin liquid in bucket and basin down the sink.
 Step 3. Put items away as desired.
+
+### Grouped Strings Capillary Action Experiment
+#### Set-up
+Step 1. Suspend capillary action basin in air using rods for support.
+Step 2. Bunch the Dacron strings together to form one large strand.
+Step 3. Tighten the strand in various spots to maintain diameter uniformity throughout using rubber bands.
+Step 5. Place scale under the strings and zero the scale.
+Step 6. Place a measuring cup under the strings and on top of the scale.
+* Make sure Dacron string is as still as possible when zeroing.
+
+<center>
+
+<img src="insert diagram here" width = 300/>
+
+**Figure 23.** Diagram of experimental apparatus for grouped strings capillary action experiment.
+
+</center>
+
+#### Experiment
+Step 1. Record the weight on the scale with measuring cup.
+Step 2. Place desired amount of water as well as desired amount of dye into the basin.
+Step 3. Start a timer with desired unit of time.
+Step 4. Monitor experiment as desired and record scale readings at specific times.
+
+#### Cleaning Procedure
+Step 1. Remove basin liquid and let strings air-dry.
+Step 2. Pour basin liquid in bucket and basin down the sink.
+Step 3. Put items away as desired.
+
+### Single Aramid Rope Experiment
+#### Set-up
+Step 1. Suspend scale in air using rods for support.
+Step 2. Cut a length of the Aramid rope.
+Step 3. Form a loop on one end of the rope through a knot.
+Step 4. Hook the Aramid rope loop to the hook on the bottom of the scale.
+
+* Record the length of the rope suspended in air.
+
+Step 6. Place large bucket under the rope to catch dripping water.
+Step 7. Set up peristaltic pump with orange/yellow-marked micro-tubing (Tubing ID: 0.05)
+* Set desired pumping speed.
+* Secure the tubing to set-up.
+
+Step 8. Balance/Zero the scale.
+
+* Make sure Aramid rope is as still as possible when zeroing.
+
+<center>
+
+Refer to **Diagram #** for experimental apparatus diagram.
+
+</center>
+
+#### Experiment
+Step 1. Start the peristaltic pump.
+Step 2. Begin observing the scale and wait till scale reading begins to stabilize.
+Step 3. Record the range at which the scale reading fluctuates.
+Step 4. Repeat experiment as needed with desired pumping speed and desired Aramid rope length.
+
+#### Cleaning Procedure
+Step 1. Turn peristaltic pump off and let rope air-dry.
+Step 2. Pour any excess water in bucket down the sink.
+Step 3. Remove rope from the scale hook.
+Step 4. Put items away as desired.
 
 ## Python Code for Graphs
 
