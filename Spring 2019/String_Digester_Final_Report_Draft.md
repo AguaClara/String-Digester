@@ -49,7 +49,7 @@ Some testing has been done of the growth of biofilm in different surfaces. One s
 In another experiment, three different types of plastic often used in pipe production were investigated for biofilm formation. These materials were PVC, PEX, and HDPE. After two years of system operation, which included weekly pipeline flushing, biofilm analyses were taken. It was found that the PEX pipe had the highest number of bacteria growing (1.15*10<sup>3</sup> $\frac{CFU}{cm^2}$; CFU: colony-forming unit), HDPE pipes had two times less the amount of bacteria (451 $\frac{CFU}{cm^2}$), and PVC surfaces had a significantly lower bacteria count (193 $\frac{CFU}{cm^2}$). However, the number of microorganisms found in the pipes was not related to the number of mineral deposits found, as HDPE pipes had the thickest biofilms with bacteria attached to mineral deposits or immersed in exopolymers. Bacteria did not form large aggregates on PEX surfaces, and PVC biofilm was only made of single cells and did not have any mineral deposits. It was concluded that the ranking of susceptibility to biofilm growth and colonization was HDPE, PEX, and PVC respectively. [(A. Rożej et al., 2015)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4282696/)
 
 
-Studies have also been conducted about the bacteria that produce the biofilm on the stainless steel. Many of these studies involve curli-producing bacteria. Curli fibers "are the major proteinaceous component of a complex extracellular matrix produced by many Enterobacteriaceae" and "are involved in adhesion to surfaces, cell aggregation, and biofilm formation" [(Barnhart and Chapman).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2838481/) One such study focused on *Escherichia coli* O157:H7 bacteria with 6 individual strains, three of which produced curli and three which did not. The study found that the gene for curli production did not affect the attachment of the bacteria to the stainless steel, but it did affect the formation of biofilms. Only the curli producing strains were able to form biofilms [(Ryu et al. 2004).](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1472-765X.2004.01591.x) However, since *E. coli* are commonly found in wastewater, it is probable for biofilm to be able to grow on the stainless steel chains as long as some **[strains of E. coli]** ~~kind of bacteria~~ with the curli-producing gene is present in the wastewater and the flow rate is not too fast. So, assuming that the bacteria will most likely be present and once the biofilm is built up on each of the chains, the main issue then becomes preventing accumulated biofilm from falling off one chain and then, in a domino effect, dragging it off other chains as well.
+Studies have also been conducted about the bacteria that produce the biofilm on the stainless steel. Many of these studies involve curli-producing bacteria. Curli fibers "are the major proteinaceous component of a complex extracellular matrix produced by many Enterobacteriaceae" and "are involved in adhesion to surfaces, cell aggregation, and biofilm formation" [(Barnhart and Chapman).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2838481/) One such study focused on *Escherichia coli* O157:H7 bacteria with 6 individual strains, three of which produced curli and three which did not. The study found that the gene for curli production did not affect the attachment of the bacteria to the stainless steel, but it did affect the formation of biofilms. Only the curli producing strains were able to form biofilms [(Ryu et al. 2004).](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1472-765X.2004.01591.x) However, since *E. coli* are commonly found in wastewater, it is probable for biofilm to be able to grow on the stainless steel chains as long as some **[strains of E. coli --Addressed GS]** strains of E. Coli with the curli-producing gene is present in the wastewater and the flow rate is not too fast. So, assuming that the bacteria will most likely be present and once the biofilm is built up on each of the chains, the main issue then becomes preventing accumulated biofilm from falling off one chain and then, in a domino effect, dragging it off other chains as well.
 
 ## Previous Works
 ### Spring 2018
@@ -206,7 +206,7 @@ The top of a 36 inch Aramid string was tied to a Dacron string loop in order to 
 
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/zoomedinaramid.jpeg?raw=true" height = 400>
 
-**Figure 15.** Zoomed in view of microtubing propped directly above the top of the Aramid string and the Dacron string loop connecting the Aramid string to the scale. 
+**Figure 15.** Zoomed in view of microtubing propped directly above the top of the Aramid string and the Dacron string loop connecting the Aramid string to the scale.
 
 </center>
 
@@ -217,7 +217,7 @@ A basin was placed directly underneath the string in order to catch the water le
 
 ## Results and Analysis
 ### Single Chain Experiment
-**[By simply measuring the mass and length of the chain at a controlled flow rate]** ~~The~~ **[the]** single chain experiment yielded  results of volume of water on the chain, residence time, and height needed for a 15 minute residence time ~~, by simply measuring the mass and length of the chain at a controlled flow rate~~. By dividing the mass on the chain by the density of water, which is 1 g/ml, the volume of water on the chain was obtained. When graphed against flow rate, this calculation yielded a curve best fit by a power series with an R<sup>2</sup> of .991. This is an appropriate result because power series are most often used for data that compares measurements that increase at a specific rate. The flow rate was increased in small increments and the volume of water on the chain would also increase at a specific rate until it reached a certain threshold, which can be seen towards the end of the line graph where the volume of water on the chain starts leveling out as expected.
+**[By simply measuring the mass and length of the chain at a controlled flow rate --Addressed GS]** By simply measuring the mass and length of the chain at a controlled flow rate, the **[the --Addressed GS]** single chain experiment yielded results of volume of water on the chain, residence time, and height needed for a 15 minute residence time. By dividing the mass on the chain by the density of water, which is 1 g/ml, the volume of water on the chain was obtained. When graphed against flow rate, this calculation yielded a curve best fit by a power series with an R<sup>2</sup> of .991. This is an appropriate result because power series are most often used for data that compares measurements that increase at a specific rate. The flow rate was increased in small increments and the volume of water on the chain would also increase at a specific rate until it reached a certain threshold, which can be seen towards the end of the line graph where the volume of water on the chain starts leveling out as expected.
 
 <center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsVWC.png?raw=true" width = 300/>
@@ -233,7 +233,7 @@ Furthermore, residence time was calculated by dividing the volume of water on th
 **Figure 13.** The residence time of water on the chain when the pump is running at different flow rates (reference manual for code)
 </center>
 
-Another result the experiment supplied was the height of the chain that would be needed for a 15 min residence time at each flow rate. The height needed was calculated by dividing 900 seconds (15 mins) by the residence time(s) by the length of the chain, in this case .9144 meters. Then as seen in **Figure 14.** another line with a power series best fit is yielded this time with a R<sup>2</sup> value of .996. Again, since the flow rate was increased at specific increments and the residence time greatly decreased as the flow rate increased initially and then leveled out **[,]** it follows that the line of best fit for the height needed for a residence time of 15 minutes should start off with a steeper slope and eventually start to become less steep. By running this experiment and calculating the values needed for residence time and height needed we were able to determine that chains may not be the best material to optimize the parameters we want. **[Why not? My guess is that it was what you had stated earlier that the flow is too low, and the length of chain needed is too long but that should be repeated here if that is the case. Also do not use personal pronouns!]
+Another result the experiment supplied was the height of the chain that would be needed for a 15 min residence time at each flow rate. The height needed was calculated by dividing 900 seconds (15 mins) by the residence time(s) by the length of the chain, in this case .9144 meters. Then as seen in **Figure 14.** another line with a power series best fit is yielded this time with a R<sup>2</sup> value of .996. Again, since the flow rate was increased at specific increments and the residence time greatly decreased as the flow rate increased initially and then leveled out, **[,--Addressed GS]** it follows that the line of best fit for the height needed for a residence time of 15 minutes should start off with a steeper slope and eventually start to become less steep. By running this experiment and calculating the values needed for residence time and height needed we were able to determine that chains may not be the best material to optimize the parameters wanted, because even at the lowest flow rates the length of the chain needed for an optimal residence time would be very long. **[Why not? My guess is that it was what you had stated earlier that the flow is too low, and the length of chain needed is too long but that should be repeated here if that is the case. Also do not use personal pronouns!-- Addressed GS]**
 
 <center>
 <img src ="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/FRvsHN.png?raw=true" width=300>
@@ -241,6 +241,51 @@ Another result the experiment supplied was the height of the chain that would be
 **Figure 14.** The height needed for the chain so that the residence time would be 15 minutes for each different flow rate (reference manual for code)
 </center>
 
+####Code For Single Chain Calculations
+``` python
+import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
+
+FR,VWC = np.loadtxt('CFRT_FR_vs_VWC.csv',
+                unpack = True,
+                delimiter = ',')
+#FR = flow rate
+#VWC = volume of water on the chain
+length = .9144 # length of the chain(can be changed)
+optimalrestime = 900 # optimal residence time in seconds(can be changed)
+
+plt.figure(0)
+plt.plot(FR,VWC, 'ro')
+plt.title('Volume of Water on Chain at \nDifferent Flow Rates')
+plt.xlabel('Flow Rate (mL/s)')
+plt.ylabel('Volume of Water on Chain (mL)')
+plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/CFRvsVWC')
+
+RT = [0]*len(FR)
+for i in range(len(FR)):
+    RT[i] = VWC[i]/FR[i] #RT residence time
+
+plt.figure(1)
+plt.plot(FR,RT, 'ro')
+plt.title('Residence Time of Water on Chain \nat Different Flow Rates')
+plt.xlabel('Flow Rate (mL/s)')
+plt.ylabel('Residence Time (s)')
+plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/CFRvsRT')
+
+secperm = [0]*len(RT)
+HN = [0]*len(RT)
+for i in range(len(RT)):
+    secperm[i] = RT[i]/length
+    HN[i] = optimalrestime/secperm[i]
+
+plt.figure(2)
+plt.plot(FR,HN, 'ro')
+plt.title('Height of Chain Needed for a \n15 Minute Residence Time')
+plt.xlabel('Flow Rate (mL/s)')
+plt.ylabel('Height of Chain (m)')
+plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/CFRvsHN')
+```
 ### Chain Matrix Experiment
 The chain matrix experiment focused more on qualitative results rather than quantitative ones. As the experiment ran it was observed that not all of the chains hanging out of the basin in the matrix contained the same amount and flow rate of water. For this reason it was decided to design a different system to distribute water onto the string material.
 
@@ -261,13 +306,56 @@ Residence time was calculated by dividing the volume of water on the string (ml)
 **Figure 16.** The residence time graphed against the different flow rates (reference manual for code)
 </center>
 
-The last result the experiment supplied was the height of the string that would be needed for a 15 min residence time at each flow rate. The height needed was calculated by dividing the "optimal" residence time of 15 minutes by the residence time(s)and then  by the length of the chain, in this case .78 meters. **[As]** The flow rate was increased **[and leveled out]** at specific increments ~~and~~ **[,]** the residence time greatly decreased ~~as the flow rate increased initially and then leveled out~~, however the height needed for a 15 minute residence time is almost exactly linear (see **Figure 17.**). The length of string needed for a 15 minute residence time at the lowest flow rate of about .0005 mL/s would only be about 1.97 m. By running this experiment and calculating the values needed for residence time and height needed we were able to determine that strings may be a viable option to optimize the parameters we want. The next step would be to design a dispensing system that could actually deliver water onto the strings at such low flow rates.
+The last result the experiment supplied was the height of the string that would be needed for a 15 min residence time at each flow rate. The height needed was calculated by dividing the "optimal" residence time of 15 minutes by the residence time(s)and then  by the length of the chain, in this case .78 meters. **[As-- Addressed GS]** As the flow rate was increased and leveled out **[and leveled out-- Addressed GS]** at specific increments, **[,--Addressed GS]** the residence time greatly decreased, however the height needed for a 15 minute residence time is almost exactly linear (see **Figure 17.**). The length of string needed for a 15 minute residence time at the lowest flow rate of about .0005 mL/s would only be about 1.97 m. By running this experiment and calculating the values needed for residence time and height needed we were able to determine that strings may be a viable option to optimize the parameters we want. The next step would be to design a dispensing system that could actually deliver water onto the strings at such low flow rates.
 <center>
 <img src ="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/DFRvsHN.png?raw=true" width=300>
 
 **Figure 17.** The height needed for a 15 minute residence time graphed against the different flow rates (reference manual for code)
 </center>
 
+####Code For Single Dacron String Calculations
+```python
+import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
+
+FR, VWS = np.loadtxt('DFRT_FR_vs_VWS.csv', unpack=True, delimiter=',')
+# FR = flow rate
+# VWS = volume of water on the string
+length = .78  # length of the string(can be changed)
+optimalrestime = 900  # optimal residence time in seconds(can be changed)
+
+plt.figure(0)
+plt.plot(FR, VWS, 'ro')
+plt.title('Volume of Water on Dacron String at \nDifferent Flow Rates')
+plt.xlabel('Flow Rate (mL/s)')
+plt.ylabel('Volume of Water on Dacron String (mL)')
+plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/DFRvsVWC')
+
+RT = [0]*len(FR)
+for i in range(len(FR)):
+    RT[i] = VWS[i]/FR[i]  # RT residence time
+
+plt.figure(1)
+plt.plot(FR, RT, 'ro')
+plt.title('Residence Time of Water on Dacron String \nat Different Flow Rates')
+plt.xlabel('Flow Rate (mL/s)')
+plt.ylabel('Residence Time (s)')
+plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/DFRvsRT')
+
+secperm = [0]*len(RT)
+HN = [0]*len(RT)
+for i in range(len(RT)):
+    secperm[i] = RT[i]/length
+    HN[i] = optimalrestime/secperm[i]
+
+plt.figure(2)
+plt.plot(FR, HN, 'ro')
+plt.title('Height of Dacron String Needed for a \n15 Minute Residence Time')
+plt.xlabel('Flow Rate (mL/s)')
+plt.ylabel('Height of Chain (m)')
+plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/DFRvsHN')
+```
 ### Capillary Action with Dacron String
 This experiment did not go as expected. The red dye only traveled part of the way down the strings (**Figure 18**). No water made it to the end of the strings; therefore, the weight measurements were not useful as they were all constant. The team hypothesizes that this is because the solution of red dye and water had to travel too far and thus dried up too quickly.
 <center>
@@ -280,7 +368,41 @@ This experiment did not go as expected. The red dye only traveled part of the wa
 ### Capillary Action with Grouped Strings Experiment
 The grouped strings carried out capillary action. The weight of the water released from the strings at various times were recorded and graph as a function of time. From this information, the flow rates at these times were calculated by adjusting the weight to be only the amount gained at each time interval.
 
+#### Code for Grouped Strings Calculations
+``` python
+import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
 
+WT, TIME = np.loadtxt('DGST_WT_vs_TIME.csv', unpack=True, delimiter=',')
+# WT = Weight of water in cup catching water dripping off strings
+# TIME = time for weight of water to drip into cup in minutes
+
+AWT = [0]*len(WT)
+for i in range(len(WT)):
+    AWT[i] = WT[i]-WT[0]  # AWT adjusted weight
+
+FR = [0]*(len(WT)-1)  # one index shorter because there is no flow rate at time zero because divide by zero
+for i in range(len(WT)-1):
+    FR[i] = (AWT[i+1]-AWT[i])/(TIME[i+1]-TIME[i])
+FR.insert(0, 0)
+
+plt.figure(0)
+plt.plot(TIME, WT, 'ro')
+plt.title('Weight of Water Collected at \nDifferent Times')
+plt.xlabel('Time (min)')
+plt.ylabel('Weight of Water Collected (g)')
+plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/TIMEvsWT')
+plt.show()
+
+plt.figure(1)
+plt.plot(TIME, FR, 'ro')
+plt.title('Flow Rate Down the Strings at \nDifferent Times')
+plt.xlabel('Time (min)')
+plt.ylabel('Flow Rate (mL/min)')
+plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/images/TIMEvsFR')
+plt.show()
+```
 ### Single Aramid String Experiment
 Water actually flowed down the string pretty uniformly and slowly. add more qualitative results??
 
@@ -526,6 +648,7 @@ Step 3. Put items away as desired.
 ## Python Code for Graphs
 
 ### Code for Figure 12
+####(Also in Code For Single Chain Calculations)
 ```python
 from aguaclara.play import*
 from matplotlib import style
@@ -544,6 +667,7 @@ plt.show()
 ```
 
 ### Code for Figure 13
+####(Also in Code For Single Chain Calculations)
 ```python
 from aguaclara.play import*
 from matplotlib import style
@@ -562,6 +686,7 @@ plt.show()
 ```
 
 ### Code for Figure 14
+####(Also in Code For Single Chain Calculations)
 ```python
 from aguaclara.play import*
 from matplotlib import style
@@ -579,6 +704,7 @@ plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/im
 plt.show()
 ```
 ### Code for Figure 15
+####(Also in Code For Single Dacron String Calculations)
 ``` python
 from aguaclara.play import*
 from matplotlib import style
@@ -597,6 +723,7 @@ plt.show()
 ```
 
 ### Code for Figure 16
+####(Also in Code For Single Dacron String Calculations)
 ```python
 from aguaclara.play import*
 from matplotlib import style
@@ -615,6 +742,7 @@ plt.show()
 ```
 
 ### Code for Figure 17
+####(Also in Code For Single Dacron String Calculations)
 ```python
 from aguaclara.play import*
 from matplotlib import style
