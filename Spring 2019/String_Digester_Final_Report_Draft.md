@@ -39,6 +39,23 @@ The less common method of distribution, the fixed distribution system as seen be
 
 Although there are multiple problems with trickling filters, one main advantage of trickling filters is that they have a relatively low residence time. This is a consideration which the team should plan to maintain in future designs. Hinton and Stensel measured residence time per unit length of between 30 and 40 sec/m with dye tests. Their predicted residence times, calculated from laminar flow theory, were closer to about 15 sec/m. The authors attributed this discrepancy **[discretion may not be the right word here.. difference/discrepancy? --Addressed ZS]** to "dye sorption and desorption by the biofilm." In either case, the residence time for a 5 meter deep trickling filter would be well under 5 minutes [(Hinton and Stensel 1991)](https://ac.els-cdn.com/0043135491901179/1-s2.0-0043135491901179-main.pdf?_tid=e8d2db22-8e0f-4d3c-a421-352ef74e6f5e&acdnat=1540500088_4808114af12660c061fbd139ac0fbd33). This short treatment time makes trickling filters an appealing wastewater treatment option if problems such as uneven HLR and clogging can be minimized.
 
+Low-rate filters are used when there is a lower BOD. These are typically 0.9 to 2.4 meters in height. Rock filters are usually not hydraulically limited and have a loading rate of 0.01 to 0.04 $\frac{L}{m^2*s}$. In comparison, plastic media is wet at a rate of 0.4 $\frac{L}{m^2*s}$ to prevent the media from drying out. See Table 1. for typical BOD removal rates for various trickling filters [(Wastewater... 2000)](https://www3.epa.gov/npdes/pubs/trickling_filt_nitrification.pdf).
+
+<center>
+
+**Table 1.** BOD Removal Rate for Different Trickling filters [(Wastewater... 2000)](https://www3.epa.gov/npdes/pubs/trickling_filt_nitrification.pdf)
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/BOD%20Removal%20Rates.jpg?raw=true" />
+</center>
+
+In addition to rate of loading, the cost of building a trickling filter was also researched. It is summarized in the table below with O&M standing for operation and maintenance from [Wastewater... 2000](https://www3.epa.gov/npdes/pubs/trickling_filt_nitrification.pdf).
+
+<center>
+
+**Table 2.** Cost summary for building a Trickling Filter from [Wastewater... 2000](https://www3.epa.gov/npdes/pubs/trickling_filt_nitrification.pdf)
+<img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/trickling%20filter%20cost.png?raw=true" />
+</center>
+
+According to [Farmer 2013](https://www3.epa.gov/npdes/pubs/trickling_filt_nitrification.pdf), typical trickling filters are designed to remove CBOD (carbonaceous biological oxygen demand) and NOD (nitrogenous oxygen demand). He suggests a hydraulic wetting rate range for BOD removal systems between 30 to 40 $\frac{L}{min*m^2}$ and 30 to 80 $\frac{L}{min*m^2}$ for nitrification systems.
 
 ### Biofilm
 A component of the string digester that is crucial to its success is the growth of biofilm on the chains. "A biofilm is an assemblage of microbial cells that is irreversibly associated (not removed by gentle rinsing) with a surface and enclosed in a matrix of primarily polysaccharide material." [(Donlan 2002).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732559/) Biofilm attachment is a complex process regulated by diverse characteristics of the growth medium, substratum, and cell surface. Biofilm on trickling filters is composed of a variety of organisms and are typically enclosed in a polysaccharide. The biofilm matrix may also contain mineral crystals, corrosion particles, and clay or silt particles. In conclusion, biofilms in wastewater systems are often highly complex [(Donlan 2002).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732559/) **[Last sentence is kind of just oddly placed. Maybe just start it off with "In conclusion," -- Addressed ZS]**
@@ -474,6 +491,8 @@ Barnhart, M. M., & Chapman, M. R. (2006). *Curli Biogenesis and Function.* Annua
 
 Donlan, Rodney. (2002). "Biofilms: Microbial Life on Surfaces." *Emerging Infectious Diseases.* Sept. 2002.
 
+Farmer, Greg. (2013) "What every operator should know about trickling filters." Retrieved from https://www3.epa.gov/npdes/pubs/trickling_filt_nitrification.pdf
+
 Hinton, Steven. David, Stensel. (1991). "Experimental observation of trickling filter hydraulics." *Water Research.* (pp. 1389-139).
 
 Onodera et al. (2014). "Development of a sixth-generation down-flow hanging sponge (DHS) reactor using rigid sponge media for post-treatment of UASB treating municipal sewage." *Bioresource Technology.* 152, 93-100.
@@ -489,6 +508,8 @@ Sperling, Marcos von (2007). *Activated Sludge and Aerobic Biofilm Reactors.* (p
 Spuhler, Dorothee; Eawag (Swiss Federal Institute of Aquatic Science and Technology). *Trickling Filter.*
 
 Tandukar et al. (2005). "A low-cost municipal sewage treatment system with a combination of UASB and the "fourth-generation" downflow hanging sponge reactors." *Water Science Technology.* 52(1-2): 323-329.
+
+"Wastewater Technology Fact Sheet Trickling Filters." (2000). *United States Environmental Protection Agency*
 
 # Manual
 
