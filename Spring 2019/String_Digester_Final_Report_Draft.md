@@ -412,26 +412,33 @@ We found the total cost of the strings per m<sup>2</sup> to be about $\frac{\$71
 
 ### Capillary Action with Dacron String
 This experiment did not go as expected. The red dye only traveled part of the way down the strings (**Figure 21**). No water made it to the end of the strings; therefore, the weight measurements were not useful as they were all constant. The team hypothesizes that this is because the solution of red dye and water had to travel too far and thus dried up too quickly.
+
+<center>
+<img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/capillary2.png?raw=true" height = 300>
+
+**Figure 21.** Weight of Water Collected from the Grouped Dacron Strings Over Time.
+
+</center>
+
+### Capillary Action with Grouped Strings Experiment
+The grouped strings carried out capillary action. The weight of the water released from the strings at various times were recorded and graph as a function of time. From this information, the flow rates at these times were calculated by adjusting the weight to be only the amount gained at each time interval. The weight of water that traveled through the strings over time followed a polynomial trend (Figure 22) with the flow rate decreasing over time (Figure 23). In addition, the residence time on the strings also decreased (Figure 24).
+
 <center>
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/TIMEvsWT.png?raw=true" height = 200>
 
-**Figure 21.** Weight of Water Collected from the Grouped Dacron Strings Over Time.
+**Figure 22.** Weight of Water Collected from the Grouped Dacron Strings Over Time.
 </center>
 
 <center>
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/TIMEvsFR.png?raw=true" height = 200>
 
-**Figure 22.** Flow Rate of the Grouped Dacron Strings Over Time.
+**Figure 23.** Flow Rate of the Grouped Dacron Strings Over Time.
 </center>
-
-
-### Capillary Action with Grouped Strings Experiment
-The grouped strings carried out capillary action. The weight of the water released from the strings at various times were recorded and graph as a function of time. From this information, the flow rates at these times were calculated by adjusting the weight to be only the amount gained at each time interval.
 
 <center>
 <img src ="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/DFRvsRT.png?raw=true" width=300>
 
-**Figure 23.** The residence time graphed against the different flow rates (reference manual for code)
+**Figure 24.** The residence time graphed against the different flow rates (reference manual for code)
 </center>
 
 #### Code for Grouped Strings Calculations
