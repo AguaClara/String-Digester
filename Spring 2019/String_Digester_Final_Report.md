@@ -293,7 +293,7 @@ Another result the experiment supplied was the height of the chain that would be
 **Figure 17.** The height needed for the chain so that the residence time would be 15 minutes for each different flow rate (reference manual for code)
 </center>
 
-####Code For Single Chain Calculations
+#### Code For Single Chain Calculations
 ``` python
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -602,7 +602,7 @@ Step 4. Using an electrical drill with drill size 1/16th of an inch, drill 2 row
 Step 5. Cut 6 desired lengths of jack chain for the basin using wire cutter.
 Step 6. Pry open chain link on each chain using plyers and place into a basin hole.
 
-###Fabrication of Capillary Action Basin
+### Fabrication of Capillary Action Basin
 Step 1. Obtain sheets of PVC.
 Step 2. Using electrical saw, cut pieces of PVC to desired lengths and widths.
 * For longer sides of basin, cut the PVC sheet to 2.5 inches by 2.5 inches.
@@ -851,7 +851,7 @@ Step 4. Put items away as desired.
 ## Python Code for Graphs
 
 ### Code for Figure 12
-####(Also in Code For Single Chain Calculations)
+#### (Also in Code For Single Chain Calculations)
 ```python
 from aguaclara.play import*
 from matplotlib import style
@@ -870,7 +870,7 @@ plt.show()
 ```
 
 ### Code for Figure 13
-####(Also in Code For Single Chain Calculations)
+#### (Also in Code For Single Chain Calculations)
 ```python
 from aguaclara.play import*
 from matplotlib import style
@@ -889,7 +889,7 @@ plt.show()
 ```
 
 ### Code for Figure 14
-####(Also in Code For Single Chain Calculations)
+#### (Also in Code For Single Chain Calculations)
 ```python
 from aguaclara.play import*
 from matplotlib import style
@@ -907,7 +907,7 @@ plt.savefig('/Users/gvsso/OneDrive/Documents/Gaby/String-Digester/Spring 2019/im
 plt.show()
 ```
 ### Code for Figure 15
-####(Also in Code For Single Dacron String Calculations)
+#### (Also in Code For Single Dacron String Calculations)
 ``` python
 from aguaclara.play import*
 from matplotlib import style
@@ -926,7 +926,7 @@ plt.show()
 ```
 
 ### Code for Figure 16
-####(Also in Code For Single Dacron String Calculations)
+#### (Also in Code For Single Dacron String Calculations)
 ```python
 from aguaclara.play import*
 from matplotlib import style
@@ -945,7 +945,7 @@ plt.show()
 ```
 
 ### Code for Figure 17
-####(Also in Code For Single Dacron String Calculations)
+#### (Also in Code For Single Dacron String Calculations)
 ```python
 from aguaclara.play import*
 from matplotlib import style
