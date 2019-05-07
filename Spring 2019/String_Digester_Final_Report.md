@@ -198,7 +198,7 @@ The set-up described in the experimental apparatus was used. A basin was placed 
 The initial objective of this experiment was to determine whether grouping several Dacron strings would result in capillary action. From there, the objectives were to determine the amount (weight) of water transferred to the string through capillary action and the flow rate of the water on the string.
 
 #### Experimental Apparatus
-10 80-inch Dacron strings were used and were doubled backed so that there was a total of 20 40-inch strings. The strands were wrapped around a tube in the bottom of the basin. The strands were draped over the side of the basin and were allowed to hang freely in the air. The wrapped strands were then pushed together tightly so that they formed one "clump" of strings. Lastly, 3 roughly evenly spaced rubber bands were wrapped around the clump of strings in order to keep them all together in a uniform manner. Reference the [Grouped Strings Capillary Action Experiment Manual](#Group-Strings-Capillary-Action-Experiment-Manual) for a detailed explanation of the set-up.
+10 80-inch Dacron strings were used and were doubled backed so that there was a total of 20 40-inch strings. The strands were wrapped around a tube in the bottom of the basin. The strands were draped over the side of the basin and were allowed to hang freely in the air. The wrapped strands were then pushed together tightly so that they formed one "clump" of strings. Lastly, 3 roughly evenly spaced rubber bands were wrapped around the clump of strings in order to keep them all together in a uniform manner. Reference the [Grouped Strings Capillary Action Experiment Manual](#Grouped-Strings-Capillary-Action-Experiment-Manual) for a detailed explanation of the set-up.
 
 <center>
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/topviewgrouped.jpg?raw=true" height = 400>
@@ -213,7 +213,7 @@ The initial objective of this experiment was to determine whether grouping sever
 
 
 #### Procedure
-The set-up described in the experimental apparatus was used. A basin was placed on a scale at the bottom of the strings. A timer was started when water was poured into the input basin. First, qualitative results were noted. Then, weight measurements of the basin on the scale were taken at various times for 2 hours. From these measurements, the flow rates of the water on the strings at times throughout the 2 hours were calculated. Reference the [Grouped Strings Capillary Action Experiment Manual](#Group-Strings-Capillary-Action-Experiment-Manual) for a detailed explanation of the procedure.
+The set-up described in the experimental apparatus was used. A basin was placed on a scale at the bottom of the strings. A timer was started when water was poured into the input basin. First, qualitative results were noted. Then, weight measurements of the basin on the scale were taken at various times for 2 hours. From these measurements, the flow rates of the water on the strings at times throughout the 2 hours were calculated. Reference the [Grouped Strings Capillary Action Experiment Manual](#Grouped-Strings-Capillary-Action-Experiment-Manual) for a detailed explanation of the procedure.
 
 ### Single Aramid Rope Experiment
 #### Objective of Experiment
@@ -754,7 +754,7 @@ Step 2. Pour any excess water in bucket down the sink.
 Step 3. Remove string from the scale hook.
 Step 4. Put items away as desired.
 
-### Capillary Action Experiment
+### Capillary Action Experiment Manual
 #### Set-up
 Step 1. Suspend capillary action basin in air using rods for support.
 Step 2. Saturate the Dacron Strings with water, and remove of any excess.
