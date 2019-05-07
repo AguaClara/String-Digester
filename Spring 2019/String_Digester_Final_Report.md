@@ -102,7 +102,7 @@ A scale was secured approximately one meter above a lab bench resting on support
 </center>
 
 #### Procedure
-Reference the [Single Chain Experiments Manual](#Single-Chain-Experiment) section for a detailed procedure. The scale was zeroed with the chain hanging on the scale so that the scale would only measure the weight of the water on the chain. Narrow tubing (ID: 16) was connected to a peristaltic pump and water was pumped at a known rate. The end of the tube was directed onto the top of the chain hanging from the scale, in an attempt to allow water to flow onto and down the hanging chain.
+Reference the [Single Chain Experiments Manual](#Single-Chain-Experiment-Manual) section for a detailed procedure. The scale was zeroed with the chain hanging on the scale so that the scale would only measure the weight of the water on the chain. Narrow tubing (ID: 16) was connected to a peristaltic pump and water was pumped at a known rate. The end of the tube was directed onto the top of the chain hanging from the scale, in an attempt to allow water to flow onto and down the hanging chain.
 
 The idea was to get water flowing onto the chain and then, while continuously pumping water onto the chain, measure the weight of the water on the chain at a moment in time. Because the scale reading often fluctuated, a range of weights was recorded. The weight of the water (in grams) on the chain was recorded for several different flow rates of water. The first two flow rates used were 1.5 mL/s and 3 mL/s and then every multiple of 5 from 5-80 mL/s was used after the initial two.
 
@@ -652,7 +652,7 @@ Purchasing Link: [Aramid Rope](https://www.mcmaster.com/3790t11)
 </center>
 
 ## Experimental Methods
-### Single Chain Experiment
+### Single Chain Experiment Manual
 #### Set-up
 Step 1. Suspend scale in air using rods for support.
 Step 2. Hook the jack chain to the hook on the bottom of the scale.
