@@ -1,6 +1,6 @@
 # String Digester, Spring 2019
 #### Kiki Lo, Antonio Martinez, Gaby Sibel, Zsofia Szegletes
-#### April 26, 2019
+#### May 7, 2019
 
 **[Felix grading here. I liked your report. It was informative, well organized, and it looks like you guys made some solid progress this semester.]
 
@@ -169,7 +169,7 @@ A 30-inch wetted Dacron string was hooked onto the bottom of a scale and allowed
 #### Procedure
 Reference the [Single Dacron String Experiment Manual](#Single-Dacron-Experiment-Manual) for a detailed explanation of the procedure.The string was dipped in water prior to hanging on the scale in order to allow water to stay on the string more effectively. The scale was zeroed with the string hanging on the scale so that the scale would only measure the weight of the water flowing on the string. Water was pumped at a controlled flow rate through the tubing and onto the string. The idea was to allow the tubing to just barely touch the string so that it could release water directly onto the string without putting the string at an angle.
 
-Once the scale began reading steady weights, a range of weights was recorded for an RPM(revolution/minute) starting at 77.8, then 70, followed by every 10 RPM after that (60, 50,...,10 RPM) and finally at 1.6 RPM(the smallest possible RPM), which correlated to flow rates starting at 0.0246 mL/s down to .0005 mL/s. Then, residence times on the string were calculated by dividing the total weight on the string by flow rate (in mL/s) for each RPM tested. Finally, the length of the string needed for the water to have a retention time of 15 minutes was calculated using the retention time per meter of string.
+Once the scale began reading steady weights, a range of weights was recorded for an RPM(revolution/minute) starting at 77.8, then 70, followed by every 10 RPM after that (60, 50,...,10 RPM) and finally at 1.6 RPM(the smallest possible RPM), which correlated to flow rates starting at 24.6 uL/s down to 0.5 uL/s. Then, residence times on the string were calculated by dividing the total weight on the string by flow rate (in mL/s) for each RPM tested. Finally, the length of the string needed for the water to have a retention time of 15 minutes was calculated using the retention time per meter of string.
 
 ### Theoretical Efficency of String Digester
 ####Objective of Experiment
@@ -191,7 +191,7 @@ Ten 80 inch Dacron strings were used and were double backed so that each strand 
 **Figure 10.** (Left) Bird's eye view of the set-up. (Right) X-Y plane view of set-up
 
 ####Procedure
-The set-up described in the experimental apparatus was used. A basin was placed on a scale at the bottom of the strings. A timer was started when the dye solution was added into the input basin. Results were noted qualitatively and quantitatively. The migration of the dye was assed with time and weight was to be recorded at the 20 min, 1 hour, and 2 hours marks in the lower basin where water was expected to flow to.
+The set-up described in the experimental apparatus was used. A basin was placed on a scale at the bottom of the strings. A timer was started when the dye solution was added into the input basin. Results were noted qualitatively and quantitatively. The migration of the dye was assessed with time and weight was to be recorded at the 20 min, 1 hour, and 2 hours marks in the lower basin where water was expected to flow to.
 
 ### Grouped Strings Capillary Action Experiment
 #### Objective of Experiment
@@ -240,6 +240,35 @@ A basin was placed directly underneath the rope in order to catch the water leav
 
 ## Results and Analysis
 ### Single Chain Experiment
+
+<center>
+Table 3: Collected Data of Single Chain Experiment
+</center>
+
+<center>
+
+|Flow Rates of Peristaltic Pump (mL/s)|Weight of Water on Chain (g)|
+|---|---|
+|<center> 0.025|<center> 1.50|
+|<center> 0.050|<center> 1.80|
+|<center> 0.083|<center> 2.00|
+|<center> 0.166|<center> 3.00|
+|<center> 0.250|<center> 3.50|
+|<center> 0.333|<center> 4.00|
+|<center> 0.416|<center> 4.20|
+|<center> 0.500|<center> 4.40|
+|<center> 0.583|<center> 4.60|
+|<center> 0.666|<center> 5.00|
+|<center> 0.750|<center> 5.10|
+|<center> 0.833|<center> 5.68|
+|<center> 0.916|<center> 5.90|
+|<center> 1.083|<center> 5.80|
+|<center> 1.166|<center> 5.95|
+|<center> 1.250|<center> 6.10|
+|<center> 1.330|<center> 6.30|
+
+</center>
+
 **[By simply measuring the mass and length of the chain at a controlled flow rate --Addressed GS]** By simply measuring the mass and length of the chain at a controlled flow rate, the **[the --Addressed GS]** single chain experiment yielded results of volume of water on the chain, residence time, and height needed for a 15 minute residence time. By dividing the mass on the chain by the density of water, which is 1 g/ml, the volume of water on the chain was obtained. When graphed against flow rate, this calculation yielded a curve best fit by a power series with an R<sup>2</sup> of .991. This is an appropriate result because power series are most often used for data that compares measurements that increase at a specific rate. The flow rate was increased in small increments and the volume of water on the chain would also increase at a specific rate until it reached a certain threshold, which can be seen towards the end of the line graph where the volume of water on the chain starts leveling out as expected.
 
 <center>
@@ -315,6 +344,26 @@ The chain matrix experiment focused more on qualitative results rather than quan
 ### Single Dacron String Experiment
 The single dacron string experiment yielded the volume of water on the string, the residence time of that volume of water on the string, and the height needed for a 15 minute residence time.
 
+<center>
+Table 4: Collected Data of Single Dacron Experiment
+</center>
+
+<center>
+
+|Flow Rates of Peristaltic Pump (µL/sec)|Weight of Water on Chain (g)|
+|---|---|
+|<center> 24.668|<center> 0.312|
+|<center> 22.166|<center> 0.310|
+|<center> 19.000|<center> 0.325|
+|<center> 15.833|<center> 0.301|
+|<center> 12.666|<center> 0.305|
+|<center> 9.5000|<center> 0.289|
+|<center> 6.3333|<center> 0.268|
+|<center> 3.1666|<center> 0.227|
+|<center> 0.5066|<center> 0.129|
+
+</center>
+
 By dividing the mass on the string by the density of water, which is 1 g/ml, the volume of water on the string was obtained. The flow rate was increased in small increments and the volume of water on the string also increased at a specific rate until it reached a certain threshold. This can be seen on the graph in **Figure 18.** as the curve starts to level out as the change in the volume of water on the string decreases as the flow rate increases.
 <center>
 <img src ="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/DFRvsVWC.png?raw=true" width=300>
@@ -329,7 +378,7 @@ Residence time was calculated by dividing the volume of water on the string (ml)
 **Figure 19.** The residence time graphed against the different flow rates (reference manual for code)
 </center>
 
-The last result the experiment supplied was the height of the string that would be needed for a 15 min residence time at each flow rate. The height needed was calculated by dividing the "optimal" residence time of 15 minutes by the residence time(s)and then  by the length of the chain, in this case .78 meters. **[As-- Addressed GS]** As the flow rate was increased and leveled out **[and leveled out-- Addressed GS]** at specific increments, **[,--Addressed GS]** the residence time greatly decreased, however the height needed for a 15 minute residence time is almost exactly linear (see **Figure 20.**). The length of string needed for a 15 minute residence time at the lowest flow rate of about .0005 mL/s would only be about 1.97 m. By running this experiment and calculating the values needed for residence time and height needed we were able to determine that strings may be a viable option to optimize the parameters we want. The next step would be to design a dispensing system that could actually deliver water onto the strings at such low flow rates.
+The last result the experiment supplied was the height of the string that would be needed for a 15 min residence time at each flow rate. The height needed was calculated by dividing the "optimal" residence time of 15 minutes by the residence time(s)and then  by the length of the chain, in this case .78 meters. **[As-- Addressed GS]** As the flow rate was increased and leveled out **[and leveled out-- Addressed GS]** at specific increments, **[,--Addressed GS]** the residence time greatly decreased, however the height needed for a 15 minute residence time is almost exactly linear (see **Figure 20.**). The length of string needed for a 15 minute residence time at the lowest flow rate of about 0.5066 µL/s would only be about 1.97 m. By running this experiment and calculating the values needed for residence time and height needed we were able to determine that strings may be a viable option to optimize the parameters we want. The next step would be to design a dispensing system that could actually deliver water onto the strings at such low flow rates.
 <center>
 <img src ="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/DFRvsHN.png?raw=true" width=300>
 
@@ -421,7 +470,7 @@ This experiment did not go as expected. The red dye only traveled part of the wa
 </center>
 
 ### Capillary Action with Grouped Strings Experiment
-The grouped strings carried out capillary action. The weight of the water released from the strings at various times were recorded and graph as a function of time. From this information, the flow rates at these times were calculated by adjusting the weight to be only the amount gained at each time interval. The weight of water that traveled through the strings over time followed a polynomial trend (Figure 22) with the flow rate decreasing over time (Figure 23). In addition, the residence time on the strings also decreased (Figure 24).
+The grouped strings carried out capillary action. The weight of the water released from the strings at various times were recorded and graph as a function of time. From this information, the flow rates at these times were calculated by adjusting the weight to be only the amount gained at each time interval. The weight of water that traveled through the strings over time generally followed a polynomial trend (Figure 22) with the flow rate decreasing over time (Figure 23). The flow rate at time-point zero was set as zero in **Figure 23** as there was no flow through the strings before water was input into the basin. There was a spike in flow rate at minute 6.25. More data points should be collected in the first few minutes to see if this initial spike and then polynomial decay is consistent. In addition, the residence time on the strings also decreased (Figure 24).
 
 <center>
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/TIMEvsWT.png?raw=true" height = 200>
@@ -477,7 +526,7 @@ Water actually flowed down the string pretty uniformly and slowly. It also appea
 
 The team tested the weight of water on the jack chain at different flow rates using a single chain set-up. From these results, the team was able to determine the amount of water on the chain, the residence time on the chain, and the height needed for a 15 minute residence time. As flow rate increased, the volume of water on the chain and height of chain needed for a 15 minute residence time also increased. The residence time versus flow rate showed a negative correlation. These chains are not a viable option for an AguaClara wastewater treatment plant at this point for reasons explained below **[for reasons explained below -- Addressed ZS]**. At the lowest flow rate tested of 1.5 ml/min onto one single chain, the height needed for a 15 min residence time would be 13.7 m. This is about 4.5 stories. Since the goal of AguaClara is to be gravity powered, it would be quite difficult to get water 13.7 m high. In addition, the difficulty the operators would face should they need to fix something in a string digester this high is not realistic. This chain is also not feasible for an ideal string digester as the water flowing down it did not form a uniform sheath but instead flowed down in distinct droplets. This irregular ebb and flow along with a non-uniform sheath make for a system that does not use the entirety of the surface area of the chain. Since the goal of the string digester is to maximize surface area and therefore digestion efficiency, the inefficient spacial chain digester system is not a feasible option at this time.
 
-The Dacron string seems to have potential as a material for a string digester. In the Single Dacron String Experiment, it was found that for a 15 minute residence time at the lowest flow rate of about .0005 mL/s, the length of the string would need to be 1.97 m. This appears to be much more feasible than the 13.7m jack chain that would be needed for a 15 minute residence time. In addition, the water flowed down the Dacron string more uniformly than the jack chain, making it a promising option. Capillary action with the group of Dacron strings worked well, but there is concern that preferential flow occurred during this experiment. When water droplets were released from the string and into the basin, water was only coming off of a few strings, rather than all of them. This concern will need to be analyzed further in order to determine whether it is a viable option or not. In addition, a matrix of dacron strings theoretically has the capacity to treat water at the same or higher rate than current rock low-rate trickling filters per unit area. However, the closely spaced strings may create difficulties in maintaining the filter should a string break. These low rate filters have a higher BOD removal rate (80-90%) compared to high rate filters (65-85%) (from Table 1). While the wetting rate capacity may not be as high for this string matrix that Farmer described, the string digester aims to be more efficient and therefore remove more BOD.
+The Dacron string seems to have potential as a material for a string digester. In the Single Dacron String Experiment, it was found that for a 15 minute residence time at the lowest flow rate of about 0.0005 mL/s, the length of the string would need to be 1.97 m. This appears to be much more feasible than the 13.7m jack chain that would be needed for a 15 minute residence time. In addition, the water flowed down the Dacron string more uniformly than the jack chain, making it a promising option. Capillary action with the group of Dacron strings worked well, but there is concern that preferential flow occurred during this experiment. When water droplets were released from the string and into the basin, water was only coming off of a few strings, rather than all of them. This concern will need to be analyzed further in order to determine whether it is a viable option or not. In addition, a matrix of dacron strings theoretically has the capacity to treat water at the same or higher rate than current rock low-rate trickling filters per unit area. However, the closely spaced strings may create difficulties in maintaining the filter should a string break. These low rate filters have a higher BOD removal rate (80-90%) compared to high rate filters (65-85%) (from Table 1). While the wetting rate capacity may not be as high for this string matrix that Farmer described, the string digester aims to be more efficient and therefore remove more BOD.
 
 
 Creating a rapid but efficient string digester would be impactful for the future of AguaClara's involvement in wastewater treatment ~~.~~ **[because]** String digesters have the potential to greatly decrease the wastewater processing time and also decrease the organic solutes in the effluent. By maximizing potential surface area for the microbes to grow on using strings and sponges, thereby allowing for more microbial digestion of the water, some traditional trickling filter problems would be solved or minimized. Effluent from the UASB will require further treatment and the team believes that a string digester could provide the necessary treatment with minimal energy requirements.
@@ -485,7 +534,7 @@ Creating a rapid but efficient string digester would be impactful for the future
 
 
 ## Future Work
-Next semester, the team will continue to run tests with  0.3mm Dacron strings. Capillary action tests will be run with synthetic wastewater to test for biofilm growth and preferential pathways. The team will also begin testing Aramid ropes. Micro-tubing with the peristaltic pump will be used to test the same parameters as was tested for the single chains and single strings. The micro-tubing will allow a much smaller flow rate necessary for the thinner string. In addition, the team will purchase several more strings that are synthetic hydrophilic materials. Further, the rate of oxygen diffusion into the string will be calculated to assure that enough can diffuse into the surface of the string to reach the necessary biological oxygen demand (BOD). **[It is necessary to perform BOD? I don't know what this sentence is saying...--Addressed GS]** . The future of this team primary relies on finding an appropriate material that will allow for biofilm growth and not be susceptible to degrading.
+Next semester, the team will continue to run tests with  0.3mm Dacron strings. Capillary action tests will be run with synthetic wastewater to test for biofilm growth and preferential pathways. The team will also begin testing Aramid ropes. Micro-tubing with the peristaltic pump will be used to test the same parameters as was tested for the single chains and single strings. The micro-tubing will allow a much smaller flow rate necessary for the thinner string. In addition, the team will purchase several more strings that are synthetic hydrophilic materials. Further, the rate of oxygen diffusion into the string will be calculated to assure that enough can diffuse into the surface of the string to reach the necessary biological oxygen demand (BOD). The team has collaborated with students from CEE 4530 to work on calculating the rate of oxygen diffusion of the Dacron string, and once that is completed by the students, the team will integrate this data into our future research. **[It is necessary to perform BOD? I don't know what this sentence is saying...--Addressed GS]** . The future of this team primary relies on finding an appropriate material that will allow for biofilm growth and not be susceptible to degrading.
 
 In addition, the team will also have to figure out a way to efficiently create a matrix with the strings and have an even distribution system.
 
