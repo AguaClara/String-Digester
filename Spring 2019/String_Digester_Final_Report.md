@@ -115,7 +115,7 @@ From these measurements, the team was able to quantify how much water the chain 
 The objective of this chain matrix experiment was to identify and compare the water retention of multiple chains in the same basin of water.
 
 #### Experimental Apparatus
-Six evenly spaced holes were drilled into a basin. Six 3-foot chains were subsequently inserted into these holes and were left to hang freely from the other end (see **Figure 4**). The basin was placed on top of a rod that rested across from the four supports in the previous experiment (see **Figure 5.**) **[I believe you mean figure 6 here] --Addressed KL**. Reference the [Chain Matrix Experiment](#Chain-Matrix-Experiment) Manual section for detailed information on the Experimental Apparatus.
+Six evenly spaced holes were drilled into a basin. Six 3-foot chains were subsequently inserted into these holes and were left to hang freely from the other end (see **Figure 4**). The basin was placed on top of a rod that rested across from the four supports in the previous experiment (see **Figure 5.**) **[I believe you mean figure 6 here] --Addressed KL**. Reference the [Chain Matrix Experiment](#Chain-Matrix-Experiment-Manual) Manual section for detailed information on the Experimental Apparatus.
 
 <center>
 
@@ -687,7 +687,7 @@ Step 2. Pour any excess water in bucket down the sink.
 Step 3. Remove chain from the scale hook.
 Step 4. Put items away as desired.
 
-### Chain Matrix Experiment
+### Chain Matrix Experiment Manual
 #### Set-up
 Step 1. Suspend basin in air using rods for support.
 Step 2. Hook a jack chain through each hole on the bottom of the basin.
@@ -716,7 +716,7 @@ Step 2. Pour any excess water in bucket down the sink.
 Step 3. Remove chains from the basin holes.
 Step 4. Put items away as desired.
 
-### Single Dacron String Experiment
+### Single Dacron String Experiment Manual
 #### Set-up
 Step 1. Suspend scale in air using rods for support.
 Step 2. Cut a length of the Dacron string.
@@ -784,7 +784,7 @@ Step 1. Remove basin liquid and let strings air-dry.
 Step 2. Pour basin liquid in bucket and basin down the sink.
 Step 3. Put items away as desired.
 
-### Grouped Strings Capillary Action Experiment
+### Grouped Strings Capillary Action Experiment Manual
 #### Set-up
 Step 1. Suspend capillary action basin in air using rods for support.
 Step 2. Bunch the Dacron strings together to form one large strand.
@@ -812,7 +812,7 @@ Step 1. Remove basin liquid and let strings air-dry.
 Step 2. Pour basin liquid in bucket and basin down the sink.
 Step 3. Put items away as desired.
 
-### Single Aramid Rope Experiment
+### Single Aramid Rope Experiment Manual
 #### Set-up
 Step 1. Suspend scale in air using rods for support.
 Step 2. Cut a length of the Aramid rope.
