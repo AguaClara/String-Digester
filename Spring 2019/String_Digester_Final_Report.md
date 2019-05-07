@@ -92,7 +92,7 @@ Next, two foams and two stainless steel chains were tested on the same basin in 
 The objective of the initial experiment was to determine the peak amount of water that the chain could hold at a single point in time, the residence time for water on the chain at different flow rates, and the height needed for a 15 minute residence time at different flow rates. Dr. Weber-Shirk suggested the team aim for the water to have a 15 minute residence time on the string in order to give the bioflim sufficient time to digest the microbes in the water.
 
 #### Experimental Apparatus
-A scale was secured approximately one meter above a lab bench resting on supports at each corner so that the bottom of the scale was left accessible. A 3-foot single chain was attached to the hook on the bottom of the scale and was allowed to hang down freely (see **Figure 3** below). The hook on the scale measured the weight of the chain. Reference the [Single Chain Experiment Manual](#Single-Chain-Experiment) section for a detailed explanation of the set-up.
+A scale was secured approximately one meter above a lab bench resting on supports at each corner so that the bottom of the scale was left accessible. A 3-foot single chain was attached to the hook on the bottom of the scale and was allowed to hang down freely (see **Figure 3** below). The hook on the scale measured the weight of the chain. Reference the [Single Chain Experiment Manual](#Single-Chain-Experiment-Manual) section for a detailed explanation of the set-up.
 
 <center>
 <img src="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/bvchain.jpg.jpg?raw=true" height=400>
