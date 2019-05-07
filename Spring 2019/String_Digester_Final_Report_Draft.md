@@ -435,12 +435,6 @@ The grouped strings carried out capillary action. The weight of the water releas
 **Figure 23.** Flow Rate of the Grouped Dacron Strings Over Time.
 </center>
 
-<center>
-<img src ="https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/DFRvsRT.png?raw=true" width=300>
-
-**Figure 24.** The residence time graphed against the different flow rates (reference manual for code)
-</center>
-
 #### Code for Grouped Strings Calculations
 ``` python
 import matplotlib.pyplot as plt
