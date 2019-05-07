@@ -172,15 +172,15 @@ Reference the [Single Dacron String Experiment Manual](#Single-Dacron-Experiment
 Once the scale began reading steady weights, a range of weights was recorded for an RPM(revolution/minute) starting at 77.8, then 70, followed by every 10 RPM after that (60, 50,...,10 RPM) and finally at 1.6 RPM(the smallest possible RPM), which correlated to flow rates starting at 24.6 uL/s down to 0.5 uL/s. Then, residence times on the string were calculated by dividing the total weight on the string by flow rate (in mL/s) for each RPM tested. Finally, the length of the string needed for the water to have a retention time of 15 minutes was calculated using the retention time per meter of string.
 
 ### Theoretical Efficency of String Digester
-####Objective of Experiment
+#### Objective of Experiment
 The goal of this portion was to determine theoretically if a string digester would be more cost and space efficient than current trickling filter technologies.
-####Procedure
+#### Procedure
 Results from the Single Dacron String experiment were used. The lowest flow rate was picked and strings were assumed to be either 0.5 cm or 0.2 cm apart in all directions. The total flow rate per m <sup>2</sup> and cost was calculated and compared to current trickling filter technologies.
 
-###Capillary Action Testing
-####Objective of Experiments
+### Capillary Action Testing
+#### Objective of Experiments
 The goal of this experiment was to determine if capillary action is possible using the 0.3 mm Dacron string.
-####Experimental Apparatus
+#### Experimental Apparatus
 Ten 80 inch Dacron strings were used and were double backed so that each strand was 40 inches. The strands were wrapped around a tube in the bottom of the basin and emerged in a water and dye solution. The strings were then draped over a pipe about 5 cm above the surface of the solution and left to hang down over the other side. See **Figure 10.** for the set-up.
 <center>
 <img src = "https://github.com/AguaClara/String-Digester/blob/master/Spring%202019/Images/CapAct2.JPG?raw=true" height = 200>
@@ -190,7 +190,7 @@ Ten 80 inch Dacron strings were used and were double backed so that each strand 
 
 **Figure 10.** (Left) Bird's eye view of the set-up. (Right) X-Y plane view of set-up
 
-####Procedure
+#### Procedure
 The set-up described in the experimental apparatus was used. A basin was placed on a scale at the bottom of the strings. A timer was started when the dye solution was added into the input basin. Results were noted qualitatively and quantitatively. The migration of the dye was assessed with time and weight was to be recorded at the 20 min, 1 hour, and 2 hours marks in the lower basin where water was expected to flow to.
 
 ### Grouped Strings Capillary Action Experiment
@@ -385,7 +385,7 @@ The last result the experiment supplied was the height of the string that would 
 **Figure 20.** The height needed for a 15 minute residence time graphed against the different flow rates (reference manual for code)
 </center>
 
-####Code For Single Dacron String Calculations
+#### Code For Single Dacron String Calculations
 ```python
 import matplotlib.pyplot as plt
 import pandas as pd
