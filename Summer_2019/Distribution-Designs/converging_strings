@@ -1,0 +1,41 @@
+# Design #1: Converging strings
+
+## Experiment 1
+
+**Goal:** Determine the minimum angle between adjacent strings such that the water travels down them rather than falling off or traveling between 2 strings.
+
+**Setup:**
+- Number of strings: 7
+- Height of support: 18 cm
+- Perpendicular distance from support to strings at the farthest anchor point: 12.5 cm
+
+### Trial 1
+
+#### Setup:
+- strings anchored to every other chain link
+- Base of "String triangle": 5.5 cm
+- height of "string triangle": 18.0 cm from center of base to top of triangle
+
+
+#### Observations:
+- some of the water traveled down the strings (mostly the middle string) while some fell off near the base of the support.
+- water often flowed between 2 strings, the surface tension from the water often pulled two strings close together such that they were touching.
+- applying tension did not improve flow much. Droplets clearly fell off before reaching the bottom of the string.
+
+#### Conclusions:
+- need a wider angle between strings
+- also try to increase the tension of the strings
+
+### Trial 2
+
+#### Setup:
+- 2 spaces in chainlink between each strings
+- Base of "String triangle": 8.5 cm
+- height of "string triangle": 24.0 cm from center of base to top of triangle
+
+#### Observations
+- water still flows between strings, but there is less string-string interaction.
+- larger water droplets caused the strings to interact
+
+#### Conclusions
+- consider switching to the persistaltic pump to have a finer control over water input. Perhaps smaller droplets will stick to the string better.
