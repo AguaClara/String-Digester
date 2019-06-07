@@ -30,6 +30,7 @@
 
 #### Setup:
 - 2 spaces in chainlink between each strings
+- Angle between adjacent springs: 5 degrees
 - Base of "String triangle": 8.5 cm
 - height of "string triangle": 24.0 cm from center of base to top of triangle
 
@@ -38,4 +39,18 @@
 - larger water droplets caused the strings to interact
 
 #### Conclusions
-- consider switching to the persistaltic pump to have a finer control over water input. Perhaps smaller droplets will stick to the string better.
+
+### Trial 3
+
+#### Setup:
+- 3 spaces in chainlink between each strings
+- Angle between adjacent springs: 10 degrees
+- used the peristaltic pump at 100 RPM and the microtubing to apply water to strings
+
+
+#### Observations
+- adjacent strings did not get pulled together by the water at this angle, but when water flowed between them, it stills fell off as soon as the distance between the strings got too wide
+- making the strings more vertical improved flow downwards but the water was still falling off.
+
+#### Conclusions
+- converging strings is not a viable option, because at some distance, the strings will always be close enough for water to flow in between them.
