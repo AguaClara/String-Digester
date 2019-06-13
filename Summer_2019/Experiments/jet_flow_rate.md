@@ -1,43 +1,101 @@
-The best jets observed so far have a narrow stream of water at a high speed. Increasing the height of the water doesn't do much for the speed (under the square root in the orifice equation), need to make the orifice area smaller instead.
+# Jet Flow Rate
 
+**Goal:** Determine the flow rate, orifice size, and water height that will produce the best jet spray. Ideally the jet spray would cover a wide surface area evenly with small water droplets. Also determine the best material for deflecting the water to produce a jet stream.
 
+**Observations:** We started out by testing various materials found around the lab by placing them under running water from the sink. These included a PVC pipe cut in half (producing a semi-cylinder), thick pieces of PVC sheets, wide pieces of PVC sheets, and bottles (to test a cylinder shape). However, the material that deflected water the best and produced the best jet stream were thin, flat, and narrow pieces of PVC sheets.
 
-3/32
+The best jet flow observed came from a narrow stream of water traveling at a high speed.
 
+## Experiment 1
 
+June 12, 2019
 
-Materials:
-Clear PVC tube inner diameter 4.5 cm
-Flat sheet of PVC about 8x6.5 cm with a hole drilled in the center about 5.5 mm in diameter\
-PVC pipe is glued onto the PVC sheet such that the hole is centered in the middle
+**Goal:** Determine if the orifice size and water heights theoretically calculated from the orifice equation produce the theoretical flow rate a good jet stream.
 
+**Theoretical Calculation:** A 5 mm diameter orifice, with a water height of 15 cm, and a flow rate of 10 microliters/s per string would produce enough water for 2087 strings.
 
-Procedure:
-Filled the container to a height of 15 cm while the hole was plugged
-Unplugged the hole and started a timer while pouring more water in to maintain a height of approximately 15 cm
+### Fabricate an apparatus
 
-6/12/19
+**Materials:**
+- Clear PVC tube inner diameter 4.5 cm, about 20 cm in length
+- Flat sheet of PVC (8 x 6.5 cm)
+- 7/32" drill bit
+- PVC cement and primer
+- 100 mL graduated cylinder
 
-Hole Size: about 5 mm 7/32" diameter
-Trial 1
-It took about 5 seconds for approximately 80 mL to drain from the container = 16 mL/s = 16000 microL/s =  water for 1,600 strings
+**Fabrication:**
+- Drill a hole in the middle of the PVC sheet about 5.5 mm in diameter using the 7/32" drill bit
+- Glue the PVC tube onto the PVC sheet such that the hole is centered in the middle
+- Draw a line on the PVC tube at a height of 15 cm from the PVC sheet base
+
+### Procedure 1
+- Plug the hole with a finger while filling it with water to a height of 15 cm
+- Place the apparatus over a 100 mL graduated cylinder
+- Unplug the hole and start a timer. Simultaneously pour more water into apparatus so the water height remains constant at 15 cm.
+- When the water level gets close to the top of the graduated cylinder, plug the hole, stop the timer, and stop pouring more water in.
+- Calculate the flow rate by dividing the volume of water in the graduated cylinder by the time of the trial. Compare this value to what was expected.
+
+### Procedure 2
+- Plug the hole with a finger while filling it with water to a height of 15 cm
+- Hold the apparatus over a thin sheet of PVC
+- unplug the hole and observe the quality of jet flow. Simultaneously add more water to maintain a water height of 15 cm
+
+### Results 1
+**Hole Size:** about 5 mm 7/32" diameter
+
+**Trial 1**
+- It took about 5 seconds for approximately 80 mL to drain from the container = 16 mL/s = 16000 microL/s =  water for 1,600 strings
 If the strings are 5 mm apart, arranged in a square, the square would have a side length of 200 mm = 20 cm
+- Note: for this first trial the timing between when we stopped the timer and re-plugged the hole was a little off. Therefore this is not a very reliable measurement
 
-Trial 2
-3 seconds for 90 mL = 30 mL/s
+**Trial 2**
+It took about 3 seconds for 90 mL to drain from the container = 30 mL/s. This is about twice the flow rate for trial 1, meaning that it could supply water for approximately 3200 strings
 
+### Results 2
+- We observed that this set-up did not produce a good jet spray. The water spray was very concentrated and uneven. It did not travel far at all. We hypothesized that this poor flow was due to a low water velocity coming from the pipe.  
 
-Hole Size: 3/32" diameter  about 2.35 mm diameter
+### Conclusions
+In order to draw a conclusion about the flow rate from this system we would need to perform many more trials and average them together. However, we did not pursue this calculation as we also found that this setup did not produce a good jet spray.
 
+**Questions:** How can we produce a faster water velocity from our apparatus?
+
+We attempted to do this by using a smaller hole size and the same flow rate, etc.
+We sealed the original hole with tape and drilled a smaller one next to it and repeated the experiment
+
+Hole Size: 3/32" diameter about 2.35 mm diameter
 Trial 1: 90 mL in 14.6 seconds = 6.16 mL/s
 
+**Results:** This set-up produced an even weaker flow that the original design.
 
-________________________________________-
+## Experiment 2
 
-Find the flowrate of the sink that produces a good flow.
+**Goal:** Experimentally determine the orifice area and the flow rate that produces a strong and even jet spray
 
-3 trials, to fill 3 Liters of water
-Times: 26.53, 26.05, and 25.03 seconds
-Average time = 25.87 seconds
-Average flow rate = 0.115964 L/s = 0.000115964 m^3/s = 115964 microL/s = 11,596.4 strings
+**Methods:**
+- Obtain a thin piece of PVC sheet and hold it under the faucet
+- Adjust the strength of the faucet until a jet spray forms that is wide, flat, and even.
+- Using this same faucet setting, time how long it takes to fill 3 Liters of water. Repeat for a total of 3 trials and average the results
+
+**Results:**
+- Times: 26.53, 26.05, and 25.03 seconds
+- Average time = 25.87 seconds
+- Average flow rate = 0.115964 L/s = 0.000115964 m^3/s = 115964 microL/s = 11,596.4 strings
 If strings are 5mm apart in a square, square length is = 538 mm long = 53.8 cm long
+
+**See pictures comparing the dimension of the string matrix to the area that the jet can spray**
+
+## Experiment 3
+
+**Goal:** Determine if the spray pattern generated by the faucet, can be replicated by water flow due to gravity
+
+What is the height needed to give the same flow as the faucet?
+N = 11596; %strings
+Q = 0.000115964; %m^3/s
+diam_orif = 0.005; %m
+A_orif = pi*(diam_orif/2)^2;
+h = ((Q/(Pi_vc*A_orif))^2)/(2*g)
+**h = 4.63 m**
+
+but with diam_orif = 0.01 m, **h = 0.2894 m**
+
+Drill a new hole next to the 5mm one using the 3/8" drill bit which is ~ 9.43 mm in diameter

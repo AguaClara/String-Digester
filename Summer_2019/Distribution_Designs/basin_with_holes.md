@@ -1,6 +1,6 @@
 # Design #2: Basin_with_Holes
 
-6/10/2019
+June 10, 2019
 
 ## Experimental Apparatus
 
@@ -120,3 +120,5 @@ a lot of water missed the strings
 |11|15.2|
 |12|20.2|
 |13|0.00|
+
+We put this experiment on pause as there were other things we wanted to investigate first
