@@ -19,7 +19,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/20506514
 - "It has been proposed, that biofilm sloughing and detachment is typically coupled with a certain biofilm thickness (Picioreanu et al., 2001). In our case, it took 2 days until the biofilm was completely sloughed.""
 - A shear stress of 10 - 40 mPa created by biofilm growth caused sloughing. However, another study referenced in the article found that a biofilm could withstand up to 13 Pa of shear stress before "complete detachment"
 - In literature the ratio of "wall shear stress/cohesive strength leading to detachment" has been reported in a very wide range (200 - ,1100) meaning that it is very hard to predict an actual value.
- - In this experiment, fluid velocities of 107, 142, and 360 mm/s were used to cause detachment, corresponding to flow rates of 8.7, 11.6, and 29.0 mL/s. 
+ - In this experiment, fluid velocities of 107, 142, and 360 mm/s were used to cause detachment, corresponding to flow rates of 8.7, 11.6, and 29.0 mL/s.
 
-https://www.sciencedirect.com/science/article/pii/S0043135413000286
- -
+https://reader.elsevier.com/reader/sd/pii/S0043135413000286?token=2164B70773822E386CC390BDFBB1AC5A76CAF9BD7FDB45637DE5912C4E98AD6F143625160FF94B8044E32A4D5E39D37A
+ - epilithic (growing on the surface of a rock) biofilm growth was examined at 3 different velocities 0.10, 0.25, and 0.40 m/s
+ -  to be continued......
