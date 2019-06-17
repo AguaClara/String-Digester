@@ -99,3 +99,18 @@ h = ((Q/(Pi_vc*A_orif))^2)/(2*g)
 but with diam_orif = 0.01 m, **h = 0.2894 m**
 
 Drill a new hole next to the 5mm one using the 3/8" drill bit which is ~ 9.43 mm in diameter
+
+**Observations:** this was a lot of water. could probably scale it down a little bit.
+
+**June 17, 2019**
+
+17/64" drill bit approximately 6.72 mm in diameter
+N = 11596/2; % **5798 strings = square with side length 0.381 m**
+Q = 0.000115964/2; %m^3/s
+diam_orif = 0.00672; %m
+A_orif = pi*(diam_orif/2)^2;
+h = ((Q/(Pi_vc*A_orif))^2)/(2*g)
+**h = 0.3547**
+
+this setup produced a spray which was 30 cm wide in the long direction
+with an influent velocity of Q/A_orif = 1.6348 m/s

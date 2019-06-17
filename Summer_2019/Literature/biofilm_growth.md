@@ -1,6 +1,5 @@
 This document contains references to literature pertaining to Biofilm growth on trickling filters
 
-
 # Is there a minimum water velocity at which no biofilms can grow?
 
 https://www.sciencedirect.com/science/article/pii/S004313541400089X?via%3Dihub
@@ -23,4 +22,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/20506514
 
 https://reader.elsevier.com/reader/sd/pii/S0043135413000286?token=2164B70773822E386CC390BDFBB1AC5A76CAF9BD7FDB45637DE5912C4E98AD6F143625160FF94B8044E32A4D5E39D37A
  - epilithic (growing on the surface of a rock) biofilm growth was examined at 3 different velocities 0.10, 0.25, and 0.40 m/s
- -  to be continued......
+ -  a different indicator taxa was observed for each of the 3 velocity ranges
+    - "the indicator taxa were Fragilaria capucinavar.mesoleptain in the low-velocity (u* 0.010-0.012 m s^-1), Navicula atomus, Navicula capitatoradiata, and Nitzschia frustulumin in the intermediate-velocity (u* 0.023-0.030 m s^-1), and Amphora pediculus, Cymbella proxima, Fragilaria capucinavar.vaucheriae, and Surirella angustain in the high-velocity (u* 0.033 0.050 m s^-1) sections." where u* refers to friction velocity which is the shear stress velocity
+ - "A sloughing test was performed on 40-day-old biofilms in order to study the resistance of epilithic biofilms to higher hydrodynamic regimes. Theresults showed an inverse relationship between the proportion of detached biomass and the average value of friction velocity during growth. Therefore, water velocity during epi-lithic biofilm growth conditioned the structure and algal composition of biofilm, as well asits response (ability to resist) to higher shear stresses."
+ - The flow velocity had a significant effect on biofilm growth at first, but after 3 weeks, the biofilm growth started to even out between flow regimes
+ - Different phases of biofilm growth: "after the colonization phase, the general patternobserved was that biofilms developed under lower velocitieswere thicker and had larger surface sinuosity and higher arealdensities than their counterparts exposed to higher velocities.This result has been already observed in other experimentswith microbial biofilms or stream (Battin et al., 2003; Torne ́sand Sabater, 2010)." ie. slow velocity = more compact biofilms
