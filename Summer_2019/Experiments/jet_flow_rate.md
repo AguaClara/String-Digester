@@ -172,8 +172,65 @@ For a diameter of 5.55625 mm (the "5 mm" hole) and a height of 35 cm, the flow r
 
  At a water height of 15.5 cm the flow rate was theoretically calculated to be 3.0079e-05 m^3/s = **0.030079 L/s** which corresponds to **3008 strings**, square of side length **27.4 cm** By looking at the video, the splash only reached about 20 cm
 
-**Note:** Video 1: distance between the orifice and the deflector is about 11 cm. for Video 2, this distance is about 25 cm. The words "last one" were spoken at a water height of 15.5 cm. The picture is screenshotted from video 2 at this height. 
+**Note:** Video 1: distance between the orifice and the deflector is about 11 cm. for Video 2, this distance is about 25 cm. The words "last one" were spoken at a water height of 15.5 cm. The picture is screenshotted from video 2 at this height.
 
-### Trial 6
+## Experiment 3.3
 
-- test the sprinkler deflector plate
+**Goal:** Determine the ideal distance between the orifice and the deflecting plate to produce the best spray.
+
+**Motivation:** We found the minimum flow to produce a good spray to be approximately 0.035 +_ 0.005 L/s. However, we hypothesize that water traveling at a higher velocity produces a better spray. Therefore, we could hypothetically achieve the same quality of spray at a lower flow rate.
+
+**Methods:** 15/64" = 0.00595313 m  diameter
+
+
+Distance = distance between orifice and deflector plate in cm
+
+ - minimum height of water necessary to produce spray at different distances
+
+**Results:**
+
+ Madeline
+|Distance [cm]|Water Height [cm]| Flow Rate [L/s] | Spray Width [cm]|Time in Video [s]|
+|:---:|:---:|:---:|:---:|:---:|
+|10|9|0.02293|7|10|
+|20|6|0.01872|8|18|
+|30|4|0.01529|9|20|
+|40|2|0.01081|9|23|
+|50|1|0.007643|10|24|
+
+
+Emily
+|Distance [cm]|Water Height [cm]|Flow Rate [L/s] |Spray Width [cm]|Time in Video [s]|
+|:---:|:---:|:---:|:---:|:---:|
+|10 |20+|0.03418|14|4.0|
+|20|30- |0.04186| 25  |8.0|
+|30| 4 |0.01529|  9 | 20.0  |
+|40| 2  |0.01081| 14  | 23.0  |
+|50| 2  |0.01081| 19.0 | 23.0  |
+
+''+'' = well over 20
+'-' = a little below 30
+
+```python
+import math as m
+from aguaclara.play import*
+import numpy as np
+from scipy.constants import g as g # standard acceleration due to gravity
+from scipy.constants import pi as pi
+
+g = g * u.m/(u.s**2)
+Pi_vc = 0.62 # Pi vena contracta
+diam_orif = 0.00595313*u.m
+A_orif = (pi*(diam_orif/2)**2)
+h1 = 0.01*u.m
+Q = Pi_vc*A_orif*((2*g*h1)**0.5)
+Flowrate = [Q]
+
+for h in range(2,30):
+  Q = Pi_vc*A_orif*(2*g*h*u.m/100)**0.5
+  Flowrate.append(Q)
+
+for i in range (0,30):
+  print(Flowrate[i])
+
+```
