@@ -1,6 +1,6 @@
 # Design #1: Converging Strings
 
-**Basic Premise:** Spray or pour water over a group of strings that are all touching at a single point or along a single line. Water will ideally distribute itself evenly among all strings and follow each string towards a collection basin. Align the strings at an angle such that they get farther apart from each other as water trickles downwards. Ideally the strings would reach a final separation of 5 mm at the base where they would be anchored in place.
+**Basic Premise:** Spray or pour water over a group of strings that are all touching at a single point or along a single line. Water will ideally distribute itself evenly among all strings and follow each string towards a collection basin. Align the strings at an angle such that they get farther apart from each other as water trickles downwards. Ideally the strings would reach a final separation of 5 mm at the base where they would be anchored in place. This idea is advantageous, because it would create a solid layer of strings or a large target area for the wastewater spray to land on.
 
 ## Experiment 1
 **June 4, 2019**
@@ -14,7 +14,7 @@ Consider whether the angle between two adjacent strings influences the ability o
 
 **Materials:**
 - 7 pieces of **Dacron** string
-- ... 
+- ...
 
 **Dimensions:**
 - Height of support: 18 cm
@@ -45,7 +45,7 @@ Consider whether the angle between two adjacent strings influences the ability o
 - Angle between adjacent springs: 5 degrees
 - Base of "String triangle": 8.5 cm
 - height of "string triangle": 24.0 cm from center of base to top of triangle
--
+
 **Observations:**
 - water still flows between strings, but there is less string-string interaction.
 - larger water droplets caused the strings to interact
@@ -70,3 +70,57 @@ Consider whether the angle between two adjacent strings influences the ability o
 The idea of converging strings remains a challenge. There are two main problems with this design: first, is finding a realistic way to get the water on the strings in a way that distributes it evenly. The second problem is keeping that water on the string as the distance between adjacent strings increases. With all of the strings converging at the water source, it is inevitable that some of the water flows between the strings rather than on individual strings. At some point, however, the water must 'pick a string' when the distance between two adjacent strings becomes too wide. Our experiment shows, however, that instead of 'picking a string' the water simply fell off the strings altogether. This occurred at every angle that was tested.
 
 The issue of keeping water on the string could potentially be resolved by using a material that is more hydrophilic or has an increased ability to hold water. In the future, this experiment could be repeated using an acrylic loopy yarn rather than the Dacron string. Additionally a simpler experimental apparatus could be used for this test, by using only two strings and tying them together at the top.
+
+## Experiment 2
+
+June 20, 2019
+
+**Goal:** repeat Experiment 1 with modifications to get better results
+
+**Methods:**
+The subteam repeated Experiment 1, but with some modifications to the experimental design. First, the Dacron string was replaced with acrylic loopy yarn. Second, only 2 strings were used. The strings were taped 3 cm apart on the lab table. A small container of water was place on top of tape to keep it secure when tension was applied. The other ends of the string were pinched together in the air such that they were 18 cm long. The subteam hypothesized that using a lower flow rate of water would prevent the water from accumulating between the strings, thus reducing the amount of water that would fall off.  An eye dropper was used to apply water to the pinched ends of the strings, one drop at a time. The drops were applied slow enough that little to no water accumulated between the strings.
+
+- 67 seconds 50 drops, so about 1 drop every 1.34 seconds.
+- placed 50 drops in a 10 mL graduated cylinder. Volume read 1.19 mL. So average drop size was 0.0238 mL.
+- Therefore the flow rate down the string was about 1.19 mL/67 s = 0.0178 mL/s = 17.8 microL/s
+- angle between strings was calculated to be 9.56 degrees using the Law of Cosines (see code below)
+
+```python
+import math as m
+from aguaclara.play import*
+import numpy as np
+
+# Uses the Law of Cosines to calculate the angle of a triangle where the length of all three sides are known
+
+a = 18*u.cm # side length
+b = 18*u.cm # side length
+c = 3*u.cm  # base length
+
+C = np.arccos((a**2 + b**2 - c**2 )/(2*a*b))
+print(C)
+```
+
+**Observations:**
+The subteam observed a small pool of water on the table that accumulated at the base of each string, indicating that the water was in fact making it all of the way down the string. No water was absorbed falling off of the strings.
+
+**Conclusions:** These results reinforce the idea that converging strings could be used in a trickling filter design. Specifically, the low flow rate of 17.8 microL/s was promising as the target flow rate for the string digester is 10 microL/s. This experiment could be repeated using a peristaltic pump to get consistent drop size and rate.
+
+## Experiment 3
+
+**Goal:** Determine the minimum angle between loopy strings such that water flows down the strings and not between them.
+
+**Methods:**
+- operate the peristaltic pump at 20 microL/s **insert ProCoDa method file**. According to the Spring 2019 Final Report, an RPM of 1.6 corresponded to 5 microL/s. So to get a average flow rate of 10 microL/s, we would need an RPM of 3.2 was used.
+- The flow rate was tested experimentally by timing how long it took to fill a 10 mL graduated cylinder to the 1 mL mark. It was found that an RPM of 25.0 produced a flow rate much closer to the 10 microL/s.
+
+Trial 1: 94.6 s = 10.57 microL/s
+Trial 2: 100.53 s = 9.947 microL/s
+
+- measure and cut 2 pieces of loopy yarn approximately 80 cm in length. Tie them together, forming a loop at one end.
+- pre-wet the strings by submerging them in a bucket
+- hang the strings from the scale
+- tie the loose end of each string to the wooden rod such that it's length is 70 cm. Trim the excess string.
+- peristaltic pump run for a few minutes at start to saturate tube with water
+- aim the effluent tube of the peristaltic pump such that it drips directly below the knot on the string
+- set the base width by sliding the strings apart the appropriate distance
+- Starting with the strings touching, observe how the water flows. Gradually increase the angle between the strings until they don't interact with each other.
