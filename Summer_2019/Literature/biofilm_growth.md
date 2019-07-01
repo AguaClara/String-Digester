@@ -27,7 +27,3 @@ https://reader.elsevier.com/reader/sd/pii/S0043135413000286?token=2164B70773822E
  - "A sloughing test was performed on 40-day-old biofilms in order to study the resistance of epilithic biofilms to higher hydrodynamic regimes. Theresults showed an inverse relationship between the proportion of detached biomass and the average value of friction velocity during growth. Therefore, water velocity during epi-lithic biofilm growth conditioned the structure and algal composition of biofilm, as well asits response (ability to resist) to higher shear stresses."
  - The flow velocity had a significant effect on biofilm growth at first, but after 3 weeks, the biofilm growth started to even out between flow regimes
  - Different phases of biofilm growth: "after the colonization phase, the general patternobserved was that biofilms developed under lower velocitieswere thicker and had larger surface sinuosity and higher arealdensities than their counterparts exposed to higher velocities.This result has been already observed in other experimentswith microbial biofilms or stream (Battin et al., 2003; Torne ́sand Sabater, 2010)." ie. slow velocity = more compact biofilms
-
-
-Interesting article about acrylic (material of the loopy yarn)
-https://knitcraftandknittery.com/blogs/the-inquisitive-knitter/environmental-impacts-of-different-fiber-types
