@@ -13,7 +13,7 @@
 - observe the path that the water travels as this angle is increased
 
 ## Observations:
-The angle of the loopy string was varied from 0 degrees to 90 degrees. The water never fell off of the string and followed it all of the way down to the end of the string at all angles in this range.
+The angle of the loopy string was varied from 0 degrees to slightly less than 90 degrees. The water never fell off of the string and followed it all of the way down to the end of the string at all angles in this range.
 
 ## Conclusions:
-The angle to the string will not prevent water from flowing down it. However, having strings at different angles from the vertical may lead to strong preferential flow, and should be considered further in the designs of the trickling filter. 
+The angle to the string will not prevent water from flowing down it. However, having strings at different angles from the vertical may lead to strong preferential flow, and should be considered further in the designs of the trickling filter.

@@ -124,3 +124,9 @@ Trial 2: 100.53 s = 9.947 microL/s
 - aim the effluent tube of the peristaltic pump such that it drips directly below the knot on the string
 - set the base width by sliding the strings apart the appropriate distance
 - Starting with the strings touching, observe how the water flows. Gradually increase the angle between the strings until they don't interact with each other.
+
+
+
+
+
+18 loopy yarn strings can fit in 1 cm
