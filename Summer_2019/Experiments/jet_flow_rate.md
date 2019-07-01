@@ -234,3 +234,8 @@ for i in range (0,30):
   print(Flowrate[i])
 
 ```
+July 1 2019
+
+Retesting flow rates to try to get a flatter sprays
+using 5 mmm diameter orifice
+water height roughly between 20 cm and 10 cm produced a flat spray, but down to 2 cm produced a spray.
