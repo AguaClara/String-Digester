@@ -25,7 +25,7 @@
 
 ## Introduction
 
-The String Digester sub-team was created in response to the need for additional wastewater treatment after treatment from the Upflow Anaerobic Sludge Blanket (UASB) reactor. A trickling filter is a secondary wastewater treatment system that removes organic matter from the wastewater through biological means, and is crucial for the removal of harmful pathogens. The goal of the String Digester subteam was to design a new trickling filter using strings as media that addresses the expensive nature and inefficiency of conventional designs. Current trickling filters utilize a large mechanical distributor arm to spray water onto filter media, which req costly distributor arms which clog easily and distribute water unevenly. are inefficient due to uneven distribution of water and preferential flow. Additionally, the clogging of distributor arms causes problems in daily operation.
+The String Digester sub-team was created in response to the need for additional wastewater treatment after treatment from the Upflow Anaerobic Sludge Blanket (UASB) reactor. A trickling filter is a secondary wastewater treatment system that removes organic matter from the wastewater through biological means, and is crucial for the removal of harmful pathogens. The goal of the String Digester subteam was to design a new trickling filter using strings as media that addresses the expensive nature and inefficiency of conventional designs. Current trickling filters utilize a large mechanical distributor arm to spray water onto filter media, which require costly distributor arms which clog easily and distribute water unevenly. are inefficient due to uneven distribution of water and preferential flow. Additionally, the clogging of distributor arms causes problems in daily operation.
 
  The subteam aimed to increase space efficiency by using a matrix of densely packed strings as the filter media. Additionally, the subteam began designing a
 
@@ -132,7 +132,7 @@ The Spring 2019 subteam focused its research on identifying a viable material fo
 
 ## Methods
 
-The Summer 2019 subteam researched design parameters for the trickling filter and began building a prototype for initial testing. Specifically, the subteam addressed the maximum angle needed to keep water on the loopy yarn, the minimum flow rate to produce a 'good' spray, and  the maximum string density possible. These design questions, among others, will be elaborated on in the following paragraphs.
+The Summer 2019 subteam researched design parameters for the trickling filter and began building a prototype for initial testing. Two designs were considered as outlined in the [Introduction](#Introduction) section: a converging strings design, and a basin with holes design. Specifically, the subteam addressed the maximum angle needed to keep water on the loopy yarn, the minimum flow rate to produce a 'good' spray, and  the maximum string density possible. These design questions, among others, will be elaborated on in the following paragraphs.
 
 ### Design Parameters
 
@@ -142,58 +142,12 @@ The converging strings design requires water to drip down strings displaced at a
 
 To investigate this property, approximately 2 feet of loopy yarn were hung in the air in a vertical position. The peristaltic pump was used with microtubing at 75.0 RPM to supply water to the top of the string. The flow of water was observed as the string was gradually pulled outwards at an angle from its original position. The angle was varied from 0 degrees to slightly less than 90 degrees (about 85 degrees).
 
+
 #### Maximum flow rate on each string
 
-In order to ensure proper microbe digestion by the biofilms, Dr. Weber-Shirk advised a residence time of 15 minutes on each string for the water. The residence time could be controlled by either altering the length of each string or the flowrate of water. Using a longer string to lengthen the residence time is problematic, because a taller filter requires more energy to transport the water to the top for cleaning. Therefore the residence time must be controlled primarily by flow rate. 
+In order to ensure proper microbe digestion by the biofilms, Dr. Weber-Shirk advised a residence time of 15 minutes on each string for the water. The residence time could be controlled by either altering the length of each string or the flowrate of water. Using increasingly longer strings to lengthen the residence time is problematic, because a taller filter requires more energy to transport the water to the top for cleaning. Therefore the residence time must be controlled primarily by flow rate.
 
-Previous research **edit** found that a flowrate of 10 microliters/second **edit** was needed to achieve a residence time of 15 minutes on a **? m long** loopy yarn. This string height was deemed reasonable because...**edit**. Therefore, 10 microliters/second **edit units** was the maximum flowrate per string.
-
-
-give the bioflim sufficient time to digest the microbes in the water.
-#### Testing Deflector Plate Geometries
-
-Several materials and geometries were tested for use as a deflecting plate. These included PVC pipes cut in half (producing semi-cylinders), PVC sheets of different thicknesses and widths, in addition to a bottle to test a cylindrical shape. For specific dimensions of these materials, please reference the manual section. **insert link**. These materials were tested by placing them under running water from the sink and observing the quality of the spray. They were visually evaluated on spray uniformity and width.
-
-
-#### Minimum Flow Rate Needed to Produce a 'Good' Spray
-
-The subteam defined a good spray pattern as being composed of small droplets uniformly spaced over a large area.  
-
-The subteam first used the laboratory sink to identify a baseline flow rate that would produce a 'good' spray. A flat sheet of plastic approximately 1.5 **edit** inches in width was held under the faucet as a deflector plate such that the water stream struck the middle of the plate. The strength of the faucet was adjusted until a wide, flat, and even spray was formed. The strength of the faucet was decreased gradually until the water spray could no longer be defined as 'good'. At this point, the deflector plate was removed and the flow rate of the sink was measured by timing how long it took to fill up a 3 liter container. The volume was divided by the time to obtain the flow rate in L/s. This measurement was repeated for a total of 3 times, and the trials were averaged. **too many details? move to manual?**
-
-With this baseline flowrate in mind, an apparatus was built to replicate the spray pattern using water flow due to gravity through an orifice. The end of a clear PVC tube was covered with a hard plastic sheet **edit** and glued to form a watertight seal. Three different diameter holes were drilled into the PVC sheet: 7/32" (5.55625 mm), 17/64" (6.75 mm), and 3/8" (9.525 mm). Any hole that was not being used for a particular trial was temporarily sealed with waterproof tape. The PVC tube was measured and marked every centimeter along its length.
-
-The
-
-Goal: Determine if the spray pattern generated by the faucet, can be replicated by water flow due to gravity
-
-Trial 1
-
-What is the height needed to give the same flow as the faucet?
-N = 11596; %strings
-Q = 0.000115964; %m^3/s
-diam_orif = 0.005; %m
-A_orif = pi*(diam_orif/2)^2;
-h = ((Q/(Pi_vcA_orif))^2)/(2g)
-h = 4.63 m
-
-but with diam_orif = 0.01 m, h = 0.2894 m
-
-Methods: Drill a new hole next to the 5mm one using the 3/8" drill bit which is ~ 9.43 mm in diameter
-
-Observations: the spray produced was similar to that produced by the faucet in Experiment 2, however water droplets were slightly less even in size and distribution. Additionally the water spray reached a small area. Even so the flow rate could be scaled down a little bit.
-
-Edit: the drill bit below was not actually 1 cm, really 9.525 mm if you convert 3/8 inches to mm, gives you a height of 35.15 cm Perhaps this is why the flow didn't look quite as nice as we thought that it would. Conclusion, we need to be more careful about using the exact size of the orifice in our calculations.
-
-The subteam recognized that the velocity of the water also contributed to the spray quality in addition to the flow rate. The velocity of the water could be increased by extending the duration that it falls from the orifice before hitting the deflecting plate. As the water velocity was more difficult to measure directly, an experiment was conducted to determine the ideal distance between the orifice and deflecting plate.
-
-The spray pattern produced by the water column was video recorded as it was repeatedly filled and emptied, with different orifice-deflecting plate distances. Distances of 10, 20, 30, 40, and 50 cm were used with a constant orifice diameter of 5.95 mm. The water height was read off of the PVC tube while it was emptied so that the spray pattern in the video could be associated with a particular flow rate via Equation 1. A tape measure was laid down in the plane of water spray so that the size of the spray could be compared between trials. The videos were analyzed by identifying the water height at which the spray pattern could no longer be defined as 'good'. Python code incorporating Equation 1 was written to calculate the flow rate associated with these water heights.
-
-
-Experiment 3.3
-
-
-Motivation: We found the minimum flow to produce a good spray to be approximately 0.035 +_ 0.005 L/s. However, we hypothesize that water traveling at a higher velocity produces a better spray. Therefore, we could hypothetically achieve the same quality of spray at a lower flow rate.
+Previous research conducted by members of CEE 4530 used flow rates ranging from 1.75 to 17.2 microliters/second to test the aeration of water on the loopy yarn.   **edit** was needed to achieve a residence time of 15 minutes on a **? m long** loopy yarn. This string height was deemed reasonable because...**edit**. Therefore, 10 microliters/second **edit units** was the maximum flowrate per string.
 
 #### Number of Strings Needed to Support a Small Population
 
@@ -201,26 +155,58 @@ To investigate the feasibility of using strings as a filter media, the subteam c
 
 According to **edit**, the average human wastes water at a rate of 3 mL/s, or 3000 microliters/second. If the flowrate down each string is 10 microliters per second, each person would need 300 strings to keep up with their own wastewater production. Therefore a population of 10,000 people would need a trickling filter composed of 3 million strings.
 
-#### Minimum Spacing Between Strings
-
-Several factors were considered when choosing the initial spacing between strings. Due to the vast number of strings required to support a small town, the subteam needed to pack the strings as densely as possible to improve space efficiency. However, if the strings were too close, water droplets could potentially switch from one string to another mid-flow, leading to preferential pathways. Several sources **edit** suggest that an average raindrop is usually between 0.5 and 3 mm in diameter. A raindrop was used in comparison to a drop of water sprayed on a string. Therefore a string spacing of 5 mm was chosen to avoid unwanted string-string interaction. **vague?**
-
 ### Number of Strings that Fit on 1 cm of a Rod
 
  It was found that at most 19 **edit (measure diameter of string) This goes in results!** passes of loopy yarn could fit on a length of rod 1 cm long. This number was acquired experimentally by tightly wrapping the loopy yarn around a thin rod until it covered 1 cm of its length. This number determined the maximum string packing density.
 
-### Experimental Apparatus
-#### Building a String Matrix
+#### Minimum Spacing Between Strings
 
-In order to create a more efficient trickling filter, the subteam needed to design a matrix of strings that minimizes preferential flow while packing the strings as densely as possible.
+Several factors were considered when choosing the initial spacing between strings. Due to the vast number of strings required to support a small town, the subteam needed to pack the strings as densely as possible to improve space efficiency. However, if the strings were too close, water droplets could potentially switch from one string to another mid-flow, leading to preferential pathways. Several sources **edit** suggest that an average raindrop is usually between 0.5 and 3 mm in diameter. A raindrop was used in comparison to a drop of water sprayed on a string. Therefore a string spacing of 5 mm was chosen to avoid unwanted string-string interaction. **vague?**
+
+#### Testing Deflector Plate Geometries
+
+Several materials and geometries were tested for use as a deflecting plate. These included PVC pipes cut in half (producing semi-cylinders), PVC sheets of different thicknesses and widths, in addition to a bottle to test a cylindrical shape. For specific dimensions of these materials, please reference the [manual](#Deflector-Plate-Experiments) section. These materials were tested by placing them under running water from the sink and observing the quality of the spray. They were visually evaluated on spray uniformity and width.
+
+#### Minimum Flow Rate Needed to Produce a 'Good' Spray
+
+The subteam defined a good spray pattern as being composed of small droplets uniformly spaced over a large area.  
+
+The subteam first used the laboratory sink to identify a baseline flow rate that would produce a 'good' spray. A flat sheet of plastic approximately 1 inch inches in width was held under the faucet as a deflector plate such that the water stream struck the middle of the plate. The same deflector plate was used for all experiments to follow. The strength of the faucet was adjusted until a wide, flat, and even spray was formed. The strength of the faucet was decreased gradually until the water spray could no longer be defined as 'good'. At this point, the deflector plate was removed and the flow rate of the sink was measured by timing how long it took to fill up a 3 liter container. The volume was divided by the time to obtain the flow rate in L/s. This measurement was repeated for a total of 3 times, and the trials were averaged.
+
+With this baseline flowrate in mind, an apparatus was built to replicate the spray pattern using water flow due to gravity through an orifice. The end of a clear PVC tube was covered with a hard plastic sheet and glued to form a watertight seal. Four different diameter holes were drilled into the PVC sheet: 7/32" (5.56 mm), 15/64" (5.95 mm), 17/64" (6.75 mm), and 3/8" (9.53 mm). Any hole that was not being used for a particular trial was temporarily sealed with waterproof tape. The PVC tube, or 'water column' as it will now be referenced as, was measured and marked every centimeter along its length.
+
+Using the 9.53 mm orifice, Equation 1 was used to calculate the height of water needed in the column to obtain the same flow rate that was used in the sink: 0.1160 L/s. The water column was filled beyond this height and centered over the deflector plate. The spray pattern was observed when the water level reached the calculated height of 28.9 cm.
+
+##### Decreasing Flow Rate
+The subteam wanted to know if a reasonable spray pattern could be produced with an even lower flow rate from the orifice. Decreasing the flowrate was desirable due to the limitation on the number of strings that could be packed into a finite space. With the current flow rate of 0.1160 L/s, a total of 11,600 strings would need to be used to achieve a maximum flow rate of 10 microliters/second per string. With 5 mm spacing between strings, this would cover a square area with 38.1 cm side lengths.
+
+The remaining orifice sizes were tested with different flow rates and water heights. The combinations of orifice size, flow rate, and water column height tested are shown in Table **edit** below. Due to unnecessary rounding of orifice diameters when using Equation 1, errors existed when calculating the water height needed to achieve a particular flow rate. The last column of the table shows the corrected heights calculated after experimentation using more precise orifice measurements.**consider removing this part**
+
+|Orifice Diameter [mm]|Flow Rate [L/s]|Water Height [cm]| Height Correction [cm]|
+|:---:|:---:|:---:|:---:|
+| 6.72  | 0.05798  | 35.5  | 34.9 |
+| 6.72 | 0.03866  | 15.8 | correct  |
+| 5.56   | 0.039374 |  35.0 |  correct |
+| 5.95  | 0.030079  | 15.5  |  correct |
+
+##### Varying water velocity
+
+The minimum flow rate to produce a good spray was found to be approximately 0.035 +_ **edit** 0.005 L/s. However, these calculations neglected to consider the effect of velocity on spray pattern. The subteam hypothesized that the same quality of spray could be achieved at a lower flow rate by increasing the velocity of water hitting the deflector plate. The velocity of the water was increased by extending the time and distance that it fell from the orifice before hitting the deflecting plate. As the water velocity was more difficult to measure directly, an experiment was conducted to determine the ideal distance between the orifice and deflecting plate.
+
+The spray pattern produced by the water column was video recorded as it was repeatedly filled and emptied, with different orifice-deflecting plate distances. Distances of 10, 20, 30, 40, and 50 cm were used with a constant orifice diameter of 5.95 mm. The water height was read off of the PVC tube while it was emptied so that the spray pattern in the video could be associated with a particular flow rate via Equation 1. A tape measure was laid down in the plane of water spray so that the size of the spray could be compared between trials. The videos were analyzed by identifying the water height at which the spray pattern could no longer be defined as 'good'. Python code incorporating Equation 1 was written to calculate the flow rate associated with these water heights.
+
+
+### Experimental Apparatus
+
+#### Converging Strings Design
+
+In order to create a more efficient trickling filter, the subteam needed to design a matrix of strings that minimized preferential flow while packing the strings as densely as possible.
 
 The subteam proposed a design in which the strings would be wrapped around a 'loom' of rods, using beads as a separator between strings on each rod. Each loop of string would be wrapped as compactly as possible around a large central rod where water would be sprayed.
 
-Two rows of holes were drilled in a piece of plywood approximately 10 cm apart. Each row contained contained 16 holes with 5 mm spacing. Thin rods were inserted into each hole and threaded with 8 beads that were 5 mm in diameter. The top bead was glued in place. Two additional holes were drilled about 10 cm above the top row and another one about 10 cm below the bottom row as seen in image **edit** below. A **edit** rod was inserted into each hole and secured with a nut and washer on either side of the plywood. These rods were covered with 1/4" NPT **edit** hard plastic tubing to provide a smooth surface for the strings to rest on. The end of the loopy yarn was taped to the backside of the plywood and the rest of the string was wrapped around the system of rods according to diagram **edit** to form a matrix.
+Two rows of holes were drilled in a piece of plywood approximately 10 cm apart. Each row contained 16 holes with 5 mm spacing. Thin rods were inserted into each hole and threaded with 8 beads that were 5 mm in diameter. The top bead was glued in place. Two additional holes were drilled about 10 cm above the top row and another one about 10 cm below the bottom row as seen in image **edit** below. A **edit** rod was inserted into each hole and secured with a nut and washer on either side of the plywood. These rods were covered with 1/4" NPT **edit** hard plastic tubing to provide a smooth surface for the strings to rest on. The end of the loopy yarn was taped to the backside of the plywood and the rest of the string was wrapped around the system of rods according to diagram **edit** to form a matrix.
 
-
-
-
+#### Basin with Holes Design
 
 
 

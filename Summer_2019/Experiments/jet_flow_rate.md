@@ -67,7 +67,7 @@ Trial 1: 90 mL in 14.6 seconds = 6.16 mL/s
 
 **Results:** This set-up produced an even weaker flow that the original design.
 
-**Edit:** (7/2/19) This was not a valid attempt at increasing the velocity. The velocity cannot be increased just by decreasing the orifice size, because the flow rate is also dependent to the orifice size. Using only gravity, it is not possible to maintain the flow rate in this way without an additional source of pressure. Instead the velocity of water could be increased by increasing the distance between the orifice and the deflector plate. 
+**Edit:** (7/2/19) This was not a valid attempt at increasing the velocity. The velocity cannot be increased just by decreasing the orifice size, because the flow rate is also dependent to the orifice size. Using only gravity, it is not possible to maintain the flow rate in this way without an additional source of pressure. Instead the velocity of water could be increased by increasing the distance between the orifice and the deflector plate.
 
 ## Experiment 2
 
@@ -167,7 +167,6 @@ velocity = Q/A_orif %m/s
 For a diameter of 5.55625 mm (the "5 mm" hole) and a height of 35 cm, the flow rate would be **0.039374 L/s.** This would require 3937 strings, arranged in a square of side length of 31.3 cm. The length covered by the spray was about 30-31 cm.
 
 ### Trial 5
-- find a drill bit in between the 1 cm and the 6.75 mm and experiment with a different hole size
 - also varied the distance between the orifice and the deflector plate (11 cm vs. 25 cm). You can get really tiny but sprits of water if you hold it higher up using low flow rates. At 11 cm and at a water height <= 15.5 cm there appear to be two different splashing regimes: really tiny droplets that shoot up and out, and larger droplets towards the bottom that don't travel as far
 
  15/64" = 0.00595313 m  diameter
