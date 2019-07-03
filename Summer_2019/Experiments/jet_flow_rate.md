@@ -67,6 +67,8 @@ Trial 1: 90 mL in 14.6 seconds = 6.16 mL/s
 
 **Results:** This set-up produced an even weaker flow that the original design.
 
+**Edit:** (7/2/19) This was not a valid attempt at increasing the velocity. The velocity cannot be increased just by decreasing the orifice size, because the flow rate is also dependent to the orifice size. Using only gravity, it is not possible to maintain the flow rate in this way without an additional source of pressure. Instead the velocity of water could be increased by increasing the distance between the orifice and the deflector plate. 
+
 ## Experiment 2
 
 **Goal:** Experimentally determine the orifice area and the flow rate that produces a strong and even jet spray

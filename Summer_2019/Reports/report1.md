@@ -1,6 +1,6 @@
 # String Digester, Summer 2019 Subteam
 #### Emily Wood, Madeline Garell
-#### 28 June 2019
+#### 3 July 2019
 
 ## Abstract
 
@@ -140,6 +140,8 @@ Design Parameters:
 
 The subteam needed to determine several design parameters: the maximum angle needed to keep water on the string, the minimum flow rate to produce a 'good' spray, and the smallest distance that strings can be packed. The following paragraphs will elaborate on these experimental design questions.    
 
+The subteam first focused its time on defining design parameters for the trickling filter.
+
 ### Design Parameters
 
 ####  Maximum Angle to Keep Water on a String
@@ -154,16 +156,20 @@ In order to ensure proper cleaning of the water, Monroe Weber-Shirk advised **ed
 
 Previous research **edit** found that a flowrate of 10 microliters/second **edit** was needed to achieve a residence time of 15 minutes on a **? m long** loopy yarn. This string height was deemed reasonable because...**edit**. Therefore, 10 microliters/second **edit units** was the maximum flowrate per string.
 
+#### Testing Deflector Plate Geometries
+
+The deflector plate geometry
+
+
 
 #### Minimum Flow Rate Needed to Produce a 'Good' Spray
 
-The subteam defined a good spray pattern
+The subteam defined a good spray pattern as being composed of small droplets uniformly spaced over a large area.  
 
-Ideally the jet spray would cover a wide surface area evenly with small water droplets.
+The subteam first used the laboratory sink to identify a baseline flow rate that would produce a 'good' spray. A flat sheet of plastic approximately 1.5 **edit** inches in width was held under the faucet as a deflector plate such that the water stream struck the middle of the plate. The strength of the faucet was adjusted until a wide, flat, and even spray was formed. The strength of the faucet was decreased gradually until the water spray could no longer be defined as 'good'. At this point, the deflector plate was removed and the flow rate of the sink was measured by timing how long it took to fill up a 3 liter container. The volume was divided by the time to obtain the flow rate in L/s. This measurement was repeated for a total of 3 times, and the trials were averaged. **too many details? move to manual?**
 
+Next the subteam tested whether this spray pattern and flow rate could be replicated by water flow due to gravity through an orifice. A device was fabricated that was used to change the orifice size and water height between trials. The end of a clear PVC tube was covered with a hard plastic sheet **edit** and glued to form a watertight seal. Three different diameter holes were drilled into the PVC sheet: 7/32" (5.55625 mm), 17/64" (6.75 mm), and 3/8" (9.525 mm). Any hole that was not being used for a particular trial was temporarily sealed with waterproof tape. The PVC tube was measured and marked every centimeter along its length.
 
-
-The minimimum flow rate that can achieve a 'good' spray was an important design parameter, because it controlled how many strings a single jet must supply water to.
 
 #### Number of Strings Needed to Support a Small Population
 
@@ -176,24 +182,22 @@ According to **edit**, the average human wastes water at a rate of 3 mL/s, or 30
 Several factors were considered when choosing the initial spacing between strings. Due to the vast number of strings required to support a small town, the subteam needed to pack the strings as densely as possible to improve space efficiency. However, if the strings were too close, water droplets could potentially switch from one string to another mid-flow, leading to preferential pathways. Several sources **edit** suggest that an average raindrop is usually between 0.5 and 3 mm in diameter. A raindrop was used in comparison to a drop of water sprayed on a string. Therefore a string spacing of 5 mm was chosen to avoid unwanted string-string interaction. **vague?**
 
 
-#### Testing Deflector Plate Geometries
-
-The deflector plate geometry
 
 
+### Number of Strings that Fit on 1 cm of a Rod
 
-
-
+ It was found that at most 19 **edit (measure diameter of string) This goes in results!** passes of loopy yarn could fit on a length of rod 1 cm long. This number was acquired experimentally by tightly wrapping the loopy yarn around a thin rod until it covered 1 cm of its length. This number determined the maximum string packing density.
 
 ### Building a String Matrix
 
 In order to create a more efficient trickling filter, the subteam needed to design a matrix of strings that minimizes preferential flow while packing the strings as densely as possible.
 
-The subteam proposed a design in which the strings would be wrapped around a 'loom' of rods, using beads as a separator between strings on each rod. Each loop of string would be wrapped as tightly as possible around a large central rod where water would be sprayed.
+The subteam proposed a design in which the strings would be wrapped around a 'loom' of rods, using beads as a separator between strings on each rod. Each loop of string would be wrapped as compactly as possible around a large central rod where water would be sprayed.
+
+Two rows of holes were drilled in a piece of plywood approximately 10 cm apart. Each row contained contained 16 holes with 5 mm spacing. Thin rods were inserted into each hole and threaded with 8 beads that were 5 mm in diameter. The top bead was glued in place. Two additional holes were drilled about 10 cm above the top row and another one about 10 cm below the bottom row as seen in image **edit** below. A **edit** rod was inserted into each hole and secured with a nut and washer on either side of the plywood. These rods were covered with 1/4" NPT **edit** hard plastic tubing to provide a smooth surface for the strings to rest on. The end of the loopy yarn was taped to the backside of the plywood and the rest of the string was wrapped around the system of rods according to diagram **edit** to form a matrix.
 
 
 
- It was found that at most 19 **edit (measure diameter of string)** loopy yarn strings could fit on a length of rod 1 cm long. This number was acquired experimentally by tightly wrapping the loopy yarn around a rod. This number was an important design parameter, because it determines the maximum density that strings can be packed.
 
 
 
