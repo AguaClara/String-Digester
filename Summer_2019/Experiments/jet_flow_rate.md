@@ -154,8 +154,9 @@ velocity = Q/A_orif %m/s
 **Conclusion:** This flow rate is too low to use. Even if the spray pattern was even it would not reach the ends of a 31 cm square
 **Note:** picture is screenshotted at 15.77 cm
 
-### Trail 3
-- use a flow rate in between that of trial 1 and 2 by changing the water height **filled the apparatus well beyond the 35 cm mark and watched the spray as it drained. There was no water height below the 35 cm mark that really produce a good spray**
+### Trial 3
+- use a flow rate in between that of trial 1 and 2 by changing the water height
+**filled the apparatus well beyond the 35 cm mark and watched the spray as it drained. There was no water height below the 35 cm mark that really produce a good spray**
 **What we can try to get a better spray?**
 
 ### Trial 4
@@ -190,7 +191,7 @@ Distance = distance between orifice and deflector plate in cm
 
 **Results:**
 
- Madeline
+ Person 1: Just barely forming a spray
 |Distance [cm]|Water Height [cm]| Flow Rate [L/s] | Spray Width [cm]|Time in Video [s]|
 |:---:|:---:|:---:|:---:|:---:|
 |10|9|0.02293|7|10|
@@ -200,7 +201,7 @@ Distance = distance between orifice and deflector plate in cm
 |50|1|0.007643|10|24|
 
 
-Emily
+Person 2: lowest flowrate that produces 'good' spray
 |Distance [cm]|Water Height [cm]|Flow Rate [L/s] |Spray Width [cm]|Time in Video [s]|
 |:---:|:---:|:---:|:---:|:---:|
 |10 |20+|0.03418|14|4.0|
