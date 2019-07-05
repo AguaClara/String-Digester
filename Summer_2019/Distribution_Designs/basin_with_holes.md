@@ -8,7 +8,7 @@ Materials:
 - 13 1.5 mL Cuvettes
 - 13 hexnuts
 - 2 feet string
-- Mill Ends Acyclic Blend 'loopy' string barcode 5183306056
+- Mill Ends Acrylic Blend 'loopy' string barcode 5183306056
 - PVC cement glue and primer
 - PVC sheet for base
 
@@ -51,7 +51,7 @@ Goal: Determine the overall flow rate of the system at different water heights
 
 **fix micro symbol**
 
-| Trial Number | Volume Water (mL) | Time (s) | Total Flowrate (mL/s) | AverageFlowrate per String (uL/s) |
+| Trial Number | Volume Water (mL) | Time (s) | Total Flowrate (mL/s) | AverageFlowrate per String (μL/s) |
 |:------------:|:-----:|:-----------:|:--------:|:-----------------:|
 | 1 | 50.0 | 184.89 | 0.270 | 20.8 |
 | 2 | 25.0 | 139.59 | 0.179 | 13.8 |
@@ -61,7 +61,7 @@ Goal: Determine the overall flow rate of the system at different water heights
 | 6 | 10.0 | 109.48 | 0.091 | 7.03 |
 | 7 |  5.0 | 110.12 | 0.045 | 3.49 |
 
-**Note:** Trial 3 may not be valid as this was done before we decided exactly when we were going to stop the timer
+**Note:** Trial 3 may not be valid as this was done before we decided exactly when we were going to stop the timer. It will be excluded from the report for this reason.
 
 Flowrate per string was calculated by multiplying the total flowrate by 1000 and dividing by the total number of strings which was 13
 
@@ -70,7 +70,7 @@ Basin Size:
 
 Therefore for 20.0 mL the water height is 20.0 cm^3/34.934 cm^2 = 0.573 cm and for 15.0 mL the water height is 15.0 cm^3/34.934 cm^2 = 0.429 cm
 
-If you had 300 strings, you would need approximpately 11.5 cm of water
+If you had 300 strings, you would need approximately 11.5 cm of water
 
 ### Experimental Errors
 - strings are at slightly different angles
@@ -81,13 +81,12 @@ If you had 300 strings, you would need approximpately 11.5 cm of water
 **Goal:** Identify preferential pathways for water and what may be causing them.
 
 Number the cuvettes 1-13
-20.0 mL water used for the entirety of experiment 2
 
 Trial 1:
 15 mL water added
 
 | Cuvette Number | height (mm) |
-|:------------:|:-----:|:-----------:|:--------:|:-----------------:|
+|:------------:|:-----:|
 |1|19.2|
 |2|36.2|
 |3|37.2|
@@ -106,7 +105,7 @@ Trial 2
 15 mL water added
 a lot of water missed the strings
 | Cuvette Number | height (mm) |
-|:------------:|:-----:|:-----------:|:--------:|:-----------------:|
+|:------------:|:-----:|
 |1|6.2|
 |2|27.7|
 |3|23.2|
