@@ -110,7 +110,7 @@ The subteam observed a small pool of water on the table that accumulated at the 
 **Goal:** Determine the minimum angle between loopy strings such that water flows down the strings and not between them.
 
 **Methods:**
-- operate the peristaltic pump at 20 microL/s **insert ProCoDa method file**. According to the Spring 2019 Final Report, an RPM of 1.6 corresponded to 5 microL/s. So to get a average flow rate of 10 microL/s, we would need an RPM of 3.2 was used.
+- operate the peristaltic pump at 20 microL/s. According to the Spring 2019 Final Report, an RPM of 1.6 corresponded to 5 microL/s. So to get a average flow rate of 10 microL/s, we would need an RPM of 3.2 was used.
 - The flow rate was tested experimentally by timing how long it took to fill a 10 mL graduated cylinder to the 1 mL mark. It was found that an RPM of 25.0 produced a flow rate much closer to the 10 microL/s.
 
 Trial 1: 94.6 s = 10.57 microL/s
@@ -125,8 +125,9 @@ Trial 2: 100.53 s = 9.947 microL/s
 - set the base width by sliding the strings apart the appropriate distance
 - Starting with the strings touching, observe how the water flows. Gradually increase the angle between the strings until they don't interact with each other.
 
+**Observations:** at such a low flow rate, the water always remained on the string and did not flow between the two strings.
 
+**Conclusion:** The flow rate is much more important than the angle between two strings in determining whether water will stay on an individual string or travel between 2 strings.
 
-
-
-18 loopy yarn strings can fit in 1 cm
+Summer 2019 Symposium material ends here
+____________________________________________
