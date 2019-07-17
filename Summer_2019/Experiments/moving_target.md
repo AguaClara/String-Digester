@@ -52,6 +52,4 @@ Turbulence and bubbles were created in the water column by aiming the peristalti
 **Conclusions:**
 Submerging the peristaltic pump tubing increased the impact location precision. Above the water, the impact location was limited to a 10 mm radius circle, while submerged it was limited to a 5 mm radius circle. Additionally, this difference in precision may be caused by turbulence and air bubbles in the water column.
 
-### Experiment 1.2
-
-**Goal:**
+**Edit: (7/17/19)** A flow accumulator was added after the peristaltic pump. And water was again sprayed on the 'target'. For this trial the water stayed within the 5 mm radius circle. Therefore the peristaltic pump did not improve the impact location consistency.
