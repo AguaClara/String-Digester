@@ -43,9 +43,30 @@ Determine if preferential flow is occurring
 - Observe how the red dye flows down the strings for 5 min, making sure that the only water flowing down the strings is from the spray at the top of the model
 - Stop peristaltic pump
 - Label each row 1-11 (from outermost to closest to wood) and the strings on each row 1-17 (left to right)
-- Move rows of strings outward on the rods one at a time to observe the amount of red dye on individual strings
+- Move rows of strings outward on the rods one at a time to observe the amount of red dye on individual strings. Place white sheet of paper behind each row for better observation
+- once observations have been recorded about each row, remove it from the matrix entirely to get it out of the way. Wipe rods down with a paper towel in between rows to avoid contamination.
 - Record the degree of flow down each string in a table with one of the following descriptions: No flow (no red dye on string); Partial flow (red dye on part of the string); or Flow (red dye on entire length of string)
 - If it is possible to see different concentrations of red dye (lighter for less flow down a string and darker for more flow), record this as well
 
 **Results**
-| 
+0 = No flow
+1 = Partial flow
+2 = Flow
+
+The following grid describes the amount of dye on each string viewed from the bottom of the string matrix ie. rows moving towards the plywood, and columns moving from left to right
+
+**note: pictures for rows 1,4, and 11 are missing**
+
+||1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|
+|**2**|2|2|2|2|2|2|2|2|2|2|2|1|1|1|1|1|2|
+|**3**|2|2|2|2|2|2|2|2|2|1|1|1|0|0|0|1|1|
+|**4**|2|2|2|2|2|2|2|2|2|1|1|1|1|0|0|1|0|
+|**5**|2|2|2|2|2|1|1|2|2|1|1|0|0|0|0|0|0|
+|**6**|2|2|2|2|2|2|2|1|1|0|0|0|0|0|0|0|0|
+|**7**|2|2|2|2|2|1|1|1|1|1|1|1|1|0|0|0|0|
+|**8**|2|2|2|2|1|2|1|0|0|1|1|2|1|1|1|0|0|
+|**9**|2|2|2|2|1|1|0|1|0|1|0|1|1|0|0|0|0|
+|**10**|2|2|2|2|1|1|0|0|0|0|0|0|0|0|0|0|
+|**11**|1|1|2|1|1|1|0|0|0|1|1|1|0|1|1|1|
