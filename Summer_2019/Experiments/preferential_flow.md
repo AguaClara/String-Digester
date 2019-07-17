@@ -49,12 +49,13 @@ Determine if preferential flow is occurring
 - If it is possible to see different concentrations of red dye (lighter for less flow down a string and darker for more flow), record this as well
 
 **Results**
+Pictures of the string matrix were taken several times during the experiment.
+
+The following grid describes the amount of red dye on each string. The bolded numbers indicate a row and a column as viewed from the bottom of the string matrix ie. rows moving towards the plywood, and columns moving from left to right
+
 0 = No flow
 1 = Partial flow
 2 = Flow
-
-The following grid describes the amount of dye on each string viewed from the bottom of the string matrix ie. rows moving towards the plywood, and columns moving from left to right
-
 **note: pictures for rows 1,4, and 11 are missing**
 
 ||1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|
@@ -68,5 +69,9 @@ The following grid describes the amount of dye on each string viewed from the bo
 |**7**|2|2|2|2|2|1|1|1|1|1|1|1|1|0|0|0|0|
 |**8**|2|2|2|2|1|2|1|0|0|1|1|2|1|1|1|0|0|
 |**9**|2|2|2|2|1|1|0|1|0|1|0|1|1|0|0|0|0|
-|**10**|2|2|2|2|1|1|0|0|0|0|0|0|0|0|0|0|
-|**11**|1|1|2|1|1|1|0|0|0|1|1|1|0|1|1|1|
+|**10**|2|2|2|2|1|1|0|0|0|0|0|0|0|0|0|0|NA|
+|**11**|1|1|2|1|1|1|0|0|0|1|1|1|0|1|1|1|NA|
+
+The last data point was not recorded for rows 10 and 11 by accident.
+
+There is a clear trend moving from left to right (columns 1-17) across the string matrix. All strings in the first 4 columns (besides in row 11) showed flow on the entire length of the string. In contrast, the right side of the matrix contained a high concentration of strings that showed partial flow or no flow at all. 
