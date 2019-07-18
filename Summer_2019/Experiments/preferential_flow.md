@@ -27,7 +27,7 @@ There was no visually distinguishable difference in color between the three stri
 Determine if preferential flow occurs when water is sprayed on the string matrix.
 
 **Materials:**
-- Current experimental apparatus set up with half-spoon deflector plate
+- Current experimental apparatus set up with half-spoon deflector plate (for a spray width ~ 3-4 cm wide)
 - Red dye (exact concentration not important)
 - Large bucket for holding diluted dye solution
 - Piece of plastic to stop extra water from dripping on the strings
@@ -81,6 +81,10 @@ There is a clear trend moving from left to right (columns 1-17) across the strin
 **Goal:** Determine if preferential flow can be reduced by creating a flatter surface for the water spray to land on.
 
 The subteam created a flatter wall of strings by adding a third main rod above the string matrix, in between the two that were already there. Additionally, the rods were moved farther away from the matrix to minimize the difference in angle between strings on the left and right sides of the matrix. To clarify, strings on the right hang practically vertical (angle ~ 0), whereas strings on the left hang are pulled away from the vertical (about 30 degrees. need to actually measure this number!).
+
+Note that this time, the strings were wrapped a lot tighter and flatter so that overlapping was extremely minimal. This meant that the same number of strings (160 strings) took up 8 cm of space on the rod instead of 3.5 cm. Therefore a wider spray was needed to apply water to the strings evenly, and this could not be achieved using the half plastic spoon.
+
+The strings were squished down so that they only covered 6.5 cm of the main rod. A ladle was obtained and the tip was cut off so that it's widest part was also 6.5 cm wide. 
 
 The subteam repeated the procedure from experiment 1.2 using this new rod layout, and the results of experiment 1.2 and 1.3 were compared.
 
