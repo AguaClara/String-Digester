@@ -88,7 +88,7 @@ The subteam repeated the procedure from experiment 1.2 using this new rod layout
 
 **Results:**
 
-**Trial 1:**
+### Trial 1:
 
 The following grid describes the amount of red dye on each string. The bolded numbers indicate a row and a column as viewed from the bottom of the string matrix ie. rows moving towards the plywood, and columns moving from left to right
 
@@ -112,9 +112,12 @@ The following grid describes the amount of red dye on each string. The bolded nu
 
 In this trial, very little water actually ran down the strings. Instead, it collected and dripped off of the first (the lowest) main rod in a continuous stream. Two videos on github show this behavior. This led to most strings having very little or no color at all by the end of the 5 minute experiment. Comparatively, in experiment 1.2, the majority of the strings were a dark pink shade and it was easy to distinguish the strings that did not receive water from those that did.
 
-The subteam decided to repeat this experiment to determine if there was a human error in experimental setup or if the new rod design is not feasible. One hypothesis is that with the new rod design and a flow rate >> 10 microL/s (150 RPM), the strings cannot distribute the water as fast as it is sprayed, and therefore it drips through the wall of strings and onto the table. A potential solution is to decrease the flow rate and test the apparatus at a smaller scale.
+The subteam decided to repeat this experiment to determine if there was a human error in experimental setup or if the new rod design is not feasible. One hypothesis is that with the new rod design and a flow rate >> 10 microL/s (150 RPM), the strings cannot distribute the water as fast as it is sprayed, and therefore it drips through the wall of strings and onto the table. A potential solution is to decrease the flow rate and test the apparatus at a smaller scale, with the strings being in a monolayer, not allowed to overlap at all.
 
-**Trial 2:**
+### Trial 2:
+The width of the strings on the rod was again condensed to 4.5 cm. (so the strings were still overlapping somewhat)
+
+This test was run for about 7 minutes. Additionally the rightmost string in each row was ignored, because every time the matrix is wrapped it ends up being very loose.
 
 The following grid describes the amount of red dye on each string. The bolded numbers indicate a row and a column as viewed from the bottom of the string matrix ie. rows moving towards the plywood, and columns moving from left to right
 
@@ -122,16 +125,59 @@ The following grid describes the amount of red dye on each string. The bolded nu
 1 = Partial flow;
 2 = Flow;
 
-||1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|**1**|
-|**2**|
-|**3**|
-|**4**|
-|**5**|
-|**6**|
-|**7**|
-|**8**|
-|**9**|
-|**10**|
-|**11**|
+||1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|
+|**2**|2|2|2|2|2|1|1|2|2|1|2|2|2|2|2|2|
+|**3**|2|2|2|2|2|2|2|2|1|1|1|1|2|2|2|2|
+|**4**|2|2|2|2|2|1|1|2|2|0|1|1|1|2|2|0|
+|**5**|2|2|2|2|2|1|1|1|1|0|0|0|0|0|2|0|
+|**6**|2|2|2|2|2|2|2|1|1|1|2|2|2|2|1|1|
+|**7**|2|2|2|2|2|2|2|2|2|2|2|2|2|1|2|2|
+|**8**|2|2|2|2|2|2|2|1|1|2|2|2|2|2|2|2|
+|**9**|2|2|2|2|2|2|1|1|2|0|1|2|2|2|2|2|
+|**10**|2|2|2|2|2|2|1|0|0|0|0|1|1|2|1|1|
+|**11**|2|2|2|2|2|2|1|1|2|1|1|1|1|1|1|1|
+
+The location of zeros and ones is also to the right and middle, similarly to Experiment 1.2. However, there are noticeably fewer of them in total. This suggests that the new design may have promoted a more even flow pattern. However, more trials would be needed to confirm whether the design actually distributes water evenly.
+
+### Trial 3:
+
+July 22, 2019
+
+**Adjustments to Experimental Procedure**
+Before Trial 3 began all of the strings were wetted very thoroughly (by running the apparatus with clean water for several minutes while dumping buckets of water onto the top of the strings) to eliminate the variable of surface tension. To clarify, in previous trials, the apparatus was only run with clean water before red dye was introduced. This may have encouraged preferential pathways to form since not all of the strings were necessarily coated evenly with water. Then when the red dye was introduced, surface tension may have pulled the water preferentially onto strings that were already wet.
+
+The width of the strings on the rod was unknown at the start of trial 3. This introduced an unwanted variable in the subteam's results, since the strings may have been slightly more spread out in this trial than previous trials.
+
+This test was run for about 7 minutes. Additionally the rightmost string in each row was ignored, because every time the matrix is wrapped it ends up being very loose.
+
+**Observations & Results:**
+
+The spray for this trial was a little off center. It sprayed more on strings that were closer to the front of the matrix, rather than strings that were closer to the plywood. Additionally, large droplets were observed flowing down many strings (video on github). This indicates that the flow rate used in these experiments was too high (>> 10 microL/s), and therefore the observed behavior may differ from what would occur in an actual trickling filter.
+
+The following grid describes the amount of red dye on each string. The bolded numbers indicate a row and a column as viewed from the bottom of the string matrix ie. rows moving towards the plywood, and columns moving from left to right
+
+0 = No flow;
+1 = Partial flow;
+2 = Flow;
+
+||1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|
+|**2**|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|
+|**3**|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|
+|**4**|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|
+|**5**|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|
+|**6**|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|
+|**7**|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|
+|**8**|2|2|2|2|2|2|2|2|2|2|2|1|2|2|2|2|
+|**9**|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|
+|**10**|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|
+|**11**|2|2|2|2|1|1|1|1|1|1|2|2|2|1|1|1|
+
+**Conclusions:** Almost all of the strings showed water flow down the entire string. The main exception is the last row of strings that was close to the plywood. The lack of water flow here could be attributed to the off-centered spray pattern, which favored the front of the string matrix. The experiment could be improved by decreasing the flow rate used for testing. The subteam will continue wetting the strings thoroughly before subsequent trials to ensure that the surface tension of water affects all strings the same on average.
+
+### Trial 4:
+
+In the last trial, there was ambiguity as to whether having the strings more spread out helped distribute the water more evenly among strings. The subteam decided to set up an experiment in which the wall of strings was made extremely flat by packing the strings as tightly as possible without allowing for ANY overlapping. This resulted in a string density of **? strings/cm rod as previously calculated.** **measure this number** The number of strings and flow rate was also scaled down to mimic conditions that would be more realistic for a string digester implemented in a community.
