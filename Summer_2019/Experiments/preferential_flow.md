@@ -82,9 +82,7 @@ There is a clear trend moving from left to right (columns 1-17) across the strin
 
 The subteam created a flatter wall of strings by adding a third main rod above the string matrix, in between the two that were already there. Additionally, the rods were moved farther away from the matrix to minimize the difference in angle between strings on the left and right sides of the matrix. To clarify, strings on the right hang practically vertical (angle ~ 0), whereas strings on the left hang are pulled away from the vertical (about 30 degrees. need to actually measure this number!).
 
-Note that this time, the strings were wrapped a lot tighter and flatter so that overlapping was extremely minimal. This meant that the same number of strings (160 strings) took up 8 cm of space on the rod instead of 3.5 cm. Therefore a wider spray was needed to apply water to the strings evenly, and this could not be achieved using the half plastic spoon.
-
-The strings were squished down so that they only covered 6.5 cm of the main rod. A ladle was obtained and the tip was cut off so that it's widest part was also 6.5 cm wide. 
+Note that this time, the strings were wrapped a lot tighter and flatter so that overlapping was extremely minimal. This meant that the same number of strings (160 strings) took up 4.5 cm of space on the rod instead of 3.5 cm. The spoon was centered on the line of strings, and therefore the strings on either end of the rod may have received less water due to the small spray width.
 
 The subteam repeated the procedure from experiment 1.2 using this new rod layout, and the results of experiment 1.2 and 1.3 were compared.
 
@@ -97,9 +95,9 @@ The following grid describes the amount of red dye on each string. The bolded nu
 
 ||1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|**1**||||||||||||||||||
-|**2**||||||||||||||||||
-|**3**||||||||||||||||||
+|**1**|2|2|2|0|0|0|0|0|0|0|1|2|1|2|2|2|2|
+|**2**|1|1|1|0|0|0|0|0|0|0|1|1|0|1|1|1|1|
+|**3**|1|2|1|0|0|0|0|0|0|0|1|0|0|0|0|0|0    |
 |**4**||||||||||||||||||
 |**5**||||||||||||||||||
 |**6**||||||||||||||||||
