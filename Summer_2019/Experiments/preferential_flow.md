@@ -112,4 +112,26 @@ The following grid describes the amount of red dye on each string. The bolded nu
 
 In this trial, very little water actually ran down the strings. Instead, it collected and dripped off of the first (the lowest) main rod in a continuous stream. Two videos on github show this behavior. This led to most strings having very little or no color at all by the end of the 5 minute experiment. Comparatively, in experiment 1.2, the majority of the strings were a dark pink shade and it was easy to distinguish the strings that did not receive water from those that did.
 
-The subteam decided to repeat this experiment to determine if there was a human error in experimental setup or if the new rod design is not feasible. One hypothesis is that with the new rod design and a flow rate >> 10 microL/s (150 RPM), the strings cannot distribute the water as fast as it is sprayed, and therefore it drips through the wall of strings and onto the table. A potential solution is to decrease the flow rate and test the apparatus at a smaller scale. 
+The subteam decided to repeat this experiment to determine if there was a human error in experimental setup or if the new rod design is not feasible. One hypothesis is that with the new rod design and a flow rate >> 10 microL/s (150 RPM), the strings cannot distribute the water as fast as it is sprayed, and therefore it drips through the wall of strings and onto the table. A potential solution is to decrease the flow rate and test the apparatus at a smaller scale.
+
+**Trial 2:**
+
+The following grid describes the amount of red dye on each string. The bolded numbers indicate a row and a column as viewed from the bottom of the string matrix ie. rows moving towards the plywood, and columns moving from left to right
+
+0 = No flow;
+1 = Partial flow;
+2 = Flow;
+
+||1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|
+|**2**|
+|**3**|
+|**4**|
+|**5**|
+|**6**|
+|**7**|
+|**8**|
+|**9**|
+|**10**|
+|**11**|
