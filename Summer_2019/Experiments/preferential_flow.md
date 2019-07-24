@@ -43,9 +43,8 @@ Determine if preferential flow occurs when water is sprayed on the string matrix
 - Observe how the red dye flows down the strings, making sure that the only water flowing down the strings is from the spray at the top of the model
 - Stop peristaltic pump when the container of dye is empty, after approximately 5 min.
 - Label each row 1-11 (from outermost to closest to wood) and the strings on each row 1-17 (left to right)
-- Move rows of strings outward on the rods one at a time to observe the amount of red dye on individual strings. Place white sheet of paper behind each row for better observation
-- once observations have been recorded about each row, remove it from the matrix entirely to get it out of the way. Wipe rods down with a paper towel in between rows to avoid contamination.
-- Record the degree of flow down each string in a table with one of the following descriptions: No flow (no red dye on string); Partial flow (red dye on part of the string); or Flow (red dye on entire length of string)
+- Place a white sheet of paper or plastic behind the outermost layer of strings and record the amount of red dye on each string in a table with one of the following descriptions: No flow (no red dye on string); Partial flow (red dye on part of the string); or Flow (red dye on entire length of string)
+- Once observations have been recorded for a layer of strings, unwind that layer to get it out of the way.
 - If it is possible to see different concentrations of red dye (lighter for less flow down a string and darker for more flow), record this as well
 
 **Results**
@@ -82,7 +81,7 @@ There is a clear trend moving from left to right (columns 1-17) across the strin
 
 The subteam created a flatter wall of strings by adding a third main rod above the string matrix, in between the two that were already there. Additionally, the rods were moved farther away from the matrix to minimize the difference in angle between strings on the left and right sides of the matrix. To clarify, strings on the right hang practically vertical (angle ~ 0), whereas strings on the left hang are pulled away from the vertical (about 30 degrees. need to actually measure this number!).
 
-Note that this time, the strings were wrapped a lot tighter and flatter so that overlapping was extremely minimal. This meant that the same number of strings (160 strings) took up 4.5 cm of space on the rod instead of 3.5 cm. The spoon was centered on the line of strings, and therefore the strings on either end of the rod may have received less water due to the small spray width.
+Note that this time, the strings were wrapped a lot tighter and flatter to reduce overlapping. This meant that the same number of strings (160 strings) took up 4.5 cm of space on the rod instead of 3.5 cm. The spoon was centered on the line of strings, and therefore the strings on either end of the rod may have received less water due to the small spray width.
 
 The subteam repeated the procedure from experiment 1.2 using this new rod layout, and the results of experiment 1.2 and 1.3 were compared.
 
@@ -117,7 +116,7 @@ The subteam decided to repeat this experiment to determine if there was a human 
 ### Trial 2:
 The width of the strings on the rod was again condensed to 4.5 cm. (so the strings were still overlapping somewhat)
 
-This test was run for about 7 minutes. Additionally the rightmost string in each row was ignored, because every time the matrix is wrapped it ends up being very loose.
+This test was run for about 7 minutes. Additionally the rightmost string in each row was ignored, because every time the matrix is wrapped it ends up being very loose and the subteam decided not to use it.
 
 The following grid describes the amount of red dye on each string. The bolded numbers indicate a row and a column as viewed from the bottom of the string matrix ie. rows moving towards the plywood, and columns moving from left to right
 
@@ -178,6 +177,171 @@ The following grid describes the amount of red dye on each string. The bolded nu
 
 **Conclusions:** Almost all of the strings showed water flow down the entire string. The main exception is the last row of strings that was close to the plywood. The lack of water flow here could be attributed to the off-centered spray pattern, which favored the front of the string matrix. The experiment could be improved by decreasing the flow rate used for testing. The subteam will continue wetting the strings thoroughly before subsequent trials to ensure that the surface tension of water affects all strings the same on average.
 
-### Trial 4:
+### Trial 4 and Additional Notes
 
-In the last trial, there was ambiguity as to whether having the strings more spread out helped distribute the water more evenly among strings. The subteam decided to set up an experiment in which the wall of strings was made extremely flat by packing the strings as tightly as possible without allowing for ANY overlapping. This resulted in a string density of **? strings/cm rod as previously calculated.** **measure this number** The number of strings and flow rate was also scaled down to mimic conditions that would be more realistic for a string digester implemented in a community.
+In the last trial, there was ambiguity as to whether having the strings more spread out helped distribute the water more evenly among strings. The subteam decided to set up an experiment in which the wall of strings was made extremely flat by packing the strings as tightly as possible without allowing for ANY overlapping. This resulted in a string density of 18 strings in 1.5 cm. The number of strings and flow rate was also scaled down to mimic conditions that would be more realistic for a string digester implemented in a community.
+
+Just some thoughts:
+18 strings at 10 microL/s = 180 microL/s = 0.180 mL/s
+or 18 strings at 20 microL/s = 360 microL/s = 0.360 mL/s
+
+We can achieve a small flow rate by using intermittent spraying.
+
+60 RPM gives about 4.80 mL/s per flowrate_string_ratios. In order to get a flow rate of 0.180 mL/s, we would need to wait 26.7 s between pulses of water.
+
+The matrix was round with 2 layers of 9 strings, working from left to right, for a total of 18 strings covering 1.5 cm of rod.
+The pump was set to 35.0 RPM, to achieve a spray small enough to cover only the width of the string wall.
+
+Initial testing with regular water showed large droplets of water streaming down the strings. This indicates that the flow rates being used are still way too high. Additionally, a much larger stream of water was seen going down the rightmost 2 strings, which was significantly bigger than an of the other strings. These two strings correspond to the two strings exactly in the 'trough' of the string wall. This behavior did not cease even when water was preferentially applied to the left or right side of the string wall, indicating that the string winding pattern itself is a cause for preferential flow. After the water spray hits the strings, it spreads out evenly when it comes in contact with the lowest main rod. However, after this point, the water is preferentially deflected towards the trough of the string wall.
+
+This trial was paused before adding red dye to make adjustments to the experimental methods.
+
+Question: The peaks and troughs of the winding pattern cause water to prefer the right side of the string matrix. Overlapping due to a high winding density prevents strings on the right side of the matrix from receiving water. Therefore, is there an optimal string density that allows all strings to receive an even amount of water?
+
+## Experiment 1.4
+
+**Goal:** Determine the relationship between the density of strings on the main rod, and the fraction of strings that receive water.
+
+**Independent Variable:** number of strings on the main rod (and therefore string density)
+- 18 strings/1.5 cm = 12 strings/cm
+- 27 strings/1.5 cm = 18 strings/cm
+- 36 Strings/1.5 cm = 24 strings/cm
+
+**Procedure:**
+- wrap the string matrix with the correct number of strings.
+- Measure the width of the line of strings at the top, middle, and bottom of the target area and adjust it to be 1.5 cm.
+- Use an eye dropper to repeatedly apply small amounts of water with red dye to the string target area
+  - moving from the front to the back, apply 5 evenly-spaced drops of water across the line of strings
+  - drop should be applied slowly enough that no large droplets are observed flowing down the strings.
+  - add a total of 11 pipette-fulls of water
+- record whether or not the string received water, rated on a scale of 0,1, or 2 as in experiments 1.2 and 1.3.
+- calculate the percentage of strings that received water for each trial (ie. labeled 1 or 2), and the percentage of strings that were completely covered in dye (ie. labeled 2 only)
+
+**Results and Observations:**
+
+### Trial 1.1
+**18 strings: 12 cm strings/cm**
+
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|1|2|2|2|2|2|2|2|2|2|
+|**2**|1|1|2|2|0|2|1|2|2|2|
+**17/18 = 94.4% received water;**
+**13/18 = 72.2% received full flow**
+
+### Trial 1.2
+**18 strings: 12 cm strings/cm**
+
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|0|0|0|1|1|2|2|2|2
+|**2**|0|0|0|0|1|2|2|1|2|
+**11/18 = 61.1% received water;**
+**7/18 = 38.9% received full flow**
+
+### Trial 1.3
+**18 strings: 12 cm strings/cm**
+
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|1|1|0|2|2|2|2|2|2|
+|**2**|1|1|1|1|2|2|2|2|2|
+**17/18 = 94.4% received water;**
+**11/18 = 61.1% received full flow**
+
+In all 3 trials, there were still some large water droplets that visibly ran down the strings.
+
+### Trial 2.1
+**27 strings/1.5 cm = 18 strings/cm**
+
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|2|2|2|2|2|2|2|2|2|
+|**2**|2|2|2|2|2|2|2|2|2|
+|**3**|1|0|2|2|2|2|1|1|2|
+**26/27 = 96.3% received water;**
+**23/27 = 85.2% received full flow**
+
+### Trial 2.2
+**27 strings/1.5 cm = 18 strings/cm**
+
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|0|0|0|1|1|2|2|2|2|
+|**2**|0|0|1|1|1|2|2|2|2|
+|**3**|0|1|1|1|1|1|1|2|2|
+**21/27 = 77.8% received water;**
+**10/27 = 37.0% received full flow**
+
+### Trial 2.3
+**27 strings/1.5 cm = 18 strings/cm**
+
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|0|1|2|2|2|2|2|1|2|
+|**2**|2|2|2|2|2|2|2|2|2|
+|**3**|1|2|2|2|2|2|2|1|1|
+**26/27 = 96.3% received water;**
+**21/27 = 77.8% received full flow**
+
+### Trial 2.4
+**27 strings/1.5 cm = 18 strings/cm**
+
+Starting in this trial, the water was always added in one direction starting from the outside and moving towards the plywood. In previous trials, red water was added in a back and forth motion.
+
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|0|1|2|2|2|2|2|2|1|
+|**2**|1|1|2|2|2|2|2|2|2|
+|**3**|1|1|1|1|1|2|1|1|1|
+**26/27 = 96.3% received water;**
+**14/27 = 51.9% received full flow**
+
+### Trial 2.5
+**27 strings/1.5 cm = 18 strings/cm**
+
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|1|2|2|2|2|2|2|2|2|
+|**2**|2|2|2|2|2|2|2|2|2|
+|**3**|1|1|1|1|1|1|2|1|1|
+**27/27 = 100% received water;**
+**18/27 = 66.7% received full flow**
+
+**Note: in row 1, strings number 3 and 9 were white (0) above the beads, but completely dyed (2) in the section of interest. This suggests that the water switched strings midway down, which could be due to a flow rate that is too high.**
+
+### Trial 3.1
+**36 strings/1.5 cm = 24 strings/cm**
+
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|0|1|2|2|2|2|2|2|2|
+|**2**|0|2|2|2|2|2|2|2|2|
+|**3**|1|1|1|2|2|2|2|1|1|
+|**4**|0|1|1|2|1|2|1|0|1|
+**32/36 = 89.9% received water;**
+**21/36 = 58.3% received full flow**
+
+### Trial 3.2
+**36 strings/1.5 cm = 24 strings/cm**
+
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|1|1|2|2|2|2|2|2|2|
+|**2**|1|1|2|2|2|2|2|2|2|
+|**3**|1|1|2|2|2|2|2|2|2|
+|**4**|1|1|1|2|2|2|2|0|1|
+**35/36 = 97.2% received water;**
+**25/36 = 69.4% received full flow**
+
+### Trial 3.3
+**36 strings/1.5 cm = 24 strings/cm**
+
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|0|1|2|2|2|2|2|2|2|
+|**2**|2|2|2|2|2|2|2|2|2|
+|**3**|1|2|2|2|2|2|2|2|2|
+|**4**|1|1|1|2|2|2|2|1|2|
+**35/36 = 97.2% received water;**
+**29/36 = 80.6% received full flow**
