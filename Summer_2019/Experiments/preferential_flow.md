@@ -220,7 +220,7 @@ Question: The peaks and troughs of the winding pattern cause water to prefer the
 **Results and Observations:**
 
 ### Trial 1.1
-**18 strings: 12 cm strings/cm**
+**18 strings: 12 strings/cm**
 
 ||1|2|3|4|5|6|7|8|9|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -230,7 +230,7 @@ Question: The peaks and troughs of the winding pattern cause water to prefer the
 **13/18 = 72.2% received full flow**
 
 ### Trial 1.2
-**18 strings: 12 cm strings/cm**
+**18 strings: 12 strings/cm**
 
 ||1|2|3|4|5|6|7|8|9|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -240,7 +240,7 @@ Question: The peaks and troughs of the winding pattern cause water to prefer the
 **7/18 = 38.9% received full flow**
 
 ### Trial 1.3
-**18 strings: 12 cm strings/cm**
+**18 strings: 12 strings/cm**
 
 ||1|2|3|4|5|6|7|8|9|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
