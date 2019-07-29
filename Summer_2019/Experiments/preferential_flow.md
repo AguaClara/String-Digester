@@ -345,3 +345,84 @@ Starting in this trial, the water was always added in one direction starting fro
 |**4**|1|1|1|2|2|2|2|1|2|
 **35/36 = 97.2% received water;**
 **29/36 = 80.6% received full flow**
+
+### Trial 4.1
+Note: Drops were added more slowly for the following trials, such that no large droplets were observed flowing between the strings.
+
+**45 strings/1.5 cm = 30 strings/cm**
+
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|1|2|2|2|2|2|2|2|2|
+|**2**|1|2|2|2|2|2|2|2|2|
+|**3**|2|2|2|2|2|2|2|2|1|
+|**4**|1|2|2|2|2|2|2|2|2|
+|**5**|2|2|2|2|2|2|2|2|2|
+**45/45 = 100% received water;**
+**41/45 = 91.1% received full flow**
+
+### Trial 4.2
+
+**45 strings/1.5 cm = 30 strings/cm**
+
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|1|2|2|2|2|2|2|2|1|
+|**2**|2|2|2|2|2|2|2|2|1|
+|**3**|2|2|2|2|2|2|2|2|2|
+|**4**|1|2|2|2|2|2|2|2|1|
+|**5**|2|2|2|2|2|2|2|2|2|
+**45/45 = 100% received water;**
+**40/45 = 88.9% received full flow**
+
+### Trial 5.1
+**45 strings/2.0 cm = 22.5 strings/cm**
+
+**Notes:** the length of strings on the rod was not adjust properly to 1.5 cm before the trial began, leading to the differing string density. Water barely flowed down the strings at all during this trial. ie. it did not even make it to the beads/small rods on the majority of the strings.
+
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|0|0|0|0|0|2|1|1|0|
+|**2**|0|0|0|1|1|1|1|1|1|
+|**3**|0|0|0|0|2|1|1|1|1|
+|**4**|0|0|0|1|1|2|1|0|2|
+|**5**|0|0|1|1|2|2|2|1|2|
+**26/45 = 57.8% received water;**
+**8/45 = 17.8% received full flow**
+
+## Experiment 1.5
+
+**Goal:** Introduce an alternative method for comparing water flow down each string
+
+**Description:** An alternative method was used to observe preferential flow in the string matrix. For this procedure, a high concentration of red dye was applied to the string target area and about 5 mL of water was added above it using a pipette. Pictures were taken to record the subsequent pattern of red dye that flowed down the strings.
+
+### Procedure:
+- wind string matrix with 5 rows of 9 strings (ie. using 5 beads on 9 pairs of rods) leaving the remaining rods and beads empty
+- For Trial 1, compress the width of the strings on the main rod to 2 cm, and for Trial 2 and Trial 3 compress it to 1.5 cm
+- pour water over the string matrix until all strings are thoroughly wet
+- add 5-6 drops of highly concentrated red dye (40 g/mL) to the bottom of the target area of the Strings
+- apply 5 mL of water to the string target area **above** the location of the red dye with a clean pipette. Disperse 5 drops at a time across the target area, moving from the outer end of the rods towards the plywood.
+- observe the subsequent flow of dye down the strings and take pictures of the resulting dye pattern
+
+### Results and Observations
+
+**Trial 1:**
+about 3 mL applied in 1 min 27 sec = 0.0575 mL/s overall = 1.28 microL/s per string. width of strings on rod is 2 cm. 45 strings total = 22.5 strings/cm
+
+**Trial 2:**
+String width returned to 1.5 cm and trial 1 procedure repeated. 6 drops dye applied. drops added too fast, one large drop created large red streak between to strings in middle-front of matrix as seen in initial photos on github. Later on in the trial, another large drop travelled down the same string as before.
+
+**Trial 3:**
+A large drop followed the same string as in Trial 2 almost immediately after the trial began.
+
+### Conclusions:
+
+**Below to be edited:**
+(In all trials, some strings had red dye present at the bottom of the string matrix, that did not have water run down its entire length had red dye present at the bottom of the string matrix.
+there was a gap
+some strings
+Figure _ shows the pattern of red dye on the string matrix in Trial _ . A gap
+The red dye did not follow a continuous pattern down one string.)
+
+
+In all trials, strings in between the beads showed red dye, even when the water had not actually travelled all of the way down that particular string. This indicates that large droplets of water must be hopping from string to string. The subteam hypothesized that the beaded rods were the cause of this string switching. In some of the pictures on github, there is a very clear line where some of the strings are white above the beads, and red below the beads. The subteam did not measure the actual distance that water travelled down each string and this may be the next step if it is not too logistically difficult.
