@@ -401,7 +401,7 @@ Note: Drops were added more slowly for the following trials, such that no large 
 - For Trial 1, compress the width of the strings on the main rod to 2 cm, and for Trial 2 and Trial 3 compress it to 1.5 cm
 - pour water over the string matrix until all strings are thoroughly wet
 - add 5-6 drops of highly concentrated red dye (40 g/mL) to the bottom of the target area of the Strings
-- apply 5 mL of water to the string target area **above** the location of the red dye with a clean pipette. Disperse 5 drops at a time across the target area, moving from the outer end of the rods towards the plywood.
+- apply 5 mL of water to the string target area *above* the location of the red dye with a clean pipette. Disperse 5 drops at a time across the target area, moving from the outer end of the rods towards the plywood.
 - observe the subsequent flow of dye down the strings and take pictures of the resulting dye pattern
 
 ### Results and Observations
@@ -416,13 +416,4 @@ String width returned to 1.5 cm and trial 1 procedure repeated. 6 drops dye appl
 A large drop followed the same string as in Trial 2 almost immediately after the trial began.
 
 ### Conclusions:
-
-**Below to be edited:**
-(In all trials, some strings had red dye present at the bottom of the string matrix, that did not have water run down its entire length had red dye present at the bottom of the string matrix.
-there was a gap
-some strings
-Figure _ shows the pattern of red dye on the string matrix in Trial _ . A gap
-The red dye did not follow a continuous pattern down one string.)
-
-
 In all trials, strings in between the beads showed red dye, even when the water had not actually travelled all of the way down that particular string. This indicates that large droplets of water must be hopping from string to string. The subteam hypothesized that the beaded rods were the cause of this string switching. In some of the pictures on github, there is a very clear line where some of the strings are white above the beads, and red below the beads. The subteam did not measure the actual distance that water travelled down each string and this may be the next step if it is not too logistically difficult.
