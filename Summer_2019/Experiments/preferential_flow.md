@@ -217,9 +217,12 @@ Question: The peaks and troughs of the winding pattern cause water to prefer the
 - record whether or not the string received water, rated on a scale of 0,1, or 2 as in experiments 1.2 and 1.3.
 - calculate the percentage of strings that received water for each trial (ie. labeled 1 or 2), and the percentage of strings that were completely covered in dye (ie. labeled 2 only)
 
+note: names indicate who applied water to matrix
+
 **Results and Observations:**
 
 ### Trial 1.1
+Madeline
 **18 strings: 12 strings/cm**
 
 ||1|2|3|4|5|6|7|8|9|
@@ -230,6 +233,7 @@ Question: The peaks and troughs of the winding pattern cause water to prefer the
 **13/18 = 72.2% received full flow**
 
 ### Trial 1.2
+Madeline
 **18 strings: 12 strings/cm**
 
 ||1|2|3|4|5|6|7|8|9|
@@ -240,6 +244,7 @@ Question: The peaks and troughs of the winding pattern cause water to prefer the
 **7/18 = 38.9% received full flow**
 
 ### Trial 1.3
+Madeline
 **18 strings: 12 strings/cm**
 
 ||1|2|3|4|5|6|7|8|9|
@@ -251,7 +256,30 @@ Question: The peaks and troughs of the winding pattern cause water to prefer the
 
 In all 3 trials, there were still some large water droplets that visibly ran down the strings.
 
+### Trial 1.4
+8/5/19
+**18 strings: 12 strings/cm**
+
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|0|0|2|2|2|2|2|1|1|
+|**2**|0|0|1|2|2|2|2|1|1|
+**14/18 = 77.8% received water;**
+**9/18 = 64.3% received full flow**
+
+### Trial 1.5
+8/5/19
+**18 strings: 12 strings/cm**
+
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|0|1|2|2|2|2|2|2|2|
+|**2**|0|0|1|2|2|2|2|2|2|
+**15/18 = 83.3% received water;**
+**13/18 = 72.2% received full flow**
+
 ### Trial 2.1
+Madeline
 **27 strings/1.5 cm = 18 strings/cm**
 
 ||1|2|3|4|5|6|7|8|9|
@@ -263,6 +291,7 @@ In all 3 trials, there were still some large water droplets that visibly ran dow
 **23/27 = 85.2% received full flow**
 
 ### Trial 2.2
+Madeline
 **27 strings/1.5 cm = 18 strings/cm**
 
 ||1|2|3|4|5|6|7|8|9|
@@ -274,6 +303,7 @@ In all 3 trials, there were still some large water droplets that visibly ran dow
 **10/27 = 37.0% received full flow**
 
 ### Trial 2.3
+Madeline
 **27 strings/1.5 cm = 18 strings/cm**
 
 ||1|2|3|4|5|6|7|8|9|
@@ -285,6 +315,7 @@ In all 3 trials, there were still some large water droplets that visibly ran dow
 **21/27 = 77.8% received full flow**
 
 ### Trial 2.4
+Madeline
 **27 strings/1.5 cm = 18 strings/cm**
 
 Starting in this trial, the water was always added in one direction starting from the outside and moving towards the plywood. In previous trials, red water was added in a back and forth motion.
@@ -298,6 +329,7 @@ Starting in this trial, the water was always added in one direction starting fro
 **14/27 = 51.9% received full flow**
 
 ### Trial 2.5
+Madeline
 **27 strings/1.5 cm = 18 strings/cm**
 
 ||1|2|3|4|5|6|7|8|9|
@@ -311,6 +343,7 @@ Starting in this trial, the water was always added in one direction starting fro
 **Note: in row 1, strings number 3 and 9 were white (0) above the beads, but completely dyed (2) in the section of interest. This suggests that the water switched strings midway down, which could be due to a flow rate that is too high.**
 
 ### Trial 3.1
+Madeline
 **36 strings/1.5 cm = 24 strings/cm**
 
 ||1|2|3|4|5|6|7|8|9|
@@ -323,6 +356,7 @@ Starting in this trial, the water was always added in one direction starting fro
 **21/36 = 58.3% received full flow**
 
 ### Trial 3.2
+Madeline
 **36 strings/1.5 cm = 24 strings/cm**
 
 ||1|2|3|4|5|6|7|8|9|
@@ -335,6 +369,7 @@ Starting in this trial, the water was always added in one direction starting fro
 **25/36 = 69.4% received full flow**
 
 ### Trial 3.3
+Madeline
 **36 strings/1.5 cm = 24 strings/cm**
 
 ||1|2|3|4|5|6|7|8|9|
@@ -346,9 +381,36 @@ Starting in this trial, the water was always added in one direction starting fro
 **35/36 = 97.2% received water;**
 **29/36 = 80.6% received full flow**
 
-### Trial 4.1
-Note: Drops were added more slowly for the following trials, such that no large droplets were observed flowing between the strings.
+### Trial 3.4
+8/5/19
+Madeline
+**36 strings/1.5 cm = 24 strings/cm**
 
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|2|2|2|2|2|2|2|2|2|
+|**2**|2|2|2|2|2|2|2|2|1|
+|**3**|2|2|2|2|2|2|2|2|1|
+|**4**|1|1|1|2|2|1|2|2|2|
+**36/36 = 100% received water;**
+**30/36 = 83.3% received full flow**
+
+### Trial 3.5
+8/5/19
+Madeline
+**36 strings/1.5 cm = 24 strings/cm**
+
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|0|2|2|2|2|2|2|2|1|
+|**2**|1|2|2|2|2|2|2|2|0|
+|**3**|2|2|2|1|2|2|2|2|1|
+|**4**|1|1|2|2|2|2|2|1|0|
+**33/36 = 91.7% received water;**
+**26/36 = 72.2% received full flow**
+
+### Trial 4.1
+Emily
 **45 strings/1.5 cm = 30 strings/cm**
 
 ||1|2|3|4|5|6|7|8|9|
@@ -362,7 +424,7 @@ Note: Drops were added more slowly for the following trials, such that no large 
 **41/45 = 91.1% received full flow**
 
 ### Trial 4.2
-
+Emily
 **45 strings/1.5 cm = 30 strings/cm**
 
 ||1|2|3|4|5|6|7|8|9|
@@ -374,6 +436,49 @@ Note: Drops were added more slowly for the following trials, such that no large 
 |**5**|2|2|2|2|2|2|2|2|2|
 **45/45 = 100% received water;**
 **40/45 = 88.9% received full flow**
+
+8/5/19
+### Trial 4.3
+Madeline - first trial of the day
+**45 strings/1.5 cm = 30 strings/cm**
+
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|0|0|2|0|1|0|2|2|2|
+|**2**|1|0|2|1|0|0|2|2|2|
+|**3**|1|0|0|0|1|1|2|2|2|
+|**4**|1|1|0|0|1|0|0|2|2|
+|**5**|2|0|2|0|0|0|0|2|2|
+**26/45 = 57.8% received water;**
+**17/45 = 37.8% received full flow**
+
+### Trial 4.4
+Emily
+**45 strings/1.5 cm = 30 strings/cm**
+
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|2|2|2|2|2|1|1|1|1|
+|**2**|2|2|2|2|2|2|2|2|2|
+|**3**|2|2|2|2|2|2|2|2|2|
+|**4**|2|2|2|0|2|1|2|2|2|
+|**5**|2|2|2|2|2|0|2|2|2|
+**43/45 = 95.6% received water;**
+**38/45 = 84.4% received full flow**
+
+### Trial 4.5
+Madeline
+**45 strings/1.5 cm = 30 strings/cm**
+
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|2|2|2|2|2|0|1|1|0|
+|**2**|2|2|2|2|2|1|1|2|2|
+|**3**|2|2|2|2|2|2|2|2|2|
+|**4**|1|2|2|2|2|2|2|2|1|
+|**5**|1|1|1|2|2|2|2|2|0|
+**42/45 = 93.3% received water;**
+**33/45 = 73.3% received full flow**
 
 ### Trial 5.1
 **45 strings/2.0 cm = 22.5 strings/cm**
@@ -389,6 +494,83 @@ Note: Drops were added more slowly for the following trials, such that no large 
 |**5**|0|0|1|1|2|2|2|1|2|
 **26/45 = 57.8% received water;**
 **8/45 = 17.8% received full flow**
+
+### Trial 6.1
+
+**54 strings/1.5 cm = 36 strings/cm**
+
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|2|2|2|0|1|2|2|2|2|
+|**2**|1|2|2|2|2|2|2|2|2|
+|**3**|2|2|2|1|1|2|2|2|2|
+|**4**|1|1|1|2|2|2|2|2|1|
+|**5**|1|2|2|2|2|2|2|1|2|
+|**6**|0|1|1|1|1|2|2|2|2|
+**52/54 = 93.3% received water;**
+**38/54 = 70.37% received full flow**
+
+### Trial 6.2
+
+**54 strings/1.5 cm = 36 strings/cm**
+
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**|0|1|2|2|2|2|1|2|2|
+|**2**|0|2|2|2|2|2|2|2|2|
+|**3**|0|1|2|2|2|2|2|2|2|
+|**4**|1|2|2|2|2|2|2|2|2|
+|**5**|1|1|2|2|2|2|2|2|2|
+|**6**|0|1|2|2|2|2|1|1|1|
+**/54 = % received water;**
+**/54 = % received full flow**
+
+### Trial 6.3
+
+**54 strings/1.5 cm = 36 strings/cm**
+
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**||||||||||
+|**2**||||||||||
+|**3**||||||||||
+|**4**||||||||||
+|**5**||||||||||
+|**6**||||||||||
+**/54 = % received water;**
+**/54 = % received full flow**
+
+### Trial 6.4
+
+**54 strings/1.5 cm = 36 strings/cm**
+
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**||||||||||
+|**2**||||||||||
+|**3**||||||||||
+|**4**||||||||||
+|**5**||||||||||
+|**6**||||||||||
+**/54 = % received water;**
+**/54 = % received full flow**
+
+### Trial 6.5
+
+**54 strings/1.5 cm = 36 strings/cm**
+
+||1|2|3|4|5|6|7|8|9|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**1**||||||||||
+|**2**||||||||||
+|**3**||||||||||
+|**4**||||||||||
+|**5**||||||||||
+|**6**||||||||||
+**/54 = % received water;**
+**/54 = % received full flow**
+
+
 
 ## Experiment 1.5
 
