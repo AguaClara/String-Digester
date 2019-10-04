@@ -1,18 +1,18 @@
 # String Digester
 ## Team Members:
-Emily Wood (ew465)
+
+Valentina Dai
 
 Madeline Garell (mpg95)
 
-## Summer Goals
-Create a string digester prototype for preliminary testing and test water distribution system designs 
+Gaby Sibel 
 
 ## Links to Reports and Presentations
 
 ### Summer 2019 
-[Final Presentation] & [Slides]
+[Final Presentation] & [Slides](https://docs.google.com/presentation/d/1qYed8doNYheWGxKEbIMgJ7b4yRI0DbtjeyaPw02pEsw/edit)
 
-[Final Report]
+[Final Report](Summer_2019/StringDigester_Summer2019_FinalReport.ipynb)
 
 ### Spring 2019
 [Symposium Presentation](https://docs.google.com/presentation/d/1RNtv8RENQgUulZFASfJts5v38JhO5-mNMnPYy_5OBYM/edit?usp=sharing)
