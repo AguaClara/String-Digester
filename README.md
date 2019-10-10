@@ -21,7 +21,7 @@ Gaby Sibel
 
 [Final Presentation & Slides](https://docs.google.com/presentation/d/1qYed8doNYheWGxKEbIMgJ7b4yRI0DbtjeyaPw02pEsw/edit)
 
-[Final Report](Summer_2019/StringDigester_Summer2019_FinalReport.ipynb)
+[Final Report](https://github.com/AguaClara/String-Digester/blob/master/Summer_2019/StringDigester_Summer2019_FinalReport.ipynb)
 
 ### Spring 2019
 [Symposium Presentation](https://docs.google.com/presentation/d/1RNtv8RENQgUulZFASfJts5v38JhO5-mNMnPYy_5OBYM/edit?usp=sharing)
