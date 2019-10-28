@@ -10,7 +10,7 @@ Gaby Sibel
 ## Links to Reports and Presentations
 
 ### Fall 2019
-[Symposium Presentation]
+[Symposium Presentation](https://docs.google.com/presentation/d/1jdon59e8QAvsBqfxAYleNBPt8epKArGr2ep2EWYyyiY/edit?usp=sharing)
 
 [Final Presentation & Slides]
 
