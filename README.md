@@ -12,14 +12,14 @@ Gaby Sibel
 ### Fall 2019
 [Symposium Presentation](https://docs.google.com/presentation/d/1jdon59e8QAvsBqfxAYleNBPt8epKArGr2ep2EWYyyiY/edit?usp=sharing)
 
-[Final Presentation & Slides]
+[Final Presentation]
 
 [Final Report]
 
 ### Summer 2019 
 [Symposium Presentation](https://docs.google.com/presentation/d/1J6RoHf5dJT7V93GEjIrPcRxtLLJazRfmhD3nlitshNs/edit?usp=drive_web&ouid=101484361271742365917)
 
-[Final Presentation & Slides](https://docs.google.com/presentation/d/1qYed8doNYheWGxKEbIMgJ7b4yRI0DbtjeyaPw02pEsw/edit)
+[Final Presentation](https://docs.google.com/presentation/d/1qYed8doNYheWGxKEbIMgJ7b4yRI0DbtjeyaPw02pEsw/edit)
 
 [Final Report](https://github.com/AguaClara/String-Digester/blob/master/Summer_2019/StringDigester_Summer2019_FinalReport.ipynb)
 
