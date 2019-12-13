@@ -12,9 +12,7 @@ Gaby Sibel
 ### Fall 2019
 [Symposium Presentation](https://docs.google.com/presentation/d/1jdon59e8QAvsBqfxAYleNBPt8epKArGr2ep2EWYyyiY/edit?usp=sharing)
 
-[Final Presentation Slides](https://docs.google.com/presentation/d/1BofvJ9yJQYk4BHJEfhJP_mLRHSYiM21T6l31AJxYSIk/edit)
-
-[Final Presentation Video](https://www.youtube.com/watch?v=LDC1Aqpnajw&list=PLhsGtpY8ipdbPRIXbSapShc0mjhFR_Nzr&index=2&t=0s)
+[Final Presentation](https://www.youtube.com/watch?v=LDC1Aqpnajw&list=PLhsGtpY8ipdbPRIXbSapShc0mjhFR_Nzr&index=2&t=0s) & [Slides](https://docs.google.com/presentation/d/1BofvJ9yJQYk4BHJEfhJP_mLRHSYiM21T6l31AJxYSIk/edit)
 
 [Final Report](https://github.com/AguaClara/String-Digester/blob/master/StringDigester2019Fall_FinalReport.ipynb)
 
