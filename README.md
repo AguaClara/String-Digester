@@ -1,13 +1,18 @@
 # String Digester
 ## Team Members:
 
-Valentina Dai
-
 Madeline Garell (mpg95)
 
-Gaby Sibel 
+Shania Fang (sf449)
+
+Madeline Keep (mpk83)
+
+Adam Kulaczkowski (apk73)
 
 ## Links to Reports and Presentations
+
+### Spring 2020
+
 
 ### Fall 2019
 [Symposium Presentation](https://docs.google.com/presentation/d/1jdon59e8QAvsBqfxAYleNBPt8epKArGr2ep2EWYyyiY/edit?usp=sharing)
