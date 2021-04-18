@@ -1,15 +1,15 @@
 # String Digester
 ## Team Members:
 
-Madeline Garell (mpg95)
+Maya Shanti 
 
-Shania Fang (sf449)
+Jing-Shan Hsu (jh2226)
 
-Madeline Keep (mpk83)
-
-Adam Kulaczkowski (apk73)
+Nayal Zaidi
 
 ## Links to Reports and Presentations
+
+### Spring 2021
 
 ### Spring 2020
 
