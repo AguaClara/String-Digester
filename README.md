@@ -1,11 +1,11 @@
 # String Digester
 ## Team Members:
 
-Maya Shanti 
+Maya Shanti (ms2664)
 
 Jing-Shan Hsu (jh2226)
 
-Nayal Zaidi
+Nayal Zaidi (nz62)
 
 ## Links to Reports and Presentations
 
