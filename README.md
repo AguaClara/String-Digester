@@ -9,7 +9,12 @@ Nayal Zaidi (nz62)
 
 ## Links to Reports and Presentations
 
-### Spring 2021
+### Spring 20
+[Symposium Presentation](https://docs.google.com/presentation/d/12m6N_bKTFZgPbg_PImVqTwAQux4sGO28ky-EseCoO-4/edit?usp=sharing)
+
+[Final Presentation](https://docs.google.com/presentation/d/1-KHBRAH5-PsrR1pzdR-Y3dBbEPq2aWYpX6dUgSeKnC4/edit?usp=sharing)
+
+[Final Report](https://colab.research.google.com/drive/1fnSz-uj0K8EOCUCBqHxwP7pXrNaEqYOQ?usp=sharing)
 
 ### Spring 2020
 
