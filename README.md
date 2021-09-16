@@ -1,4 +1,8 @@
 # String Digester
+
+## Research Advisor:
+Ada Lian (al894)
+
 ## Team Members:
 
 Maya Shanti (ms2664)
