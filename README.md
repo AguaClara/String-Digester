@@ -5,8 +5,6 @@ Maya Shanti (ms2664)
 
 Jing-Shan Hsu (jh2226)
 
-Nayal Zaidi (nz62)
-
 ## Links to Reports and Presentations
 
 ### Spring 2021
