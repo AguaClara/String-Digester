@@ -13,6 +13,8 @@ Abby Kim (sk2459)
 
 ## Links to Reports and Presentations
 
+### Fall 2021
+
 ### Spring 2021
 [Symposium Presentation](https://docs.google.com/presentation/d/12m6N_bKTFZgPbg_PImVqTwAQux4sGO28ky-EseCoO-4/edit?usp=sharing)
 
