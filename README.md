@@ -7,7 +7,7 @@ Ada Lian (al894)
 
 Maya Shanti (ms2664)
 
-Jing-Shan Hsu (jh2226)
+Amber Hsu (jh2226)
 
 Abby Kim (sk2459)
 
