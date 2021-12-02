@@ -16,6 +16,11 @@ Josh De Leeuw (jmd496)
 ## Links to Reports and Presentations
 
 ### Fall 2021
+[Symposium Presentation](https://docs.google.com/presentation/d/1Ui0O-NFtttArClZgjWD8U8rYMNrkEH1QWmA1H-D2ZMg/edit)
+
+[Final Presentation] ()
+
+[Final Report] ()
 
 ### Spring 2021
 [Symposium Presentation](https://docs.google.com/presentation/d/12m6N_bKTFZgPbg_PImVqTwAQux4sGO28ky-EseCoO-4/edit?usp=sharing)
