@@ -5,11 +5,12 @@ Maya Shanti (ms2664)
 
 ## Team Members:
 
-Camden Wehrle (cw566)
+Sarah Bae (ssb238)
 
 Ruby Pascual (rp554)
 
-Sarah Bae (ssb238)
+Camden Wehrle (cw566)
+
 ## Links to Reports and Presentations
 
 ### Fall 2021
