@@ -1,18 +1,15 @@
 # String Digester
 
 ## Research Advisor:
-Ada Lian (al894)
+Maya Shanti (ms2664)
 
 ## Team Members:
 
-Amber Hsu (jh2226)
+Camden Wehrle (cw566)
 
-Abby Kim (sk2459)
+Ruby Pascual (rp554)
 
-Kelly Tran (kt457)
-
-Josh De Leeuw (jmd496)
-
+Sarah Bae (ssb238)
 ## Links to Reports and Presentations
 
 ### Fall 2021
