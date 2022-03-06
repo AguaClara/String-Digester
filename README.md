@@ -1,5 +1,5 @@
 # String Digester
-
+The string digester subteam seeks to design a tricking filter for secondary wastewater treatment in Aguaclara plants. The string digester is designed for efficiency and low-cost,  utilizing string as an effective filter media. 
 ## Research Advisor:
 Maya Shanti (ms2664)
 
