@@ -13,6 +13,9 @@ Camden Wehrle (cw566)
 
 ## Links to Reports and Presentations
 
+### Spring 2022
+[Symposium Presentation](https://docs.google.com/presentation/d/1l1DnAs_2-kWdDdsiC1xvgFKGaEL_YNEaQh9I9P7stgM/edit#slide=id.g11de8d58378_0_1)
+
 ### Fall 2021
 [Symposium Presentation](https://docs.google.com/presentation/d/1Ui0O-NFtttArClZgjWD8U8rYMNrkEH1QWmA1H-D2ZMg/edit)
 
