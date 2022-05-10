@@ -18,6 +18,8 @@ Camden Wehrle (cw566)
 
 [Final Presentation](https://drive.google.com/file/d/1pilAIUs05MUC9xrE4zM2PKrsjKMRv1cA/view?usp=sharing) & [Slides](https://docs.google.com/presentation/d/1LgWx44ZvsFk8DPdpZUcrEYIAWTUqDShK8xBdN9ziQHo/edit#slide=id.g346a079b2f_0_0)
 
+[Final Report](https://colab.research.google.com/drive/1F4OOslqjPZM5yopiu8IIhjEsBwizkaEW)
+
 ### Fall 2021
 [Symposium Presentation](https://docs.google.com/presentation/d/1Ui0O-NFtttArClZgjWD8U8rYMNrkEH1QWmA1H-D2ZMg/edit)
 
